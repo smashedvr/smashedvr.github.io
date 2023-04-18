@@ -22,6 +22,7 @@ PromptSage491,1
 QuinChimera,3
 RequiemV7,1
 RocaFlocaFlame,1
+SicParvisMagna,3
 StrawHatStream,1
 VΑLAC,3
 _Catw,1
