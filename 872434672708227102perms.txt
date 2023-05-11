@@ -25,6 +25,7 @@ RequiemV7,1
 RocaFlocaFlame,1
 SicParvisMagna,3
 StrawHatStream,1
+VindiKitty,1
 VΑLAC,3
 Zoеy,3
 _Catw,3
@@ -41,4 +42,4 @@ the comrade,3
 ․bonkey,1
 ＾＾Shama,3
 SIGNATURE:
-NpCEQAz+JZ6TyuYCMbAC0dUk4iuPFZ/9LAaAJEk+QY2jScVBm6aAuk1hIElUdTz0xUnkSqEOpPKGNPxvHMy8LDCNQbpp2MvPBOHzTjMWs33bslHzkwyNz8vh/PHrfIrkS4aNtYgxYxrEL6Xn4tNmjrMJzV7jcXc3DdBEGWMzh87zwjP/JEHupmYiQryXCXITEDw1wTFoUNFV/z90Co4VNNdGjP3s7woemp0uKU/fk8g9XSvRqQQT3Vlk3DNCmzq+
+a2gBsULeS67C/2cJ/teWoZYSSIwwPnsNRJ8AEZ4BLqUpM3czjher0XgX69TA+lNQanMWHAu37BWvXtwXDVccrLmrS/dwwnic2PhC3ZO5GuTFkxciEhK4qJ6qAbdYHqeMGxHLyNaJeAUHPatGW9r/z56fIUjG5VUdE3W/7xir69wXjuVCgxtJ7TDHyw/XgStj+ahcsh4xMwv8W0Zrlq0CyNbPzmrlsx+9/fG5MOSjML0RWCgZpRvHfz1YheHBEKYd
