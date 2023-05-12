@@ -14,7 +14,6 @@ JustShyn,1
 Lil BunBun,1
 Lvl20Wizard,1
 Moosiee,1
-Mr Legendary,3
 Neros03,3
 One Winged King,3
 PigeonsHaveLegs,3
@@ -24,6 +23,7 @@ PromptSage491,1
 QuinChimera,3
 RequiemV7,1
 RocaFlocaFlame,1
+SicParvisMagna,3
 StrawHatStream,1
 VindiKitty,1
 VΑLAC,3
@@ -42,4 +42,4 @@ the comrade,3
 ․bonkey,1
 ＾＾Shama,3
 SIGNATURE:
-CV2oRyHSFisv+dmZiextP5PUUU4nyNxTl61u466nwbUFfYS9VOA2sM/C4NX/+lDIRmU6hyO4MXg3XBGLaKsDfAVf+x9e9vYeGT/px/ltA/EZIFjP2GpVgVdpg9BGbRfDDMP1AceP4HPxlpCVNwiYdSr4IACY4W5h+OQGYrtG17cbnBTWen0TINvDZcS+NXK5J8fYwgVvVc3Xp/UC2zQgThWsZ0z0njX7vWGZRH5Z+FZQ+2HGeyx5dG8Arml63e6m
+nzRJScHNjUa1bn6ywhZvXn2ZJagjHIX9iK1RngoN8I8nyFllR9kJ9i8mHf8n0nrKPnfumGcekaJsT6KX0H8jt2aVVWk8fQN7FI5iwC5ri3jHmEcS85qxF0c4AYQHt8THNrRUgSKna2wuodmmtFPAGd5iosIBcUPhqX3Cuqa62fRCjnzEkXLprrtlgpV5ZLK/HPj8UrUEo0e5ZfBpUX/EhSThOA3lXKqv3J3DAmFZTf4ZAz4EFzvGF6fG/lX9qZLy
