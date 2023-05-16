@@ -1,9 +1,9 @@
 1684238400
 ,4
--AK3K-,7
+-AK3K-,15
 0strava,4
 6SARGE9,4
-A S M O D E U S,7
+A S M O D E U S,15
 AbusedCoyote,4
 BAbrenna,4
 Beems,4
@@ -21,7 +21,7 @@ CrystalPinkman,4
 Cykanic,4
 DemonDwellerDK,4
 DestroyerMon,7
-Dukeslice,5
+Dukeslice,13
 Edzomen,4
 Elyren,4
 Eveuette,4
@@ -41,13 +41,13 @@ Kalm4h,4
 Kelpìe,4
 KingBaz,4
 KittenBae,4
-Kyuu_NiNE,4
+Kyuu_NiNE,12
 Lil BunBun,5
 LouLingod,4
 Lvl20Wizard,5
 Lyssepop,4
-Mel ˸D,4
-Mickerd,4
+Mel ˸D,12
+Mickerd,12
 Milkchan_,4
 Mochidream1,4
 Moosiee,5
@@ -55,7 +55,7 @@ Mͥufͣfͫin,4
 Neonmonkey,4
 Neros03,7
 One Winged King,7
-PigeonsHaveLegs,7
+PigeonsHaveLegs,15
 Polynality,7
 PrintScreen,5
 PromptSage491,5
@@ -72,7 +72,7 @@ Shylyx,4
 SicParvisMagna,7
 SinisterGold,4
 SleepySiren,4
-Spookier,4
+Spookier,12
 Stacy'sMother,4
 Stoltt1,4
 StrawHatStream,5
@@ -80,15 +80,15 @@ Sραɾƙყ,4
 TRUE-HORROR-24,4
 The_Gull,4
 UnholyPanda,4
-Verøsika,4
+Verøsika,12
 VindiKitty,5
 VΑLAC,7
 WeaselxD,4
 Xhiiu,4
 ZFHailey,4
-ZerixTheFerret,4
+ZerixTheFerret,12
 Zoеy,7
-_Catw,7
+_Catw,15
 __andre__,7
 _~Melanie~_,4
 `'Dino'`,4
@@ -106,7 +106,7 @@ jpow,4
 jυѕтjaмəs,4
 kai-chan ։3,7
 lylFreeStyle,4
-marcussssss,7
+marcussssss,15
 oxi~,4
 racMuscle,4
 rozAhai,39
@@ -124,12 +124,12 @@ x_VAVY_x,4
 ~Myana~,7
 ʿKnell,5
 ᴏᴅᴅʙᴀʟʟ,4
-․Ice․,4
-․Skittles․,7
+․Ice․,12
+․Skittles․,15
 ․Zeta․,4
 ․bonkey,5
 『 ʀᴇx 』,4
 ㅤMommyㅤ,4
 ＾＾Shama,7
 SIGNATURE:
-RFloAdD5GNf/UdBRrWvBBdmDx3CGHT/8TXbvBYF8BCSC0T1HqYHoQfYtenD/Mbp/1b1t0lCoGlsft8aWcTdNa+DJBWIby9ryYQQZ/GCJxqmMMp16sh6FdOSbcA/R+FBj75Eb0SDgNEpWjMJDORthlSWWCjyJ75BtwKaauTqtOkDPk+kdW0MGIROfur9HAsJZ3jlDy7GylaMUtI1YTvk6t3S2fDROT9gUA8R1gY3JQmJe3hp+SrOrl/MJyPoYOy6c
+XwmFbgaDbmAd4M7ul+mGn/7sGCU338tjxadsjSBwW+NeLQEvSIHNSLQM25Xx7cojSa8FD88sdCQSu8U9R52iaeeRsBvx4RKx4Lpmre4R+CMcjrVY5IxPmIo1XjD18Ozh8mQjFYijXvdx1kCMsYesf1k0zGKol0USSHDaoYL8jNYCeDttgc/58X2R3+OF3VzyTsuloY85OFc3nXRReMokVfrY30L4H0QzyatC0OZRvtlOYTJa33G6JkgfTxx2hOUY
