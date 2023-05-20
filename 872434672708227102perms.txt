@@ -25,6 +25,7 @@ CrystalPinkman,4
 Cyerboras,4
 Cykanic,4
 DemonDwellerDK,4
+DerangedWolf,4
 DestroyerMon,7
 Disposey Dave,4
 Dukeslice,13
@@ -149,4 +150,4 @@ x_VAVY_x,4
 ㅤMommyㅤ,4
 ＾＾Shama,7
 SIGNATURE:
-lduS8bxzTlTUHgV9BVP7cBi06JzO8vZdj+Hx5GEeapcYAdPyKDOzx2XUTIGhaz8ll49f+9F8H4vH39myQEdCu6mNUsuQqbDJRGuGiZlDQYJfrgo6OZVKHE4Jk3Go8M3DBbCFXG9+eoaed/Pc3ze5cSl/ikprJ+S+2KPZLBO1qsuC5xfyEYtJqr/Ee992mdYpIRmm4KY9w6Lkc/aFRit2Ciy3XEyFH4joXnlcEWMUQg1iKiKnr81bnxyqjvRIJWLP
+V67+zCM3rcpJk2v7GMw4zRuHAwbuDdS4N4r5oyFYAimktlOIy+ijCi7lf8Wsw+xlCDkpTX3dYi7yuAgWl5/1xBFkOyze55giLhNtGStrgDvFX0d0ZghhXnO2aDNeksTTCMjR74D3EMFcO3XHV7JBPyD1aisAevGubXQGg26Hh6o36NyRFUCakPhxkRYfi41erVlsDLjepxX6yxfXtN5QHb7NBZ611v1hU5jSAx87sLIq3wAO6OMPAiIay7E7Yy0A
