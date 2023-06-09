@@ -93,7 +93,7 @@ Neros03,7
 One Winged King,7
 PigeonsHaveLegs,15
 Polynality,7
-PrintScreen,5
+PrintScreen,4
 PromptSage491,5
 PsyX9,4
 QuinChimera,7
@@ -190,4 +190,4 @@ x_VAVY_x,4
 ㅤMommyㅤ,4
 ＾＾Shama,7
 SIGNATURE:
-GxYg1cI3gl7Fh7tfKbBA3wnRfL9M7UKnnMGqeLqdNuwZXr3L+82kCjul+wF21jU/krzuXQvCFpZI8wyXXN26O3XBjpH9oBJ93/c/zjuE1yKp2lGjyAsZRfRGCzcil437PG5UqBVyEjVLXiE5tPxCss82VZsrLhEVtCu3MGUxc7/AQVyGIWEsGk+4qp82nCS21K+5biRbjWctg3kEMA3N6XNuU2YLPK9Q99JLsqepdCctYZZnw15q4gvyCl5XIiq4
+COX2xemmlY1GT7iQjej7dw/lkrziwbAtxKFWO92Be/76LblOrLVWKNEx5fdw7XsH7jC0EWyBL6TxFaoarJHXdEccUrh7bOLWI8fcVyEo1QypkHjeBux3iuj8SbD9MfYxRp7TRvp+xufPnuj9SUNoa6x05G7GMbfqn+hjhSzRdLnzGIdvILwwCCdKm+Q7hVvF9JUJ89sgVYG6UvGOr3v+23mxcc4M/QqxhL9YV/nhXJmVVuKvtt4hJPF3AKHorps1
