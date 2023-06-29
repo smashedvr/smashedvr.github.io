@@ -39,6 +39,7 @@ DemonDwellerDK,4
 DerangedWolf,4
 DestroyerMon,7
 DonJon,4
+DragonJonesTTV,4
 Dukeslice,13
 Dɑnte,4
 Edzomen,4
@@ -212,4 +213,4 @@ x_VAVY_x,4
 ＳＴＩＴＣＨＥＳ,4
 ＾＾Shama,7
 SIGNATURE:
-cLJQc0G2GGexamrNsxWEjTRQMHWwceZ65njAJdYYiLMW2z9s+nrX0sfuDgoye1c46xldWR15wsRLWfJODPPK1Zm7g5ibmBHKADBjMnPSln+FdcX4F3y5vBp6tFicdkM/5Mkn0EZ4u0RII2hm8pqFcZipeNzjJ8aajHBA6itcbXd6Hba7p5gvPs77OJzxjErp8VfjFT4cBmsLalZzQBMUUgotqJikLps0cl4VWSjXDn6ULP5evJiP7MBSj4iwb/Ns
+Z11WwVbLevwM8ixO4krhC9PbMjHzsZ+rgIfyx8ERLXMr0VH9qIJy89cCD5Ew8Lw35wBGFjHQL21DgQ36z+rBV7evf6CvsrDPlAiPOg+/TkJpHueB5Pr4Tiy5CkB6maHHbZ62NWo7unCQA/lSXj0xKYdZmXG3TzrzTg81tQ8+9raoKcdpNM2Nvpmato1lhbGy705iPZVmdzEIs1MvA5xEb0Xvq8aETkF0hGpS+fWhwLCKPmE1lfkiLUuwMGOngkN+
