@@ -63,7 +63,7 @@ Hiiru,12
 Hoverball,4
 HuntNeo,4
 Immis,7
-JackNcoke_,5
+JackNcoke_,4
 Jade_Demon,4
 JamesGMS,4
 JellyBean84,4
@@ -216,4 +216,4 @@ x_VAVY_x,4
 ＳＴＩＴＣＨＥＳ,4
 ＾＾Shama,7
 SIGNATURE:
-MCgK/DqXtIFdzNCUxC4EQ2z1Cr6DCMUkxIZmAzYBRHlBI2Wlf0jPsoUJeztVJMIhPfB94XAXlFPowaXl8PFfstxyaxUBF2VbIaWBet/q9T4iCUW0hisKwCssWXZCU4IE7Hv0zDSDY3YQWY5uzDvBKfP28DFy65aoSlVaCxgP4K/K0M2C9qrw28c5xCGO67u8gMli/fB5LwpzGk7tM8xmZMmJ4tF9d9uY/EiIVeiMxbgsDkBJ5KUz0NFa2IgrdtO/
+TxNVNQG/UTjy6Lfdxc60hdzhVSBr5W7DRFVFr6K94zH0HdEWX6KTcfzpqlqJ2UdhpoZNgTsYyzMPve6oL4sr2jddd6TztmhkYIDt/HCpFfL2ZQB0B+HTajpsp1DKz6UsSQUE9RRCpmOO16tgzo3ihPkTDnpXYQYv9YSt3Niidtvayge/3i4pVvt2kZknr16QXBubDBsyuyae5mHUDbHdpKm/vBTzwaOHxo2pYa/mNKEyOqrFOJsBtC4Qq6LGKBr/
