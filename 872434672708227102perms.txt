@@ -55,7 +55,7 @@ Fenic,12
 Finguard,5
 ForbiddenOdyssi,4
 GBG chemmyS,4
-Genesis,68
+Genesis,4
 Gillysaur,4
 GodsDrill,4
 GommeR,132
@@ -75,7 +75,7 @@ JsbJohn,5
 Jumala,4
 JustLex420,4
 JustShyn,5
-Jᴏrdy,68
+Jᴏrdy,4
 Kai©,4
 Kalm4h,4
 Kelpìe,4
@@ -100,7 +100,7 @@ Mittt,4
 Mochidream1,4
 Monzerious,4
 MrMaretin,4
-Mͥufͣfͫin,68
+Mͥufͣfͫin,4
 Nanosta,4
 Neonmonkey,4
 Nephylina,4
@@ -159,7 +159,7 @@ ZFHailey,4
 ZerixTheFerret,13
 Zoеy,4
 _Catw,15
-__andre__,71
+__andre__,7
 _~Melanie~_,4
 `'Dino'`,4
 aGothLizard,7
@@ -178,7 +178,7 @@ im2swag4you,4
 jabanks,4
 jpow,4
 jυѕтjaмəs,4
-kai-chan ։3,71
+kai-chan ։3,7
 lylFreeStyle,4
 marcussssss,12
 muskwasis,4
@@ -211,7 +211,7 @@ xKanashii,4
 ʿKnell,5
 Μeda,4
 ᴏᴅᴅʙᴀʟʟ,4
-․Ice․,76
+․Ice․,12
 ․Skittles․,15
 ․Zeta․,4
 ․bonkey,5
@@ -221,4 +221,4 @@ xKanashii,4
 ＳＴＩＴＣＨＥＳ,4
 ＾＾Shama,7
 SIGNATURE:
-ajBK7UJBiy+9CT3nZM8GsPGQSCwYp7L4EJw++7p3aAuErztvgD6y9BB3bE1AA8daJMHiYaGaCW97ZJd1WiVv5Np5JSzGyEJbAzSAdQkvW++ZedgyQyTHo92uF9C2lCB174Xnh0948bjrPp27BDpQBA2dOkBt1a9fQq8yr81JnZWGSVzYb6lj8ezXuxpvYEXuiHk69ZlfeOHs5L0rU89vzJ6r1eYKmgm7aqHyohDp3fKtzrQIRu2jzQZNvOBO1fhj
+hrUkWcM6NQWT7sDg8CE1A6O5byOsmpyuLMeUuUyls028GW7tJQI8DewddtjTqEeHQx51OlWSN+ZoJiSbdzVsigd1fe+lteyX2IELNS4AiQuZkIM3CLJf41CvURxJsMK2GKFLE9k45yoJseh5Wjlt82JLmf4fL/axRjh7Fkz/MA2uJ3bSOVt8lrc58U4w+O1sICUwDqFZcFeeYV/hhW1y8y3EpHLymYEMPC98+/JWeSR0feM5LuTy1MBSEtoMM90x
