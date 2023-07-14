@@ -55,7 +55,7 @@ Fenic,12
 Finguard,5
 ForbiddenOdyssi,4
 GBG chemmyS,4
-Genesis,68
+Genesis,324
 Gillysaur,4
 GodsDrill,4
 GommeR,132
@@ -221,4 +221,4 @@ xKanashii,4
 ＳＴＩＴＣＨＥＳ,4
 ＾＾Shama,7
 SIGNATURE:
-jYreJEk8YRJDuWaLI3S1XPM3QKdc2QbN1iklLwOtA2X/+yYrbakUTVZnSOUVKd1OwlN2p29dm1N9rIjHKSVHABeFSdTR6fCb5TSYLw4UnlnkZAxd85KJ1FPhAgMw4A/wpSQrDXAgGqvixCyciCLSzBzPGQk7kc/hVMzhLlmBLZdN+XDTsQuas1yRgYfFy6Yfa+aJjlqvE8IA1wpDfHm80IpKtXIY5K/4z/Wt70kaPIbYDdJQWeGXH/80jh3MPXZq
+HAwBynBVw4p9Ha1lZ/gXX5BbPTWRni/hO7P5Ee/IJtuu3VC4zXq0PaK93eYndT1b+L9QsF55kDSKoLHwrEtQ00ko/GYs/VVLB0NqUoekTXB3DbbubtaN+Cu/1qXGYoJHSSQLWOjb/BZ+fAx98hA0Ic3Vi3Z7abGTnhlooNAkafnFUgA1tbgF7gxnVtQ8yfvlSgsjHwNNXVkALnDQzY+wuIq49UYWxQaytHNYYl6//ifCcSJsdvkIN3L1+o8bFr3k
