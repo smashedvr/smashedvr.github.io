@@ -39,6 +39,7 @@ DaBaun,4
 Damnit Dave,4
 Dasty_Dubstep,4
 DemonDwellerDK,4
+DemonJade,4
 DerangedWolf,4
 DestroyerMon,7
 DonJon,4
@@ -67,7 +68,6 @@ Hoverball,4
 HuntNeo,4
 Immis,7
 JackNcoke_,4
-Jade_Demon,4
 JamesGMS,4
 JellyBean84,4
 Jimbalina,4
@@ -221,4 +221,4 @@ xKanashii,4
 ＳＴＩＴＣＨＥＳ,4
 ＾＾Shama,7
 SIGNATURE:
-dCa1ee9xf9UPZtWnKpV5tHljje+YD/qBdby6nwp0M8yIzC3trLCmK2PAZVPalP4Vd9ezo6Hzetz3qdjgqdrIuRbrnzRCdAPK/jE0nlHcHC/8h1iy0trnVAveJb8bJ3fvxxzo8oBYKSKolXsa5Fn2D/WaBgstXCSfDc5gV7kBgPKhTLoUf5725+hYSJsYPuhZ+2cEFKLpyLUxAGMR4yHBKbvJA/z5Fi1cCpth5BgOjxjKk6Jze0ZK3V9W159GX98B
+GxILDgxFCbI/Af9Qju4Js27ZgPg1HWdXTvRvKAeWOWjId1/b/U4MzRkZUP8i1fVKNoh+Ekk9+9Nk4qXgbC4yRThpEs+ie6V0R+RTIuElmhTqh+/y+f/VoyYThMDAm2WMZmEaSn0h36mMlL454Cyy0gPIRSFMGm9kDKvrZZg6oCY0QN4dxLMiJHJ9773lkUST5Juzu2US1ZL84C+q7cF9y2EIJuaJlGtahxtxPnW6hLo2XWwdA8jCcndR4z3PK4nr
