@@ -119,7 +119,7 @@ PromptSage491,5
 PsyX9,4
 QuinChimera,7
 R3v0ツ,4
-Raddi,7
+Raddi,4
 RandomZombie,4
 RaptorDeity,4
 RealmanPwns,4
@@ -237,4 +237,4 @@ xKanashii,4
 ＳＴＩＴＣＨＥＳ,4
 ＾＾Shama,7
 SIGNATURE:
-lMzCadxri6o9hxxjznQE1rlGetsiWv4gzYgG5tWHg+wYrYtyIffbTRJzQmPsRaCjeR8GfO9WKa6T0DBR4IFrY2it0rCOaZw0mQ7k7uLDzrMjH+dQZlr64i7ZPdACAB0FocoZshswaPImBREPK1M4OtntQ4ETg8beab5UmUr2uLDA8pBc28n5LgFmqSROebau98W0aYFbl718Y8miq3rbphBlqp+R4X/Qx0ZK9enxyPRNCyRVFgY4LUUGrrh0YJTE
+Kf2oB+o+vIRzKcrVd61IPq/n/DRSJdcCGnIE7wb4H6utw9LluOMHuBuUCzBqAHde6pvuVim+KjTsfUwf1CgowEf8ULhuz+3UXU8T+8i01kkZ9psRLKfemnOgJ3jlBqGIQrASHr8hcSr+s80OPseC/AYwXYV9whY66J+k7YRHY+UxEcgqNZ/dIqPnnz6O8fyVhaRKJ+QL7iaffiLZson2Tga0GF+94eKfC8pQW+RSLTtnfs22kxNoNmI+OTcHCde3
