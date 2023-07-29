@@ -51,7 +51,7 @@ DerangedWolf,4
 DestroyerMon,7
 DonJon,4
 DragonJonesTTV,4
-Dukeslice,141
+Dukeslice,13
 Dɑnte,4
 Edzomen,4
 Elyren,4
@@ -242,4 +242,4 @@ xKanashii,4
 ＳＴＩＴＣＨＥＳ,4
 ＾＾Shama,7
 SIGNATURE:
-eVxWI3cpuNzn3aZjkueNQJ3xfq+Ixw0O6/DCAbwt2W/+p16dDLN+0pmfR1SFXtCY8cStu3AZZYeLd0XyTL5l5/MLJg8BnsY2SNtAtRxr45pN83rQR77/+tQf48nyKV5/q+SuOj/kF1L3/egqFTZod4FQzYJX6W0UNpJXjtOb0I3nrZ/y9mroptRk3a0o5nhey1OyQtrhVDGLsNd9TcFk/zyRA+Y87Try4o9IVgkNaQGZqRdDEh+MfxRS4Iq8ZZ/B
+FSAVNqVOGHs0kDkU6OVJE8w4/z1mcYVO+py1OnVqq8RBthI+6Os5/ZJQGBM0pmE9+jbVRLHhVODGXKzH2MQvxdz3nJWw9aQD0q+oh+1tyXn/ZbhAi+NGDwiPRVpZzypHa6YE5tVNr/pMBW7a9duDQi20ZzUOhsuD51KOtVQxfDmDZhu7+TZq/k8kDFeFBfFxc5oWQz9+MAzadGPI5rwol8HVXUOp1WHzbMCgIpYYISsH9Or7yoXRgYmOiudeUtrD
