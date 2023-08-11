@@ -164,7 +164,7 @@ The_Gull,4
 Toxic_,4
 Tuplatopla,4
 UnholyPanda,4
-Verøsika,76
+Verøsika,68
 Villihenu,4
 VindiKitty,5
 V̷a̷v̷y̷,4
@@ -249,4 +249,4 @@ xKanashii,4
 ＳＴＩＴＣＨＥＳ,4
 ＾＾Shama,7
 SIGNATURE:
-jOO14UfY9euHOy75Zv0s20wc4uuNPF1At6rjCFYM4EgCfn2FNm1xe+hb1xBiPP2Pydn85SxgJBKKOjxHRrDSjsh8Wn0/x8Am4DsFB4GXinO3nAtN7rXwvOEbp6aiox81fNDCWi9fVw3VkQf8uP/WW7DWrGNuaN9glmGnE7at7uvBqi6RwUx9H7eH7UQPQ/UHCsSqDt1Tgf2wP1/HyP+kSMurz5S2oOqeJl9DN0WX32afPHprZaTnbEiegbFmFbit
+KiVpgSdKtR0DBEU2sGcPF6WTk45pGQMzcrk3ST509glflBOkvg1sescKJ2XFoiwMEzZIUGxhE8+tGepzhA+mkGwsgE9VOdtog8zzVi+JeB0jKMcTGOgpqwNFK6EGgb5dU1RpnKNntKmKRzxiiFSu4EjKrPdswKrShWkaMWJXnhpa2xrE1u0qu9Xcqjfn72+wammuUxNKDeB09LJ9UToXx3RAZCCiKRzM+U8XL8R+S5dvS/EGx0m2zXC7HiX43shF
