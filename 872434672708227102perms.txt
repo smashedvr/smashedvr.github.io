@@ -124,7 +124,7 @@ NightmareCutie,7
 One Winged King,7
 PigeonsHaveLegs,15
 Polynality,7
-PrintScreen,5
+PrintScreen,4
 PromptSage491,5
 PsyX9,4
 Pymme,4
@@ -257,4 +257,4 @@ xKanashii,4
 ＳＴＩＴＣＨＥＳ,4
 ＾＾Shama,7
 SIGNATURE:
-TxV2AZBGHFl+FDgoUAVSObAguVr3nPe1rqd3w/mNOhRNm1nBCzmMyBBv9MXQfTWxWNia0xvtxJpLMIEn8oGYwoiSBeTok1O28o1jVjRhJznx3zvRrJV59AdtV3823PXeNu8XrFxzg1ePsdigSz27TqnA3X+b4XFSdRLqTDXSPyY3Hch9ejc3HZxxkTVJX9P74KURBGOV14EZwZKUpw21Fhs+d8t+25SpGBx9kqb4Nxn8uOmOK0FvufRajtt+ADkh
+JxX8KfoI2QWMAq8VAVOKAyCLc2BK0mOBsvF+iRs3aGHvkIKfVdL6McJijKRFAxXZZgZKSjTSHDLYdR3Dpqd8HJa0D5AKzG5/sdCPIwe3zrKb649isWNXEwcknM2r0Xs/9D3KMJUXcJ4YzQHthdY56Iluzg4kec8v4C6Jbbf/A/6xYcLOzYhznAbfMO7CsjPhbfgm4j1RGjihTAD0E3pZG6mWp2Osei4w7mX4mgcGT8L2cfEuvwonTNYllBbLr/8G
