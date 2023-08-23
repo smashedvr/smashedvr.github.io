@@ -66,7 +66,7 @@ Fantaza,4
 Fargestift1,7
 Fenic,15
 Finguard,5
-Flandren,7
+Flandren,15
 GBG chemmyS,4
 Genesis,324
 Gillysaur,4
@@ -263,4 +263,4 @@ xKanashii,4
 ＳＴＩＴＣＨＥＳ,4
 ＾＾Shama,7
 SIGNATURE:
-CCPiH0dEAJighcEMg6pImwgVfu0UCCt6xoH7vWEqbADeVzGpzvJZ0grKBDg10SoDtrLoXUHnMelV+oKwEWh1LPDYJi9BDhoM4I5Q8Q3FcN55Ml4HZSgih2RtcYLfolC9JA8N0/sP8dnAJo951Ri6u4XaEsjb8w42ot3HPVqkGcujYCmoDTmEamqgrW2qMoQJZipiB9NV8F34gXBceq5gxhh3bYt0vXIzX8Rawl4YceaWokd2kvRIp82Gu9WiErXM
+mv5eKcXe7ObU+EJx/OFBIsihFNWZETkLDRm10vRZCyiZuF/DMqA91QAtbuppASCxXnmc2OO2nxgQmdbgSIrhzo3eA2MiljLJ6xn5OOc7X1jd+OGRJnidNC5mzf+BBp6o/ffBc3IBEeP1M2uAkDXOIQFB0hzRTuXamBieEGU9dCxLm+4wkuGSpDp+O7Z+egNX4p44+eVziyWwtCHOGlUCsRJUBiWSM9zzB8KpcC/9N/4P8uWbDGBgEaanFmLkbVg3
