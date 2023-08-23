@@ -135,7 +135,7 @@ QuinChimera,7
 R3v0ツ,4
 Raddi,4
 RandomZombie,4
-RaptorDeity,132
+RaptorDeity,4
 RealmanPwns,4
 RequiemV7,5
 RexH,4
@@ -264,4 +264,4 @@ xKanashii,4
 ＳＴＩＴＣＨＥＳ,4
 ＾＾Shama,7
 SIGNATURE:
-SC6NCwhKLMj0UgYazkt+PvwLdX5n1nzCCwxhwo36Mq2yEv+Btoxzq7nHuCgMvdEo1OtY9eZx6M0d8Db1y5hut0cy0VDLzh5Qsz0xYrjtHgvutEk9yUZ0+4JepaoXv97oHeSZ+o9rONeqkgSpQuHNwvksBVchV5QvNCkoLnBGKsY/pM5NfKuLAlQ+heuQjzUycoSUKNwK22r/2ixftD8UJn6fBwXtp1QLRzcQs3Gxa+5pByAuu3x2gkrd/7wKEaYS
+PtlaGmcOB/q+IZdWRvheW6e34189Bp6TvLZ0vca2xfzlv4Snu08LwWRz4DOgkqhXXRl8GhpDqr3QL7Zeh0NoJ0x3UD15dNb7xUPUzwkmTt09MYMp6WP3U88kuLOt3hEBFCx/jtc3DMl5NxmcaaXk3FFS0Y9Czxxm4knV+UoXfaXH+U7MDZLi6jaZdzlabPnsmHyPnWx5sDTywMyyzPVCC3As2GNtOVdqcaxXWx/uWoYq+8cnEyb3mzBURev3VIzR
