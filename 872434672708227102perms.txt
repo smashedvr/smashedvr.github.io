@@ -139,6 +139,7 @@ PromptSage491,8197
 PsyX9,4
 Pymme,4
 QuinChimera,4103
+R E S O L V E,7
 R3v0ツ,4
 Raddi,4
 RandomZombie,4
@@ -257,7 +258,6 @@ yity64,4
 ~Hydro~,4
 ~Myana~,7
 ƘƖƬƬƳԼƠƔЄƦ,4
-ǝʌlosǝᴚ,7
 ʕ́ᴥ̀ʔっEchoMai,4
 ʚ SheeᵕMinty ɞ,7
 ʿKnell,8197
@@ -280,4 +280,4 @@ yity64,4
 ＳＴＩＴＣＨＥＳ,4
 ＾＾Shama,7
 SIGNATURE:
-eCzOz39EpEgp53u4ICepv78lKANhxhDV/wEWQrtyUaWYVy1DmiWZqAn66bOa9SjDibmddAfiIbocBptWlo9yEa9g8gF2sI6McFW2M7NJw8Sh46nrxPqCTsYKSwH8WkZbvJQVdCPUad1Z2kKVAk8soSpCbqUtoxMgrJRFHrSoCA3aiT6qwVPiLyC+/SHRN4EM8wILE2PE9vIPPMYv0/HD8hgZK/HFWz6sTV42u5LPDb84dBr+V/Qqwu/blEjGL3Qx
+QXrnn/fajCbRaOB4tL+RlmSaz49sZvltrKxWpdYPlNThkLw21p2SfqvAYbypyaMwAgPxbgIMGfdXSlSJ6B00nJCLuYCo61ztl4w80biJyKFI8spEDOHWpUTQNXQAX979AsP8bGr4lmo9Em3IR0llFwsXCEQpFOVMKwLKPvthMX5W19jEMmgj2nWjsMImB3bvEBkcyHD/4mwjK+voAujscWpsBcMg7X0/7gTxjzKh7FWGxWzgyJxLF3JZuMxdiBu7
