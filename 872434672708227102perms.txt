@@ -65,7 +65,7 @@ Dolios,4
 DonJon,4
 DragonJones01,4
 Dukeslice,8205
-Dēletē,5
+Dēletē,4
 Dɑnte,4
 Edzomen,4
 Eleanorα,4
@@ -330,4 +330,4 @@ yity64,4
 ［ ko ］,4
 ＾＾Shama,4103
 SIGNATURE:
-aPgfGLrHi15XjQufhvPlPqCM9I0lU+cWQvKrLvKqOGp20CIkxLNHmsBLopLSU7t9A0vRkAQCJZZ7EY5PH2qhCAgFzl7rGD5q1K7OewXYmc4NgKn1Oqowq4hI9l+RTJO9z5/Lu5FVs24G+p8Y7iRE9oav7c8Y+TdlMJ16VOFdbsXGcHnp4WyqL4Ffu4c/IEIXdWnxQEbVGVbNfG5orI9Sfy71sa1vaI/4kS5qKIW9o5tbSN8bH4GTHcVyVzgAEWny
+XN11CekY/UqjqvpEYhZrPOeELTAKvHBANWXSYd+jabzJ0BESxfSfuC1b6ly/cQG1+gyueYRfgjIG0zxyn5H33ul0Gp0/dxSkwRhuFn2eJOCzBMtoAfOYyt7zLoBw3pUYPFmaLYsVL4NXFV0lCHSgWEhXS+G8gvXs/XsbyDdkSdc92FJx8qy3wzPCEjBnCGQa9Izt5GIrtGuMpAEwUkct1ViMMWSpBU9Kyd8gxbREe7nHbkBsdxt52v+ky0JbekHZ
