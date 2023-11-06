@@ -231,7 +231,7 @@ TrophyScars,519
 Tuplatopla,4
 UnholyPanda,4
 Valcora,4
-Verøsika,76
+Verøsika,68
 Villihenu,4
 VindiKitty,8197
 Virlas,4
@@ -345,4 +345,4 @@ yity64,4
 ［ ko ］,4
 ＾＾Shama,4103
 SIGNATURE:
-MQXmFnL3CPQdUV4SEm2S0z87FeOn53SqOmlqEq8ZERAkDwII7RcEZf11Eb+2t5lR4tboV+HAjs1Po7VMPGY39JmIcmVlL2pW5+HFBfaNqoInPexnc5sxYJaUVUhV6C3vUqXE/ttSHbz65pBvGSrbuuX6Nv4bV5zgJheMx+LV4e2NKcsxe3iBWts+C5IGWbVwSg9WNepnDeRRrjBu8UXiU3bYCga3zdjNWal338mmPYMkLNNyygcpA/jZEAslA/LR
+RUwgCUewh6SMkqnjXI4eVKzM1ZRpoE3APgTd6vxNOlqcCgtD4pMh2sww9FVazRpYWAp5ar29nvGgB/oNeUkzGb4VJd70N0SjNFw8yOLZxcFKKIj/7W53NYKQJ/dxXeEDE5lc8TVhggOCBaJr83Y9ee0KYFMEp+GBTnM5f43B7C3tGu6SsB6lT6peU0br/1JkxD3dL+YNXd6ZPLoytmiNRrvFd4kk6DhhnG66bURsmfXb/R0nSPq6H2uGFa4mWhFu
