@@ -327,7 +327,7 @@ willow~bean,4
 xKanashii,4
 yity64,4
 ~ F R E Y A ~,4
-~ HeadPats ~,7
+~ HeadPats ~,4
 ~ O D R ~,4
 ~BloodValkyrie~,4
 ~Hydro~,4
@@ -368,4 +368,4 @@ yity64,4
 ［ ko ］,4
 ＾＾Shama,4100
 SIGNATURE:
-U/cz2EmZNWQKvUF94eRgQFqX3XClxURmSjR/UWvwxumWn23gRZaOySa/H8QMiMAL50Ti7k/IuRM6HU59/zhS3JXVsGn7pKywXCXV/14u0OMg4tJMuVeL9wlYl1B2Os2MvhybsiRoh1TJhHD9J0GY+nZPQ77F0u3BPAKziZMyEmdodIUTkQKQ+XOISyKMkrxO7wgFRoehIBb2fGtMOviIx0p7653BQDXvjG/hhlpAzu1d6Ew3kG30Nsi5Ywnz8Tpq
+SZjjetPJsiGCx3P66wUeSKh6q0A4w5gZW2oHxls0nUd7+Y6yUtfS+ifwJLcZLDEvmAQ0CicRgMxthd0z65SR1+G4XFhFtx0Qa9TG7VGHRqfveqe3xKjwfEJ3SPyDw7aH5BLebHgqCoe98WOybG8xz4zlv3a+1l+Ha609BNbMW0kxEWvwu+IJHm59wbAZcnp3ItHvvCOzSN3Gw9GkhXBoDfIx8PBTaodwkVhWvURx/IC/gxca13R3QRAC/xchmYGA
