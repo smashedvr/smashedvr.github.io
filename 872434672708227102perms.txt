@@ -245,7 +245,7 @@ Tuplatopla,4
 Valcora,4
 Verøsika,68
 Villihenu,4
-VindiKitty,8197
+VindiKitty,8196
 Virlas,4
 Virtual_Jeffy,13
 V̷a̷v̷y̷,4
@@ -368,4 +368,4 @@ yity64,4
 ［ ko ］,4
 ＾＾Shama,4103
 SIGNATURE:
-IjHmw8PEOWGsnr5++9HwXvNWhSmjjuJSG98wBr4Hw+J3/JUQuHMCBNiuss0hsQmKpOTLpidVPM2E4gQZzaEcOq62eZtSus/pbJ9Gx1ykKm+J3C5QPeQYjolKWQESLJGWhZKbxDcj8gFRwgggasGCyy+D1j3w1PNEnp+KBBFVqxHSb7WPe3pp9Alv3RMqh+9zLnR13YutEt6Yr4cMWuYgNaEj27LSJuxxXDhBTB7uBIe0Eo91lQ8Xe5Dmc+NocMbn
+Z4ftyd5RJAOYit0RhnqgYp6HKL7Qq9KU4ZT8x8AlJ1USyoeAbq50+rc/n/a3+lPYScus85RlIqh2v6xMgeS5P+ap95B+0ZB8Cc+tf3rAZT+HBbLhzIolpw3VD4uEyYIoeMIHUqqj0d9+ydKqG2byBfmxncMrwx8dy/Xc8410bwTlHwgeAeZud9s0dEXSx6nxO3pWLOCGeJFJ5L+Ptumyjw7/91fxl0MOAaAA4ZsZxljS7LhKWJiHNXIPoEdj5s7D
