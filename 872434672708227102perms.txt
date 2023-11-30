@@ -249,7 +249,7 @@ VindiKitty,8196
 Virlas,4
 Virtual_Jeffy,13
 V̷a̷v̷y̷,4
-VΑLAC,4103
+VΑLAC,4100
 Vισʅα Lαყɳҽ,4
 WarlordArdan,12
 WarlordVayda,68
@@ -368,4 +368,4 @@ yity64,4
 ［ ko ］,4
 ＾＾Shama,4103
 SIGNATURE:
-R9dwBo6uPN2TEmzMo2NwnPUvxE9TcFD4nJ8pPr/pOKjwsv2aSUziZs60Ag5luFVBk8jo6ctShZOpH5LARttBmpebHSrbGhd/fakZ2raDuqSk7/RpHoXOarICNOPifXy/1cQ2LeclgQTSWcFw9MYmQPiZYaBuJZ43Ji7UhFeFWT/YIGlYpfPRp3NiH12ph8At3aT1yvVKDEjyQ2I2B6JO/IghJjTXQQ73s7JkUtHwSFWCIrVl8VtrJjdnQTPm4tEu
+BXsykhltL8cRB1Omf9mg6k/2HOtThq3wkwburoq3C8PEQPQOxjTgQIV40jlAqaqQhfW4ggL705kl4Y6esRxvz4uiG7yKK7zzN/lWMHsI/iT9g+9Ve4lleZ9F5/7K4y81HSxzr6Ru0FwfWJNayfIsM0oRYmu5m/Ca3d5PYEcclLBRYPzXSLMYPK2HsilxiajlSSoSw4J5PnVSTP5E7IIVdE26yiXxvxs1WvRIWJlfXhjCw1rNUVjM2IxXc+VhXRUt
