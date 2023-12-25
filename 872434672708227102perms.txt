@@ -60,7 +60,7 @@ CraftMeBacon,4
 CrystalTrainvr,4
 Cyerboras,4
 Cykanic,4
-DAKOTA PUPPY,140
+DAKOTA PUPPY,12
 DaBaun,4
 DaddiDune,4
 Daikenkais,8197
@@ -389,4 +389,4 @@ yity64,4
 ［ ko ］,4
 ＾＾Shama,4103
 SIGNATURE:
-Jlzfj+yOqGuxlA1GU2T9yhGWdSS8tpxilYIwGaUDx4pv/stdUhZ2v9609J/f8fqG6FTQ9NEY3UZJj0mj3xsuz+zsPOzysPhVZSZTYCv4OVj1u7GmQhMj7aSid/zb51Kgo26DEegsSBPgA8DKCGKtx0XqkNnylxKMif1WDeX4zCmEOsOOR3Em5wdvpegj7izmewu4u9SNRlT+OhJIRu72/KTJR57NiNQ7E3ay/zxeOGWx+lUze/uCBjC9zH7i5pb+
+AmztduGZc+FazANf8kadRHZ+oa3TNP4tZHmazpK2ZbWqwSvdICpnpBr4QRlzgjEjyTPDGbfWRzph2zGME6mrfvzSHOK5dDbLLqGq2AFUkrD7ChZlnrpMls3iXoiCSHcGPYOvICU2oqsa+NKfDm5CFRxVRVaH4udB/BUfW3wfrvtqttFI8n67bV2i8OklxkjeqF5k2zdg3FV7dqiq+mluFjcLA8lJAVDH+VkczSlIrl7G1jb0ND4NSRq47rJGIpHd
