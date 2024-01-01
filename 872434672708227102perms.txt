@@ -274,7 +274,7 @@ Virtual_Jeffy,13
 V̷a̷v̷y̷,4
 VΑLAC,4103
 Vισʅα Lαყɳҽ,4
-WarlordArdan,15
+WarlordArdan,12
 WarlordVayda,68
 WeaselxD,12
 Woofels,1028
@@ -395,4 +395,4 @@ yity64,4
 ［ ko ］,4
 ＾＾Shama,4103
 SIGNATURE:
-GyYsjWxyOOkwy3XgNix9Tx3OkEXyAWRAsH/J7Qsfqj71Xi9v/xjNv89Wm9gwo1RttxU59OBD6wC8ExFf/cvTiOXbdA5eyaMxumOa4mxMSkAreqG7Whg7lEvKfFwhHh4GGlR7GvbqGEIbvV2qHZBhgxyaFxCjae0G5kKZfkEdE79Q8pNemhwyNIdnYx9TYSwDpKkCInjxpt38CM/cDW2H7KMSVR39+ngm3zIzi7iJj7O7ECQonVDrP7nS/05HJ6YE
+aTWpPi2+PI8DAnltkKIIPNx68YZBw3wnUOSNmU56PO3jpNZ0ARzVn0v3SLa+QkRxt6HLam8vsjb/wzxG1/KeBELl3b01OasbNYH8jNAr8d+WHiH3KXG4akGSgjooxFZQD1PzIdCl+nqfQ6Pc4MzqRUZTtwJoIaDfK5t339dIhrLhp0JCWJUd2fqn56fddLs95zpsu5kdTUT/wqaZ9Z0kAt++LczkaI7wPlPYg/NFfLzcqPBlVdBwMSo5G+qOOeLW
