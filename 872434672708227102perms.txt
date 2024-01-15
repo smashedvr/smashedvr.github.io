@@ -27,7 +27,6 @@ AryaDRed,4
 AshOfTheCosmos,4
 Awesomewildwill,12
 BAbrenna,4
-BangerJr,4
 Bankomat,7
 Batico,4
 Bazlowww,4
@@ -68,7 +67,6 @@ DaBaun,4
 DaddiDune,4
 Daddy Kim,4
 Daikenkais,8197
-Damnit Dave,4
 DanteJoker,4
 DarkSoulless,4
 Dasty_Dubstep,4
@@ -93,7 +91,6 @@ Eveuette,4
 Evilor,4
 ExoBlazeGamer,4
 Faith․666,4
-Fantaza,4
 Fargestift1,4103
 Fenic,16911
 FiggyTheFigTree,4
@@ -104,7 +101,6 @@ Flandren,4
 FrostSickel,4
 G I R,4
 GBG 'Sawcy',4
-GBG chemmyS,4
 GUMZbaby,4
 Genesis,324
 Gillysaur,33028
@@ -210,6 +206,7 @@ Red_to_tone,4
 RenRoh420,4
 RequiemV7,8197
 RexH,5
+ReǍries,4
 Rig-,4
 Rilru,4
 RocaFlocaFlame,8197
@@ -259,7 +256,6 @@ TRUE-HORROR-24,4
 Tahyari,4
 Tails552,4
 Teknickel,4
-Terr4,4
 TheCobDad,4
 TheDrunkenMel,4
 TheSnowFox,4
@@ -360,7 +356,6 @@ yity64,4
 ~ F R E Y A ~,4
 ~ HeadPats ~,4
 ~ O D R ~,4
-~BloodValkyrie~,4
 ~Hydro~,4
 ~Myana~,4
 ~Wishin,4
@@ -402,4 +397,4 @@ yity64,4
 ［ ko ］,4
 ＾＾Shama,4103
 SIGNATURE:
-ANOM/voO+oCnkmdTIan5BWvv3102CVl7EjZa+WTt/VM8wf4+dueXxM9ZOE6jQcx/vMBSz4qnmzt7B9/kR9DFIgSTEJYHKBogKdR4uGaRctNoDSwp6IfXu0qGT0WBq+sczYb05EEDH1spfUIsz+SgoICU9RNyAdUBuh3TxyvPlSmAQBbp18Zp/xGx4p0T66AW1GU+LMlhlnKnDPqQ16m3bu2RsyfXjRszuYFjlXq9nsCL3blFbGjid8PBtVBrMhK5
+WEnGHlS/ZeXKeTDl/6rXZyn/VKQk2Rz2Iz9PNZi/4vxm8dH/lR85mOxQRddbzPrN/p/6BITVFsp0GlUC0+dIOIALU3vcvidZTeRLYCvqx/GTw6XSjFLfqSAvdfwnPSTCCK+c7gTyICxVONjFIJeaLN22qKEi+nhXLwRxKo03bkGMdtmw0IQbdNx5RELu1/63JZNN79JCRfg4DbjHqRbhjWCrwk8FuBUm0Ox2p/BO7q2qx7SbLX+6Wqxgbw9eXWsu
