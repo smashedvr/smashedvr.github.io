@@ -221,6 +221,7 @@ SleepySiren,4
 Sonyatta,4
 Sparkilly,4
 Spookier,7
+SpookyBat,4
 Squishyfox,36
 Stacy'sMother,4
 Stitched Shut,4
@@ -360,4 +361,4 @@ yity64,4
 ［ ko ］,4
 ＾＾Shama,4103
 SIGNATURE:
-J8b8Nn0HoV5G4hbsI6Wpl1f4wsRYYFRDJ6Wrnoe7xvc//f6dmXqRtKEQWv3MO9bW+3OXE1YP2qt709hg/+yzzScYGtHN1/ZbguVyQrIOcp4iok/u1bPMKzbzN8i0yhAJykes02PuQXoM2RW7dPqHanjnM4D0/DP/++EuLe4UvpKchsO+EU2m+TVrmPfwd5QsbAlFmlO+dsnQX452Avx9gT7HGkDa3VKZ9eKydUcbwkcST1Ax+GjHDCC+H8LCtUSe
+DM3WiohtbeIaI2/Li6WzBNgZEJRmEZzGVXtebZlSsDFzg9LXiCU9qE6wLWQ+fezIfAb2gJShKSyMCAgJpJD5UW94fEpHAPFbGeXex0ahku2PteTbou8dUWZBVkzE9TYjK/GtF2kZjX9XLNhSWyJTCes9jlPD+vDGA2Ri9EsgolEEbbE+fQbpKKdqrlyEgqcIFKuM6lKq9Cxdfyn1QknXSWOuoPUSPfZW0k0gc5IGT6cEHNW4pL3Pw+Qn14SaeY0K
