@@ -1,4 +1,4 @@
-1706583600
+1706594400
 ''Mike'',4
 - Solensis -,4
 - puppy -,4
@@ -96,7 +96,6 @@ Genesis,324
 Gillysaur,33028
 GodsDrill,4
 GommeR,4
-Grumpy~,260
 GunfireFalls,4
 Heirja,4
 Hidan Ryusaki,4
@@ -357,4 +356,4 @@ yity64,4
 ［ ko ］,4
 ＾＾Shama,4103
 SIGNATURE:
-ScfyC72Yee+CEuX16+y5cHOJLb+I4lng+Jy9imr8WjHvFuV04HOQexkyAOzEwsUKrsbMLbWtwS67ULjxjZ7EoDkYN2pAk0OuQEYvjfFwEXFkvKonxbHj6XRwX9SQkBa/AOCjGISrMuNYkFCr6UuCqDB03+FJAOPp4H5VkIL73BXNjyFARtVwmwJ2umv4OEqKMsc0uYx7agV8shcj65HX5lHhogxgSbxcWhqBS6+Fce2uwfk0mM8HlZcCqzS9oOt8
+lRqBAedjsfZIg5SwUPjKL0WxVxPVkpB/JS9dbc3eP9b6FDu1TLnlStx9chRJoTuEg49FyeQjpR93lA2kG0Rd9tjCLnMJw073VTpgp7jjotICvOtGdgFM3KAii2X/I0YiUugwWYef2fOV7+3y7I+n8slPtV0vhMunshNRD73TsxDPYywZ5jLt8aeqyv4BJF7kaVvcSOZsbV43qmpDHHETP+8eeNeVJrZu/vFDdEHjcqmjQxHGQ5+5eVr6YuPyuSpX
