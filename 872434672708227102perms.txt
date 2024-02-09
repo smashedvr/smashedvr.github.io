@@ -99,7 +99,7 @@ Gillysaur,33156
 GodsDrill,4
 GommeR,4
 GunfireFalls,4
-Hanabi Aero,7
+Hanabi Aero,4
 Heirja,4
 Hidan Ryusaki,4
 Hiiru,4
@@ -367,4 +367,4 @@ yity64,4
 ［ ko ］,4
 ＾＾Shama,4103
 SIGNATURE:
-PEKhz/svZH0SLwAngrxRk4NtYuWfE+FsChnULVhe8kkwJZN4aBxvh6PW0QNcMZhlXDtYzVYHS656wthA1r/KxjUjZEkj6m7jrwc5BpYckCUPat3W7XkzBRhgO7swhwlIpM+DIO/8tl4H4+yh2KT+XJy7Bgb0+ICBx67iR5GZeL6vRFrUh2BZV0f9l5OcJqb3p4mYzYBYBUCUAJJqgv3L8JuGuXkzkf6bAP89fjr+n+SIhGtYbxQxN/gEzBqKEjSb
+Ke4tJoJ2ymK0XujZe1ceJfJydrU77B/yA9OCJALejEOe1VEYN+ZN8gM0uf3dDDgnQuY4wsjY7b1maEkXBWO651haq7xfXzQWke5dyQ5TLZVwZk0jWNi0WU6QfW4Jj0+cJPxHFRkhR8ZKQTpLpr/UlbJBep6rvhVRN1sOqtlw9tYjh0+Wl16j36xtRq6gIzLEfOn4nk511BhnQmDIGorcEsWAx2iRPA+RaknMtSHnAzuHB6F/mrgYXPYBwthxdUyp
