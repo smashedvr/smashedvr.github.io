@@ -141,7 +141,7 @@ LouLingod,4
 Love Rose,4
 LukeStars,4
 Lvl20Wizard,8197
-LᴏɴᴇʟʏDᴇʌᴛн,4
+LᴏɴᴇʟʏDᴇʌᴛн,132
 MagicalPixiDust,4
 Maija,4
 Majman,4
@@ -369,4 +369,4 @@ xwontroll,4
 ［ ko ］,4
 ＾＾Shama,4103
 SIGNATURE:
-ZQSvNfKHKMPghbNZL5tRCFYl4PgiZaVMlRKtyZKhrbBBvSUBI5w+wpnYnwkta+Qmk8wh5vLcVeV0AeEm/UDbUaNHvduoVPUcnLOWGBwcZ53gXRbgZokYKPysm6Y2iuX8ozjAHZ/xdnF+pQQkuceVDBkNu/gdbU4zq8z2ODOrQjS8yjy7KnI4eyGyNyc56kEHw3aMQBY9hE4W0Ja4YgY+njt1XekPncFm//iwoQnSmoeSc+75W1lAf5sgg4E6qGA3
+CdEAnFTIEIO6ZhX+H8873ngYC+9A4ix3pxmb2z00YOQBboqrklYaCy3+XlWkzAO4qGrG8PpA1kqzwzTVIv8TYsa3QnXjEP/aSV02gCjzPagTh3RK9//ZzNmylgAV+rGjddfSl/YUH37zLpKLkdVGLjZ34Jj+lWgelnIhJqUerjmgFmVymdoS+A1M15w1IY/I1F2O653BIuhiAEOMPAiJf6dHGN+xps71viphtfZ1IsDuBgcVznjF1wgS04Y62bfs
