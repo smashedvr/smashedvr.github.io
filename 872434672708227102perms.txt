@@ -76,7 +76,7 @@ DestroyerMon,4100
 DonJon,4
 Draculawl,4
 DragonJones01,4
-Dukeslice,8205
+Dukeslice,8207
 Dɑnte,12
 EMOtionalSquish,4
 Elyren,5
@@ -369,4 +369,4 @@ xwontroll,4
 ［ ko ］,4
 ＾＾Shama,4103
 SIGNATURE:
-UOHBh35YD1FTXDSOERq2hejbZGh71UxN7DGO8Ec6qXhZiMV7iJialB9SG859i4+2tVjcH54KOOCY8Kztz3dwsUW8tIp+MkT952KCvSoQjZ65pzTi3+FoKIoC+Nb/H7N17JNS7y3Am9Ne7EGwAzjGiU+wLlvYhZn00JALi/N8+KyApbjooESZkF7dFQmWbVLeG+neNae8iZcsczqg4tO2r6WIVQhFtmfrDy1QTy4eASYTmT/h6CTcqXJ6l/rHJ9zf
+TmFuAyCl7Snt/pxAthfS72kkD5FptXxLT0wta+yjr3+j+1K9uExONzMLAfYi9B7AkPkrE5fIZ3W7s+t7qJ2F/+sA1KbbSDmYfLtx1pHp88y6fHxP46fpRXoabDeryKZs04tPwrZvs8ZlM/9QP75nMZRUzLEPTYECRQTIoje6oqY97ok5zKOIo8YcoBHysoU8Z0zajMEDHsX8UenmXnuJr3kgvdW62v7wUFuyz1yLmrY/Z7ubypAPxt0NMDNSIU2W
