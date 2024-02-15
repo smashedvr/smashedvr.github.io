@@ -100,6 +100,7 @@ Gillysaur,33028
 GodsDrill,4
 GommeR,4
 GunfireFalls,4
+Hakai~,4
 Heirja,4
 Hidan Ryusaki,4
 Hiiru,4
@@ -375,4 +376,4 @@ xwontroll,4
 ［ ko ］,4
 ＾＾Shama,4103
 SIGNATURE:
-A+kyewhUGOc8kPY1hJJQj5G+T0k7oDHuRn+yUs+kn7R18E/5tVijjlRrtd3u5cck4nR37glbANJNGuQsb8TR9lHERQ1F3zbtab4r3guaQjmBWwyntj783sJFnnltKCsmbWoEiTSEl5AkuQLdQI5RPWx/gaMea7qeim7rKgPz1naOemNNUjHOxJCjCMvC+FwNSk8q82JqjhvEKoXWKQhDNEAZOM/c7dhUTC1Trh6+QFbUF7psIMobrzbbrqUP4cOt
+LvsmxuFYbbBPdl73V0ZIi+l/j13I5iLjdQR9avjPHny/VHOSxi6hd5nO6GLxnzGBqAczocTnvxPVNk1tl2SpKhgYvIJZ/Im56RbiMThf8YTtOdIRTR54VteOjpWrVwdf2MpCzUib6WCh6OnUuWHtczZSpl9p/SNIpShVfqwtVeAew2xyFy9TAY+eDPtC6T9ZxC50/29AyV9hJQRv/PYBQF/YAGzAaLX+3HRJacxiZn6zbHnR6sPZP1iHhMTHokFe
