@@ -108,7 +108,7 @@ Genesis,327
 Gillysaur,33028
 GodsDrill,4
 GommeR,4
-GreenCrumpet,132
+GreenCrumpet,4
 GunfireFalls,4
 Hakai~,4
 Hana_Ka,4
@@ -397,4 +397,4 @@ xwontroll,4
 ［ ko ］,4
 ＾＾Shama,4103
 SIGNATURE:
-K1jS6Qf8W9tuRuWyA7359Xffe+qc75+1gqP5TTxGlSxlmqOZJRv+7JJYHJAPz/UaIB0Eyt0jhkGEVVVufXwmtBordyQySQW/GCv/QokfMBV3pRa2Mo9S5UqffyVLPS+rFgJVO3Re17XmZHmHphy0CVRfYBKp0RW+ufUz9kCNZLPXVUQb+pu3AlYzSCaIVkqP2eJxNohlmsp6dYBNjf/qExjv1kYuLAAquN41J3Hse9kEnslEKEFHneAjkIbDauqd
+dSmZ4Eiuq/aDhj+yq0pFuI/BJsLcsLKGUPMHYZVIixN5C5f8b83Qe0q0+FCXHrIdCTM4wqrGowMeCAn96fJ2S/Kf7CQmvAVh0vz1l19EyG1M7qymMMKQ7vv454rRQIG5NocIsllIhJ+sYq2uvXypk+o8MShP5HFPS+8s16X5TT08dofekNKgaK2yEaRET+v5F70fW92ex5BWiMYvKY6yx8rwr1TyeYQV4qHY0siuINHffs/XkRb3b2egyuZFXzIL
