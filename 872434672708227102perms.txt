@@ -197,7 +197,7 @@ PromptSage491,8197
 Pymme,4
 QueenOfBottom,8205
 QuinChimera,4103
-R E S O L V E,1028
+R E S O L V E,3
 R e d（ 赤）,4
 R3v0ツ,4
 Raddi,4
@@ -409,4 +409,4 @@ xwontroll,4
 ［ ko ］,4
 ＾＾Shama,4103
 SIGNATURE:
-TRPFj01OF3zP793feFRCMGCWTrFp0d0jkbpB1A4FAc5W9W1MG4ws+IwmtVSt3OHrzEeWzt2/Oh1JuRayOQs+wmeJ/6hPq+DvNab7LMZDm5GVMmaca8wWXzYo/mCXOtai6hSLV4qqVnzTuWnIWoLtb+B+0caQRmxxY1hecS4Raa2vvUNl/Jmxhfr5RgVHpNbEMuYes+gG8IcqmBWni0ubtT69nAoNOIgwnqrE59457cG8rp5+dlYt9AmbD7Dlah7B
+cop/rs0OoISHqzxhcPaMW56NWabKaBKP5xN31OOXwiF9SH5X9L4ubVK2Wazi0Q28CvbDvdQYJhb+EYUNS/qpJyuR1yKQujLEhv4CXQfjSH+0Ghxir9nO7dLh4q5pds0XEPszkXU2EZ7fmM100GzgrMLZpn6eXhVp58PitG6ZltUk4565G3uOj2Iqha9BFdWU/Ka+P7THejhwg69Rv9+RwTKfLCDjtY3BT8eQpInyv+iMyik86VasFLZGvkVfhbTO
