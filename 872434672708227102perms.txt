@@ -206,7 +206,7 @@ QuinChimera,4103
 R E S O L V E,1159
 R e d（ 赤）,4
 R3v0ツ,4
-Raddi,4
+Raddi,7
 Ragun,4
 RandomOni,4
 RandomZombie,4
@@ -420,4 +420,4 @@ xwontroll,4
 ［ ko ］,4
 ＾＾Shama,4103
 SIGNATURE:
-TxOgmlSgLTwlYSiC1SwwBmiKYxMwxtWa+90KSqy/nnTx/I+Y7hmo+CbMFAqZjUYrQNTRfncyFoSsiptm2G9pArmxZDTuL6qTAm7Gi0FAi7NrVJ+Yd+Lc5wMNmgY4lDPOTXEMVIE/I5GzjOP3grnZaQ/RZoEVbWthsHHXrE1Ug4iUHwNDFg7tVEfkVJPP0ag5qlRs4yULuafmbqL1n5OKFo4cgy308BN1QG3b1AGxzBYimI7j15aA+rct0ymA2FgF
+Do8hi6qP93WkeFn78FNH2jo+rOaYNGzslzggIV6b6pxEFBechG6i/n8T1LKn3RfNWoA5OAy73BLig9VbGA/2IbeUTfEf+Oqm98ijYdZSm4qQHTrXg/4/dfjVTmxgHIn1C2FIbiO7/btGktAT+zuZ5wf7qHbJRnH1F88WLfVTjCQsvD7Oy3Qwk2myMLVaO6I2Kgy1KdLDQXn3MM+USXsc+G836hq2a4+7jSTAy+c7j5apa3zsswofEcUqXIYZq5SO
