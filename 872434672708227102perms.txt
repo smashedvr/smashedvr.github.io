@@ -27,7 +27,6 @@ Arvinn,7
 AryaDRed,4
 AshOfTheCosmos,4
 AstroKaen,4
-Awesomewildwill,12
 BAbrenna,4
 Badnessy,4
 Bankomat,4
@@ -204,6 +203,7 @@ PigeonsHaveLegs,12
 Polynality,4103
 Poolio818,4
 PromptSage491,8197
+PuppyWill,12
 Pymme,4
 QueenOfBottom,8205
 QuinChimera,4103
@@ -431,4 +431,4 @@ xwontroll,4
 ［ ko ］,4
 ＾＾Shama,4103
 SIGNATURE:
-botGX6u6l9X/I8NWRqH+sljheMlSb6FabaTZM7C5lJB2qGFwXmPtJ+ETOY4C5P3fzMJlGnWJ0e6fLhBx9H+2giooZDhozpKkF/xF3LUsZ8vM2HxX+DRlNV6cVeBQzZ2MbjsFDKKytXCMbqVD41f/60yHuf1DJpTgmGKe8XKn2dDx+ZJ5Q36VbXs4gnPZ3QP8nnrSIbvOQwVb5gHdKy2Iyd8zyBAb9dbenrlOA7J7rHkSrQ96RPFPjvCQz/xVzHBK
+IUgnq5rWiFO3/D4S2bLRCHoZHLKradA6WpV5VVbU833hdwFWw9NvRhthU8xf/GhFFnqYADyXcCFVsDUd59uTFdNuDnZXhXZP7qP26i910ZsnFlHZwNpHyKwM8jlPWFV5AidEuBq8tjADNoUvX8T/0GYNzTYNv74nFeMncb2BcZPr4wa0f3cYjqORw+xNDo9Egw57On5tSXq6jz7LL2wYNKZ8VHBVs/AFRZxqKstDOnk2vIglyoWVWwGBcT9c5Ni3
