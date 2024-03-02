@@ -312,7 +312,7 @@ VΑLAC,4103
 Vισʅα Lαყɳҽ,4
 WarlordArdan,12
 WarlordVayda,68
-WeaselxD,12
+WeaselxD,16396
 Wildhalfling,4
 Woofels,1028
 Xhiiu,68
@@ -441,4 +441,4 @@ xwontroll,4
 ［ ko ］,4
 ＾＾Shama,4103
 SIGNATURE:
-ea6qAz/xPhsMT/bIbr9EuNZ+VxqpADCQX23TUfQ1e0mkUgFD6iF6+qcjlVQJsVwjt0H5eNqIw0cSJhgghWY477BLECHZYW63/X3wtBHO6JHBtkQAzUdm4Pe/Swr8JOGfd3KdnDygCgKEOFzKS2cjABvPzoeV+miFC6pOfZTJZ3Bm/mRedN+nnKvEoOOepg3VWDTZrlg8pCK3vyW/cA+6lO8kFkq4HHP6JDLIzdIEA6EVCxkphMqj0H6GuRGPrfHG
+bv2MPpsEjQhOWEN+K5o8M4FsRBOR9oCM5wSYH5sImv/zli2SUYSDP/4hJAk5QMpmJr2xFnaNy2WfUtluJ9HRx/RRNC9xTQJFLfKvbATUxmj0hwoglnkzbNNDz+N9ruqhvyO+mywTq07Y/m/FN05g9Gx04eJUgU6hU5VsTy/iw/LKUC61UV3MyGZoQsV6eZ5bYQwwGhy30YSzvtotWtkEd1iU18zt023JC15i8EhaCWkosoiChW121MzjpCcLMF6E
