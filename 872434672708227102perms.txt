@@ -29,6 +29,7 @@ Arvinn,7
 AryaDRed,4
 AshOfTheCosmos,4
 AstroKaen,4
+AwakenPrism,4
 BAbrenna,4
 Badnessy,4
 Bankomat,4
@@ -113,7 +114,6 @@ G0TTERDAMMERUNG,4
 GBG 'Sawcy',4
 GUMZbaby,4
 Genesis,839
-Gillysaur,260
 GodsDrill,4
 Goldspooky4733,4
 GommeR,4
@@ -280,6 +280,7 @@ StrawHatStream,4
 Sweet Bean,7
 Sykes-9,4
 Syntheal,33028
+S̶c̶a̶r̶,260
 Sραɾƙყ,4
 TRUE-HORROR-24,4
 Tahyari,4
@@ -450,4 +451,4 @@ xwontroll,4
 ［ ko ］,4
 ＾＾Shama,4103
 SIGNATURE:
-QiTzMYb3ANdEwdcfZT3QqNZDyms71nIMFNwsHdj+bOA2ZTTZQBCBNXLbGZFdX6NKvuN1mzldyEEz2ZvH8vlGzLsnXqb+pP01TDTQ4A0b4J+BAbfwtSkV3PBVkpfraXlC84otGcSdqgZJGasBvD6xs8ep/D5wb4q6Wyr21d72WDNsMS5gktvAFc6t4tW932JY+AFXRnIUDjRwQYExbboSjH3H3A2+vq3ZR0FPH2qxLbho+NWPwHIjFPPRFFgArn1g
+DGw6tZZb5UEFZtQvjjPsK4sryKr1hsP9JMHHhnfSa/4VPweMo3GkdIfn+ydbvK3ssyhWjp1ltq4yu9udByrgWyBl6tAIX1H9Nt9EAw30lJ1h3qF8st89dtgNRUbOjTMWs5qRzlku1agtAx7IM5DGaTUp8Ethbww3i7og/EWMgpQYwgRNZuHC6CP2RrEiVgoEv21oF7MV1N62RdanidppNlry+bS9yacX7Q18LFgDRKmOxJg5dIKyce7P2lvF/gM4
