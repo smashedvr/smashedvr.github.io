@@ -293,7 +293,7 @@ SmurfMan,4
 Sonyatta,4
 Sparkilly,132
 SpookyBat,4
-Squishyfox,36
+Squishyfox,4
 Stacy'sMother,4
 Stitched Shut,4
 Stoltt1,16388
@@ -485,4 +485,4 @@ xwontroll,4
 ＾＾Shama,4103
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-TYZ7lGZjrSMw4RbSLZ1LruocoaXvjzwYbFwH5CGcj0ysJHBsJMUjqcFeNEsOamtzWY4tSiYRW6XkqmmoGpemnvSOqTqAXhrTm0zbtPxzF2XP3xqDuGQepcmC6sXwaMNig7VOQbtfCN7mwgvKaNXc4jfLFcxPOQ64QbBqL+coMUb5Kwaseua+Dgeuhzvp4wJ+UjU0vUfMkqaNGJ4IAV/30QP2xxeIWlx7aZvh4shlFH5cJehdT4g2ZdBCkt72SXQK
+mN2xka389p+rmIKqI+Iwv+ZlKkW0wZEdf5pIJQDedw5oBTDFXW7PKdVe+x7KqqkWM4h+Y9nmaenBxZWt51Tbiqrfdf1zma9IQoSNzX0Kz4kbPk6LLaxMWz+ILaQrE+guEAT9T4qFSMnnwHg8y8F74ZPwPqdowiCwYDmBhv7dVvdX91a7PV94gSDPC9x9EdlDFZy4e+USow8M+1nHuwomxU/ghdCjjr3c718cThPIJeID2r4P2nV4/PX3QnTARsjt
