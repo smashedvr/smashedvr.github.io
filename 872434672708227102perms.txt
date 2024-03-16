@@ -239,7 +239,7 @@ PuppyWill,12
 Pymme,4
 QueenOfBottom,8205
 QuinChimera,4103
-R E S O L V E D,1031
+R E S O L V E,1031
 R I V E R S,68
 R e d（ 赤）,4
 R3v0ツ,4
@@ -490,4 +490,4 @@ xwontroll,4
 ＾＾Shama,4103
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-IyDclg0c5EpC3CsbqvYjuMJSHwLAinMZRQLocUBalT0PXSZw1o3djXjDlr7TK31yGsaVdHmNDKuBJruVXm+ng53sk8zskl7svf05f6/0rQ7htk3AWVgFm0/hdj9MFXT5K+HozR2o4Uno+xLU+oIdMq96y+Cs47qIY4HeHy5I22J4SUR6WkD9ZTH+z6AflWD3Vvww5SGE4jREMtbRpmOMZk3PDQflFjSbQyG+dcKL8l2Vld/5XWcowcK+6uP4DmPJ
+f6Jqvqykft+5gBMBuqi7ygVfgZ3qY0Xu2GWNuzOt4q0tdemWmnWzcPkcvzGdpPVITwK7enIiJCkuvVKDvY3QJvLro/xXtSarMQ/Gu0JJG6lLN/4U96ErShNkQY6e37klLsPm0RLL8BH9a/uvOrsOr6as7Scr/qkg81hrq2/3+MCT+DcbT+rb7YQRjBo2d2p1MEd1Byf9Bo4ppiRUybxdYBXSGRD6sFu82a2E6vWbuvqe/qO3xJXqzEToegk8j3Fu
