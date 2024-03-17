@@ -128,6 +128,7 @@ GBG 'Sawcy',4
 GUMZbaby,4
 Genesis,839
 Gigzi Mello,4
+Gillysaur,260
 GodsDrill,4
 Goldspooky4733,4
 GommeR,4
@@ -312,7 +313,6 @@ StrawHatStream,4
 Sweet Bean,7
 Sykes-9,4
 Syntheal,33028
-S̶c̶a̶r̶,260
 Sραɾƙყ,4
 TRUE-HORROR-24,4
 Tahyari,4
@@ -505,4 +505,4 @@ xwontroll,4
 ＾＾Shama,4103
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-WvVaiJm6iE+KQ7guYno4wdWU8weFNc5zPV6PL3UMu+NQrgZ22CFQ8SJxwKr7jPK1DaNFGddanzEjhXE6lf3AqJNhPxlLnDY3jhjHe5gYaDuvxp2iESUNDT+xY7qUxNUEAVzV/bstGUK1Vdzxxyjt2vSbfT6M6LWOGw0L4Q0kapmouypMzlxTCz9YdhVaXr4kWhXqZJ6u/yIc9dESlrh++NG6/3wThllLNHCswL7ZUMSZWfanrH3uH+rZIm9uR3aB
+dzLixB16LTxxPYsx98eFvyvOBwln1PxpFlxhN7NCQgTD3R8xCW61mspziG0DXI7w2tuIg6hPVKOvptg6uG1VaITYjvR2aH2+Z5F0NhYerIE8IVnfwDImBPDtyr6rxzBrBXDn+r9NTy1RNH7Nsv632QpkLmtAYZ0iHtfsVELytWNBLdUTvmTlMTrQ+ALcJeLnvu4xaucBrqMbTHcgV/aTTn/H9FWNT/FdG2AQZ9W/aoC+IjKhJgyT3bA6GtC5Y2MB
