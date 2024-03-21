@@ -515,7 +515,8 @@ xwontroll,4
 ＲＯＷＤＹ ＲＯＤ,7
 ＳＴＩＴＣＨＥＳ,12
 ［ ko ］,4
+［Wolf］,4
 ＾＾Shama,4103
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-lcU0jnAXTj9xsIB8Be4AEugZG4lyx/zlf5nM+jmgVuqyJlxd2h7BCOauihyM1j+qV9USPIn394r9VGqALQz9g5nnQmeSPr6XL5NXTxf8H5E0fSKs9sd5bR8t6B9i6XqxkqD6TRC3G1CWvBbIzKwCS8iHqfyBKvpMF6YCblwe0D1B8SdXnJjYLIaMira+RhTQ6qWiQWK1adYBKjYzOkNbBDFKVEJdvn+sBv5zbU35VXNvjeIVpofOWj/WOXruq7cg
+AHpJ8sxbEehthI0vremWp2tHz5K7QuBQRizeV90/oyLOUO/P/WKuSiNZScDl++1o0/iy8J7HaNRggAIYiIRf+BzPQ7fDraPqGPedqpOxbsDTUtcgyKQMZZNMp4jMVleKtmSoMkCf/NBFwrtSNjWhwuZb1jcHgYduXptz044fsKB4M9adTyoeMvNJMMJJqYjxT8UV9+KX7M2pfoCCIz3IPs0hOhjzp93r3Q+VHR/LRQ7T7nGkCswW136zhCnzFSKB
