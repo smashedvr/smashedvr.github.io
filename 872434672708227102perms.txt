@@ -478,7 +478,7 @@ xldgz,7
 xwontroll,4
 ~ Dabz ~,12
 ~ F R E Y A ~,4
-~ Fray ~,68
+~ Fray ~,580
 ~ HeadPats ~,4
 ~ O D R ~,4
 ~Fifty,4
@@ -535,4 +535,4 @@ xwontroll,4
 ＾＾Shama,4103
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-ma36BB3y+5SrxKEzD8oDn1LgGQz9Z8Rrg2dAlugVb2gkPmOQ1udTHWfS2F4IRIjBfuMHK1sLR+AzOu8jxb7Ea2aoSnd825iZa6OIB79+SLDJnIhQodZsWair5Ti0/leLNrSdytN7VZ+nrKCyrx3eIQX3JdMSTrMFAgRwI0gVJbgrNUvHuvfl2VlgutoZZLi724sgfLvvQAdvBoYiX36PET4lSfDfmS/U7xNpANY1ryo4b/oSaRphgUwgIO3XtnqL
+LEh8FkrTHc89a6vSouprYe9Fessv0d5nni3oEB98vc2AQwHed+wzPGQg1pjOr78FmPZrI/nrkoWnuglCgXB0yq9wvV79QEpw/fP+mhqTu1+sjg8AtTpMkLQCu3s+QuGob3Bv5GzSoR0qxMvprDoyzN9e0TnyfIgQ0mwy6xS9l7zOuFyOQOCjLvqLAjya7ClnJemC4PLM2tRmYvGlmp3ragwRFdv94JRkFJS23t61PFRqfXkJzSVvlqAbMFbSq91c
