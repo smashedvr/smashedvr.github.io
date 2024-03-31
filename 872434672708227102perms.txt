@@ -280,7 +280,7 @@ QueenOfBottom,8205
 QuinChimera,4103
 R E S O L V E D,1031
 R e d（ 赤）,4
-R3v0ツ,4
+R3v0ツ,132
 Raddi,7
 Ragun,4
 RandomOni,4
@@ -553,4 +553,4 @@ xwontroll,4
 ＾＾Shama,4103
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-nlDzwqre3aRB/JKqWKzohb5JF8JzjExDEdA03hdLbpA+9uictLwA13aNlXLNuZjvq1Hrvzz/bbT81SWx0E5fS9qemglbUUbNbYWMdnvg920GZr2klxzzTQQ95htlU9M8XEtFxgONyLw9NGamtmPd6tRcx/jHqWNVgL/YAxB4GZwQj/b86PwDocBxc22Vw6Lg4plH2MId4ld+o7+dFEtKjX4HTC/TI2hqCN9f7ty+aVvOoCKiQev2x4y/JTosym5f
+GcXw5/JuiKyjDEeGE+ZaI+d6lzfGJKwdyDVyXQC6fDQUSk7GdImh/SUsW2o/OqGINb7Wh8qNYj66OF8H/kNgBET4w7oN+taz0+pnsS2aupLHOO3OcvRcwMt6Hyg6fika2EAMp6nd2UBKtxqculkSKE0Pc3LlGucIdCz/YnSC51QsXdvpP2RcDfILeUWC2iMjXQqRGBjn4P87rTAPA9Sf8B4LqVEFzXUOnuYFk7o4coGrpqNGPZcqosDtcpLQvhhI
