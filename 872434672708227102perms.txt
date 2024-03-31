@@ -277,7 +277,6 @@ Pymme,4
 QueenOfBottom,8205
 QuinChimera,4103
 R E S O L V E D,1031
-R I V E R S,4
 R e d（ 赤）,4
 R3v0ツ,4
 Raddi,7
@@ -552,4 +551,4 @@ xwontroll,4
 ＾＾Shama,4103
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-DBAlosyv6Zwyz+da82N/cAShqzklaSnhabJ3AjSCLo8wAbh/egV7tloWZ7S9gGt95FMLvVI42D8c2+64m4KrRBxpCb+CaZzecITJLeIkjd1V1RFj+pnmCRSBp366MYChBpK6Ay58fdMs9JjUqSXBhHmGK5kQISg204MaZJWEmkkaZeKTuJCnjF6ldnL2qEGT/FqftW9I8y/h5CJAi7Nn6Bs/TaIhsVpuOwPgjYsyoqalcPaG9ioVPDZXIZYMbMhK
+Niwr3Vi+op9l8drWPuGa81s+AkVyBdDC4fuyNlhZlZupFnwQaU3H2rGVXaL1xogCCVKr9rjf/sCJZ5XB2RuZE1FftMcowb1G6UpFAVFQR/WpIKcN6EGZmKIzoRcosw+Nmti0viv2eqkU/vcDGBV2h5Uo+UHx7ts5bLqxjCEgBRCHSEEK3d4m+lE91lgSNk0igOu9YIS3lofwCeyxm+WKnm7KlajxQfg1WzBa/VUDoLHqaHngWYOsiOM3Fvjdzar6
