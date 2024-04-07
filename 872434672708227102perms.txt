@@ -288,7 +288,6 @@ Pymme,4
 QueenOfBottom,8205
 QuinChimera,4103
 R E S O L V E D,1031
-R I V E R S,580
 R e d（ 赤）,4
 R3v0ツ,4
 Raddi,7
@@ -566,9 +565,10 @@ xwontroll,4
 月 Luna 月,4
 （Jay）,4
 ＲＯＷＤＹ ＲＯＤ,71
+Ｒｉｖｅｒ．,580
 ＳＴＩＴＣＨＥＳ,12
 ［ ko ］,4
 ＾＾Shama,4103
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-mPusZme0GF7guMdQCx17QMeXRHhqRXaTNHOXIfCGhWeOYSlSLDclmPqXL60UhDECAxzyszs6h4uJQ9YSdQIJZqn2DNs3v9fprxFt+WfqjEJ1SsQnhwlZVbG/j9FPQEVTmP4klBsbDOy7UVb4ggpk2eGK9RZivOt4jUevWlt+WcJI1kj2K+298q69sBrlJtcOgQ9qlpMum8Rpv0kooRbCk/LNqVUpmCXHu6jLRzjOpBG8+IAo6elO2qL9ZLxcqExJ
+Zzl2nJXQdO+PsYnXCL1zmi47bsu3VhIP03TQ1sAe80KEvew5f67hSyU+oYQEYMoPdn4Oi8zfMl0ORf3oce4dkPWH/lzRvWLZu8OU13u5u3rR/JbCPtnMN8XDr/5WHYwi3Z3iAOKTj2hlxwbgiSXRT0bukOajyLoHzcyXi3uvCh7AhSsI1CIq9omFdALVW77jT8eQ3tmVIrdnhv1FGbNN6ih3dd/XnJYf3KaC/RsBC2K+qyTWyv/YkFmYnX9KoOnw
