@@ -81,7 +81,6 @@ Cammycarr,4
 Cashination,7
 Catharsis,4
 Cats․,4
-Cerberus-Haiku,4
 CerberusVr,4
 Chiller963,4
 Chungerz,4
@@ -313,6 +312,7 @@ RenRoh420,4
 RequiemV7,8197
 RexH,8197
 Rig-,4
+Riketsu,4
 Riley Vinx,519
 RileyBean,4
 Rilru,4
@@ -586,4 +586,4 @@ xwontroll,4
 ＾＾Shama,4103
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-KDfVZoxKLG3F3WtVfAH7Qm5pZX+qdvuF4rH/f/cc7ZDyd3KEhBBhkAYCY6H6kmeMCzacHaBprrcHoSG/CLWA7lSBVWa/dXZxcaPAx+NViD3GESv0KC238mdjaOr+6gphZAndJLTN7LTL2QVfAXaRZVV4sxDkSgxfRq90AoJ8p5JMy61mGlBsignK6Q5E755IMnjcFF2lERY5mab4gNeG9INB0TvbMzKZu7cxjH/ClOYZ56ScCIv8BbhPJ6CIoar9
+ABihXMktS2Sj/wgUoJotJztVIHJ6McX/ttgLKi1uOk/DFZvgrcERpsVKrUQTe6Do1VO714PImpRKuZjrJ2FP0Ii2fHmv57gKkGxqFDO2Oh0jE5792jW3Pp9MWgH61UyO1S6gFkqgARFtP7VT8UgN7DHEvVKdWfxsMkj+TTiXwPbe/PZ5+7zSq1pswSbLvFi+OmyYoLkP9UfMsgqoiRLm7DLHZHseHrcp9Mt4e4n8S/ZahWNfZTSxl0UqvxpvzjCC
