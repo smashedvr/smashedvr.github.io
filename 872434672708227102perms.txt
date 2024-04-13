@@ -533,7 +533,7 @@ xwontroll,4
 ~Wishin,4
 ~Zimos~,4
 ~~MJ~~,4
-¥Valkyrie¥,4
+¥Valkyrie¥,12
 Ķeebs,4
 Łк Renji,4
 Ƙiri,81924
@@ -588,4 +588,4 @@ xwontroll,4
 ＾＾Shama,4103
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-XWLA5cho5FXtzxObOuhzV2BJM9ugCeKAIPSQuFup27cm9vsZ1u16HEbmZKaKhbhnS/LwV+sqoSqdSh6LyT5m2iUJHa3E8yQjnYZYheUfLzstb3r3ZQGEnP38WOUED0v+k6h5KEq/fSgkuNMy6LrGdCialLOoM3w+7fCX1wlxMjUWddOqUVJmc18LsNQVG4AR2P5O3QK4T93g6jTVHx3fy7UUihaCj6Y8znaSVdpWVYJPNtsrZv8RenOKwgOLab7B
+Wv3pbsbq5EbcDaCIXRP42r7hugWwCsipWT9HOZGLJKdMBNwQlbBbYnXON+P377RdfAe8eC1VWwvlNF0PzVRnG7uWF1BZC0wcWYw+DB8li46//BUGv8HScEUtjXf+wphz+vkkrUjMfdampUzDJQGC2FdYgWyBlbjaz/ZqNdsY3y1e8EJY1kNj3CEQ8QHtb3pRhFj/VJxdYxoUta7JXNgdp1tIP5UPWDDOzGMUWNE+0G8EvgXsHlSyiMHMLVCLf6+c
