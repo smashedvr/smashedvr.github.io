@@ -164,6 +164,7 @@ GothSuccubus,4
 GreenCrumpet,4
 Grimey22,4
 GunfireFalls,4
+GøđєssOfChaøs,12
 Hakai~,4
 Hana_Ka,4
 Heirja,4
@@ -541,7 +542,6 @@ xwontroll,4
 ~Wishin,4
 ~Zimos~,4
 ~~MJ~~,4
-¥Valkyrie¥,12
 Ķeebs,4
 Łк Renji,4
 Ƙiri,81924
@@ -597,4 +597,4 @@ xwontroll,4
 ＾＾Shama,4103
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-UWDZd1PYwTYnlc5iT/GOrANjo5LUiVtSE7wjNiUA4lvn0rfZKArfOwakZ3yblktJK5oedLHtollheZSKcP0ViCrSyNZAk8AZbKYKi5a4nDgDBws7cX0Bm2HzuaHsSTskbHC0vZfrsOVG+oh1m0qtw9LlgCDmpXfF+IOzkXI1A8m8uIapm/64tZEYHidiL1eDASmR9rOai3H69FaU+cSs12uCkRaDewx9jh8LnL5OyZKDo3NJTG7A0PoB+Clkmerg
+PFqUHCT+RfzcFSc5Uweymmo+sTraiGsRGAhNi//53DG5WV2gGbzVfUCKQcSE6CQ3VPuh4Zgz4TEtqS3Zb5xGJ+/hIi6K08eOa+OYyWIQe/wUkNau67G84PUxK7NLG3WDZI0ziDXzQiGVqChwGq6QoLcgBFET1UQs6h0Ypt3oC5/qYDsbtboo0J+wFlltiKGTe1yloqyUYKVmyEjjP7lToXJZh9QwH8W88pu4wgxc3irhvtTrnJNul0TqYHAXgdWV
