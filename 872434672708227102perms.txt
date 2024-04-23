@@ -329,6 +329,7 @@ Redmist8900,5
 Reizer,4
 RenRoh420,4
 RequiemV7,8197
+Resurrection_VR,4
 RexH,8197
 Rig-,4
 Riketsu,4
@@ -622,4 +623,4 @@ xwontroll,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-M2rCK3UAzwbW2gqN13QIIhifj35QmYbRWgahwACA1DAk2pPjnY8Gt1beCbEtmj65h/AUwY3OKeKp9AlQIqWgwevenTVple/xeZWmm+Mmoj3btn79+3DJu7w/QJtFZgZpVR44BFBdH+BFgDiwK1AFmE+B9ptlhzf9S0t7ZPKv7cslpILRueh+8aqHrhZDKTOTf1H/wIKOmTMVReklIKkuwE9iHbcj0PI36bI/8mGlGn5aJ9GCXcq+UEEXTn1dJldK
+Va2InjZkf2rejyUKZFYjz7HIHG2euiOR3AhBPdyrY7vQyqgYG9THC5eYVOLK3tcKTllZpDqDO4rkzNb/rLdZo77VdzHtMtZkjQQ+wLwCIuPwFvCG+CmLB72QeplEj2Wm8fi+++NG4UfslSleGH6asxyGX9pe7II5yUu9Un8uHHJyrPP5Vq1Kb4AhDIEP80PUIxe69iiLUCz9JnnuHGSV+WZt15U6Jw5Wuz96W4NchjyakT/k+He09kb+hE39NoSu
