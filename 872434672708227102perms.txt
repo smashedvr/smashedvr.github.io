@@ -211,7 +211,7 @@ JustShyn,8197
 JustVixal,4
 JzSnow,4
 JägerMaster,4
-Jᴏrdy,7
+Jᴏrdy,519
 KENNESSEY,4
 Kai©,4
 Kalm4h,7
@@ -630,4 +630,4 @@ xwontroll,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-YVHN6jRtZGLKFGdKdyLN/DKGA6dPNUwsm+Mi/CGOUagp9UbYvvo9EnflX5/D+cBsapJHdo1Jc75BAe4wF3c9bUfgs1zAmhL3l5hkeqNZJVYzuk8dauCmf/B2HIMS0GNYarvHlysNgdT1f/j90zS7x+Q4LNZc5iApaK+6Sx4GsG4jbUVFjSlaX38mkePH7iTuOZft8rKCJByc4QSzfwmjg6liqhee/yLIIKlledJJ0lQkCB7eym9TouDZ/IG9MaVM
+digInjqROls3xdsDpLB+UILZEkEZMO72ZxKYBCXTDjuv4ubP5FsfdRSrSAw1UqhYSdKuG35Rpplq3GWDzkbwpPsX887BQArR6iTFdwkdMSaZBEVU1xIQW/3PptrNGF39egITyp3kB/KPSGPP4k8ceLUsTLHVEU+npcqMx9qc4KNANnpSqv4I9WtKmgmeOCctRbtr6h0Wz9xnk5YyM/9zZedr7+AkkbrQwA4SXhvr/SmWO4NeiYjf1DKi9RYhY11S
