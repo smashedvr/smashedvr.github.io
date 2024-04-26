@@ -151,7 +151,7 @@ Fereen,4
 FiggyTheFigTree,4
 Finguard,8197
 Fire-Princess,7
-FizzyGlyphs,7
+FizzyGlyphs,519
 Flandren,4
 FlashBubbles,4
 Fordzilla,4
@@ -631,4 +631,4 @@ xwontroll,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-gIVQ0MMkHzKjzGHmCfjmATuyNfYBXU5et3VjNjbHv5y/K7E9bv72IoDcziQfRf6K+D2OJM/SnRqFVVlpW6Ey8KQQNROVlOyxTG68XAk2jP/QIfKPnM46bWNcyjvdrOtA4/jaJfLqOv0QWqzo4HHRx8IYzNnlVWUrOjuOOA7zZqf7fRTnIH6JjLL/9UdJ1b7n3xFn886SCFaKr3b++rQ/iCRzNYYj0HRNXes64rHlYSjiRBD6hElgUs6qQQZDGNhl
+ZJ1lTYKKaDXvHe1/65XJ9PphV4l1GxcNmuVbiv7U+qBc2i/+HMXouKUlor7r6Y7GKA518lutysAs9ArWYLkYOSosx4knt1JmiAz1gMqJvwr+mnl69hZxUdilzAY3sq7Ci52ZUkuxRvCWhMC4GwTz1949HDkrWZvDK435FzMWtOgxp9ZRyR/bnC5PBpQcg8dWcizAgURd17T3kbkHLzprLdDLyJVWZ7JmgW6p9nd8bG/FiZdRNK5e0NazNZT9rV9Z
