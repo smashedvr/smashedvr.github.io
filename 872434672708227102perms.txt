@@ -325,7 +325,7 @@ QuinChimera,4103
 R E S O L V E,1031
 R e d（ 赤）,4
 R3v0ツ,4
-Raddi,135
+Raddi,7
 Ragun,4
 Raiinzee,4
 RandomOni,4
@@ -645,4 +645,4 @@ yuzu°,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-IZ5pk4KAOH2m7JlquYKdrOxC+Sbrt1N/QZK/+tc/vNju6KLa2167VVPKLo2n3RrTsYjPQfVkur1pOjVXVakFX0gPaeieqvfAd6XPh7rzQ4NHXLAuVldS6nHPu7aACSVpuluuuPPiLHsxipKffAphXN0xsmx5XRSzta8j31laaqfpoybMO6/IWUDGmvKYEz29uAelJdemkZwzVMmBh38Nr2hElAaB92WoT+ZULovYz2TzfUKKGGgqCwtD6EZKHR2P
+hOkrzEsJ/NYM5Cb9Skd4p5gDreNgmWDVJtn7OkAOGtm7zQ5QZOcH91MF4RUYUhwd9VUO6lrbTRkg2buu2Uz0YiRgtWoptyx/NwpTaHIZK9T8157vooqsUsZ1Zt3Jk5iRDvClsWdOBdAdEfNaYzKWL5ENvzdpFkZK2MuwWTxszokTjnIoM0XpBPBYHa46/0vAa+NaN9BRDn+jbCh+iWD7tCjmJZjIxnPaaB8VVCLce+vhNP9JNUzWVKYtZWr+WRIO
