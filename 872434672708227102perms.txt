@@ -415,7 +415,7 @@ SpaceChicken1,5
 Sparkilly,4
 Spartech,4
 SpookyBat,4
-Spoonkill,7
+Spoonkill,4
 Squakie,4
 Squishyfox,4
 Stacy'sMother,4
@@ -679,4 +679,4 @@ yuzu°,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-KTZsdE/KPLMfAR2HSBk+1j5IclByFcEmfj6vpN6LJbWxwuNTNT+YvltXczuNIf+0sWWa1m0+qz4Ai88CMCwQ8giC33hyv9jtSapSSz77BbqXphrV1O/jpJu4AtWjh51Vt8juNlo8mBAkilqAvOUi2J5xihC8/kP+bfQi74mgAZTh5b+f6N1OtEnyJh5uhXHH0i/fuz5WfTlaeDUx8EFG95m5Pp7KONp//IszQi6J7dcX/Y93/xyP9RSqmhkNt8Dm
+axA1jwhuIclJ818U+FnIkDDthMgvvY2BIQBOrJD3zcUW3BaSOjf9OqQ+eK5t9lk2NhnkUPPeyhUadHCTuSKnm4svt7FCzAkjriwdrgcvav7xZfiO5lgaakGTDckdlB8pxxuIk2slFKRnGPMy75g267JsPmu5513qBVcAxXhpohKwXu5IYDThuZLEUjM7lAuMuB97ufR2aoNIDBmglrH71ncyW2M86N+1t/nHF9sa7D3D5B+vCBQu5SfbwGwibJXC
