@@ -62,7 +62,7 @@ Badnessy,4
 Balsy,15
 Bananorat,4
 BangerJr,4
-Bankomat,4
+Bankomat,7
 Batico,4
 Bazlowww,4
 Bear Chan,4
@@ -689,4 +689,4 @@ yuzu°,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-aocOAVtTI5OchMMkKg+4j+JZd50q8GVWvKyeSeT8LRsvCRKrhVU6YUK9suLo7MuwlCCCptsMiGT5Kg8lG4gI4viSs+JSbD/6FoI6RomD+K6cbQ4YUFOnYz+bLZmmJ5IMLjdUNC6CupuBKvUaxvMp0bEM84DgilCaFOx9S76910r+cgFEgpROLVqkoR2527Vk22bILgymyDHS8xMylMaNaO4qFN5+jv45FSD5EZX4c4tbbpgZ4+bGwE6xqr7+5lK6
+DaEvINogWwerlNQECxY6bQ6NoNS3/cOxv4SFG2bQdR37uFDEixCvchgNCenm5L69XEewPH2l5DLS5yYQRtytVsPrVYZilyOM/CECw8DSqLVJ8kU+q3RjGCZAjjzQ9rk7KVRATXLHxNsttjjiP7PE33/v/rv6ZpGqdakl7B7apl6gA1s3nAON+iOqce+TvIQabLHq3a+bi/PCur0M6sR3xRpts4t0p/8H9mQROVI9kqQalAMYSRAUHZ/I+yTaVP6r
