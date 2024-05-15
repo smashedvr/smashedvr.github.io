@@ -147,7 +147,7 @@ Dr․Cranberry,12
 Dukeslice,8207
 Dɑnte,12
 EMOtionalSquish,4
-Edzomen,132
+Edzomen,4
 Elkkukissa,4
 Elyren,7
 Elysium․,16388
@@ -702,4 +702,4 @@ yuzu°,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-CwPMQGldGVYh+QKFy1pk5SSw44w4eAfpgU8Y2K/Ye0Wjk4dCZLUzjSyqA+TFkPBovGTn37/d1m/q73/pn5TiqcZ4hwZ9ULyD7VOkfLij0iW1XzfMdaOE19WlDy2+WpMemDMv2zYUtBSaqPu7xt7nkB52/sp37zWrZx8oW0UY2gm354HUq18+mYGBRYre8BsY3BBfgtLdRGXjpvc1h46QhhQO6xlvVqJVTgT++IGiImqJSjmfo1tlGGmLYZLKbfD3
+Ly6kccD21pxg4lzghs6RbVWQvu6nVbZeHduwCV5+5Go3yBDNx5FgawH+mRA8svNFhpc9estkjRW+EDBJ1SrLz98HasWwUHrEIVE/W3oQdY6bAO8WfwOxBOAO+7RBZ/ObA0zV2HfPFUF9OBDro6lntEbCpXyl4REivNCR1g9vhs/ALGf9Nbw13x2S4NK9f0ETh7H2BAGLxLUGqOzSs/1ZHlrIOkEDgiTGwh5dUXqvD3UfCRxQcdFcsMRBDcynOZEm
