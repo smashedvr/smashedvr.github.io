@@ -497,7 +497,6 @@ VΑLAC,4103
 Vισʅα Lαყɳҽ,65540
 W1st3r1a_M00n,4
 WarlordArdan,12
-WarlordVayda,68
 WeaselxD,81932
 WhiteheadB,4
 Wildhalfling,4
@@ -514,7 +513,6 @@ Yoko666,4
 YourBestFri3nd,4
 Yuzubear,4
 ZERO·EXE,4
-ZFHailey,4
 Zeikcharia,4
 ZerixTheFerret,8205
 Zoommair,1028
@@ -705,4 +703,4 @@ yuzu°,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-O1jgfhVVqgQfMUnj1+FeOSicGTwUCg3qomEo81CneJibaHiXDGNlEKYWPBX4tDaLfvnwGjPw6TpxC9GDTG5F5fdDxpOZOBHgo/FNLykw/0+QPRcneblpEb8sTdoJ33xl3GntcgA79EcJIDDENQDzoWOjD3z+sA3z88AQq2UfQyC3n83sro8HCFNsbUwLaYNFCV9L9q0Ls7HxQtfR9g4mn8T9G5vmSpn+hIANJhNhHwYR/vh6TBw1UYiWwBzLuS7k
+nFlFosA481ktaCD8CIOunDuK+rhINbr+8n5tG7OcWO6K6Ev0aLZiVkRUX6x1cRKKZK+mBg4ZHtNAoMQWXYa+gGNgV20ei5yd0Tn76+IARoO9+DpL7mgU3ULA0YEYm3tATIkylbDfMKIjA5dRafyL0SM8zGpH4w+9mUzufyjekDdKChYBwkbRg8CmTEWjMlV+wzYEuh3XhOf9Q95IBd9w+nGmwril5ZRmk/+vdVuLlPo9zRBEbHzHLEkgrfMekG1/
