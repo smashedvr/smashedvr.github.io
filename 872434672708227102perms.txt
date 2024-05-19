@@ -362,7 +362,7 @@ R E S O L V E,1031
 R e d（ 赤）,4
 R3v0ツ,4
 RADD-E,7
-RagingPeas,132
+RagingPeas,4
 Ragun,4
 Raiinzee,4
 RandomOni,4
@@ -695,4 +695,4 @@ yuzu°,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-URiZH6rO3QMkJKCHqUvPFK3+S2Jf/WvoAbLKSu39Z9zW3XnxTSjZGeKVPRPnsgDCq14pS71MEIhEgrdZ60ttOraGEP4are55C98lk2JABaEg3CHSKGyp4fz1UknAMc+AbDlhfrxNhRGUt7A+1ysKgRahcooE1PyAe6GNdJFa7eBJpoKQGQ1NB6Ij1EAfur8qKA9oic1ym7KVi86nhFIljaQ5dE6XnvsKaKuzwX8d6pfekFuKCDnyGmvJXTNntxjU
+CgKNEiJ4E7GIxxwmqdBzDGODlKrfiC1p8jWSSqtPncDPCdsbNCoi+T6FekzdKp4zcuLAAAPT9EM4tXkBNesHMxsYUz2jvo7Wou2GtDwdVz1K6ntBEwMpBzyjmnP3KpjmoVmxkd5bEihVClgD6JxkD6N7WB4pgV+vEpPNLlbBhGYUePMhvPggutM61RGXWyHADj+mZ7BA9MTP/Y8dk5D+3iyrEzeRPR0FMURt6bZUdvRghE/+Oq5djJSp3yfU6JKy
