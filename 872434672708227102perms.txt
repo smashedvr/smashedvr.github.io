@@ -359,7 +359,7 @@ PuppyWill,4
 Pymme,4
 QueenOfBottom,8205
 QuinChimera,4103
-R E S O L V E,1031
+R E S O L V E D,1031
 R e d（ 赤）,4
 R3v0ツ,4
 RADD-E,7
@@ -696,4 +696,4 @@ yuzu°,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-X/PRCdo5bgUuUWKAulPRSVxMZIqZetAex/LfvQ6xbnf0+fIz3BThnRZ6hxRU7BZ4vvu2ckQ3kCvLPAT40EKHzclggHVercUEQMBrsx4ZAgNPyu+ohTXojfLhdHFcluN6DCRBeMvxqWoXZoLgV5we0nuY5m7wxk58X5EkD2jGBPQyyVm08EZVmodVEcLB3ePHebO4Mdk1n5Z27VFMP6evO4KQRQiUMEfywo3lYZnPsPx2onGFesGkHrsWzo6AFxI3
+ZblJzeVDiu+rl57cz9dR31tmxrJnkl8geK1l9rTkqXz4jCq6VAKpFdUiXCjsqO5vRUW8F7pVZsz7wtggXJqfXOxh0nrE55gXqM/lvrEnvVxQVaWiWm0rYoiqKGl2rqvh670kukf+rlf8PBMlc0sXLrIY23lMAiCb5DwWLSdJ2eUSbwJmxqNlunK1yOEaye6UHLFm3MAzdcQDCHc5EltuweRZRnwyzYAOoclyQGVXHq+xNUqztJHWiNMPVJXM1AxC
