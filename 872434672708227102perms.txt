@@ -64,7 +64,7 @@ BangerJr,4
 Bankomat,7
 Batico,4
 Bazlowww,4
-Bear Chan,132
+Bear Chan,4
 Bellathenardo,4
 Benjabot,4
 Besty,4
@@ -702,4 +702,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-hXa6nvFLTDesNdRqkw9yqQ/Kz/9EL4TvfKorr9nY9hoKJWbJlx6LyepaxjIGiZMkvIgk3Lmd0mRKNlbXbXGAATnukryL94IjXh2fT6tiIANH1r/oen2DT28Y8JMZam85/P/74zD7rkxjIsYv97cGFXXbk6ioEt969LkAUBJKgPkYfjU+8FftNGSk+IMyhVNCuZKqo38YhcBVG4bEtO1QEy1CwhscC1e4TH07sTnTfpn9HMFU4tUmRNDSV50gxKDj
+LBHmmELcV4/US/kYO7OKHzCRErfnFF5JJTf+OV1nQYVKf7B1Bi9C1ymcDPeuh6RO1vRibXHI3txOxSehx8ziv5qspK9wArSR+d9kaybSxp08g/mdodrWYz+6A628xJs16jzijYWT/sKSIqVXkvDjahvwD4WigKnsL+geMGL5VilNuH0BLARxc2Ar/PqbiZOZoW32asCT4ZninMjmTlcwU3vd22DYNH7a297ETeVEtyCl/9yX6qM30n8XaXdEBDRk
