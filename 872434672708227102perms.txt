@@ -361,7 +361,7 @@ QuinChimera,4103
 R E S O L V E,1031
 R e d（ 赤）,4
 R3v0ツ,4
-RADD-E,7
+RADD-E,4
 RagingPeas,4
 Ragun,4
 Raiinzee,4
@@ -701,4 +701,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-h3e3iawWLRLi0QrxQJ6WEYff21Fu9QS4Jqy0G83xNbKv6rmBCITMBcx3ybiJLrjEuD0rIkJ0g5omCWEnBWra+tJV01OkkKCsHGzgnpde5DfLzz+XvFmCLC78fcEwbPoyRr1L5K3jpaF5faXPxBbUtaGtV3B5Fkl7BTugd+gbjFl0gNLiZMal514tGMO3Yv2R2deR4+KMAWZSW/Xil+VcsaEwH3ZfIVo6W6/2WJNhTuRpm25i15gjJHMxeH4u7gjA
+CQBsinwVrI2e1ibJQ+9qvtfFlQdNEdn69D/BlX9XkuhwumTiuJGJXyAOlguezRbmVRznjovqNhns7c8alLcde57t4lQlxxk/ojN3NKT1I9ACSg0Vd2eUgvp1SeD5eeVkiJbDZJ3cs8m19S888wSXIFHRH/mU65WQQVtUTrMHfek7BwYlZQmn0lJLUESU7bOLmzaMhKeW/nzWRaAveFclo+IYYibabVqBbxottJJ0zChKXhKTLiHUFKGEE7pU7G78
