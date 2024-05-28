@@ -364,7 +364,7 @@ RADD-E,4
 RagingPeas,4
 Ragun,4
 Raiinzee,4
-RandomOni,7
+RandomOni,4
 RandomZombie,4
 RandomlyFuzzy,4
 RaptorDeity,4
@@ -702,4 +702,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-HzyR9rxaeKGXEs57o8u9HZp5DxioEeKkVaTI6BlqE4/4vyTqjmfFz8trYYbqfjc5I6DnOBlUCTtdup6/KBCeWf0AFbzbUdV2qvi4gtO+txrOknuU1X5Y/6nSfIYmx/Bxxf2MiEcfxp0kivMw74vu38UvV00HsBD8DLgXJrW0gBvt3pxeIHojc6hz1E91JuZ33oe19vRz8QbFR56Ol0eM+kh3NOLTNNxPfsVgSoJlIp07cZ7sZ6gRBSYImB3QBrYv
+j1e367UA6JdnKsOfos3N7IqWHBAJVMcIOUmRDN39a1Vmsq5IiRU1Q87O9B+7hQgJk9AG/d1hqXKgl7uTX6n4wc7+MmX2Wldlm4MqBmUQlkHOMwXmb9KgpPkUYGHKOWrd16LZxeLLQXA2QD5sAIHexNorbGPI+dYx6HFbNZ6TkD42zzFkb48Se/uewPV6cxqqYQE+jMuBio1DWB6/13sR/zY8xc917LSbbclIctcb9adxyayT0bKL88sAi7SLsvA6
