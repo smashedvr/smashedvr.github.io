@@ -412,7 +412,7 @@ ShadowWolves,4
 Shazik,4
 ShikokuMyth,4
 ShionBlanc,4
-Shots?,7
+Shots?,2097159
 Shreddies,4
 Shylyx,4
 SicParvisMagna,4103
@@ -710,4 +710,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-huSWiteyhUE2yFf/Q7Mxm8gSjyG4FHsqLwhjzppB9uHbqYx+ROl+ZvM1qpVYd4AAHJjoRebg+7h0mxXgtgPb1DDpc27i3QeGAeoMv0BXBPD+B4DLC8C0gVTVYHozeg06hu0Rjc9ISpwS4a8gNMvqE36vB5asNgXXGD1SryG71E6c1UkyxrNLbv1+oxxUObunMjRd4w7WNq43JJaTBD53OcN9fnRWicgTzMdBP8o8+T7w/9qBaQyABBS1IEsMGUyp
+lBI1Uwjn6Rhd2rKbfddzKfO9f98qK3v5u433wQD47l/nCIWT8HE2EHCMDkECZ4VDPnBXQNfuCl0IhdYU+OyvN8xT2u0oWYlnePCBIne2prAAXCgzhJFaHlmCn1qgRwknvsqF0VIUMzw9dbfih3hgrwZufS8O40WjTEk8c++zE6a7z5aFQYqSSjuRprc4jbnEPDegW4UsTU979hL7Sw1rH743ENEzYe5HUW/lAls6JH2gqHvbcEcBJSzjBLFZPn1T
