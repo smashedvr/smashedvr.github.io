@@ -386,7 +386,7 @@ RandomlyFuzzy,4
 RaptorDeity,4
 RaveBunny_,4
 Ravenඞ,7
-RayLund,900
+RayLund,772
 Red_to_tone,4
 Redmist8900,5
 Reizer,4
@@ -736,4 +736,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-NnRWXbn88axG1f8KEfzKTGf97v5q9hSosHQxNmdo5WFv1TodEUFQex9ZeWsj7XktihmlGf93hPMR2VS3TUsZYwZUgc4HUE9x4MBMQp2pgTksiyuHkYv5ZmGmJz3mxWxSz3yM3R8aHhEdTmoSySn5xNCcy4lhzqhfvWCX6jAoKhpdggByW0njQn4/rurDEhPnHzLpTkiBREvrqiZWyF1ISCdLDle6lfOoEu4MRotNuBL2IAK7dS32xmJ5czZQcVHi
+m+KAMjGc0KHnMwcfUdJDGAOchnifsRRwHKMiDVlwsMCIiJyvqON/zc25OCNo5r7TB8MjPXoB1cJrzXc2/GxoIhSBT0hdaYutLsiyrHvSYJ3el79aI0DHE8tfTTn3/grhfYNIdY4SqKcfjWAw99WVD+y8RcjWr9SOvhV0sxqanh28l/CMPxw8/cc5iAzQjCrhYFPnmLr7LvwILoQwVLrgfZsDcWuyBcHfPl14ld4pjWX9pbRLHrjx6TU5C0DPmgqk
