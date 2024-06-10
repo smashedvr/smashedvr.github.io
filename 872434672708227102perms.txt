@@ -182,7 +182,7 @@ Fire-Princess,4
 Firebossking777 c7f7,4
 FizzyGlyphs,8199
 Flandren,4
-Flutura,7
+Flutura,4
 Fordzilla,4
 FreakCJ,4
 Freya Sky,4
@@ -739,4 +739,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-VawXfKDMCqR00DvDhCGps9mhMZa8YwF3m0EtzfNMSzxYyV0C4bUlvEWX/XvfHcXBI8Tl9Ch1s7ZVJcwtSN3zqD1lTVVTQdqmWS2yQ0fl6kV4poaNK1G0BlLkzAXVx5XrJTLddfG618OSewQP40uXFbfUqfDtC1FqEbbvGXt3Sbg5+uP95Deh+CdIMKKnHW6nTfc/f3o1h6K55aIklSNv4t4rwSqbHxLnG8QD9/koaek4Sazk4R8IAARLNE96e3wo
+O5lEqDFCGB6avVe5Q1IcQ3IoOHi7Y7gcZgAjDTFffE2hLYm8zW9yAKSgDaVxnY8SeLcybzbrg38bwlJ+QkjYpPITF+JvcX0Hark0OpbyHPfRtdqgHHMgWkBxqsXXW++DVs3rsMLE/sIFZ7E/DAR/ohmsZ6ObohGysrPyUapQALnkzPNh105f0RLkWX/YbyLQhVXnrgbb1dOWboHoqniAiNSw2fHS5PGFVePQQjMMzuyfFO/xkw9zgQtu1mPl7VbN
