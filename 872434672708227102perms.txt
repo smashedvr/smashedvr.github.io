@@ -33,7 +33,7 @@ Aaldrik,4
 Abbz_,4
 AbusedCoyote,7
 Abýss,516
-Ace NanoSpear,132
+Ace NanoSpear,4
 AgentTexas™,4
 Akio ツ,4
 AlaskaDTX,4
@@ -770,4 +770,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-U4hoKoGQoQsI8EnKs8eVTahyn2mqDD0I15U+OO2Nq+C7SWxmX4wzYHeMNyi6vTrLELUcCXhW06Kujbu+6fO4jJlQ60xEHCxpHcFguuHWHhgEPSEp+bvJMcdtm4Nh1710CnU8iAlpkQhEMhHUsHNkcyOFBfvP9WtIsney74ormYnVroqKASQaPiFmm9WFv/mhaD8MABMp20qEsn57NE3Z5YoqLPrHYwiufQl3DL46J9DStOjQgL3Q+glkaWS6lDHO
+HimAL+HuuJVbyePq9jmKvEZZX6KwW7c9FbkA33ylTbkxKpcMSDyIVPyO19wTWSGiaOuJzVIgiigSJeVcleDfvuUNstgjPzmsNw5dNQZiyMvYDmAmA/mAZANQj4cIFzpeggtTG7caIp6HmO3Gnn6iw7TlPJiz9LOiA3Zmq3OFosW79WyHed6Ij6dJmqH2+z8VFF+2FSydG2KgSO61o6bsyv1fe1IhRlp0roMB7dUljIV0DkghWZSObJcYsz+J84NK
