@@ -527,7 +527,7 @@ VΑLAC,5127
 W1st3r1a_M00n,4
 W4ffz,4
 WFS Cus,4
-WarlordArdan,140
+WarlordArdan,12
 Wehtt,4
 WhiteheadB,4
 Wild_Wolf_Welfy,4
@@ -777,4 +777,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-g5c6UzkZFWhtdrNvoGM1cCU/LcRkNCxg7uEwDXiapySxZOuPxCl6LymLXBrYdxPTZPD7vICalLMFio8yRvzNbaaRuQicnbXlg13nuURuuYx8NGZgovsD/22cjxhFDS8J8kVuYIEy3qYFPFOSYaS8kat4CzMJgEuME7p/yOX1zwhYzHErcMA3ivZ12m9zBQ6/P78EvrM9+lcVSEgHbJFt1+uk4XgiyyLwTfymgbpq+eWJjMORjRGrx6Rl5pHoR/Ns
+G/Cd5tI3zpEPgMclWRQG+mL1LzQOv49ic5rkXSexN4JP+go8UrQkWUA0c6Wwte8SUFJ+Jz+oF9a0X9+mYoWvj/RQf1P5mIPkpK80MJKmQ8jdBq0vE89f7FfZmaOqMpKU2owJDc4efvkqOiCoMR1fICWZ+p+QnpMV7z9W8H0P0JC0KEUgfCgwW3D7aWGBMW8GguppEt4IPs6csCUSUVUASDH4AVd1rZE6ylczBf3JdP9dlO9ckY9iD0cUJcnyB5Vq
