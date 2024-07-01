@@ -8,7 +8,7 @@
 -Marshmellow-,4
 -Neon-4,4
 -Slaine-,132
--Solensis-,132
+-Solensis-,4
 -SparkyKNE-,12
 -_-Hydra-_-,4103
 -_Murasaki_-,4
@@ -777,4 +777,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-G/Cd5tI3zpEPgMclWRQG+mL1LzQOv49ic5rkXSexN4JP+go8UrQkWUA0c6Wwte8SUFJ+Jz+oF9a0X9+mYoWvj/RQf1P5mIPkpK80MJKmQ8jdBq0vE89f7FfZmaOqMpKU2owJDc4efvkqOiCoMR1fICWZ+p+QnpMV7z9W8H0P0JC0KEUgfCgwW3D7aWGBMW8GguppEt4IPs6csCUSUVUASDH4AVd1rZE6ylczBf3JdP9dlO9ckY9iD0cUJcnyB5Vq
+kjXNALFKf4TVUN1qS8gfqGRsCUA4ysZKD+YOYo0a4vvarJXcCzsqJ0gmxcP8jtS6uylcX+fzKE9czCvjrpQhdGV/epFynKoF0zruOMZ+MyWa/dWZw9FPBXc6z47Kks/SCSXexom7Q1OcXUFe6JJkZH3I8m83RnlIp5pNEYUEUAcxMZji73lcirA/davIkQrQnOMjBFjqB3EUUQ5iLohuUOng9zi4Wz1PMyiK1vdl9ZfDUxVSJ3ihbjnIlc2Fk8J/
