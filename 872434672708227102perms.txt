@@ -756,7 +756,7 @@ zrlstoneet-石,4
 ᴀɪsᴀᴋᴀʙᴜɴɴʏ,5
 ᴀʙsᴇɴᴛᴇ,4
 ᴄᴏᴢᴢᴀ,4
-ᴋɪᴇʀᴀ,12
+ᴋɪᴇʀᴀ,4
 ᴏᴅᴅʙᴀʟʟ,4
 ᴢ ᴇ ʀ ᴏ,4
 ᵉᴸ ɓƖooɱ,4
@@ -786,4 +786,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-hWwVMS843A17/K4UlmALUL2XgzYKZSKrWH8HXd9w9G8ZFsnrfPUwyE2mO+plGeMfRsaAGSK+S6YRGZN92+FysOKufNllziqU04MgafwsvG9r9pnwCI4aDPGcRBG+4IZxxEOs2zY/FIxoyVp4I8jYbnjGVq079VXHm+dUQDFAm/T72dzJ6MxB8c9BYPHEmmDo3NdXoz/D7RH5531ls2SBTFPllbumDmkJ6oD83bxTY3fNyB8sdy5Hny0W/dE4nB0p
+J1OxgrirXU12uBwBqIuYoFfWZDT7HX7W7xzfF6MNlZvuZVnAvAQYTwx1FidC3syi8L3pxumSh9LCRgZvoYTKIZN60EUwlTFMxeJy6bF7v9jyh43+x2TEeqksoKdUVp9FsZ4jZWcsDGqzBssjGV9uGXvVTz2RyOcHJEkEJPG8EixJ3ac21EZg2fkJcB4GIYpduFvXpZ57C/dXua8/AZkeLISaaWOz5aydynOnnfBjPgZ8WtAQ8Zq5SpOlj5yTSuUX
