@@ -427,7 +427,7 @@ Rockanyell,12
 RocketVR,1028
 Rokusan,12
 RollingPizza,4
-Rook75,7
+Rook75,4
 Roronoa T․ Zoro 75d4,4
 RoseIsThornie,4
 Ryit,4
@@ -792,4 +792,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-KkCVRnEowuqpJ+cwIe/USj0DvcWt15mDXee+/sP06bXlieZfK2UrCaupi+Sc+4d10bOPi95WYpEmfviHhGvSHnhm1WHcPPFOPzV//d71u6cygY61VjrkdJLhKq0lQLmPReBLcjXf0eepaVxA/WVFXQkiN9MXfhQfm4ReU5trPy90Lz8R/XlKEhXCFCU3YQQRs/LfXEXJszS1UsYyiKOeq3Giz1cLUL6ip5hrGQL0y5lsX5l/huHbbT4YJg377SSs
+E732NuIgL9Lx2TDIlNNS28FWvjzCTugnuS2fu13993H38YgpLlfNLFg3K8livNY4UVcSoVU5LYGTUU9BnpCHD2vhaEx3OH2lS8nUNOGAbT0FjyTQx3wLpGDQuBoCYqiTKv/jKVaYCaO6tn0JYL4hLw1QpH9Kb1YRvGLewF2/gK1gx10L6nei4psoOI3ePBtdLYaHjLOr1mqwncbhhNoiXJbGXSkMYp3q74Xys4rQhoiutHsTR2mEMhBwyE2WoNnC
