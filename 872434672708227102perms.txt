@@ -476,6 +476,7 @@ Spoonkill,4
 Squakie,4
 Squishyfox,4
 Stacy'sMother,4
+StanceDex,4
 Stitched Shut,4
 Stoltt1,2113540
 StrawHatStream,2097671
@@ -791,4 +792,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-iL3ShJAUvteQeBU4U7eXINyG3qxcFlbTyXWzv5ddM9PGtJfH6bzuTMfOBjgB9akXYp3xkf/I4nyvy7C826QSzZ5NqIrKwpgAlBG41MvWpt2ISgYriEmw0/57SGQAvEFxiAeea+R3y8M5GLgOJ2wMyF1c/0WfCLVTqoW7wLbdsrIWY9T6Aabca3MQPRpK60/LDO023+VMTH3e5ZGEGa/Z71WwOMxS4ou7ol2m88IU3JsFva3CANvFTlwD5dvGq0qg
+ao49F7nfSjkx49Sd1qM2kTzRKVsio+lhKPzaN4hUJ/CNqDWkP+lbIErEUrPTHdBjp9E/p8w8TVyLlWbodtmZ2Z5w9mR3dfV/xuHIN25/jVnsRPl4MJ8bAobbJjYBNPoNuXJvcF+Mz2Io+NAiSvSsIqrbDKguDPBVJK/Ev+IM58oHxhqvK6LJBXcAYono85ksSAS/ZGZ7X9xWItgpnKwJbloHR86Udbwhx7btiHoFaCHcc+k8V+R4RD2Cyoxl5kb+
