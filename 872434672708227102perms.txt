@@ -209,7 +209,7 @@ GothSuccubus,4
 Gothic Clown,4
 GreenCrumpet,4
 GunfireFalls,4
-GøđєssOfChaøs,12
+GøđєssOfChaøs,15
 HailsMx,4
 Hakai~,4
 Hana_Ka,4
@@ -791,4 +791,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-hO5/h3Pj90EdrcXKwv717TQ2GON0GZeJHZkA6Xi1+nWT0wvKpJ6CvClwB4uaOEvzw+dEGyr3aFfWB8+lv/5677Ulnq3/SdLrsySmaaw5RuYIWc/fyRuigunlGbknTe0AzgiYXejFNxqukFwrImJngIc7m94OZwORT+vWiBBaUkziWsvLHxxFaB6OKwOhiidxHWyLjpfxOVs8GEZ4mK6nWoh8RWK6O6oJ5OK3nsRjobrVbUlcSz8prosoDziDdm7S
+TAKAq01FeFq5HzA/OBVLFAwCAohyGSaDYtap75vrh2JSwSPpMn8zAqGEbtlHbLaupA63veSk0/p5SRpf4iyfkz72B+ECIkxcEaiMy41+oIHHZjwYODjBqXJXHTixeIx5TmC/7AUjM4QB7a77P1Gt0zxZE9Mp4q6WryZTN9rwbmbhk5c9bcHsnIWDPRNBwnCLr2M9YyTbuunVEfMKWR31xSKGGHo9NYfPiudV4SQg3NYJ86c/e7/to/YGkQwdmfH4
