@@ -448,7 +448,7 @@ ShikokuMyth,4
 ShionBlanc,4
 Shots?,2097671
 Shreddies,4
-Shylyx,7
+Shylyx,4
 SicParvisMagna,4103
 SickNaunders,4
 SilentHaste,4
@@ -793,4 +793,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-HllVaCp8D0sfBaZw/w5dpNpPfy5a7BYsozkvccQCHFUGQvqz3vcSX892MjccJTUhC89FRMfPUAc5EyHwatizn9ufEr/BtkuJa2ICGw2j+eCocDB+YC3WzMkEZ589vyxcwSvS07kPT5pVndLDzrf7kqVN2piYUYlRhf2UW6/iiuk/lmheU0rcCKkP4lVi5TNA6nogMjPOZauhNN/Gu4r6NaPQiOxk5WxUaSziaQTmoHgED/VpydhNffPKWZ7nKTSI
+HeYe/ksAXMa9PigWjbYsQWs6G3l9rDrgg1efscziTGIuY+VfA2iqP0ZGQozMS1fx8j7yAvaEhyRmtySNIsEll+j7l7AgOImtCY0+524sAm/XdAHGViag6CBo8MSYX4J66cSgxA/dNgMe5eRC8XdmJA/wJDenpoqot5qTcbIYaZX2UrrpXU6JRbPWOGbcfj0UIiVFAZHWbjj5xFyX2jfm/dr01iiLLA7MFPCA6ep/fPWRpqD8hXIyMMMP8ZDGjyx9
