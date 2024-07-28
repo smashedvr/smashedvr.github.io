@@ -53,7 +53,7 @@ AshOfTheCosmos,4
 Aspidites,4
 AstroKaen,4
 Austin_Nova,4
-Auxxi_Moto,4
+Auxxi_Moto,1
 Avanine,4
 Avisend,4
 Axphyy,4
@@ -808,4 +808,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-hGySdXnvTXwdJlhIFhbZZvW3g4rOvWsSJE++HGyCvAYHWvpGXvmWzvYesxT8WOrSjDsJacM92PRHFfVNQ4zkCePEZln5JTnN9spyWy6Zf1mH2bGKosdRhbjFUE2J17reGWTC+FxFgnKgAiMtS6RRQWSva305urjuJX7yxT46OnN8Fe8VwYr8uiohZi82vMpIY0jb/cQnZkyLMxq5whShzlEPb6knE6O2enQwFWhFXdXmeX0NLcVg85ZPfNQdxI5/
+MNvDFSVRKUuiyVSqDYQE4hGXSFiSr+6jGDfUZCsL+11OUOFHgYs6lpdmN9Pm3l43gvYz0xPApdx63TAlAEPpBnL7edrb2E1D6x9KrEixWhmaoUVJjFgOKempwGw6/tMevfFUDmVHJxDLTcMAKpGRjA6rVyNcRJ6MG3H+zU2vwYZXUn0rcGBI5+KA6jmpmv0gZOLPJ7acpOlW4DnPQUomMVmyHDHr00BUIunE9GfJ3iwCXsc9JhLXYLf+AoRmTFWZ
