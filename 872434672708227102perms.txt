@@ -481,7 +481,7 @@ Speedwagon 1284,4
 SpookyBat,4
 Spoonkill,4
 Squakie,4
-Squishyfox,4
+Squishyfox,132
 Stacy'sMother,4
 StanceDex,4
 Stitched Shut,4
@@ -811,4 +811,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-LmjUB4BdOYs30US/rFPXsa+zRhqo0w4mEJS6bxi3h36BTqlAEvs8G466EA5loRbUjw8xSZws4VeAtPF9dHjtHjTgpUoGoSjQ3OkjrMqkEWUSsDAxezJM/zhq0/ccxS4WWknkRI4OBdtOjzgbhPdjfPYsc6AUeJDZoVRwtk+RTQLP2uCUBlgYP3sJ+PwDaanwciyTyPVKy6sGYIwWypnVRV+NonLjHk2qhheRosBLuYA+K1FOQw6uV5eyJYbC+Qpt
+Xqs+P1jnf9WE3eR8wHymaT87JZd9MZJYercdll3DLCwb1yz3/U73TT7u5GUhQ2qpsMtH8714GtRNIwpJfy2LTNdZbIihxvUZ4tJgUEBq0uOUH8u3vTt/0GvXhzhxSFHhnImwlx0vFiXUZ+ktfO54k4+oASKtLFg3qNA1fXLgq08kDU4dfDPVoU5f8B23XYOiXxuiBNrd+7NZRsKJ7mPM2CGiY9hjcr4wL0RyGvXACbyyY1qb3eqV3vyZ+LQyRBBt
