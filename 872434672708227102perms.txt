@@ -495,6 +495,7 @@ SupremeAnubis,4
 Sweet Bean,4103
 Sykes-9,4
 Syntheal,4
+Syxis,4
 TRUE-HORROR-24,4
 Tahyari,4
 Tails552,7
@@ -813,4 +814,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-BrmxUpFHpPzJk878CwJckXp90dBxydnz7q7pxnN0W0XLiAa+1Kcfn1VIIk5ViZzUFDe42lxnq3nHVDQcEttikrCYgYmVTO3W+gFReOh4g1ajjQ3CM8g/NXyma6+Z/0UJpAyq0UkplIamfnmV8Ma8d3MXmVruuKF4BMuLqv3kBg8w6PgFG+43GSaGDUUf1iyxjHpdSI6pIIa3a75G/7HbW9YQD3MsLsUhh96uprvwmK2LEuRCKLCOniS4Lbqn7nfP
+AleILntBmtbBiajohgHI0cnHVmmMsD/beuahZ38dmFv7D2vnMsxZoQR9KDv3d28mfBXEY8VhFuMVN1q8cIzvuU2qreAZubb1CaeNcdyVSMCj5CH6GkFwiVuIIiTAnIP0HIO4HUmPRuqvEP/dtchEjUR/wt+G1v4bN+8zzmM/zOyAQiACrUnElH1YWPZalYjF6zG1lCo8VZyKgCJILhxovrCO32BqxgkJ2lzSIVFHt9hFK6MWeKZNCr6kABc0G1Lj
