@@ -458,7 +458,7 @@ ShionBlanc,132
 Shots?,2097671
 Shreddies,4
 Shylyx,7
-SicParvisMagna,4103
+SicParvisMagna,8392711
 SickNaunders,4
 SilentHaste,4
 SilverBorne,4
@@ -817,4 +817,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-K9nDjEgQVsiSgAcmbo9U/YxgRiTnV7mCi7WxAmD+/rw9Sfhy0KtR7ghKO3ZMkrXHRAxbTtVsA1v7iufAKi+1vNg3zU75lqSUHRbpfZsqTkDFoF1NTxitnsLZmT2swfl/B9F3ir1z+iMpoicwXmIkO1xL8ADK1Z0kCYMe7cBYMZ0XDtg5ysVqstS15j22GMFUQAbN58N2lKhovJAKc2pcteh6tM0daVRVwfULF06ejgdUIkbs1uDplyQqn6F+0+Cd
+YepvRDxAy0OG3WZpGSwOl3YDo+IH0wjszBiPrQpPV6jFVN+ut2CFCrZkyBpZhWIqgI3qstkcOENwP7S5F8cuMUMM1Bi7bz0+2rdyP26sdmooLjJzrUQLpqK8Td7L/e5FMcnI/WVfPPaklXbaLbapxEWkw50Sf4FHcTy0+XLaBmvk+hm21pqSal/h/j8t2Q1hXN7MkX68T0iDFc7RUPmoT0tiTSRWl5nKmUu11vDR0tO3WxluTdFhKAppLRjGb+C2
