@@ -723,7 +723,7 @@ wyrm-sidekick,4
 xBetaDragonx,4
 xKanashii,4
 xNyanMaru,5
-xXblood_roseXx,4
+xXblood_roseXx,260
 xlukez,7
 xwontroll,4
 yuzu°,4
@@ -827,4 +827,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-mDumWiz1wRniYaE90e7qHkH71ZnuVgnc6A/X4IQKVRGyn0QudE0h0dOJ8Mr6RCRp1vlIIEkG/P1CnW87fwVZEkkCxNukLFj7YYqkkcK48hBfgtoYedzzYuYrpKg6n9nlUVj/VXSx3TF1QtlAC43eXPijhdJHWpM+UlMSmV6kG+ren5dFn+/BPgXpbqTxZyXYy3Xqc/wwU6bB0chENS5QUj/VrtSmshtrxCiQgoz61PObSdgbXiwgOt97mVJO+///
+Sj6uLoIr5yaXmbepgPNmqzjaBI9jq0/C71v5Sb2iTxYW612XXSrxRuxEAAdhaFxelAVHIBsBd5+3zzYIxxiaFK2iCkL4uyGNCAe4dkSI7SAEN69B7P0VmVV4E3Aj8oFRvyjUOTNf8/p00cZu0yZDTgI8Q4HFJlzg62U5DL7LygRYMp4TgXaYmJa/ncDqwBUaa96ODAPCDMyjMc8rbCjMUv5MUwjLOEOokqjzHXtm2vpGAUje1HGHrFcBGFxcC/ey
