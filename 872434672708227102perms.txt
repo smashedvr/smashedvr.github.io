@@ -219,7 +219,7 @@ GosuNeko,65860
 Gothic Clown,4
 GreenCrumpet,4
 GunfireFalls,4
-GøđđєssOfChaøs,15
+GøđđєssOfChaøs,12
 HailsMx,4
 Hana_Ka,4
 HarryR,4
@@ -828,4 +828,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-T+eiS1L3053WyK04SbjA1XORfYvCNsTmOOVUFtxe1AvwVnH7oyjwZwcNrXTNAOJz/QATEH5aWmmjSGe9VHmHKpxEe4SXxO5C49th2wGzQBAGaueUpV8AVEbtbv6RZsOOSbyzwLUI7BWN7FV8Mul5K4s6rWFJ3T9ILsrXiiCw6L0xQiWIVCdC7adOb6C4jR04phZoLApjvTod9xM4htJzbzS/3Ii5j/BhxVcL+Hib2dZApSvBNfK3FJUe3hB1q9bb
+ghkkcmbbxFMMeQlucY0scvDlQkJtlN3oGB5kUtVRV9yXU/uqxEIESeMUm+da30XJ9zwA7CPclD5mQzYS+ycWoWkH+wfW3sc3x3KLV7suq+AukgrF5He3pTCiUnaheMcjxmk4TY0qzac6MOh4BWigZCkfrY4XymgxQKDEjuiJGZlqEtEVhiLbpx0i4dVmj3obwTj1qnhd6+vmnheryXWFJP/aa0YBi2u/n9ed4/30U7fNEfiZOWk+xN9Lg04SSUTO
