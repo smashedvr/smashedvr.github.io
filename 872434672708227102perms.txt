@@ -51,7 +51,7 @@ AryaDRed,4
 AshOfTheCosmos,4
 Aspidites,4
 AstroKaen,4
-Austin_Nova,132
+Austin_Nova,4
 Auxxi_Moto,5
 Avanine,4
 Avisend,4
@@ -828,4 +828,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-k7T9ob+MmaCNjQULES5YOJTHuNPWnKLFNHgoFdcY2ddTzUWx7h2q8HSU0UOCo8ShUWEjLDeNp7lG/c8NpI0bZ9tgN8E4pnZQxw1XWQ193nKRyXC/J37ipVv33LEITEZADfEkf9/RDR46GODECvpuOHtH+9RAi6ObeHXrx+So6FHRTEN5LY0eWLcNJpMRhJKzghmnwZz+wCE8f1nv6owNCInK/B3TTBsALiEYgsJLzz8gXr3LzyT1bspOadAmtosN
+DY6aXuqN4/RdOrSyhJH9rD6/10DEiH0zNtWUeu39WNWhwEfP3pjRHqkbGsWPcPiqdQwH/Q0T7xL2g3wmTshqt1ebcACCYSm2xjEuBHSUcGPtur7OrehMTXJANrnkEnWUtmStH8f9tbWHuGKgL8pFpFaq5cMP/0sHAXGFmGuLx+5ANcElC8R04h4AZ0yA8iEX1mk6ecqjjJ3owxUuP0fjy3QAz1yjiAE5++KZvBYZSKTP3pz+PbLp1LEbdk1evYlw
