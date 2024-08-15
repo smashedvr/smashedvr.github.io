@@ -448,7 +448,7 @@ RocaFlocaFlame,4
 Rockanyell,12
 RocketVR,1028
 Rokusan,12
-Rook75,7
+Rook75,4
 RoseIsThornie,4
 Ryit,4
 S o c k e,4
@@ -842,4 +842,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-JoFx0lE744IlEOeWAt7BIv+oZC0w+0ZNgyvRnflwKA2Ub0qzG27TSjMKll4q06J2GVqb6KbQzoO31Fes0EyCdJWp6CpVQGO4JrmPRjUqLl2GrHM3XDTSpi9zNMWWluYgReE7dBtOM/Jv66ZPJdq3Kg631To8WHwwoodbmS9vSUSPj6V4sPMOAAmXHar4NW/drZ3bgALmLn+5OFrYEwXLqFR+bjZaxqcN+iS1RGs+weTYqPW8Vvn3XRRu89+nGiiG
+Us5sgDb0Baw1xtts3raGGvrUfgcp2qXFHRKjhTq12KJB0gM1dzIHFf5UfKh2W4EifVbUxi9u1dwrVl7DG0N6hxcXUsjTS9Of7o6Xu0qCF5iZ4huQ9lHVwbxBqESfp4a8m+aLQ+YSVu3v7a0XSvvW9pQ4v95e9uMFRAErlwxnjNu+DoZ3ubLKJ5awrPZXW4NKLm84LuvFc3yrB6I7DMB3qD4EPFJcEC89ZJcD9+k9k1OBxos1izF1Ll02xyW++e7u
