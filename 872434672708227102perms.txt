@@ -60,7 +60,7 @@ BaconAndEggz,4
 Balsy,15
 Bananorat,4
 BangerJr,4
-Bankomat,1073183807
+Bankomat,4
 Batico,4
 Bazlowww,4
 Bear Chan,4
@@ -855,4 +855,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-YYFq87IetKTYEjvBuCV289S9WOZ5pglsrUNMOEPrvgBBi5IEffXhsXJQjEGz2ucwYsoEjzxacZ1R7fOJ17h5KOaxxApht/eOf/1eb/PyS0+0acQ4g1hAOwK6F6roLTs4RC5VaSx5pU8wX7E5GzqbSmAiaF+poVPeK56nPIO10eXVl7UYuRcIYb3hLc0XSpsGHxWpFSfbTw4eOkEDuZEBDoZ2j3GLIsm2XbsxjbAKBJZEkScbMwi7JJ7zCLVECpOV
+dH9+r7UUcvfGNM3Amk5Gpyx26GJcGGwIhVb11E3pky9XRTOQT+GgGvQ8Fio5t4/0QF5+c+S72Z077u+y84GR53K6Xoy1Wd1N+J4uM/0SpatQtuhQMzVzNu/f/fF6ivEsdei9Ooo/0C8nMXV83BF6jDWIhW/xKFMl7iQ+Js7x3qPUx8cQYXBBWDLg9XdtX3pAjz3cOmtq8erJf29U7YqIxwu5bAPAaWoxh2MXpLDkD/PGCoivOkb8hY9Er6l0kxa9
