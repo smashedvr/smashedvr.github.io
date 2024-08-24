@@ -622,7 +622,7 @@ _AmethystRibbon,4
 _Arcturus_,4
 _Catw,2052
 _KaiThePuppy_,4
-_Mr_coconut_,12
+_Mr_coconut_,4
 __Peach__,4
 __VAL__,4
 ___Bee____,68
@@ -860,4 +860,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-fYQiqY5p5dYu7ZpR9UNGsB7FwTnE3b7TBmIzo+DxVoXhF+lNBuMsXKAAZnB88+gUy9N+LIv6P/s2AUqVY/UuzF1JgS7wBBzFLA1xrzdzDnT80yudOui5wwPQgJT98o/gZ+AUevKj3BAY8di+GW37ZVJhko4jOnSt6EkNrVlVpnZSbgUJQYJ6Vaq1ivoaedXbQaN/oCruJNIzQFHbqLpZYJq/3TI0T/6aUu8YmkyXJnr7EQIkb07CqXdUolqZl6U/
+bI1zenGDIvEeBxLqPecA4m8JMt0R2da/kGyrnp+mPop+0NXqmu+NT3LMZKqAs0hYzxn3EKI80w/WR214aPHSMO2TdRuGsFs16Is25h8tVO7/cqxI9VJsLbNGcbsmRciMY0V7MKTatz9btUCD0LQqsKpxcXIpDvWIz3J2cYNi7lAeowHKu8ICu7WX7IMUiHQRy1MzlViFS3Z9EwaO+B23xWK3UUcHUdHkxYP+7gyQ/Jq+EVhRca26u0gZmrOCAPFF
