@@ -293,7 +293,7 @@ Koala',4
 KoiAoiro,4
 Komaeji,324
 Korzu-Nemui,4
-Kraze,4
+Kraze,7
 Krimininell,4
 Kurï,4
 Kôvu,4
@@ -861,4 +861,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-NSCH+2iZu3+Jsb0nscV2f7WOlxAIdplVLYcOLaz1ai/tscpm1/zYLeOzAmuUtkmOjsUqjyqacCbWKJeDMsRrWGLdGMF8qwVu7Lah3Roou/BxIurvmqlw85Inz2r20BqvyZ7gHMWMrVB20tWeBgH7bgQxDA7RqY7XHhV3G2rXRlTNY3fU6+iyCZ6dChgxJQGvPsQ/0ad61A8CVbN1P2jKPh0IFly8MMiXeTNo6NMuzZYhXRUAHb7hxEbtJm00Eqed
+AOjPl6cdz4K7Ru56bHHBcN4g78NTy9e8ieB1k0uw3iP2qD6Ul/0LqNwYO4EuHeCD1CwQhtxDKyS/Dp2ND6sNUnB3zdJPjhsovlU+BcgkDH14X5giU6Axf3M2iJ8eoHTHYf4UMQF1UJ/qnrpmuRHcXmxpBkYc9NNIe4r2nXbK73OMz84QbTxNeyCHqDhz5V53wmhMr6TFRPU/JF7OPFY7e+DLWtGxw/29oGpyLiqBFUobicMXd0Ye2OiFFokjGGb/
