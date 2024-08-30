@@ -197,7 +197,6 @@ FireGuy,4
 FizzyGlyphs,8197
 Flandren,12
 Fordzilla,4
-FoxieFoxeh,4
 Frau｜ein,4
 FreakCJ,4
 FrostSickel,4
@@ -863,4 +862,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-N1sQnbDeRIlh7s33lDzj1b2yYsQiHDsMEVcoVEfB+6V8X7hdA5ak16v7EuUDy0vx9chjwAQ6W67sSjhVP0lyEInGAfoxrFMdEB6ey0Ew2JDuyGpY+JNTW5jvo/RyNefZZjISQinM4D5Qs4uJVqjADrRCq6n6L1465cPv2zXGBMh/wj/pllTcvVzbTrp1nX9MkZP9hiJA8D8X22wzaXiyD5GhG90GmNVNU8+I4RID/nX1XggWkZxUpyy23Aiw/1mn
+ZR+NEuUIFuZrzpPnSqoECTfIWFZfi5BYoSEOCJLJlTVS8zG2sPV4EyGeQmYuzFzVVFgvu/m5VHN5LC9t6C9wgwLQhAxJ6sCQ206rJ654bgOCkY0Bg2xTyWJlF9NI/CnwZXW9vL4wNm+IeWUAY+uQQ7w5+AgGshCjOykeO3lIVGZbZoRL268aa/DCifkrwr1BqP7b2NM8MbnACfBhfuBEwAmF/dfjliOEi0vC0SnEQPeT0Nnk45O+MrFvtplxjdJb
