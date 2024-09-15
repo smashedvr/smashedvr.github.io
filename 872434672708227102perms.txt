@@ -462,7 +462,7 @@ Robin․Skywalker,4
 RocaFlocaFlame,4
 Rockanyell,12
 RocketVR,1028
-Rokusan,12
+Rokusan,4
 Rook75,4
 RoseIsThornie,4
 Ryit,4
@@ -876,4 +876,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-julhasi4DcdtJv83O2iBCV4JvqP7t2wipuSWhZa5NQqQy91YGdb6v9j6cZw7yVzZ0umojtHZ/GT+7z3UOmXX8CoVXmS2nl9QrXAsXyteKJe2kmDPXf2GU9K3LpYNwPSv9IhJ5GpoZK56L7MZDd3CnxEiQBNGQI0jYe6qHPji9cA2c5Ew0S2byAYjyjWMniyxRLyT5i6nIX1AQDs1IkdZ6MFZeRpxKoFeRpwpsBx9SrmY5c6RJuTLYHH4oq0YQjFZ
+Jvi3tdQ2O0n0b7koKRqxTkAKSx1bXx5yqRSQMGvRd99aYvPe8mBCGnUCdiUURSXqbRcpwt8G9Ml7cL/hFEhyj7PakoNxgPr77BSe0v1eTJu7sH9GuY8/bE2SdoDttZWK6AxATMDkB+ur6A8Ij8DXsGDUXibH5To78JKatT51ipLHiIYO2fqB7BS/vx6obmJI9VVStJFddUNg8WicRodZo1ITV23Bpsmpug3COYfk4wj07UYlUXrC5U2ubDJHtzLF
