@@ -119,6 +119,7 @@ Clives,516
 CloudxStrife,4
 CodeNameFia,4
 CodenameMonarch,4
+Coldcancer,4
 CompletelyVoid,4
 ConPat,4
 Condensed Malk,4
@@ -883,4 +884,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-YUeEQQrZB+lWPKN3/F3Ln2tK4DuZ5Zef9EKEqQ3jl7d7XHhSZU+tgkrVvF8RL/xDLpTMQbY1QYYUL6eDm37au+9tzbkE7IDe/uBLVJCfMxvYELnwFt67FRt7L3nzPLi0i40stfsGF4NM3dPrmwECnA4Qb/lXePKofhFzMcDzhS95keZ5N5z3n96Bqxo/Kxif22svsU9n05kEWZngYyKFGMz7h7GjbxG3917rH5UfSrhPQ3+1PMT6Hn1zeEFWfh/h
+PEyegd5UabVthbPOh24jNuMjGxXF7eP13oCkNaXhujcwUifryswg+PMgypK+17kkU1CzZZh68TwfosIWHnwpkl09T7y1uTz55dqSKb4I1Fp/6fxKL87rjOt+Q3DondEn6doRuqTnWBZJb1xGIk/zJW6flHYOWRqORdPN2djmktCM/PbKN66Y5opCPATCdxwKckhDnUtq+GIbA0S/vomKv0ZwLe5gA7HVX0nDt7/k9srwQuYlTZEwVozasrkFUOIa
