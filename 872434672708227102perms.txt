@@ -877,7 +877,7 @@ zrlstoneet-石,4
 ᴢ ᴇ ʀ ᴏ,4
 ᵉᴸ ɓƖooɱ,4
 ễroṩ,4
-․Ice․,140
+․Ice․,12
 ․Rimeiku․,4
 ․Skittles․,312571407
 ․Zeta․,4
@@ -905,4 +905,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-b47EddQ8yNP2b1P9JypMlmyvvQuZRrvdVn/Ab2dMbhQ054Z/0FE/6E859+SAT1mrwsdFLDW52hBBs3PcG0T6DdtgYbOiJ1UTWRRekMdmN8GlA3x31wKNvkvxXuHKVStxCF8NNEaeyN79FHcuGKOMt8n9g881AGN83EjQixAB+IT8r7HXhDgYo11YyvMN0W6nQYMQTBI1tQNjovIokzxRxzJtxEPfRKI4vKrGOKXXPj+U9oZbddnJeMHFwXD7RHaR
+DKEWabF4EqfXdQjiVo4vxltGLE0TmwEFT9KrxDihSQN+JxUbWDOhmuKW1dHl7EGA48xviq9Kq31IT+FYoQMqDKb/LiqLpC3KJd70i/r8mNtLwi2qvvwBMTXf0P7vZ/+LEVr7qllYUb1eIK2GMHqekP39thCDakyRjGbww+iwOWlk/zV50kuz5v5qSaYJEVbEZrOXYa7hTSE6FkrFfFzb3V4yjh0X0hHrc+mmxRDQaDm4Pm0C2nDj7Dub/jBIbxLL
