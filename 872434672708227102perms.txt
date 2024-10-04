@@ -125,7 +125,7 @@ Clio Ryder,16388
 Clives,516
 CloudxStrife,4
 CodenameMonarch,4
-Coldcancer,4
+Coldcancer,7
 CompletelyVoid,4
 ConPat,4
 Condensed Malk,4
@@ -906,4 +906,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-aCH32jaP+cyyjNaUT/9I3qNLaqMURPbuMwRyUkr0tsHZexV1tyj5Q8sNO0Xlt5pEtEMghYQgroI0P3jbU8ekT2eCor1NmgNUC/4Xbhb7ZiFm/+yI2crVN8oYETAK0brOgZxysFOvr2lMjRL/gNWtxxMzUHBUJhYxSLaOrjuuDbJvyvYTKObg1jkRuRZuA1G3x6sLnH+9tgA2mUff4FlSISKB/8uCu/dHTzErJe00kaM9zbKILpgfYESA6pLHut5n
+PuZDZHI50WwrLFK3Kt+r0WVfoRqnwj7GjYn5ckh/T53IO6INX7c4Zg8k1wZyW8BbbgW556SG4BqqgG0B5qMvkwMREuEEW3qXYyNtn8rmi8S17B2OcXMI2cb0JuXzswGoaNpO+TxW8lQhjPDg+sQY7q73Oms2gpADNcuCKJDnb/Clo76TtVgEI6JPxDGU7m9vQd5mA+axxARF3DJlL8F5aZsgPjuOX5CuCQAOwkAXUTzQI6S/OU8Na834Jm+lzM15
