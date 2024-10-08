@@ -429,7 +429,6 @@ PaddyKret,4
 PandaLynn1,4
 PandaRiley,4
 ParodyParroty,4
-Partially Stars,4
 PartyPiet,4
 PeachVRC,4
 Piecrustyumyum,4
@@ -910,4 +909,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-cvUE61krcjngZUuG6Y2fn4B+ogMU6ERegqJWQK7zHPomRuFsV/ALhfisAYkbH8ymdZXxOG/v6Nh+WDrFpQL2oxNLVKdqcToaoLAHcoKXdJaH88qG3XKcY3+v9TZ+8FhmRBhB3QChgVcd4TVT2ChcMKlIb5Eap992JOLtl1keztkPTMj8jzuOSqJsnqaFEyk95XZZzhTlUzJPEI+s0Wi3tZXysRQOUkOb8+N5MAEkaV9MQkPlrw8hGRieLVZUpTlt
+geJZ8FsOkgPHSVM1hGqkaf/BfBHwp32alqrG8OySAiEvFiSTftuDCgjYZLtoxqIZgwd7dAlGvMoSHYiBpVCRMxJy/odLgfCTDdf+Wj6SJeWFNFaDonhFDzzT5FLkPZRJ3V36043L2rBVO+XOKSI3FT3GkFItqUTtmQkz1YKTsxBYJkWtO+U9FQqKwiwPX1kLtnGYhC9a6TTbfBcMtON2xHf3h+x9kP5QkiJrxe9jipVLicVA3E0KGq5k1fvSQthC
