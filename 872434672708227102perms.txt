@@ -235,7 +235,7 @@ G0TTERDAMMERUNG,4
 GBG 'Sawcy',4
 GBG Chungerz,4
 GKDeacon,4
-GalexyExo,132
+GalexyExo,4
 Gallina,4
 GanzSimpel,4
 Gelato_,18874887
@@ -927,4 +927,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-igAK8x3hhztfpazuHMhFYeD/WshdQ0Yks5XX87NCiPZu69J/D11XrxrcsLAdX510IRXVdPW89PKyzwMkc+INmiRrbdr8PepzCsgBTGpW73i+kawEdH1Mpm/cDjK1WaEqqwWLOST9CXeK4NvsvkL+KFVDQd5TT5e/xhz/ZRHxuPRZbW1brEwHMi7nbgDZYbKPMgH6NOdiBRWSSy9UwUwDMdv221kNZZl38ih3JZAXqGKggQt/xLnMScza4fxFjYlr
+Gdzxhp8lmakVpnydOUctgfdB+xITnFhCUnfhiyF3ypZsow9aENvctHzkduN2FW9UTs3DsCQHqZa9GoNeb7dVbrOy2h2KQlVq74rdgGDzD7B07zgA1wHuyz37joA8ndmDq6VeTMgKJq+Q/xbhNlIhsD2R3MdWxbApKz9ysgzsbUHgDKykUboZcSh7/IvW4AQkNxSwAyiAfbAYuf336vlKcYSKJ0O1wa7o3T4k5innBRcQD1EdMpAmcAM5WTvIuKBl
