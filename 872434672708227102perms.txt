@@ -620,7 +620,7 @@ Ushiokoroni,4
 Utena Hiiragi,4
 VaIefor,4
 Valcora,4
-Verøsika,711
+Verøsika,583
 VibinAndDrunk,4
 Viekone,4
 Villihenu,4
@@ -925,4 +925,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-e6ueLBojLUJfa2D3qEbC1PAZzdDKPTXactRI4BzpBouzEpXxBKb3a0i7hVlud3s9Bf5hqNokJ1H8RYU8a7daPOeeswgnt+FedRwZu+jyATro02CboVhaPwB8gncCkWL42VWYMuejgKoY3CKgjTBjOF474Tv0N8oZEsy/sq17icGXiNvWIvX+1np/aY3lGzuEgEz2UuTYPNRkarM8dBDsbOUEWhnvVSIg7cAPXKze0SXOI+HreDKzUmKwXZX8o23A
+lsnfTxdDk6uHkaAQMzL2CqYyCIqxc9BRIgo7ox8/tFTqa1NJx7LXS6mfKIGGf+Nn1vCDx4/hk/+Wst2Ali0rfBJ1Efx4VlaQwOyWaH5Ph+eNBc1MldHfkSiT24h5/cIPvz0VLKPDluXciv6NlFYUr55w8Uy6F5ccfdLDmEqNF/oM5xTzVuJ9l+uqqMts6Oj6R5dCQ/NM9byCgmA/XXRvkklUUBoeUiqRAzVKeOiXtnVeO/hPxTn/4KfyjGP6Pclj
