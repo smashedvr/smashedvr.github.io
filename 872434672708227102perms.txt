@@ -570,7 +570,6 @@ SupremeAnubis,4
 Sweet Bean,4103
 Sykes-9,4
 SyncereMyth,4
-SynodicStars,4
 Syntheal,4
 Syxis,4
 TRUE-HORROR-24,4
@@ -937,4 +936,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-hxxg6UvMjKbHMhIK4iwlBiLNgyK9qVTIrM5kdhFOoQ2ArZJRoP3Tsz2IbF+KAW6LV9JcxNkQzMafTAQj1WWze8Kgq3KPAwHkkiP2vk2VyqEPo9391FgHi+QusExItC6x4/O0WfPTmxvAfUbDc3HJr6OLjXF9iUaNIlHtLRHHfZ1prqCLwgplt9FkBMddeKyu3LwLzq9O+aaXALMjE9hSE0bHiXEqeMLdRsmh2x4CdI2lLLtaGAVrqUshq/++Svov
+iRSDu6L8wQfdeFV57b8vraqfkD1ZBfPfQTfsU1XE+fSpaUDd24MyWeNnl9z9RTsE6KtN/DsM4b60ne+dHdOTSh/I/VU/wQyxt68Ap+Njy20URRKmwTS2hpPWzKFx+7+HCL7lpGnTMa1mEDrB3sEKTcslQCrK4f4iXefgnOjn4NuqZ3WYF6ffChSo1nuTB92ZBZkuv67vK8DheiVaXjG7AEf0rJ0DgDr2Jq8xFSBmQQgAPB6UfMKE5FsO3Jme/Tco
