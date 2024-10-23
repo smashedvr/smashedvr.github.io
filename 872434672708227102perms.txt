@@ -809,7 +809,7 @@ wolfgirlsart,4
 wyrm-sidekick,4
 x Suki,4
 xBetaDragonx,4
-xDippyFrash,132
+xDippyFrash,4
 xKanashii,4
 xNyanMaru,5
 xXBloody_MaryXx,260
@@ -937,4 +937,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-ao0qVTAq1H09r8+hrRMReO8uvZgBSt0awEnLON3XGT8QxB/fkq7aHaW2Lpbep5oXZBxr8vl1cRv4RsefjlFBhwBUqQRkfFLbmlBIwY+GXU3qwonXpOHqZwnhxCxv1bVJv2L1CUhztBmt2R/eHWeMjMYrAuUtRzt/5VqXSeIqDHioRp3hMTWJ18ZST2GhZFL/d2QrKJ6wIoagjvs6LX+vILTCsWlt33Ey1BpLgd/JORcWTrxx+suOdUWFYQicXvau
+VcAemifgVAxKmQK7d09OHudWIScjFl3XsuihBfpk+ofwajrlLp+2pmhRWiK8Msb3UK5UokJqc3aCJfaajGnS3xCZwxIidjLn4ZQYNXOSjrH/nRUClIW0h7kAeriOiJyhn6nl/Azc0ZrJZot9TaCydQNtpn1R8BZDLfc1uviSAuBkYSSKwUNQGpP5zsDS47J/hX0A2d6YEPmEmnVnb68lXnpdwA12pYKCYeMlY6rOgLQ+KTRRDtX+D6IUwagWX+70
