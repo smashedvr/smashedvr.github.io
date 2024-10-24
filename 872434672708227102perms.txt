@@ -75,7 +75,7 @@ Benjabot,4
 Besty,4
 Bifflicous,2097671
 Big Jimmyy,4
-BigBearUM,4
+BigBearUM,16777220
 BigPat,4
 BigTruth,4
 Binxy~,4
@@ -939,4 +939,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-QaGblAaLp9WSwosOmzOD5kUP4DidzoR1Tn4gq1nfsDPrgGbyFRgovQDxrNfQko7+fSo+Yz0q5s0ZGoXcGv3izbwKZVE1y3rTLjwqBqOPBpuNJkhJvERN2tzNPxx+C1LxNaEEb4DNt2vdejmXD7j/pmK4qXC3ow5VDD171xFZOkq4KU0rVuJJpMmC6O6gPeQAaF6v60bfb8yVAXzH5bwm8w01gXcx9cuW9XcndtsCnXKBVUxdT45HG94zTgvHuaKB
+KcF68VUTfhOc+5nrwd8ilI4cblbEgvVrUaaNVLMGCS+hvOXRzwfgSmNUyvwXyjW5FbtfD9rSqShOBKV3MRUL5iqJnyau15egWc/G0b24oM9Vbp3JdDLclOOnbPFCKEd6ylCRfBhO3rSopmzt1xWMtVEtL/JR6qlm420sQk85/qaQsBTuv9QgF/YQ0gWHib08CLbFC2T0JgNcG0Fh9Wc9lWr/2QyqvQjOhofxnNc78oU6NJolz+4Q6aF1MQkyl2o3
