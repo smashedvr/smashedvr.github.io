@@ -823,7 +823,7 @@ wyrm-sidekick,4
 x Suki,4
 xBetaDragonx,4
 xDippyFrash,4
-xKanashii,132
+xKanashii,4
 xNyanMaru,5
 xXBloody_MaryXx,260
 xXPandamoniumXx,4
@@ -950,4 +950,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-PYREeMF+DSkFFLyGkmLRo0nMOfpFn/NGrJYOUVs13hVWWjgCGBxzggeQna7w4b52N0DCup7IQ/oUPg7+NEzAaVY3xEM6d3cei+DDjplrd4EdbU6nhN7OWsiLdt6WQUgCV9DmtrW8+mHK8yBTfNYJOYhGiowqm4gnu/WGXB0snOPgLN8gJxAyN5+Q5get7AzCfzSDavL9x2KTP4sbs4MskULVHXXdd8yXw/MpAa5sAXO7sE1HMeCvTvMpn+h2xKdu
+mmriHZSLjxtssTf7bOcELTQprOpZHy+RoEH+3UKU7ZAItY1u7q+cfzK//iIgzUEnPk/Or5R0RhhTsHC5rvq5ihgfjjyyrCix0vB+8vrARp7wW/wHj7I5CxnTK4YqqnAr9963xBH0kt0nm05UX+KTRIIiLNkKlU5lMQE4a0TE9Xnjm4Yz987bMQBDFq1lY3Vp8N/376S06kU+sCOVHdxv17AWsx3BenBAJbrEk+K0rI1XiUDKuZwklolHsZz4bkEU
