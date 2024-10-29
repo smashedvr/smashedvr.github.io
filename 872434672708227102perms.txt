@@ -475,7 +475,7 @@ Pymme,4
 QuarkEgg,4
 QueenOfBottom,4202509
 QuinChimera,8392711
-R e d（ 赤）,4
+R e d（ 赤）,132
 R3v0ツ,4
 R4D10 M1KU,4
 RADD-E,4
@@ -951,4 +951,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-ggow3y84NzcDlNdaD4t/hHItT17YqpejcfuPAseyDSZcsJYqmR4pU0XGcI1VpHodW0HYHZ/5qxFOiRfECAchcU5dniu28PEsICy362IC9srlcAj1QThGMpVvg4m+YE2rPZ37hCU27KqOLEluJmaTuZUdK6Cg709wT2LfcA/5Q70MzkTgomKvqIIa8SyG3LxLR4puQUX88Ay/dPUqEDbLvyByhrw9PtqnwwpwIetx7VHyffHbjjoE2XwgAEj6qaS/
+HNOvG72DSpp3MmT7oT9AhdLAYM9JiEYN40SD3VvUrmTG93oRgt1Nafe9KPMk3X+/4mjnQAGj+rVpZs7vgVlScEHR/tN7hz7UAbmC/GERuZgom04mHL0eCrfdblyakPVubNMeWdiQCk7VILe7muZAN5gFCbTBfjky9kLjAJR3YY+muX6cZjLX4+O2ad1OdA2XYbXP942B1s5f40Nihs01iKTMm0kyaKgznwCgoxNu3afFmoycBauDyEk+OxaDgpFe
