@@ -482,7 +482,7 @@ QuarkEgg,4
 QueenOfBottom,4202509
 QuinChimera,8392711
 R e d（ 赤）,4
-R3v0ツ,4
+R3v0ツ,131076
 R4D10 M1KU,132
 RADD-E,4
 RagingPeas,4
@@ -963,4 +963,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-WGo5zgZw83cP4u/BCjB4w7W7gBQoki1pdd5r5IKD5CuY9z/OwxxPFjeur32VmdSkgXfGBy6bsiJaii3PS0w1CqXE5dXsMlXwjICr2J7I4gGdSsxvRmArUkQv6MgYUinxkVKI6zA+C7Qux6OhRjb+nq0xH5gi5wQ7kkE1w+RWjl+vZmQIELGpRAaJoacmlhRWDdvySmvk8GMy0F4/Vr2BRZK4b9xc9RxRK/nIwBLyjqaBa3T+Zzz1wtauUiLJQfBa
+jXdKurlZbjiq46Xcu/yWG5QrMZ8dyRkfJzyRoC3gs9vX2gTOPgL0LiiUtqHHVH3Q/dMf2EOkQ2hpr4DOW322jyWtiy683985pECdhLcmlgsl2p+7sL/CAia/hodUJfxqUe5l4Soe5GELYSM5HligPL5YRicAlldm7J3oVW/hvlTuOE0i8CE8dCIuVqTWWZn2wom+SLa8fRINo16rvHpVOBSyAJV6JofbgiSqhUDQ8thZx4GN3ucT8RX2YGE2xp5r
