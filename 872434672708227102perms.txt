@@ -873,7 +873,7 @@ zlone,4
 ~Godzilla~,4
 ~KING MIDAS~,4
 ~Nicky,580
-~SILK~,4
+~SILK~,1028
 ~StickyPrisms~,4
 ~Wishin,4
 ~Zimos~,4
@@ -983,4 +983,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-dKm/56/hPAvBQAw0hijmxnPgB4L1Sj+l3NPvRzw78Mg1NSPzLGy/4Oi4QzZnsb+kECYhc34s14ukXTLHBOh0vrfK+wacJQiqnqSsNTmMLUAhW8VBkYbVnVaFDBVVrMDyHKjX9ZyfDA8pC02XdunOlkY6330YuNew15jqeAto/QFFQaIPaIIs8cUu/ZuME/zMwmebvuhhTy4xFU4HULySL+hWyOCVMCxb6NAP2LKYOs4aiNkTr3pTc/xjwO7WaCLg
+P9M1ZVhaDw4oS78YhxxY4DAog0Cyz5h6W+omPE3ewjdHrguNumHpA9q7CeA35t1AujWQrXIDbaLhrG564m1VljC3IkuvKUUxe5R3naQBNs3Sxa/voOvXDIDrXTx5r2UsgjtYWmyafEdDPiSKn5/remWw9u5aIWOmo8OoaW14ZttjFteKaqaJAHSnn/3CmyGn2SNJdPYJstPu4iJxBEZ+ZTQseOpovz968OLVqoGLL9XoMzA/clvfH9sLUuxJiWCl
