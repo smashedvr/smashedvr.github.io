@@ -925,7 +925,7 @@ zlone,4
 ༒ᴋɪʟʟᴇʀsᴀᴠᴀɢᴇ༒,4
 ༺EclipsoVRC༻,4
 ༺Zephyith༻,4
-༺ƈαʂʂɨʊʂ༻,12
+༺ƈαʂʂɨʊʂ༻,4
 ༺༒Ｓｐｅｅｃｈｉｅｅ༒༻,7
 ༺༻°࿇ＫＹＲ Ø ࿇°༺༻,4
 ༺『марионетка』༻,1028
@@ -986,4 +986,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-T44o/eKeQAvmdU4q/lHnu8IF7jC0bvwIKYgLc2twnQgnVHTbIjv+rJ1k6jM30baQJKtDJ07fGvRbaGmliyaHbpGwCYBrYTwFlQfHrpcjIe8APdzmgNHRs4qqPFJkD714xuokcKIl2xze816gXe9G1cZm4u8Xi+tBVzisvchzO4o7yrylouwVbvhLIK2ARhsRoy2EgsI35j5HIyu+ngeUMHGyH2sa1AuZlR9feU9dVIeNFw1Jil/y+ksZl7vAgNkB
+iE8C6CHvUztBFYbHB8loRplPwrG+ALVq7ZSXbnq9l6p8VoSxSvAwo1IPADLdIMQiDMPE/8qflnkKMXXilrJzwFiAXprl/Xju7iuKPady+QncY62dlKfDskfV0gaYTl6/epALQdogzS9EUqhkiD23Fz/YzKwMZoLsyQGJiKtAVO2LE/oJVmw5f7ohRzC4QP2h7RmZ3RZc3kDeKQFvCz44kI9yHooy+Y8quGPKZIATMZLJLT0OMS8Z+S5WKcYQoXkY
