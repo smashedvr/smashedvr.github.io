@@ -134,7 +134,7 @@ Choca Chaos,4
 Chris 1,4
 Ciana,4
 Cinna_Belle,4
-Clauddd,5
+Clauddd,4
 Clio Ryder,16388
 Clives,516
 CloudxStrife,4
@@ -986,4 +986,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-degSxKW+C0UqNwAP5ouVHhEYzcTQZjuP7QzcQZ/BrEBUE7MfUugEtJfgzwuJKm6ZsjBTLtFi7JuLOHlraVaSd9VXI4wIx+r9Wi6kquLzy+9ahrL+WgNHJJfrbNLwauLIqL4ecbYqOzyQD+8RfFuFMbpXob7yDPpW5bP61U/BIhZBIxpUVoOqd6wbjUOFBf/ppYr+4hK5vfSz5VRmMUP8YaaA9QJSh0/2OZJWnqq3EkjPoJiBnT36yfsvPeBb/2Sd
+T44o/eKeQAvmdU4q/lHnu8IF7jC0bvwIKYgLc2twnQgnVHTbIjv+rJ1k6jM30baQJKtDJ07fGvRbaGmliyaHbpGwCYBrYTwFlQfHrpcjIe8APdzmgNHRs4qqPFJkD714xuokcKIl2xze816gXe9G1cZm4u8Xi+tBVzisvchzO4o7yrylouwVbvhLIK2ARhsRoy2EgsI35j5HIyu+ngeUMHGyH2sa1AuZlR9feU9dVIeNFw1Jil/y+ksZl7vAgNkB
