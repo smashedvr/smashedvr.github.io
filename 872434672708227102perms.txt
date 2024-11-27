@@ -175,7 +175,6 @@ DarkSoulless,4
 DarrenTheFox,4
 Dasty_Dubstep,4
 Deja96,4
-Delta-One,4
 DemonDwellerDK,4
 DerangedWolf,4
 Desan2000,4
@@ -887,6 +886,7 @@ zlone,4
 ~Zimos~,4
 ~ɢᴀʟᴀxʏᴅᴇᴍᴏɴ~,4
 ¥Ace_høunda¥,4
+¥NightSlayer¥,4
 °Phoenix°,4
 °Sneakyyy°,4
 °ʚ Cream Pie ɞ°,12
@@ -991,4 +991,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-A5UBlzZFqX5dXhxQh8pVPWIYfwyyLO2RG84iscF1x63cu7P9yyjkS5wpDC1pFonAkgPKkObMAGD5aR89YRoSvWZbNwDcJUNdYPfzkzhHVJ86G790I0fkLWoiq4B4UgBtMzaPfeRmntXSTdQ21B1ZlXGesa8oNP8Opm8HwAWDKjA9DluS4yzhsyOAxkFnO2Id2ITH6aVx+87r+pVAU08waw45DBiPDytj1pJtYXiOk63VOIU4DuQoYRn74jM0Bptf
+AWYM/MsU1TLuxdTu43BGzUA2BJ+aSAvAFmU9raSR47p3OSCGfvjiylp5s41swJ5xNBEIsu6Ekrlt7y2LSTbOej/A5/ddWWZXYfyF2sHTPPEjXmw2XSBOgv16jLNcoSnYfk+DPYJ6R8rZx/VwjacYcYil4+mctWHm9cb9Zv1qPbxMrXVKcdQffwaT3DJMeojblEEjWGCp3xR67izdtXWLFn21uMUUP7pew75Xi1ZQHyQPRdrgSTLYS1RsKxXvl9y9
