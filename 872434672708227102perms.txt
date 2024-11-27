@@ -181,7 +181,6 @@ DerangedWolf,4
 Desan2000,4
 DessyDreamer,4
 DestroyerMon,8392711
-Devoury,4
 Dirty,4
 DoctorTzarcula,4
 Dok_Morgan,4
@@ -992,4 +991,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-Fegtk5CgNnFyXR+hNmD3UgE+ocwIrZJIWN51pxcQAZf9n66uC886hYQjwe2fOrVU0Juoc9e+95F1hJqEbg8zulzy8NOS3QAZX9K2nY1uZWqeTEei0u76XH7Pv3P6LuwyOJzI5CNDtb8q/qYEP7Vb6P78kco7g5c/A0+D7LWLsTAj8+67fDOnzA5tYNRzrIS6Y+d/vq+c/ZPg7jAGLwXYLVh2x6HxPQv9kelEVeFGzNoqFdDOhj1GVkzm/4+rRDST
+e+rcY14Cbb76FasimuNgEyu/q7HhdfgSGvFE+xNzuV01KpDHxSYevUwSTysMtRvcJE/+YntlCKDNMngnauZR4OcasQBLVt417Vulunm8rZZ9sGuWlxGq1cLkwO/65X3HrQbt3CL0g/QL6iU4lcV/KhTIPp2Sj67OwTmxRqBm2dZjRHRCGSVxgzg/9bhUwfNoLrTdzKkTExdlzHViQUlmWT+Zudkz6V2qM72NzEhT84mpNW6BPdF8vi5RgWUVej1x
