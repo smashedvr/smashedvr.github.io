@@ -265,6 +265,7 @@ GooseMilk,4
 GosuNeko,65860
 Goth Bunny,4
 Gothic Clown,4
+GothiccNaomii,4
 GreenCrumpet,4
 Greyoutt,4
 GunfireFalls,4
@@ -994,4 +995,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-i62QUoeuojJVpRkZFx+zuFj9VO7ocE/SbAT2I5H+dYSMYTId1WqlXzBk10zLQzxVaiGipljZ13c81xzdHiqVilTg1vGQGcT2zeD7lkOTZQqcUi2lhpkrxcbcg7fWbM/J/8mL+gejQ7oa3fsFttSte//gIdeoATgS+ELbF7aZVBE3KkVpwTy7E4zlCAUyyTmlVOzdqCHuXSnenlLzrdx9/vcsXeTQDBBLb0vk0Et3i082tnWpzGbHPnQeGWv/Mprj
+Fj01A8b40obUWRWlkATX42DseNmmq2SY0F8V2vnb2X3AQFxJv3FRwx8K5wFCIqmvjFVpAnY4NL2WuOrATPj46rNdRyAbIAo07cUACsn7pCQhLMCT/zovDGd5ptXOzBe2AfUIPNq0If8NMjGGhXTmBn7tv0Sg4KnHLZZ8JxcBIPZY41nacZu9wpZBIPQbiJGPAwFX0wMt5JDbps7ybZc1uhhBEgeTNQvYzc+yekjbj1hoY6+iUrpHeWK151prRErH
