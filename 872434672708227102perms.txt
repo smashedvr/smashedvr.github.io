@@ -11,7 +11,7 @@
 -Slaine-,4
 -Solensis-,4
 -SparkyKNE-,12
--_-Hydra-_-,8392711
+-_-Hydra-_-,8392708
 -aLIEz-,4
 -pen-,4
 -samush-,4
@@ -135,7 +135,7 @@ Choca Chaos,4
 Chris 1,4
 Ciana,4
 Cinna_Belle,4
-Clauddd,4
+Clauddd,5
 Clio Ryder,16388
 Clives,516
 CloudxStrife,4
@@ -680,7 +680,7 @@ VΑLAC,8393735
 W1st3r1a_M00n,4
 W4ffz,4
 WFS Cus,4
-WJgames,81925
+WJgames,81924
 WarlordArdan,12
 Wehtt,4
 Welonas,4
@@ -993,4 +993,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-mr3jhbKSLXRs0XbmMZuvAO+5vuroSCK3MorLve2s5BVRul4jF2bzQka/HF9BF5Sn11+eLaOINbFNzUNmJtuIJCBXnZ/w4m/JSwfO83cpGTQCIXbGmsuAXoHH9XwGFWXRR2sQBj2UFtAeF2IZesdJoK8T9nWYsNyPYDg4RKrT2lZpzYinHX+Vi06M9Z+syn6badmTQQM8iCKi4nggc1pi8SBxke3wttUbLLdfdekVZ9gh8vZdfqWDTuktNIAj8r9U
+cxfo/Rdwvo/9PSrInxxWctY+6C0dKDnP1iyuYSk3vkXDYHsPA7Had/1MjqdqdVB6CM2zi2tdl6pJ3mS0vUQnvawEFBdXPMmQsTr0m5bORRE5ncRl8R2wOToFEB/mmkry9H3AbbRh3wT3XLj7B1mqalWNJSiyvcKzqy80/1aWOntdkCvXwibNErwz5sHG3dCJNCRRSQkGQBYga5DSHIs739laOC7jutkXZAjWvpLwMX045r62u8fFZFqWqJh8BKfS
