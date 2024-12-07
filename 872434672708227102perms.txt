@@ -602,6 +602,7 @@ Sparkilly,4
 SpeedDemons702,4
 Speedwagon 1284,4
 SpookyBat,4
+SpookySummoner,4
 Spoonkill,4
 Squakie,4
 Squishyfox,4
@@ -1018,4 +1019,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-YyLWdVjvRlMSrrvpqN0vVZzAJNJJxJY+E2aGjTWH6trm/ga5OgB0IMqUVpZis6YSs94/G2jiZiZ63QG8/gsreHMS3nM/4A7+I9qZWssjTP+vI8Y7kH+gPjhWCYkFysQSi3r5QZsC8gaORMkVquuzdNIUZ3nz+EscFnN6p0kBoPp5gpZQ2NaxpUdKW0e2wxLrFit80/JQ4q8CCs0zp9K+BXwfIHEh5QbHZzVbz5t5xnSJHdFbtLTZHpRBmTlC5Uxh
+mF9gWlh3wQ5Sk8ga8QduzllU78TIgig/Jd2rH5KBMuzKM0oW4Qui/cZvfgXzjtQtxOx8vJogPXtkgkqEiw8UN7g2SUYGVFatu8vIpIk0P38QB8rn/tVmN26OxIKkInr9y0Ls8UHSxqY0dcHWUYH+/MA5pAJmqVTCFuimp7dop0MRJAKRRX7d7/Wd+jjj5GjX2dxlu2mItXFfAnAjJHaAbnLSVA+G666Icb0qd5zpMmNcmfK5V40dQzci+2JkFrzs
