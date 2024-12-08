@@ -195,7 +195,7 @@ DragonsBrew,4
 Dragosshark,4
 Drudley,4
 Drunkwoods,4
-Dr․Cranberry,140
+Dr․Cranberry,12
 Dukeslice,274998287
 Dɑnte,12
 DΣMӨП,7
@@ -1023,4 +1023,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-JsX4TfaH6TaN/kMYvz1kFEih5d4OnzJw6zzp0udm0FKZQkYoWY3KScmq0Fjb4BrZErZYCwen22VdlzSK762GYfbSDXJ+k+QY3Cnj+H2RS8m7fWP0VBH8ewD3vb/zH7hSdNIcldgVmhakdawHkt60g7ed8YBVjdu4kUOIVUXmj7KnnXSS7rqUgSbkXSkgeEPxUA9v6vrbWsedac2PUd37PzcnJPdx616qMgo2unAmxmx0zw6Sy0hGwczQiLl+qu6D
+FR3LQ24XpfmN9uWNLT0hy5ZlcuUk6WizYXXyO2o+02HTzjmkdR/51Dw9sdDBFS1PJ6O3fuiESPmcy7udOtIEfk1qLXEwxvzifXGOK6EQ67qFZ0seeyjPG+5zAVndDGg0vU68tdIBEdBEGAmu87Rk3YJTCHTx6p8w2G7sTnj287OORX/bKEhPYSjmLTD21rmjZ14MMQE4wRXKOVL4M3xItpSB+UjN0w4+pb8OJ9NpSkcWxrlEVAnqTXYff8FmeO/b
