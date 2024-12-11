@@ -150,7 +150,7 @@ CraftMeBacon,4
 CrunchPunch,4
 CrystalPinkman,4
 CtrlAltPrtScn,4
-CutMutt,132
+CutMutt,4
 Cyerboras,12
 Cylindristic,4
 C̴i̴n̴n̴a̴m̴o̴n,4
@@ -1027,4 +1027,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-KLNLVfYpdt3upvNob5fDEIWeGXsy8U3dA8Bw7mGt4ESBYG3N39/SkamiU0iu0aFByii2N99zDllCmw8fFSQtzP2fGx7BbMDIR+1HoNVGm5AsKeRh13Hj1fQ/jhbfq0Q5XvTU32Wqcr23YLe7EPZFWq1gAMxl8KG3AEdqhEaIaD1A9Nk/2sAN+8eU695Kf8hz63R/zTnTwGt2nL0vUcNUYQ9JxGfjCS7pYZglVT+awO4LTXNoGlCfnDPE4SoRM79z
+IOdquJrl4cG6s4CJY6bfr2nwmx7s/+C1dwv5mJ2Dujkl4qb8UEsOTT44FlA+ORndJV0fQ3HYwrPe6HUnPVTM5b4GOD/q9Ddr+Nuw7vR4M5fbnWafQzC+L/sAH7ahlOyUZslj/26GpINPrgSAVwllzK7HLddJFVv9b9AhjK5Z69iOXrj/mrGcyPQp51TMim138mEaxljh1UUvHwbIOwNNTkTxrhgeEDfKtk+wKN7SUcXvw3DvzLRqbZyqH7JSa/eC
