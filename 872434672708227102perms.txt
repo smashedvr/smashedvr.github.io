@@ -752,7 +752,7 @@ _Catw,1073743876
 _Dottie_,4
 _KaiThePuppy_,4
 _Mr_coconut_,4
-_Rizky_,7
+_Rizky_,4
 __Peach__,4
 __VAL__,4
 ___Bee____,68
@@ -1032,4 +1032,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,132
 SIGNATURE:
-FHZ1xQl5Wdyp5aEZmiR9lJp72DkxIIzEiS9yyEqMTfdILB9qsUBW0TlzFbKnQjvdcPTnm6fjVT0TvUneYPYRdSjZ4u19mTKy2AKqZTS+iKilDw+rhjcEWFNVBmXLbR9qjpUg4eR+fsLyoOpe2bG2upKyjPbeYxS0wJw7nLA+8a23vRJZCR0iOXESmAyMRXopiwebEL32DBp1KI0anZi+fhQN23Z88MO7d823M0YA2UPjxjUCD1U28wyn25fyxvcQ
+CdD45ncxpSbQ7t/VmPz1jSHN1OZhJ8BCaSGZ+vnH+9pqwqK9varaonPcWFvXmkdKIh1yktfzTWB215qgk8Fmd804W9xJQwz1vM8A/0MXbN0B69rnJ5xFQbxE3B0J9Pja3ira61KdXEZOTkIOuwfg6y+tN+Lnbrkn+ogo2mP+06TF/khe0AK+KNsM2gydfnQX0k80BarrHIEggLM6cuENZuNhvy3h98jrtaLT/SlxXlPtWLghSqNDhRkTI/VPYy0y
