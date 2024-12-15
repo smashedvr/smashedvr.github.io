@@ -621,6 +621,7 @@ SpookyBat,4
 SpookySummoner,4
 Spoonkill,4
 Squakie,4
+SqueechyStar,4
 Squishyfox,4
 Stacy'sMother,4
 StanceDex,4
@@ -1034,4 +1035,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-d7NtUyvY7kCTygVhJlvxl5BrTa4t5Kh18eNFCOoegtUmCclI3bJYrRVJSb0dkmQjH8mEDJ9omPpZ54PevYj+zlBtOVjA09jDX1nBIInOzU8fsMCw4PgJr+wb28Exl7pC6J87FTRSg1bI52hLr9rw7/Ls0s4a4nRFJDbumM/rXsK/D9N712IAT8UiLgR1nIyoADihw1upynYc5UcyZPxwmUYAE8DH1c1u0/r2rB3WazVP/WurA1FckNsOXKn5piN2
+R73vP8W4q3AHvooH++cRdYd0dhuU5dmpvO0h0UrH0fnOpsE4bGHiTHuhinuIInU+mL2PwsjHBghb6fOI6S7dCy0ZBzCTdNzqDpHWGfviy5E3aCWN8PQk7lYy/k771eZcDM2+WMAcpy+MHogcUAVxXGLtU4jOdTwM7HWh90u6PUXhhHorVfspqMyxYZaq1w8wt2ZJvxRUYukAIQs0JOwM59z1mMXwB2M4vUNbuAgGJMqebzeiX2MjA1XgUVFzQeUs
