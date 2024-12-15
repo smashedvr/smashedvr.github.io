@@ -1027,6 +1027,7 @@ zrlstoneet-石,4
 （Jay）,5
 Ａｒｔ３ｍｉｓ,1028
 ＢＵＮＧＬＥ,4
+Ｏｚｉｔｏ,4
 ＲＯＷＤＹ ＲＯＤ,68
 Ｒｉｖｅｒ．,708
 ＳＴＩＴＣＨＥＳ,4
@@ -1035,4 +1036,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-R73vP8W4q3AHvooH++cRdYd0dhuU5dmpvO0h0UrH0fnOpsE4bGHiTHuhinuIInU+mL2PwsjHBghb6fOI6S7dCy0ZBzCTdNzqDpHWGfviy5E3aCWN8PQk7lYy/k771eZcDM2+WMAcpy+MHogcUAVxXGLtU4jOdTwM7HWh90u6PUXhhHorVfspqMyxYZaq1w8wt2ZJvxRUYukAIQs0JOwM59z1mMXwB2M4vUNbuAgGJMqebzeiX2MjA1XgUVFzQeUs
+Tm2px6nByR1HCAK6GxsraDKEYdfv8lPSfwCjxvpCf+MuRNumRIKOD/2PK7Iqi7WFIr16SybMvwM6i0eyfr3BOwn9uS0o0Qz+kL9VK7BDezBtmGON7KuoW2iJp8ZsrC6C58hnptaLzFT4H98WCtH2jjWP3ooVWKoD31q4m3wYNO5j6eoFvFAyl6E8flP7SJb5lUfIa9pArMLmCN2JC1K4JviSRe3BsMiJjkVuAdBloRyHKFFlHCIGNE9VKZLn0deM
