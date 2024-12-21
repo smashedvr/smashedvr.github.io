@@ -624,7 +624,7 @@ SpaceChicken1,5
 Sparkilly,4
 SpeedDemons702,4
 Speedwagon 1284,4
-SpookyBat,4
+SpookyBat,132
 SpookySummoner,4
 Spoonkill,4
 Squakie,4
@@ -1051,4 +1051,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-OUHAOOSDBMUPXG82U8+wMrN2vmexYc87l2vsOBbn1Llh1KiYep3DTNUKgN1qBcyj4RTsOdbU3p+FGo5stHoSNBavbxPVBugrdb4Ct0O0XCGdn5TuqtauSwa4DoE1J37h67D3XaltbbUIEeOzi8fhHKjQ03YeWVUUFCqJpBvPLoIXvBlcLn+YhNrWVJdz3vV5yml7EkPrehd9i5pMkynPH4iEzg9rviVp0EHjyTdvKNqYENbaxi6ALzml8D4v5Gtv
+UpUmCItaHsp3yZjxvx9iiRJrctjmAR3C76PsforOVEE3vTNxLLpLOp9AeHACh7uRUEW8jTF9LbNJKK/HEMNu0cfkpC+wnKN83okm/o21P5uwDQRbxoXZBAUzchzI3bM94Pt6rbUKBQi6cim75c1OZdE4GvF/TM6yc3xeeBp3G+HFwdoB1Jp0PfPvRD/4PV/9NQ1VNFbJCW+NwFooUuMo8adXTAww5KhWNW+QpGQIZ8hD8OEk7dZbqo3fh4KDj3nT
