@@ -44,7 +44,7 @@ Aaldrik,4
 Abbz_,4
 AbusedCoyote,8392711
 Abýss,516
-Ace NanoSpear,4
+Ace NanoSpear,3
 AgentTexas™,4
 AiriKitsune,4
 Aishia爱,4
@@ -1066,4 +1066,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-YNV0lcRNdNV/jwlEBZvnRrTCIqGTWk0wLODpCifv++/NdyjEnkqTw7z8k/5RHVv34HXQX5wVVayH8PbPab6sv00AHmZt83sb2xTXkSjKQFCq3ITkBdbTXwo/XnM7Wv29t9eqcUkgP27YBjUNKSHtu/s8Iw9l22wcnht30+LpJuWSZ8y4Ibo+jtOzLeO1ZBZXeOYum0nAAmYV282S4uTnVbe9ZtXaI7K2ImdjQBSFY4MwEw53CwUqNBW35qdGjz9E
+HehRwv7Azg9PH/Gjc1QShxP1uenefAKiiTLOlbSK3kv8VxU2D0ndWRgC39vnNTu7jNzafg3vKa7d8ERVbYfEpuFObVkAzGLy0ymAF8v/tFpFwikejJg5D7wcLiIQITVIhShFQkCFMzZoaFQb2ntlpFtMmCJIyeMiqizjgBLPKZgwpFoq91aGO0JKg5a+gfyJZlXoqwS8lRyooqzzoGe3zJJx4JmfvCNCPVCuKT8I1uJHnTdAq6IAHjKQSPkgj25Y
