@@ -281,6 +281,7 @@ GooseMilk,4
 Gosu Goddess,65860
 Goth Bunny,4
 Gothic Clown,4
+GothicFreya,4
 GothiccNaomii,4
 GreenCrumpet,4
 Greyoutt,4
@@ -1072,4 +1073,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-kmAzyjz4bAChHXHOpW+N26wUodUO+AkTUZ9Fhfnf2fdBsx7LInVCcie8efHKSVUpbFVB4VeGVB/dnyRrPfp1YCx2qclWd1gjbZi7gruAItgankaVXuKWrPgB/Fa9mKMjsYyfdoPF3XnCsIp5U8mpqp+YIneAWAHnlZzK0u8fXcbHBBxxmFqERHVXQrJ7YNvR2p83mkOOOlSQ5NJkVDz3hRBt1yW/0GNB6ErAsq9+sbzfr8fZRsXSv8ZsU4cA+hUZ
+jVpBzeDJQnHYFQjiE29XygKd7IdVM4Hv4GQyYIoXHS7uJ/AWyzMI5ec13Qjnv8MUI99KY7qd7YRVZRP7Ww4Nou8K/GoemUCQOMnfcc2+Aq3PZ0R1Q0+DvQRYNKweq3rawr3XSXenuL2IhIrUw5ZsLwZHeRoRsCFRR+KNAheGjNh2wvO6XHZSRmZKwDT6vrbSFcEFk0eEZ72DlCRrEaNg18zHT8dM7VHF6drXGjxsIWR7yEij6MzD+AoxuCHfnJR1
