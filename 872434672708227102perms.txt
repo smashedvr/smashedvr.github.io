@@ -8,7 +8,6 @@
 -Maple,5
 -Marlon-,12
 -Marshmellow-,4
--Meliodafu-,4
 -Neon-4,4
 -Slaine-,4
 -Solensis-,4
@@ -1087,4 +1086,4 @@ zrlstoneet-石,4
 ｢LittleBoy｣,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-EKbHDCk/Vv3UbZluY4P1okLuDR6dv7rfTaRUWk5lqz863uSMfs5CP8G+fmiVRoatNcMoZWT0PTr2vSFRrOZX9qGSEgDSruvylkZjbz5CWagCZpxnQ+Ry0/msAHbOvNShXWzgJ41LHhvaRWui4NAldJEdkHudG1RFYyxEp6GHbWO6/c1VG8nn9XFHpo4BohAYnr93uTuirLKfZTqX0/7BavSDlR2JUIMa2hj3rkb/hIkdZdAE19f0kLMczuW+M5EA
+VLYgxoz/vJJWaKgiNZAx8N7/dGbHHm7dsB4OHnd4s6o4o7Lx3s4XbFZWNACjK4FE+GG+bAv1zq8RZG7PnsIPd7iJeph/js9pG5l6xKRLyVT0ujucvGbGerqsTtoqSClCEfR2TioL8fddBdcbOGTF7EdNcLmLuhPkKJvt48qhrGUJ0wD09TZcehose9h5YoC5+8+GdMAv7TPb2E47Yis39aTjkmTsecBMScfQIUxXtLt2skAnHuov2mh0Fe1dc4VY
