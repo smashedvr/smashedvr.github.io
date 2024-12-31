@@ -962,7 +962,7 @@ zrlstoneet-石,4
 ~Godzilla~,4
 ~KING MIDAS~,4
 ~Kiska~,7
-~Nicky,580
+~Nicky,1
 ~SILK~,1028
 ~StickyPrisms~,4
 ~Wishin,4
@@ -1084,4 +1084,4 @@ zrlstoneet-石,4
 ｢LittleBoy｣,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-EBJq1crjBUZjd9KfXeivUG9bax39HKeNeVqZaMLg851fEpv3uwHKtj5E3q2rqShws8bJJzH5qcKMlHZWj9AC6+CE8P3QKrBgYyazJLCUQ0MgecB0HTZKl9djIPyi9VN8A2wAUk7AuKRiRvL5vH9lyNOcB79TepSzQVmRwBRXWQNT9NYW8oqqgnyNSYv5LZunT9AD/kjIQ8dKvYUqE/QIx7Fuv3Us1PyvyqGG4JbX/V1P3NUq64DuRY7Flaj8pYw0
+bA4kHyfSRIHQgeAaNvlK0pMvPqBP7kw0TvmOCgFOxtsksLIX/+FTEKbGjfwpircH0qDc53aId9gDLLpk0dPysCDVc+dqlYjCb+9aUBTj8FhcJhWMfNljxEVgW30UlECBw4DJ1sxOiWUFaAUMOJohu+hXSUUZykApuDytxfM0m9zqq7fQAwxNV9x944rtqI5ADSzJ5O4yRBnjGe8FFJ34VtwiPAsfQE4gZ2S0kkpWyutR10G5NHa0ygCZvQa1r44A
