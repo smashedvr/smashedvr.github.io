@@ -618,7 +618,7 @@ Shazik,270926343
 ShesAverage,4
 ShesFatal,4
 Shia~,4
-ShionBlanc,71
+ShionBlanc,68
 ShizuMurasame,4
 Shots?,2097668
 Shreddies,4
@@ -1097,4 +1097,4 @@ zrlstoneet-石,4
 ｢LittleBoy｣,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-PZ1J74tmNGf9ewGMVRRcjURYvI8N1COogdksfv1CTCdtTul7LzLo3FTL3fQsyqxuolAs6kamFBJLDqFegh79o7ITM9xhWM7/J/ABZU5QLlUdI54jJwQtovaXaUYzz6noLEnyauyusI6ULHc3GdAE5YaV1NL97bwtKt6SaDd/dmJ0ME5VSmcc60VSOyrHgKY/3vBKmuyMqywEbgnztD9prQObGZ75yaaCfQEvAt1P9fsOblQFv3csD44sUZF5iExc
+eBZDjz9llYcYe0ZnoMQ+zHaKAMPzx2QEUIhmmwcUUrULAuwRjt/aDCrzYbLhKtDlXl4y4SAVgS+jjEE4u51YeCF/BS1qgvUikscz86r6LDHp5eo2Csnh+jdAPEc11vcFYQpf6vkskIghE/HyHk21eK33jco5EOqbquTve9PaHC73AHmu6pzg50fi6QiOs42KuYlyw2f1OFgG32MYuApJw/UM8wPSf9TcuC/Cjlnmokt/JidXmhWJuBA8RoCJIY8u
