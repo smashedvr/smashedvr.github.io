@@ -349,7 +349,7 @@ Juggernaut 413,4
 Jumala,4
 JustBearmace,151061252
 JustDarth69,4
-JustLex420,270537223
+JustLex420,4103
 JustShyn,1077944325
 JzSnow,4
 JägerMaster,4
@@ -1099,4 +1099,4 @@ zrlstoneet-石,4
 ｢LittleBoy｣,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-dCvhmE/67RJw8Xgf3RhA6ZI7oxUgYehfYU4KieLv/K5MOpsuVFVMO6l7svfGMUijNeckyA2sy5S4SuNyRVbvr9kwBAtKegIGoeS2t2Up1KlkmrQ/psc16moIvj0IcTeLXEyhFsAiN0gRmGshOVuEFYJ/11Hw5YjE/tEExpRYWdvwpBBQfb5C+098bYqhQLWyZi20ch2EAe1FsIiFRgPzcgQnHu/RcH4uow2SniwTcQ5K+Wi09kfH0tgtwNBKt9+0
+KENScDhSy9Jd16W60OuEtQaQ6CsGQf7c4AE5Xmy4SjiaHhjM9AUhZbYB7jZI3bsTwCwZdKqxbM8dVyv/Ey+Z+eV71o7W0RO6mn5MNNRjsVripumz2e+C/lUXLDqXX9KKVStz9P+gsBhqtcX1y8KLX9Md3zWcKpbMRdzeeG9d0ZIcoJ0EtRpYDSnep8sgZmBm2FMJeKh+AMeaHxTmGjG7ArHxsO3I3nL5Czi8s9XgKw4W3YBySrz7VgkzGVOibMrU
