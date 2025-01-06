@@ -413,7 +413,7 @@ LiptonTBaggins,4
 Little Aqua,4103
 Loonaloo,4
 Lorkhan-,4
-LottaGamer,132
+LottaGamer,4
 LouLingod,4
 LoveUniversal7,4
 Lovins,4
@@ -1100,4 +1100,4 @@ zrlstoneet-石,4
 ｢LittleBoy｣,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-ELZ+dJ0qzK2dfs3iErX1HjbBLNfeaytGEeeAJNro/XlmkyH5ZwKMd+Km2kuQONKBTqyNE56Z49RFYK5UHMlO5VlCPI8lS31DRVC5S9T5FBGhlZtbz9I5+EbBfEivhkgbxVx85eZ17VXxgk+6AgoEEm2M7d7r3AoebzPcT+L1lDVThXcg3seskNq4gya46vgPocKnow1PNuTQuf9Ag53d28LNm5+e0E5prnNvulfaNPBAz4HKY5hSS2TDxOvk26mE
+HVRd52SU1V/G2lFPQre7YwFGKZWeazHRCeCx0eQsydllWFGhKuuXwxOHiLjK57VvbynTJ2FT3OIySxDVNnwL7tH4Twl6aWad2+wqeOZzc2BSYj61iE8CL67jnQv0wtfFDfPN894m1gWF7ht1ClO21s9S8oNUynjdcxqnfGtA0OuuJzLxEwHPtx54oeMJ1jDpi4u8Vx208kTe9CdhvoxiH2PkcH/1D2eFqVo/V2T4nhWObV1NhVZePg4Guq3OxF+M
