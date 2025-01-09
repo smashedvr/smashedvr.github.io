@@ -981,7 +981,7 @@ zrlstoneet-石,4
 ~Kiska~,7
 ~Nicky,5
 ~SILK~,1028
-~StickyPrisms~,132
+~StickyPrisms~,4
 ~Wishin,4
 ~XEnderMoonX~,4
 ~Zimos~,4
@@ -1102,4 +1102,4 @@ zrlstoneet-石,4
 ｢LittleBoy｣,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-cL5P8hCFqdOpkMQjHo19ezI9AsqsP7bMUwrnSqTKBTQXXBwIZXdCMB59W3XOunqYqoC4hbN7GAWcY0fOEidskC2J7rJOA0kd8RKgwTKcKJnq60gXwEivAvXUGVJR1at7BReK0NOBN2t9fCuPw5GvFBKqGBiP1w+qbPQzdKJHPgw3wrzGWTejTGH8Ql0YjUCdfQXQeB5VtAZ8Kd0V7LwgN8HKjE8Zh5Vqr4skXv9gJwTV2ijBwqySBihqR1o2Moay
+gj9ZYx86GtJTKWq4Sf4HZNajjyubAQLlW7r7RDJFIZe9ZQx/Tov2thksPkT8dY2Wk1zZOTlx4/7uynjSY1BZ68GKd1kuGZh9NGBwgB6MqpAwuBYfpUBKRPxkgZtnQR3B2S43tuiHyHWypUWIfk76PIQv+1oC40JZCRJ1sco1F2qt29pjeoqZCjClTr2weqqLz59Cs3Pda5cmc74uJ/XYMxTnwPxz6tZpJXUPpUoOS+c8kddWK3IGNBpp1IlpUh/P
