@@ -558,6 +558,7 @@ RADD-E,4
 RagingPeas,4
 Ragun,4
 Raiinzee,4
+Raina Rosedrop,4
 RandomOni,4
 RandomZombie,4
 RandomlyFuzzy,4
@@ -1110,4 +1111,4 @@ zrlstoneet-石,4
 ｢LittleBoy｣,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-j9Z5q7hFccOm6mmOi+EGbC1xJeM7/v5eKIBh8r3dULnaln0OTfdAasEtYqA5jy76ADvhQ1lp3PzVIexKUIeVU2HOVqGI5CY97teC++F5ga+LKo+V2uiVpQEPUPMv5OcrIw5wd2VgwgnQ3COuZO47daZ+7POcKuvHBjOfsWuxiBf4WCFwa94t8JsuUdK/ic9fUmu+HbKXQvQjOkbzgwEE23T+PnRV1I4G4WYB5LaRxkZY5W0GxP/eD5M0/UC4FV9t
+bwEgPnUm8iLrdiptOCmuFhh3Dm/Tl68CnGdbtMFu0lxVMD4O8xqHIIJeBmjeq7XsoqE0YPzZazX902zJYD+Qf/a8AySxtptTck2ItiZcsCA7FbmOjFDIHP5H2ktTxItZ0ltZx1tKVv89SzyBwYvbBSiOrjDT5We/LgV9T9/LTZpjskeHbmx9z4dsU/79foGqV7HbIhLOKww2I4LH3YZ/r2DEQVzbNevobbNzwYIfCNxmEi5TGnEj2MjtVIUz2UbK
