@@ -123,7 +123,7 @@ BubbleBeeLucy,4
 Bunny bunn,4
 Bunný,4
 Bunueee,4
-Burnacy,4
+Burnacy,260
 BusterR,4
 B̴o̴g̴,4
 BυɳBυɳ,4
@@ -1115,4 +1115,4 @@ zrlstoneet-石,4
 ｢LittleBoy｣,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-CCzwn9Z4AvJAen74qsy/2b3uCwxW3kidvNtbNjKlXCmjC0XmqJJf+fRtHjeJDaePHdXOrILAwRBzrR+t6cPD1wd12k7BEtceSjOMCsO6r/s/W4BdgRwka6EAwfuP5RBpqAWHqwH9ZJ/PQ6j2Qgiq9MNCCGfreShR4gsGtM+jmDFbjfW1jeBZpwk/ZKJooUq1PwePxI47DXYJ4uVOZxYl1o+97RhD2gVZmjoKBM4m72Alw6Ts/ITFb9T7ED72NH2z
+cVXXANllwXHU/HWUyArGHEnK2bgK3zk1ROadvRfUyMWbtdKryyWwre1s6AR7vmHq/csT5CA6oR15wrFtlCk2qkHT0LP0gtPDZVcyVQEFwerkPlK1dkHX18sQF6slfo/KVBD+mEECTBTY4bnYI4yA0W4GAebkQsYSaGxP094I1QYD8KmV9m0Munb+qr3c27sJcLUN1DZghPksk9lgdKxj9sO1yGu2VV/49mh2yh+d94DKlKE4nYn34vcWCEKdpxkZ
