@@ -744,7 +744,7 @@ TrueDivineGod,4
 TrulyBroken,4
 TsipaTsu,4
 Tsubaki Puff,4
-Tuplatopla,132
+Tuplatopla,4
 TwistyGenie814,4
 Twitch2099,4
 TyphoonWes,278942223
@@ -1125,4 +1125,4 @@ zrlstoneet-石,4
 ｢LittleBoy｣,7
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-h1X4Ewf7IyZPSc2WrIUlHnnL6kqEVTHxa7KAqwJS1vry5IRnYmDGDr+6YgmT7D5fan/m/6egN5aAb+z1RpsVeoRXNj9FD+SvbFPw/zwbpn3LN/Y6t739RZP4cVokNXRwOrhl68pGFWPu0R1AbuqBE1tpMJY803Zqvsl3Jrxot+UX9C6g876wJJX6bBFfMNVw+4z3FBHTeh4InyzlJMeD1iB4m4ECwQB5HS34uoC7Mv65oySwLxYYROOb7QwDHv71
+V81XcvnbrpVSeXtDUyYYbijVlLgtVDyr9LoengztQiqGte2ips6zr0gCZGfd1au850pRWgQjP7+1J0Kx0Vd6s+50RLCkL/JZsfF6bzLhuTbLlAfqUfvTT7IyB7adI6ZO0vZGJLoE2oAWPTnlokXjLxzVJaoNT8ZtXLGxEpJX53vZjx5PGbZir8Ch4ANrRw3SZtcaZFOXLpUTljFKXeIQYqDJhFGy5GCJSvMTy/ODbw9MALoa7nFoZRisj78MjVIX
