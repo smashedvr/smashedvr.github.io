@@ -1002,6 +1002,7 @@ zrlstoneet-石,4
 ~Gigzi~Wigzi~,4
 ~Godzilla~,4
 ~KING MIDAS~,4
+~Kagura~,4
 ~Kiska~,7
 ~Nicky,5
 ~SILK~,1028
@@ -1129,4 +1130,4 @@ zrlstoneet-石,4
 ｢LittleBoy｣,7
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-Maj/9HqGJA8+XFjTZVeZyQuuRJCcuc93rEJQJafwX56iu/VjxBdG4qLQGs66wT7P4fQHtmQAeYOs6nC6yL8lZEPUSky614Ck4BPuuSDYWr3uGpvtMAp3CQwruR30ZGafWu406/twz0AXDCIT9P+2JU+JngkbN0d4TuJ6A13RbUt3mZ1mx3/N9zWOMuGXpkCZ2R42IqgMOeHKBoxZWnvnMorwnqpaNX2jbOrAbJ1K4UUmY6ORAregvJguEFe/Wqal
+ejDbSok+Ns2hQ9pWpEWguFamkoZuquKnO3BihPYivYVATBMRVQNljw1B950NnWFPU7TK2m6Kbl57qVNsc9zbqXwra5/4GX0qbU/Ol2s3+tOJ8Qby8ZFMdzMO+k1vH8Nobklnk2me4jE5qiOArx350tD6MuoyPCaY6aDA6adyjS4iJzCMyy2iQZIgpJ6S1OVks/i12gHPfYVuiriUCWAIlOFb00hQOTas/Rpcz9DYqPoeUXVHdxxN3a7hCl/uFki5
