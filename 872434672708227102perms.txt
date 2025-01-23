@@ -266,7 +266,7 @@ Fordzilla,4
 FreakCJ,4
 Free_ACEE,4
 Freki 40ec,4
-FrostSickel,4
+FrostSickel,1
 Frozen_Cherry,4
 FuggleFox,4
 FumikoEcho,4
@@ -1138,4 +1138,4 @@ zrlstoneet-石,4
 ｢LittleBoy｣,7
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-VT0DV6x3UO8rFpq5RKXXHyvs3a7aCTRdj2++4BnNSlRhPSUOMMc9poypX2chtuu2aHJMNoidn0YjFipPWs5dhWSFXPn8UofpZ4rlgAy4NfysJuoZz3uo/zCrCwwuSBqNlpT+PIM+dFHXjYlKeRF267WZ4oVjd/xqUt8/93k276E42lAIrLWcAiLpDLnQZdsJolG5LTnzlF9m/r+GL/d2T1HUGs12Q8Woo4Q3jYzoVucyzUO4dFNT4IVbSuSe2O//
+T+cXES6GBtJtnhQ2ybR05HUOimXe/BmXSkmzIL3tanVQyrrQ/7DcBMxyAUK4CVkD0QECRoQFv1xkiE4oqHSDDfBmKhJUyYq41CZxGcqcuw+yINY/pCVtWVlwoqA0GvCBVlyQNMDYga+4Y/0AHXT3qKQJv88F+vBimCk9ScieLxJNzPJGER3OsXCcTgeZ4WGSvbcuGaUOMZhnrRn2fhBXgdfRxFyjp3CV2QubeJ+3rZ0D1Ql99Zjz7uBDHht05Adr
