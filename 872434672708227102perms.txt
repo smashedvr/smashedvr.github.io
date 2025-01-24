@@ -798,7 +798,6 @@ Wild Wanderer,4
 Wild_Wolf_Welfy,4
 Wildhalfling,4
 WolfMcnight,4
-Woofels,1028
 WrathfulAres,4
 XKuro_Bunny589,4
 X_AcidicGhost_X,4
@@ -1142,4 +1141,4 @@ zrlstoneet-石,4
 ｢LittleBoy｣,7
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-NvyD+ZXgaGP1Afqr67fqq+yHoVnSAmy//q631md6pabCd2/SZfDkD/b2Cs062jN7VVn+0BMfKibahypBykGqJiQdyeiUt6mb0tBEEwhEHWzE0utBpY+56eCm6ytjAZGsM0pGE3ktXN8npMjdtEm7NHxAJ7nWO5W5sYFT5vWO57GfjhHMwaH0qSnDpMXQgH3WoR2rNZP0+y4I0ESqrPGNnm/c8oUrwHYhtZ9HmycChxJ+agk/aMdvKOBh2HdPrYwr
+Yq3IpNuwv/zt+53fqHN6sMJ35zZ/mqHoaK/40nBOOxarsE1Arn3wM/IzH83WFIyBZnl5o7efEo4CS11ZIA56P/3rFpxr+PgTJKFkzsWP+5xbazBSMk/BPadYcBwU/L+ktqaeGE3R9FNNtEqFazLLMNsw80CJ6ncNwUGk7mjms6+DHbuFDIQzSAiOSkvXjrCtgeKdu55hhKFvcp+e02F+YV+vzyrEdmuT29ye9NiriRgcMb8Yckx1rvPxC128bKB7
