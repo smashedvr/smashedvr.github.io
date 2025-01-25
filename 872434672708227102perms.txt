@@ -806,7 +806,7 @@ X_AcidicGhost_X,4
 Xenisy,4
 Xhiiu,68
 Xixis,82692
-XxBubagirlxX,4
+XxBubagirlxX,1
 YaoiLord,4
 Yeah Nessa,4
 YellowDeath,4
@@ -1145,4 +1145,4 @@ zrlstoneet-石,4
 ｢LittleBoy｣,7
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-AU4EMddHLR0Sg85YAWeZhr6owq0Rb2BbxIaj2fXyM7S4OjAAuIhxLbiamRD9qaD/l6QXeD0+dco7xoErvXgRYxLtmFCCy1NROCjQy+fENj5FZ9iN6M2IHVDr5ZUyOkavT75Nm405kA6QmKMeb+GHKtes51QW6jVu2k5fXktwpnq8PLYpRoJoaNDVQTjPZlgviUWdU/+zEWmI2ocM+YyyrLwCyz6lHSk1tQCCi36Kape3c8vAHRaCyEQ9TjJKSGZq
+EJcHhB1+WR/8S9GV8+puNevO6a00uqqAD3/h9fzIN7djPfbkVxSMaI2ziyAby1rh+h4FISVI7RFlCVKvl/dO53mRrZldiPuXPs8S3Aqu1pAK2mo+T3uNmyc7enBxX7O5tvij4XV1lMok4Yp7ItdIJwa2yJYjRXVU7gHiUd4dXUkNqr7l+ZrEFn6uKHxWKufnv43Y+NViuiOKs78/CBIJxT1hnxvZWIYYcWbapUOAMwnPhUXMgXN8svJjj3aSQXOE
