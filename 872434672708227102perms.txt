@@ -971,7 +971,7 @@ sobersama,4
 solo T,131076
 solo~,4
 speedfreek16,4
-ssandstone,4
+ssandstone,1073741828
 stinkykana,4
 sugerglider,4103
 sᴋʏʙᴇᴀʀ,5
@@ -1157,4 +1157,4 @@ zrlstoneet-石,4
 ｢LittleBoy｣,7
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-nA9YR8kvh8gwidffSVQYdoOMcjfO+T4ks8o1rgN8wBnQzCumphDVkBoxqvPoaq1g56vZN5Fa34GmAQObYUgxYJ/VpYLPBnIMbixjk1x50k8gMbQzLWTAuDZaD3g0zc61rdzMwLQeGeEELVZiPXHmlcwawwhthIY+32e4umz/Bap1DevJCUvlFWeEk/pR7xoPRdp78CupMHIYrMSo3ffIq4WcP0X6rStpgoQd6PaGEmKt5FZzbrU9IoLr2VfjzXE9
+haoVUUWNgngZFMaq3aiVm3UEPhZdeKEKlL8IePLoJ7ZSpsTj/Fpminb4Cr5ufPbOLvj07moLTvPmYL+dvGSFp7Rd+ZgUQ/DKRihjIDCRVoA3c770Dij9+ItgehN9aagA9ifFtdrnatWcj3nQIUh/WljkY+vu2A1a1TPkAUfkViR2NLSG/zrp1PyJtyHZzG5VcLzdZkW/wNMyvdGqwqYP6ImpTclXAoWhursPySDQzGwNS662mBaA8ab2HVgWRwXe
