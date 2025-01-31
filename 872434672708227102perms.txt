@@ -200,7 +200,7 @@ DemonDwellerDK,4
 Depresso Spreso,4
 DerangedWolf,4
 Desan2000,4
-DessyDreamer,132
+DessyDreamer,4
 DestroyerMon,8392711
 Dirty,4
 DoctorTzarcula,4
@@ -1166,4 +1166,4 @@ zrlstoneet-石,4
 ｢LittleBoy｣,7
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-Fk2Ughi6e/B1MZGr2N8MVpZhUXY+DosTczRi64ToZkfIAJPeDS2jpBUf/TtxGzUOeC1ByadEaLUgOgTGwTjljJ1yoiG9E1TD9rldeCsUhPos4Hrm0TMczWBUhktQcX4uJVemV4PRB/N5AVR5GGpWgeXrzmpzqpTLNaJstShu56YNMzPj78t8uD/kPOfIaif52XBfto1xgo0Nxv3ozQvGU22IgDN+0YegVvVGINAXrJRys5JiOHfaR91cKIm+XQ6B
+EcZxpPAtkaCMTD4LFIqTynrD0ypHOSNpmzWitpHBMRn73wFBgfIVX2u5tsTiNkES/Q7cqQelJ7MM0MxYq9fEH3XFYP7FxXqZ5EcCHm73hVzY/rnsJRu7TY928wGHOtsW4JGDv/Ah7xJqLy5NebyDQvxxdNrCRt8XXxaZXdEcN6SyXFWA6ykl940Q2dc8ZfVh9ka/r/1PTC8E9zP4Ymu+umF+0CtEt0bPTA/9IbwmxN0zo7SBRsDTekc4bHMpHbA3
