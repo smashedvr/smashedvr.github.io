@@ -408,6 +408,7 @@ Korzu-Nemui,4
 Kraze,4
 Krezz-,4
 Krimininell,4
+KrispyNugs,4
 Krysserion,4
 Kurï,5
 Kôvu,4
@@ -1167,4 +1168,4 @@ zrlstoneet-石,4
 ｢LittleBoy｣,7
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-J/DTv/AFiuWhR5s/F2iG0TSOBp7XLejNsauaXJ8+yP8W/mIXVYvhMU8r97wwcW6vgNDYt3Yje8heEeYax61vVgPeL3w+06rYwD1g774F0FWdCgRMuM0k0phZv3ffEt+SAC3nN5yKeHW7Z7IWggyYMcVYiLcjKXyPuyPcLTyg6lVDLem0QOuDvvmZV5mHvRqfANv/8a/CPToLvII4Six+1R/+hmiZutp2fzFBOjdUPl5eoIMJ9HFVGDLwjJehV9wc
+K3C2TYh8fKNzrYy1EwQJeymeTz9CUxwVEllYZg9bWLoW7o1nEtaV0Nyu4R3Ljgtw5O0oXtR64CjEEKB1ugSNfcjQEX8w53xLlUKL6LLtbGDPpfz2de7LK6tL2DMaEyeuZFcmOai+eO+gptTKLrBcMphFPaEeDhZ+7bJz8NbKE9QBeBzgX9wdNjiU3ix6UK/Okk0fLrbXrtzUfk1Q4cx6IjYg7YHuTMmFtgaGuQDfkbawpOpzTBIEIe+D0BLde7Ic
