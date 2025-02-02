@@ -608,6 +608,7 @@ RandomZombie,4
 RandomlyFuzzy,4
 RaptorDeity,270533127
 Rat_Arvinn,4
+RavenMakara,4
 Ravenskull7,4
 Ravenඞ,4
 Rave․,4
@@ -1175,4 +1176,4 @@ zrlstoneet-石,4
 ｢LittleBoy｣,7
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-aPUvnTKflFjH7pKo8sFRl0bPZZlH0GCIktG/ZD1uNCo2iN7ztKRLpSYeuQnXSi5WzoTPIB95JYImU90/u3BCyVv9A1eajUpB2ON6aTQnXb1N/RLmMcvM2R3vVn0I7gEnIKu+qncndnK5hOsvq8B4mUWDJd1b+Opq8Sr2Up0eqYGTGenmjU14x484abmorb5cxJVfy1Rg325KZVFv7gm2vGQuwqrQudOFi23LNGq2AL5T7Bi0Hz1ulHApflaVTNvk
+hoPWkgiO4zNU3fgyHovpI2RbHmgKIv2mQMrjp1LSXkyZ7IqvM88idKIWa9cKpYB0ZghTttUy3YvXCZXFOdESWyTntnYXiieNmoeyG9YYp1v+WMW3wjR5ln8XwXUghvWjEhDQhE4YjPudd+cad2KsHryC8EJ+Pdi4FpPuzYJRVjR253NJnYSxM/KE3fbfO0BEBE4SPq5m9iK9uGec3KZdbJLPxvVNDPifhMQvKgN5ZU/AsuKdO/yJ/KSesZx8KUq0
