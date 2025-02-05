@@ -1042,7 +1042,7 @@ zrlstoneet-石,4
 ~Godzilla~,4
 ~KING MIDAS~,4
 ~Kagura~,4
-~Kiska~,7
+~Kiska~,4
 ~LoveBunny~,4
 ~Nicky,2097157
 ~SILK~,1028
@@ -1177,4 +1177,4 @@ zrlstoneet-石,4
 ｢LittleBoy｣,7
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-ioWcqEkVhURzntE3VzCjGHH/UBML/FVFuDkj995PI9rMFI3JbvTNYFOHFkQVQRWfh6Y+/0Gi1ZbWmqFZ+GtAyACEf/16rgp9auu5r7UncGlqZq6aq+75vPrAH6/cDgBfDIOMsLi8i9zwOtr9hWTz8yo10bWY2ed1KNx7hbz/ZU+5B3UBvyEKKw1Kv7KAq+05mFPrfbhCgtPwfimYMeL8fxM2Rnk8UY4Vbq33p75N9I3VOe6d3Xv/ORx4xXqmM2mz
+jyNp6LCb0HZOi0tULvqQHvlllqhAjEiszprv0H0xYgLBx2FOA5pmzFGs2yCZaYNU29P3FbqpCF0U4Dxkdz4JiH7wZ26ZBlKK1Fp2Z20JMiQyCHWTdktFJwwnxv91IglEjswcTmuUMA6Fn1mIpREQX8m9GQhnVKkRT4tDtBB4OulDZXaavz+lYPUcrOUJjLGLBYTesLe+esFtH3a+XyPrGEvSUQGwyo8FPdBSUT1B1xg89d+veJARAA/TdsX2W//R
