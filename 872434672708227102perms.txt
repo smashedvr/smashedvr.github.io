@@ -686,7 +686,7 @@ SicParvisMagna,27267087
 SilentHaste,4
 SilentSunna,4
 SilverBorne,4
-SilverTide,7
+SilverTide,4
 Silversity,4
 Silver©,4
 SimulatedWolf,4
@@ -1176,4 +1176,4 @@ zrlstoneet-石,4
 ｢LittleBoy｣,7
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-dHDwdW5lHXYXNl7ZxYVACnNJDfS0AFTmLpbufehHZK6oNbLdFnzN9GUBLTYbzbv07AWdAnxnVXeMmUd5Xmb3csYzao0vbACHu5ByacePTpgOmMt/WdNL3HTiOegN1+9WEMXvXCUpC2INR7+MkwgAISWLIWJHqIVt+eRiD9zmyzbqVmczdoXY3Mp9C9hAnVJ7HOtkNNYI4RT+fNMhXRT6aARHXQfIg4FWai2Lml+pQrUccuSJRzMQm4Lm3vw5uJb3
+mhX1qHZsfgy1q3eM1w0qaMLZaft9Ja22V9z6niJGivj16ixaTeAG6qC4/g2pReqSJMCHvbeZ4Z3YJcJuTIsCIP2leiY09AjaIJu2wAGGgSY4DICHy6iOJC+JSS8V79yl9hpdExqNQ6r/HjCo7QTbGWsPHyPLdnlfDJhvhI101VlL/r/xQdH/TtIGzaqX0eKaODk3ioVSAbzF1ZcBdBPGxJY+iCRTtRkTFU9rGIVRSKAQmuvDuL3fRKz/++fCidiO
