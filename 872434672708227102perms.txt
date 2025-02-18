@@ -309,7 +309,7 @@ Goth Bunny,4
 Gothic Clown,4
 GothicFreya,4
 GothiccNaomii,4
-GreenCrumpet,4
+GreenCrumpet,132
 Greyoutt,4
 Grizznickel,4
 GunfireFalls,4
@@ -1197,4 +1197,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-TNlm3sLn+ylX6QOgc6Oyhb+xoeL0bDQ674EZ2C/O9KXeHAxknsxVm/fsXPqgt80keTlJMHLF2hSMCwEtxKF5HG+u7MmSXROn34/C7LcM49b4vOIFaZOZb5NFQEie99EjC1QG2rwk+62QCyNhwcicXKGFeD7rLP4+LIbnkAnWezzSUnvtOJuqShhyz091xF0evmSknXDNUBonHivsmSnJvjPCUyXrVFHCDYRM9ocGk1YOxegzfTExEems5f5MmVpW
+MhO6V/IDa219yrR61Hz+QzWQU5JcuQmPKd6qy4r0UFHr4kfp/6gjn0dtK/GLSkoDnFyKYaONca+OFK642SQDHz8Iremesmg/NwSSbJDS4K5N8kruRigg886mO9ohQuWL2amg9cRb0bczx5pBcXZT3UVp4f82nd/JpCSsbkgfTUrxTfA7qW0sKptxRECwUjRBTR5cpVa3fN6/JSSDyaZEdT2qsRySC0cD5YV0jVUH10dLxUNYoix0vspsePlgbdBt
