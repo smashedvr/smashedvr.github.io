@@ -708,7 +708,7 @@ Silent_J,4
 SilverBorne,4
 SilverTide,4
 Silver©,4
-SimulatedWolf,132
+SimulatedWolf,4
 SinfulBuppy,4
 Sk8rBeats,4
 Skull0fDeath,4
@@ -1198,4 +1198,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-kqxf+xmP8OU6sI5rSql1zeScLsPKFND79KPAzN72XCBmoHj4SIkblN5AjMSm8KbX02eBWpGp8boFyHFAu9UXQiY5jayVcGMmdFZUMF39vOgcXB6LlLbEKCQonNGfCPBXR6IRHb/8yQZxeWtF0lSGWyAhpPEsXawqBvnYnqCLWLqUzLDKzVP5A2HuTo9x1795DoGSTFKT0U2Dct9JtimQNTVVAsbk9qJ4gML0RzWFO6JwN0O/Mys3DRmViv4M8PSQ
+RdbLanDu+pMP6pXc2DJbESeag1SyfNNxEeUIlEDhUbBkcTO/8GbqYJWZ8vwLmdOHyduwbbDjeoSI6Sm3QEJk4T328f3Z+17jE3OQZqqP1gl0J0FF7NzETosqWkqSliJ7tOnuN2Hw8xEhGEF3NXtIpt7v5lKr1JSmakqJQh8MgswcE7TwfamEpg/g8wi/toitKwKExj6z+g56AWib/i4y5lc/k9IogQkPfEZc2Q/EOpdee9PUfRRfeNCgmgEh0cOw
