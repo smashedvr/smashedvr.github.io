@@ -1068,7 +1068,7 @@ zrlstoneet-石,4
 ~GECKO~,4
 ~Gigzi~Wigzi~,4
 ~Godzilla~,4
-~KING MIDAS~,4
+~KING MIDAS~,132
 ~Kagura~,4
 ~Kiska~,270533127
 ~LoveBunny~,4
@@ -1206,4 +1206,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-D1vpe2oHgGBuLY20Z8s5qe7DArK9mAx4umGIa57bN8Mx0486WVHcWSXvt45X2nsTc3NvusYT5XXbsr8g6bXU/Yny/oGInBdqurYYmT5dhZYbC7+3L+WXeG67RvTw48uR5G5CA7YWcpINcctqnvnbGwqyKUhbuptzEZ40UxDaZL5gXGbLPVSiAejOumSJpq34buYT0kQTPLUpslCvGepgIIQc2IOU5+mwNVSHj2eqgLTNZN4T45ZBPrgMPZy3P+F7
+fuaemZWqpt3ZN3fbedpoqqED5xxKgSAVnmh0KsiMFJRvnb2XzPgAzSgNYaeutZ8vYd7g4xYW79agXBIX+twnRSXAcOKYytk+VQULaeFfZdc+vGwRn19bhkNYe6JQVMxH4GEbGYC8fRWFCIQFD0YZbA6flD/k3dcmmOTCZKlZvXb08nnrxe1IniHUR+6oIpSKNCc9RY+e+VWq5ma+6UG0t2e/uqmb80vsNZxnhvrXKJGOEwypsvQA/bCIzTfbZGKd
