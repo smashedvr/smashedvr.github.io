@@ -658,7 +658,6 @@ RileyBean,4
 Ro_sauce,4
 Robin․Skywalker,4
 RocaFlocaFlame,4
-Rockanyell,12
 RocketVR,1028
 Rook75,4
 RoseIsThornie,4
@@ -1210,4 +1209,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-j6vHdy5vX/uq1TsSKlb/ay4HCBSJ3B0oftauWQvqCy6i6EyQVDZ1k6xHAzQ0tC64nKSR8JcG60WGhX36213aymn2ILbG85cxuWIlYUa9HzXsajx9fkiUK63WoFYX3GmATqDhCz0JKLyxCUPcECMesena38Lvb8wVTFX7yKxdBQUBVDpjUf8Fr9IRPwHEAfFyvIRqzpkEwaGRo6Aj75rJU+nsAClPW+imZh0kxPjesQ7o/SaU46dOuCYXb5UNLGo1
+n3C+nnDnR/dJWt152CEady1Vn5JIZdVL9W1F4dltOq8H68Q9DmTF10C+HQs6A9Wxpp7bfLKiQP1ZiP39hhYFYOq2ez4GYYSMiutulyC5EZpUfZzfkGVEzr96l7aoS63yhdqV6aEYpqWE5glJoCvcDrTcT2f4REmelv/x3MIExNRxGj5r0dsembg/1qpk5/iYDQ+pSFhEj+sW92Zly4og87s63H4NlfabRorLRE7VgjG2Q0VZvmAoTs7uKwuwpGb5
