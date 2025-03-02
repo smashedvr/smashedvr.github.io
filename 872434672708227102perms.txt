@@ -414,7 +414,7 @@ Kitsune~senpai,4
 KittenBae,5
 KittenKate,1073741828
 Kiwj,7
-Kiwı,7
+Kiwı,4
 Kizan,4
 Klipen,4
 Koala',4
@@ -457,7 +457,6 @@ LimerenceFlower,4
 LiptonTBaggins,4
 Little Aqua,4103
 Little Saya,4
-LittleMarie,4
 Lorkhan-,4
 LottaGamer,4
 LouLingod,4
@@ -1215,4 +1214,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-FAc3sBdKRLPmkBMFJYpmIE5Xkir68fxxu/rDsgp3TQ8MlIgU8J7Iq5qvlfxoBX2w+adjKBCwpdN6S/m9BM34xKRVTRzOIBPH+7vfJkNk0uVMRa9NNvcdRRNHYgpPQ14YaC4OEOb8oKDIBeOAimbQlsKDghYfijtARLDGH1lDjBCv53NpLT6lovM7FCMdmtfpFyYFBnN/c2S1bCj1U5+vNfvql6idZj1avvCeKGhsoPsxEytu0BdRJjy/ADRuZaKR
+nyVfXJ/TFRKNn7MNouKeRMDu3n2//NuNDubqQRV4P/6GSm8/d7vDN5l3Cts6A02+8uFXD4AR2CKGeFa6W5DGid2txxqnpQZ+0IIzNB5ugbT0brdkaeybJFtonqwfARvW1x1jgLFNYZmBXOlfYdVOg2OISGz+kXIpGYr03s9fyAISfnB6HEIP3WsGrsNW3hVhPmFA0Z90jpdvH2FSNni3aqIUcvK76WbSWCpXoIKjL+ONMJ3xALcdRsKCeVlEhGja
