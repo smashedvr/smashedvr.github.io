@@ -197,7 +197,7 @@ Dam Shin,5
 Daniel S,4
 DanteJoker,4
 DarkOne,4
-DarkPyroKing,7
+DarkPyroKing,4
 DarkSkye․,4
 DarkSoulless,4
 DarkUnicycle,4
@@ -234,7 +234,7 @@ Droted,4
 Drudley,4
 Drunkwoods,4
 Dr․Cranberry,4
-Dukeslice,2097164
+Dukeslice,1
 Dwiti,4
 Dɑnte,12
 DΣMӨП,4
@@ -524,7 +524,7 @@ MoonlightZo,4
 Moonlight_Panda,4
 Moonlight_sp,4
 Moosiee,4
-Mori Me Senpai,4
+Mori Me Senpai,7
 MrBlackTail,4
 MrFlashBubbles,4
 MrLucifer,4
@@ -1214,4 +1214,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-X4kYcOAeyXu99qM8IXbnowWkfPwf7Hl61upNqu9K2MfozM2OsP1bvM30iYBJj1vueNQP1d6WW03/Oa/MaAYZ5IFpYEedkxYBfKbQI0/9XYROtKbmUwOdLpViJN9rE4a4VhA4ZN+xKNDJmOB0csdEBuMP004BsAaDaEsqhCGFamIVDBmbafAUUDcDFhPa1yaxBdF/vxqxWDzWi5hsmu7lfi1l5MCM5uLT9kkAcBEldaNpbGbKJ8NP+I9s5xygisw7
+M2Hu8N3Xg2QXoHNICHQvJQ3GhZ+zM/4UTnTRQTJJ/zJ24EHNOZDyw9lnq2gcH06OsxFWXXNYmVpuzChSvEgTYGgSSL15RZAV0yG1qAQM/cv0hWpZDfEVOXiLTowrjL2XJ96kQUusVY2Omu0Iw/qjU/kcXtnK5bADzedQl3Xg59EAp956z4k7ymJZPdnzmGukyQVSL5KHOb9VuT1+oRohJUthcoXw1d1c6PZcaGFolhu7CYBOr7DhdxBYUq0Xjg/j
