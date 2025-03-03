@@ -291,7 +291,7 @@ Frozen_Cherry,4
 FuggleFox,4
 FumikoEcho,4
 Funky the Clown,4
-G I R,7
+G I R,4
 G0TTERDAMMERUNG,4
 GBG 'Sawcy',4
 GBG Chungerz,4
@@ -1215,4 +1215,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-Ty8Fk+C1RYF5mt1VYSLd2x7sTOl0hxmMjLk4yEYrpvurQc0KI5reKJnS5ydcmnSwe5YlnYe91l2322mbDAMX2NiNybrPgqGul4VHKEND5A3v9pbaTWSvSEOM5qb9akfQcFdToORqcBu8+nfIBuzLXzkOLI+qqBCaaEjZHwbe+xdgi3gS1zVsD+Vnlavl5K20yGq70QrWFHQLZvVAzWv6oxdQjSKZLFdzfc40VoX8wvSPaIsHizvX9rmVyP8rr6Cx
+jx4t0Ru2M+6vgXo10SpHGzq+xjgTOWxK/n9y7e7sBIpHrgE9Nt1IIKNG9mPv81Ef0J2eD7mdjn4c4FFGpKhOCg2IfTVjiHXKS7VbDznRlG6mBt753bbAvdgqj8dJFBbpXPIVj74kR6PNVdYbOcl1ommu75Xv+Jqa1IWMOyRBvQL1MEOgCzMqOOFX54QEXoTO4mQXU8PhxithxyXR77hD8mkpfVCdz0Ss7QEfj9zMzkpok2AFrBUJMRqOTnS6YB6m
