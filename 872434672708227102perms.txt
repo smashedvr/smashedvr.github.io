@@ -888,7 +888,7 @@ Zoro 75d4,4
 Zoеy,4
 ZygoteTrance,4
 _AmethystRibbon,4
-_Arcturus_,12
+_Arcturus_,4
 _Catw,4
 _Dottie_,4
 _Mr_coconut_,4
@@ -1229,4 +1229,4 @@ zrlstoneet-石,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-nThv+QdAN08uMKmRWJaOZzRmndvK9kWBkGPu53WNAJTEr0UaUgcB7jwg5o2YFGaF+rl79FKyz/MdY20AZ0c2daG2KJIcJsakZTIAPsvcz4Zwo6Kvm+JTQDnHdwCjwYquu4et2t+S6BJqLSzkxx8nJJfQfoY8iJV13QSTdPv2FcoMs771waywWUWZNhogZXtCtXr0wOCmJmLctnPuEDEdbzz5n20gFn1PkLmBe7xcJVok3/ofveX2M131rMgHo3xV
+QGkIDqMVW6IpW00sk5at4zfbB9gOaGafDEWCd+g2aEnLIyU06ZhXM2z+r72SihcBL48KKQTayRQtmJJZbNWk4YW+lGMiJY7pcihyPPFSs9Zn0UJQbSExTxj8rUpwZA+6ThDJ2yfNswdbejsTuE2H0u7gBFuz2GP5AG1P+PGQvpE+hbA3XTS2lXLL4RY81bFf4Rx6SFEqmOqXd1rUmvHaKd8lxkO5sr+lbgSccQxVLmFJZ4CLsyLkIth47fDzurlH
