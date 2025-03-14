@@ -89,7 +89,7 @@ BambiSmokes,4
 Bananorat,270534151
 BangerJr,4
 Bankomat,9223372034673180223
-BatCathedral,132
+BatCathedral,4
 Bazlowww,4
 Bear Chan,4
 Beeᵀᴹ,1028
@@ -1231,4 +1231,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-i8P20SdwVZymPeYWjR3rfy3Qml3HCxSwUcL9OxVuykADNf0NhM9IiUwiSKAVGezfwSyPFAnv+84RY6di88485ys0T2EgXq2SiCd8NfijofaWQ5JmzTy0JEauXiji2mgO3XMstGYtF5UuSaZ/vQQlA1If1sVmUFNaO2ngYLbrLCC+ZmKiYWI1WRuJP6M1vI1Avv8agvcUQo1dl+LTfbe8pjlMpWm9MYxUaAAeAutMFwX6XmAL/FXPvClL/fAPjrR1
+Mw2SdncdJBG/m23lY1ctcc0LddrqYCPlfPHwjc2ThFslLxCs1l/guP7AR/5Jzoqm+A1Nq6sBVecSS5xUzknoCqaeqqJWnLV3uwTMOvQGg7owJyEBw+DlK+Tu6uEpq30cn2eVuZYadf5pHsBafYoPn7/B/JmnSO9fKsldRYZUA7twUCBNVWuV9ozQLxzEg6AwsSuJImTfrIVJnofFfs+SuP+Ys1zlP/p0rUmnMoOxvQwRp5bHpl18kzaESvs9bC5U
