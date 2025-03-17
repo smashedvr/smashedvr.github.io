@@ -654,7 +654,7 @@ RealmanPwns,4
 Red_to_tone,4
 Redlion12,4
 Redmist8900,5
-Reizer,132
+Reizer,4
 Remast,4
 RenRoh420,4
 Rett_,4
@@ -1241,4 +1241,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-i480ib9hF34f6+Urimvc/dy8MjLaClyahPqGnCpNues8qqa9yrPWcZTDRKKx73lArV3oKhwKbPgcGu5/9NM4Vcto1qJnF9GJ1Rk+t4oxr0+k7Q7n8V7oOX0KFxCiY5g4qYAEkDIycaBUlsHBHikyptAsoMsYpH+yYavPtmmMDmQPnBh/PSEPa46I/0sGJ2/9Pb1gPWul2loFh0ouq4nJvlqvIwY7kJ4rhfw0EJBShtvDApcRzC0AlKi/th8PgD26
+WO8Lk3kyCMTCu2v96WWqf1JjEN/zvMypLZ5QiRIX/BY+aMsX+g3/Hv9a0wpi/u4LWR/1pbf2lqps1t9IUaoawuDt8RJUe1n6U9P/LIwziVYqgakkuV0sXiPWRnMDoYzqsmQg3aVUayMn/bCcx6J91FUB17Gbbbho56Fqsh1yLXYIQHa3UcvSqvbc128Q3k0TtSjl73y3x5sjwCmLEIVg9tjPmZIYTa4KGAk2FpQWobHBFMu0cmkYNqVsrPAAYHbY
