@@ -201,7 +201,6 @@ Daddy Kim,4
 DaddyKane,4
 Dam Shin,4
 Daniel S,4
-DanteJoker,4
 DarkFreja,4
 DarkOne,4
 DarkPyroKing,4
@@ -435,7 +434,7 @@ Kodaavkin,4
 KoiAoiro,4
 Komaeji,324
 Korzu-Nemui,4
-Kraze,4
+Kraze,131076
 Krezz-,4
 Krimininell,4
 KrispyNugs,4
@@ -1256,4 +1255,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-MfpbnMur4kWU4y+C0iHYJlHSUAB388OU/uph6kizrG+h2w/Jmewkv7Nn9RB4HZBZsKv+udeq0HfPNwEf3Z1m9W8vphLtoT858eEC6MQrXXNplPSMM6R7VprYngofj4kKADdAq4PAcGcuY2AplFOq/oTQsqTKAOssPByHj/99UN8zxUf5VQhbWoXuJB+G/zUf3udEvkcIV0X6kFxxw4/pAOqxwgevh4xr4YtYmYxremE0WbDU+mvlhtfI+2z0FIEO
+WVs5f0a5FwbCvGMkQjO0bdT9FSurd1zmRW88E6vYPadDde3G/r1pVEFksV1/u2sDjWlForpLxXuREIcwI013Z3Ws1YWjV7DbEZFoJZF4U4oD18ov2aXCqg8WOWvR+FRnHypIJcytg/Lx3mNQ0HiCfemi0kQFBcRWuzrAt+zKcePRaXmDpAwFVYUjEiTNvmM+KBgHcTTdxjj6anMNB5C1RvlGfXvz4pcm17E2jGMsrVeHE59+2Lk4ozdsbTKbHkPL
