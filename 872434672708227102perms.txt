@@ -1067,7 +1067,7 @@ speedfreek16,4
 spycotje,270533127
 ssandstone,1073741828
 star-milk,4
-stinkykana,132
+stinkykana,4
 sugerglider,4103
 sᴋʏʙᴇᴀʀ,4
 sᴛʀᴀɴᴅᴇᴅ,4
@@ -1264,4 +1264,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-ZI09rEQmrhYO91r5WY2JqOpgDk6R04L2imQS7YYjbzX6bMYltyX7IbGy8Nd+Pj7J+Vzho3Mw/c3VzhyFr5l9tCcF/mKXBWinoWy9bbZjCmd304hcvglxnDLBLOrATL6o56uD7yLePVQCGeswTBysv9vQIrAtxztOjzwFxa5wWJMMy8y7cj4EU8hSzEeqDBac5CkkmHbCdq2wMyhSo7UxhOWQuiSJ2M1SiSGmcsIbMEHhvoKf+I/zcAwH/ra/hdur
+nYEdG9yQPAlIl8trdYEO9NTXNnQN/09NbV84Pf01F23g8JVfFzRjl0cGKjWphK/QsdE9NcsqelMHf8psbTTNnYMRWCyBaxF9LPAjUsIs9pkMNw0D2I2tUbBW9niHXBFurM7TTo6ItBrWp5l4Ox4rXeWRY3+2scPjUaqyDHV2hbuiZk0Bd/SxLOkDTx3IyM9UWXhD7IwPy0MJV1+vTuIdXIj4id5Ps+29pji6L4zwrok+EX+GbwOQ1prd7U3z6N9O
