@@ -1254,7 +1254,6 @@ zlone,4
 ＢＵＮＧＬＥ,4
 Ｏｚｉｔｏ,4
 ＲＯＷＤＹ ＲＯＤ,68
-Ｒｉｖｅｒ．,4
 ＳＴＩＴＣＨＥＳ,4
 ［ ko ］,4
 ＾＾Shama,4
@@ -1262,4 +1261,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-mQ50MedmnE1aH7NKkHgzh7oUFFCJag4iHy1ArOW6AGuEZOG3rT8FbZcvUBY6vc+PJNFCJXUSBVQnkqRwWkB15Ghpxo5QkGB+Hd9raGCe0d3JkUGsIZD4ruLWsgE2s7fDo1PVhMD2gQh/sNjD7cm1vcE61ma9f3F7oV+G3Paf/syCbpGMqMN0We+kBhhzOiM2dVZN04dYEw54LAUJjgstsAop5vxGsDenB3RGWfBuzSrN74lXeIal+hCowwygDeaQ
+J8fEyje+JLWqyJDHg63O2sWfcSCOKiONteO7HZmAAs8QyqNJkVF+FXVmrte2kxA7DsYcT+FU1z53YPjvDeZquKNuCzf8jiPG2Gs6UCaM0itpYn4Qp86ke6T7spmEhVDtCMKpsf6sckq0zc74poby/lktogoSwqrb++ohRBohZsiMzZQkdA+1kJQYLdUQINppanbs0S3nwXGHEkTMqqCoQe7DIYhPz7JqKk0INP+P26lXGDR3cPKocW/KM2LCNZS2
