@@ -473,6 +473,7 @@ Little Aqua,8392711
 Little Saya,4
 Lord Entro,4
 Lorkhan-,4
+LostLuck,4
 LottaGamer,4
 LouLingod,4
 LoveUniversal7,4
@@ -1268,4 +1269,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-i9qe5pP8Fe8MAGXG8aZHoWsVTNMKjPuu8R5G4N/W7b3uCObZz0sxzWuZ3e4ig3zMqwcPc6dvbqflyHPs7Iq1fjqHD3TXkLS1X++bd6OkSzXfXxeV5ftog8bgffjwb97ZtXcM1pccwLmrkcWzEFC1c1wQO+2Cw/patBBGh518wdlcpUCTmRXF99uoA2/X8T0Zoi0OCUhm1vddEqnGuabkubnm5W3NMdjRbtJLluCE2BjpE4QWkVEZ1P2kxpkTJned
+KDLICmlmUzlSwvEGrG62cRGt7WrZeJpNNOC039V8F+2JlVkHf3EDAxUjSkUJoZzoeo3/Q4SsuloGPfeiI4Ixp4OmDk48P0KnkQf5UOrjq+1TksvuHsJag8SGCkAO3NObOeYa02NeRwgcQZWEdOKjFGjqQf6w1jXNgzEKYiRP+mvUtu0QL+T6GZZjBCPXbZG3VX1HysvMtF1bbC6AoAsCOpGxd/i15MmiPPMKtpUKLspnb18eDqkuE6LeCMXy2s3Y
