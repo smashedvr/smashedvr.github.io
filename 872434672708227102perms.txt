@@ -1212,6 +1212,7 @@ zlone,4
 ෆ z e r o ෆ,4
 ༒ MadCuzBad ༒,4
 ༒ wes ༒,4
+༒Artorias༒,4
 ༒DAX༒,270533135
 ༒F1yingshark༒,4
 ༒Ghost-Bunny༒,4
@@ -1292,4 +1293,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-QlAfrQSCRLbco1pH+Yjc3O4I3Iu/iMPztp70bd0iSAsjZeBq8yJSUtsFmfLk61sTUi2GLN6PY1Zc78nW5ACQGHq2Xn0Eb2BqjveslXIEncbFMFQASZfTsLKcY18MO8CE59BKUJrzJZDR+Mp0xd11k3JTdjMWXR/Of+CxD25P/PfrSVI+tNe2gkK+te4u3rh/P+cydmq0wK/i77vLSwAVeRUa0VgfrSNDD+w01mFpagUh9SrySMIBhVilZ/xGunxC
+mVxJXYbnFAtWYehs/AzMPhaqKjfxnTgma2vhV4yQUkI/zg6gDqkcJgedCISESYJWN7r4Bkv/Q3WUfhl+0iPUUicwPTMOOWa6plUbdziK33Jyh6gYwh9371P0AXAdo2zV+7B/YRgG9LpSGyKdaJsaXPq/m0hl7RziARV7pcGDFfVMy7ttsZrRSWCgCFFdLtpPu7l7HvHXTV6b20AfHVzomfC+m8ycKCM09Yr6snsVl0v5F6si63DCLil97GD2o0Zg
