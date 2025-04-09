@@ -1139,7 +1139,7 @@ zlone,4
 ~Dιɳσ,4
 ~ElectricStar~,4
 ~Falcon~,4
-~Fifty,7
+~Fifty,4
 ~GECKO~,4
 ~Gigzi~Wigzi~,4
 ~Godzilla~,4
@@ -1291,4 +1291,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-S+TNq5t3eNQc3Y05x/SUpx1eGdps/oUttiVHxxvH08Z4cNkcdx8vPuoE1yHdalRPghFAdSPUr7Pa9YQgLw7C2pZF1fwIIJY3eB0ASVV/Q11A1hSqnXK+MpiEaSUFmeAAjDqo3fLrbFEntA+Ik/iZVsG19sXVpENSPshRlVeuATC8dpdyxM3UYDJO/UJ5NO/BHmT7cR4iiqkNdoI+6r5G509uXXrgZdW+JiLs5O8qimyTN+jqdLLbgzMW5m5UQg1j
+XYEc5xJr2i1lnLtSfAYfy4YoOx9665ymuIDpZIBWDoPvo2IeYB73qnKUSscuiXhvWwT7PBclNMEBVGMFPgv61K7nwWvQzuj2XVZPH0b49GVWmf1YeD/U7ctcI6/jl1ecMlPmgSCG08heKfmoQpoEHnHuK4lKi1s2lxEdx6fsLGBjjHByUNrnLAV/CrX/USMSeuVC0/RA5lZx849KG5RBkwnWm2+NiUyI2x078O8qzba1lmi1k9LUkxyhPCAXpL6D
