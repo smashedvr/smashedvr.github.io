@@ -297,7 +297,7 @@ FiggyTheFigTree,4
 Finguard,341975559
 Fire-Princess,4
 FireGuy,4
-FizzyGlyphs,8325
+FizzyGlyphs,8197
 Flandren,12
 Foley,12
 Fordzilla,4
@@ -1295,4 +1295,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-QP0cEufHD/sDZnxXPeFG9obuab7aZmC3e/MTzqm1uCCIjspk2n21He/EWNaf2rkiHOqCSTwhq5Excq4RfHPT99N8idWLJhQOee1SrnYovyqkXjM5eypUb54PE7qyrbD3CVFCq3cvx4kHlo4s3LIUicuJfJlh7ZzqASbTB83OKkrF6ZEhyOF/OAUk/Pmgr3duwImVneUYhcbX+XIGmKt1rs7EIDTzCoporRj3bwJfoSMQDQMAE1vziOs97U9YiWc9
+HQ7JHkakZZaM88q5yjTzYvF8nadNTu3qr5q8Vwue2mN5UMFwG4iuEi7zcMYp1ugKMenWhNIN2gs7Y75KOV9BgbAr+ijcuBkqoaOoLE7u5LXEmXHVf5YTmd1XObQqwBTouHe1GHLMPBm6O+0zt6K/DhJ3DH/aiITUmW2645p+Lwb+gqkK5QRU3UDqQ0JbxIjLqkyrQwHvdytlO2vRIXJm4GNwFV+70zGIYL6pin7kKVEY/5SIMeSMhh3+Ogwnsnm+
