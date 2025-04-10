@@ -1095,7 +1095,7 @@ ssandstone,1073741828
 star-milk,4
 stinkykana,4
 sugerglider,4103
-sᴋʏʙᴇᴀʀ,133
+sᴋʏʙᴇᴀʀ,5
 sᴛʀᴀɴᴅᴇᴅ,4
 tensa 40d4,4
 thouromeo,4
@@ -1297,4 +1297,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-dRkPRsaffdzLixQgZhpShh0cGqN+CTsZ21uQfvoHA1kEwhPuZfGcndY/5DlZ0ev9Mxs9CVm07oktPLHM6dHD2XFxPegsDydGkU8jUJDOnu5qfWSMU2A6jvCw2gkEhIhySQ2Y9wzxF+BWuE6+td0MTB5VXPcfuh6f+H9T0BuekejiDsnXHNgOzNERuZQ5+GRv6L2A+YtSBiU3SzcrolX1WB1t0GEunfaEdDhJCuKQThuj9zOAoIYNrGEZgaXwltaC
+ZJGZpVjS+2dkAnzN6fpooPEEaud5whdtsldkJZrX7G5gbPjGsunPGsb5KG4Jyv02rPw7n5IHowrvFOzlliUNum3rP1TPdUJzdH7l17vcXXVk267jCve/VAr6HtmJsPN+jrkysiCd7viAI/jLrpMTqGj+wZIIhaCEHkmj2Blz1mRsr2hDTV2f7CdnoJAroKC9ue0WPpwXzH8fqWaZoEPL0EbqQ7wROqq2eYnE0SgPVvMAUpCzNnA7iVfb2n4pQ005
