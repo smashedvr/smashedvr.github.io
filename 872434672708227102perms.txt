@@ -702,7 +702,6 @@ RocketVR,1028
 RogueTrooper15,4
 Ronathen,12
 RoseIsThornie,4
-Rosedumbkitty,4
 RoseyGee,4
 RoseyLuvsu,4
 RoxanneSilvain,4
@@ -1306,4 +1305,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-XaRSDtF7YUiCAHKfLEbSZ4KTqm8P9XCp/wfya46lpU9H7Rh5Scy69ENNuVLgNM2txMjNI6No8lLOnsLgpGFUgDEJos44JkOsPltRn8gU0O+GBK7USi7c8s8AqWiLfeI+AsebphTVym9ecGxTWziMQKht2OjKBGb2n7XZEBCJPWxE51tRnIQ74E9iY/WfnCqL9R6nehkYrLBNDMOA/0jHvNAfNge6yDskfF/yDPGX7RE2OFx/FoRXRiYr2kZMUucI
+OhtEokC8BI7wI0C4iDUcOlyNoiyAu315w+itr6yWzUZbyxF5pD2xrfacpaBsjU7/pzDsOFdclVkn0SOizTRLdXYoZWtzdzpubb7pLNUXYQFqRAqcsY0jTsweXtg+vfg4M+Lmyc1exant8Ll23OmRi99BSXu6dPBH3PN2+cdKtMO4s1/8a5yk79RJzgtvLJSCgcwVY3bHopDyBpOKT+y/nYYWZV18NmeHd11FJh/BBOrehhrJRhUlqUz6AmydIID+
