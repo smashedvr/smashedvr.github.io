@@ -1124,7 +1124,7 @@ wyrm-sidekick,4
 x-Analized-x,4
 xKanashii,4
 xNyanMaru,8197
-xXBloody_MaryXx,260
+xXMary_JaneXx,260
 xXPandamoniumXx,4
 xlukez,4103
 xwontroll,4
@@ -1304,4 +1304,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-V01ofPV+BN1y4EatbWBZdOuTzcvzG4h4JwH9YekZdX0tJm986ZU6QisrsccXMx0MvIolFkWbXQrDQDHknQvveg0PEtTeXtYPV5oLiKD1U/xo7m9rx9dp+hSjgP18y1VyWqS/sX7FcfFsd0hBt+CPe3h8svDNnPfarHUwVJ0WAXCRUOCfu9hQqRPRUltimOiaOAiWfE1QQxVboWdrD5TkasVSAVZdUn89VITej9a9ME8BprQoAYgpmL+7NI8HuRGr
+AQZwixzS5Si1tzy/h2+ESkf3Eg3Rtr8iW0dtmsWTE584xiI1wLiieVzT1YCW7yFR2v7f7zUf0zAWxQHcroN16yqsYqPMx5aC0vOA2maC9mkHASKaQ98N1d/b/mFKHDRAeOh4S2fli9vK/zRV3zGMQrbgg7uIK0g0zHm+a3otl22jcBjYDVXp7KMzezJEqmqR6Q0s6SYajSI/gHHJIu2VymIP6kEU1P5HK0n9Rv3a0zcOShPlFRxVwrv5AhQEyRD6
