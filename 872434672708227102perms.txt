@@ -170,7 +170,6 @@ Clives,516
 CloudxStrife,4
 Code Exist,4
 CodenameMonarch,4
-CodiPop,4
 Coldcancer,519
 CompletelyVoid,4
 Comsic_Killer,4
@@ -1306,4 +1305,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-MLqPtBqgSaF0qPM3yB2CJWXvBuV3WBVGox1nJQ53LNTlJ9G5/+pbvhrw/BO2f8qVTVFtIMrREkSRXjBur2CVhObkJxlnN8HvsgrIY9nO8mPGJmXCQuHUWqPN2rrKRPa+HntPWOdTkjIWzHyCo1iP+WO7e/8JnzsDRU/1u7nt+egi/R70hnWM1jABJV7c3FTArH5LjPYNZKRHdF+sZxQzm/Fvd4PZ1kkSwd/SoJUXKld/1biqWbDXuUQUMuX+E/JR
+IvuH5+8MvV0X6ru7aFagvcPOIJtAPXxAJPsIahVE+suPqeGMiVaG2Mxh2U4wIuM49wN1lVuoMkwaTwZU2i/KzaCGto/3WDWW4rWktKl3BbeoJklLXpXQhC6BLorcD+0JGsWtZvovGtxn6psr7Q2eNzkRQCESmTlmXVacqdAsgsmYhF8LbiQ1rCoayZasHnpmHoGVghbPjGPVYi/rle4+luhlbwf8zjRCtvHuflS5QZOxBoT78PgvthQrjzY4RP3d
