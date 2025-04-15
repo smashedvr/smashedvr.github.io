@@ -642,7 +642,6 @@ Polynality,545263623
 Poolio818,4
 Pork in a box,4
 PrimordialAbyss,270534287
-Primus_,4
 PrinceSif669,4
 Pro_,4
 PromptSage491,71311365
@@ -711,6 +710,7 @@ RxCz,4
 Ryit,4
 S I X E S,4
 S o c k e,4
+SHØTRUM,12
 SMis,4
 SSTICKSS,4
 SaKuu__,4
@@ -1083,7 +1083,6 @@ schizoid ˸）,4
 scottiec2001,4
 scvto,4
 seanfaun2468,4
-shotrum,12
 silverpuppy_,4
 sinisterfoxy,4
 skerek,4
@@ -1306,4 +1305,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-jMWmSJMG4CwRBLEg+qpIN12xkok73YpycG8Hb35YGZ+qhGOUMOnW03UVaEzgzUYWv7goZkHgvOE24t3qr+LzM8Qm+AykGGMHeUOGQjzuydKy/uJNNEffhi5rgAaaWBsgumKIIRl3+SqgI6mFRIWGI8KMCDM0ZVBichlVgaiww78JPeY/PtjRG7dBdayoTeyHSAe7Saqct8KX6z/1+CTz9MNSwR6X6hgyN+uoo6sL7jf669y2MjdQeNCjYAvrlXrE
+I4IDgKnFfYGaVjRI4Fc5ZhouS5HUaJuHqhitT4LHhjuQtWqrnay7V0rEGbYm27wL0AKqmuZshlRSUGpSP9E80+F3B1b7QlaqKkMl9syHELu2kr2aucAYCA3Qql3MEOnpVdHtbX0KbprGA1b9Fz+7QQVgSU+buh6tsbI4ffD4OCfC6pa0vZPe7K1FP70yRLOypfYFxZnCtePBBu0MW1jpuM7YnBBM2NnO+2Adt2aEiVpIDfYZjdHE16w7sp+LmGVg
