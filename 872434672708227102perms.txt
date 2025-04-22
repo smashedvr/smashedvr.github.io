@@ -210,7 +210,6 @@ Daddy Kim,4
 DaddyKane,4
 Dam Shin,4
 Daniel S,4
-DarkFreja,4
 DarkOne,4
 DarkPyroKing,7
 DarkSkye․,4
@@ -334,6 +333,7 @@ Gosu Goddess,65860
 Goth Bunny,4
 Gothic Clown,4
 GothicFreya,4
+GothiccNaomii,4
 GreenCrumpet,4
 Greyoutt,4
 Grizznickel,4
@@ -1326,4 +1326,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-c+NUOmPjdW/QzEdLr/3C0vLIEiqVOUAuvrPtMQYzKwDs1uzj5Uaka0CfjEDz0DQjkTvAXv4G2P5Xn8vsLp3uAmnYVcmCvIgH7MIWkz3s5SMSmgWXomljBDRHzVrSkNSel3ixUGuhKgU16z6J9ah+lKyd4AwYtLRI/HCVvbHxvzfG0+PURqON2L64z8AnQK5emDl3fqC1MlBcZSXpTNMFHj23oQRZ0jGK840abDxNj/a0NbLQV68qkm/zkDCmYJKV
+Q2nfyyDdv8j6T0jw298o6B8WqnOx/LjNJeFWXwY/+EnGEd+AhBJ2HzIQcwRmu+iJHVFrYPrjGoK6NRYNtQ7+BjxmQcXZS5QOoHPLlgrnpkS3bG8ZhUBWU6SNrxn/mtImv8t7eXljJjSmE8r1MJ7CsLoBTUpV0m4MGd8KjOINK4PjrF5mYCRE+tPf99mk9yjhw7tS/nDLWtcWDw1/beGSM0FIzGKQ1hUZeEVABqiEH1bQqtKrZ4msVzq00rCh6YEW
