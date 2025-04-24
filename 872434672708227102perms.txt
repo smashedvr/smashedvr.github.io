@@ -22,7 +22,7 @@
 -chompo-,4
 -pen-,4
 -samush-,4
--vivi-,4
+-vivi-,132
 -̷S̷h̷a̷g̷g̷y̷-,4
 -₮ƴ-,4
 -ｖａｎｉｔｙ-,4
@@ -1328,4 +1328,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-Y3z0GSbl4ZAriDmbT5OoldkZ1coKQbd0CYPMszIit+H60dcgsbLlv5dOGRcdTVNJJs40xZFAt3m7F6P3DlX9b8xg9p+AfCdGZI7bPUu3Vizn6mdT3ch71U30/4HQb5kKVKXiogy4U8oVBHsrTR2oh6ceTzXd+UWci/VW0u2fvBkyIZjH5Fjt4mwC7gw04CcH8Jy92lJwq4aFIIAIJy3E+FZ7MYIY5xPvEq94jn26x9KZN4DPzZTxKfF2fZEFsQRV
+mWl9wmXBDqZXSu7Jg0Fwh8UTXilLDd8jPf1NkkosSOBDxFd/eUsAqb0e6mPAgVz5Rz5C9u7vkbCXraZY9sIIHo1D5DpvJfXSI9SnIPpzxuxWnnPs/llceQGaGGaYC/3C72i+QJKDxtyH29GOZdv4Zf6/VFKBnhGbl8cduqgbQyHkEoAp/Oq6/BQvyJrmpqs4LponUmZqHqIUuBIowF7hm7+AkwrEfVMCetN+OcooQGzTrgKD6GJQ3Hy9OL4R66Cq
