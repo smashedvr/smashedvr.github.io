@@ -760,7 +760,7 @@ Shots?,2097668
 Shreddies,4
 Shush_X,7
 Shylyx,8589934596
-SicParvisMagna,832573967
+SicParvisMagna,562040847
 SilentHaste,4
 SilentSunna,4
 SilentTalker,4
@@ -1326,4 +1326,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-gT6l8nrnX2bRJ2qb8+rAiaGmEoevMU0ZHTWfBHX+y/Rgc/Q5WbPbJ+b/kaV/4fufFjuPv3jQD/AEp/hg34+NXNzRCVLfxgULAMwMUoCqRjkDSAkIgSV826Is56p/ToTgLb+PP/ojHllIEeSQmqBpggCgcF5LbGu1fE5KOkCJFBb5v8hMNWwMP2qtirID1q0h+BpoEkUGNuyls7Nxtdurmhya22g1V2zGmV0gsP9HbaNcGDd7egnS2WYkI/XATiYO
+cRgRTZGHIoFv3oKGjJURSJLNCrdzVZbuPsQc9pm2joMLswNCvmeWa8oQqrzSGH3m+CA8Su8Ke/0jN19SrV2ymM1+7yKPJX74sjeohE748x+jTlHQ4E776ysC49QWab0BWlegALMb1xDVN5KDf70P9BFSYekTY7zpGXfDsQGT9oJ1r0zwwr+GWARxixlthFqXm6wZsBi5nvteZ7dj5Dk5PYEaQSIt64pWGNtoO8q35Xtny7uAr39DJyl7ryyMmrq7
