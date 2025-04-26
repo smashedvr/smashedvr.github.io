@@ -681,7 +681,7 @@ RandomOni,4
 RandomZombie,4
 RandomlyFuzzy,4
 RaptorDeity,270533127
-Rat_Arvinn,4
+Rat_Arvinn,132
 Rave Demon,4
 RavenMakara,4
 Ravenඞ,7
@@ -1334,4 +1334,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-c945en3b9EJtbPHeowwikKVYeZH9S0PR7Pm8xk5lKaRyV/1yXWvqf5Ul4WFcbrNemOgnPzUiRMfTzpFcsipD+dHZxssFyJxqgVQ6/jdR11fG10RWDe0kNJmCfoqO+WXMjU217b+GItZErIHspvsZKCzQGotjUyqwd5b2jVl6SPTMA8g32w1sJzHyJco7YdWbekZCBd5XP3rFiVpGYGFPpiTdZ7IUuHL1PhSUExKy7tqg7ULy5xvRackpDbQrm+xl
+HFjojoTqzx/hT9KK/X2gsTlWBn2wilcCEGm5DhJFg0Ev4zg9Wh86bGWC+N92aTlulAZd6ZyzWjAXVW6M3lbFiN73ZsdgNtzvt6OkT7/pmbXKrJwF5W+bzMuUGyuT32ybYSPM12by7L17nI0rPkLbEcX/FSnmwekA3l7m1bHLKtcmYauT2ewxKFWu5AUYE6wuSCITsajzdmxCg7Q6yWw39UuZ8wfOL4V8qsA4CtFWWyGGvBkMInHDQCxLXoYEhMP8
