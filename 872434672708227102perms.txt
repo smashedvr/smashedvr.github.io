@@ -46,7 +46,7 @@ APL225,4
 Aaldrik,1028
 Abbz_,4
 AbusedCoyote,4
-Ace NanoSpear,4
+Ace NanoSpear,12
 Adorkable Fox,7
 AeirHead,4
 AgentTexas™,4
@@ -1334,4 +1334,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-XOL3mArXJgi8EQnvVLimaS724VKOcFGBUNeMCSJbBNiYiuj5W9Qw+Clh9rC5URW8iJbhWyecUT7kEVDHobbqjY1TUw4KkQ+fNRoOXtS3rlmGlzgnXHVzTB2a5BARrP5ffeFN5B92kv+HUPyC4jEGILywWy7GHbNwhJS8UjWfrNTuYiMDdrjgoAznFRADIzvoGarjk9GuEGnVGIYim7FRgv5FlpnHZvh1VL6hiJi+hnXNGuKjvoDVa/zIU0UoETGz
+c945en3b9EJtbPHeowwikKVYeZH9S0PR7Pm8xk5lKaRyV/1yXWvqf5Ul4WFcbrNemOgnPzUiRMfTzpFcsipD+dHZxssFyJxqgVQ6/jdR11fG10RWDe0kNJmCfoqO+WXMjU217b+GItZErIHspvsZKCzQGotjUyqwd5b2jVl6SPTMA8g32w1sJzHyJco7YdWbekZCBd5XP3rFiVpGYGFPpiTdZ7IUuHL1PhSUExKy7tqg7ULy5xvRackpDbQrm+xl
