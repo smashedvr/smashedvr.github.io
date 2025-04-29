@@ -1253,7 +1253,7 @@ zlone,4
 ༒ wes ༒,4
 ༒ ＮＥＳＡＳＨＩ ༒,1028
 ༒Artorias༒,4
-༒Chiyo༒,4
+༒Chihiro༒,4
 ༒DAX༒,270533135
 ༒F1yingshark༒,4
 ༒Ghost-Bunny༒,4
@@ -1341,4 +1341,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-ly0rhL9axFJBID9i7WuN4Arm5h8SaoWKFC7F+xnvxBT1TxGP6QlU//Y0qETB9/uJG/CDV9H1TN4jdNg89Vtgs3tBroB5lOy2WNzEyYfbI6SosGXuxKFp+Ki5vncyylr73mxIU3Gfw5z5c4+qfekrdpgDRb6NoFsExy3XYHfKxyXKRVtYW7yvXhp3fENUt/T41tLlDBqErnpmd1lVlV+/dVfSh77tFuhnRy7GKYhRyCBxqISJ02i6lVr7lvbkP94g
+MtUUzEkavqcJeTsBk6ZivmtIR0AvHyqh6q/kQpmJcpFIVmr6zPCmhaFD5erYc+AnB45dCVxgApS5YFx2YBjM+PwL4IONZnevfPrGySUO5Wx7xpOPJ2oqN8sAcZCjJ8msZFgoyVNvumwnqqXQU/ltxhDr/I2wATjK1SPS1tvVghCNGkW2O010bqRH3/xVdFVf3rfigY3qX2qbZllc+a+rxBbGRAW9FvSnGmd+qmLVByzJsV0wpw5r6I47POPT3eM3
