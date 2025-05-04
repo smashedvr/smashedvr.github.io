@@ -489,7 +489,6 @@ LimerenceFlower,4
 LiptonTBaggins,4
 Little Aqua,8392711
 Little Saya,4
-Lord Entro,4
 Lorkhan-,4
 LostLuck,4
 LottaGamer,4
@@ -1350,4 +1349,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-aMsoPtjG7bCNVBSGD0Od9zhSoa34waizOR2w3IqYeYhuWlDeJWD/xeOExj3PeXZXWHKJEb6GaCTHceQ3yMnuv8nkt9yDwUCgxOXBTi3gU+ms6+VYFoAxL+HjzSSmzMrCi7huU/AsZn9G77p8baJiZV0BkeTyNgqvex8M2OpvlJJS6exh/uG/f3tYVoeQAnkhvAfFbur+LfFnpkaEXFOiIwFJMIcL/CiEhntfExUcyzmFbw6TSX77rFF7sXnsfx14
+DRVDttMgqF18lFpSjBdCxz5y4IAVbm9vnjKLK1mpxH3N+s6Yuk1TEojt6xEaTJTF6alu2Xdg1dAuC6+SEhThTh0N9O6IN3rX7CZr0N2kkQlx4FxmuVEfXs0TZINbwBjR/xGHtTgnweDAjKq2/hqLO8+yNJpnwMK0GEfDL8vdnDCCBXRm9lfP3pZdyo36LtK4ZIy3TQVqeACi6TYPscss0f7aPgncPDhvoGApCP4vTmeajGgbv11yxH5jIJrY6CNC
