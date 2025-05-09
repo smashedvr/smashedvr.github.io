@@ -1225,6 +1225,7 @@ zlone,4
 ɢʜxᴜʟɪᴤʜ-ɢʀɪᴍ,260
 ɮɨɢ ɖɨƈӄ ɖʀǟɢօռ,4
 ʙᴜɴɴʏ ʙᴜɴɴ,4
+ʚ š ɞ,4
 ʚAղցҽӀҍɑҍվɞ,4
 ʚSelkieɞ,4
 ʚᴄʀʏsᴛᴏʟɞ,4
@@ -1279,7 +1280,6 @@ zlone,4
 ༺Zephyith༻,4
 ༺֍ ᴋʏᴏ ֎༻,4
 ༺༒Purple_sea༺༒,4
-༺༒Ｓｐｅｅｃｈｉｅｅ༒༻,4
 ༺༻°࿇ＫＹＲ Ø ࿇°༺༻,4
 ༺『марионетка』༻,1028
 ༻ＶＥＬＩＳＩＴＹ ༺,4
@@ -1354,4 +1354,4 @@ zlone,4
 ｐｅａｃｈｙ,16777220
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-BQgAt4kmBt9k4A5DaqpyWz4RZZeGnZc8I8BAK2dBF5LgdOQyUQpGpafsnz7A+KcF5y6sJfuqkp/qjrLZExL6tBU0a4W1d5WPD2yyWxApmbdNnvQ7a2Xmp9ECJrz9XD/8BM3rx7cHNyc+W4mPMxnre7Cvym9/Hoj1RakaOWsZwRLFq/AVdGhF6qyUgGyTKxn1ZLd6Vlyb1CDZylPTN23sK2F4PldgE85MNsmy9kkacf9zEHN9FVaFYbistVWxXwPD
+llMXId1Pf4ehxK5hxO974p/uP9eoyZrKqMZ3d/xFaOzSJ/9vNGs25qVO3c4G23qCTgGGol4bLLHB+T2cc+kLY42JUkpGX3iKEQP3/3z8aETTeHkoAFMqxKjyejsvxYiKcH9XMIXI5YxUh34PLKE/AWA/a1Ux8l7zqJubJ1807zZYmGtXkMD6/kFNFUVNkVPJ5fipDuMhUe0bWVhDRVY5/u+H8+iiheH7LDACmTTnSvaThrvQ4OSc4q7SNkU8/JkN
