@@ -775,7 +775,7 @@ Shush_X,7
 Shylyx,8589934596
 SicParvisMagna,832573455
 SilentHaste,4
-SilentSunna,132
+SilentSunna,4
 SilentTalker,4
 SilverBorne,4
 SilverTide,4
@@ -1360,4 +1360,4 @@ zlone,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-m7zO8HFA3nHQy/IId16/nqWwCoQc0lluoWYyXmil70WnrRenxjlwunv1WUFQmuEIf+xRRu+yWKd2868thETgxIegwnqo7iXq1jdrkluDRq8BQURzQr2ENhzjRDtbiayQbe7DLLPZ7tHJXhGQ/x1VJ+/y0xISvrJ1TdbthVY4uJmIFUvd6W8vzhi+aEJY78JuLlXVIUJf7Gd++fFyDdA18/34ETBqOtMFR+JsotLNyAKoQvYVTfydq/o1y5eMKZ23
+e1xDvTEnGtOR0G7ILcq+uIa6TkCMMTOjowFNDlmzUaStaCpHJzPeO9N5v5ZHHOVzELD5PK4Oulyf03RXh215e5eXEyjvWiTH2asBwfsFA+V0ynfXKs9xo/4AmhZgexr5Ami2ny+PWtTZwyqMXiWKwpA+vaWeTczv8Lkm/6DLjVOrECGBhtQ6dJ1gjj/hJnB0+70+4suhq+PqRUzbkKjw4H8/rxjp/68hH+3Gow4kuTutvh8S9b75KDDbOmLiHjI3
