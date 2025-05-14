@@ -826,7 +826,7 @@ StormiNight,4
 Stormislost,4
 Strange Brew,4202500
 StrawHatStream,4
-Streq,5
+Streq,133
 Strunger,4
 Struxnet,4
 StxrmySkies,4
@@ -1364,4 +1364,4 @@ zlone,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-PxdULXS/qaDh5+P0z80ZmGvffB8+/wR9YfDVHZBuZM8c4EfNjos+6afA/ep88iXT2uKdgr+foF07GJZIxwJ/JCzr7318lxrsgt9htzMQ5JPAgJduUURBdaVXnvogJ3D+JwpevbKPTRW1aVpEHmZK+Qz/gM3fj90CJ334RRc7g8QfC9EUPdMCcRp5u3GF/VVsXd1eyAtb9XOzglBZyZW9T4ENDOUz9wZDWbaz9hoCSmpk0OV4iyKi0tJZRW7zfOcI
+DL0FggSv0vyad3v3ORSFisgGQC2yduinBar3TxtbL63Wf+Pns9/8wpxf+WkrK7U+vIPAZdBXUTXCz8ZcVPb/X3WQeZyenx92RIE3G23DwbS2tLtXgaMbI3ehhgO2a67xMO9kKT2JmX2DjWjfSNj2c5mBbuua0xjGbxNhLgvX5yod+6ZdZe+j5u9an/nRWExFKDki+xqEbVGmLbw6wf4JqpQMWQ4tlgAqK2lqPpKPU49pjEJNDFt86cHIVDIny/tq
