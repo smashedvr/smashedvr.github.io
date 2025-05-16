@@ -654,7 +654,7 @@ PigeonsHaveLegs,12
 Pikoreto,1028
 PinkG03 fff9,4
 Plague of Death,4
-Planit,7
+Planit,4
 PlasmaLeProto,4
 Plixy,4
 Polynality,545263623
@@ -1366,4 +1366,4 @@ zlone,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-SRPWrvvaFbyVlGbyAhtSyO+RXqoRKu/qrHYxyIL3JrjiU52qN902XNlt2+iWy+zusFiDTCwgthONJUZhlI4CkD119DPIIaGPDZFOD47r5UHgM0FXUwnBoVUwpYhg9H7l8vlG7XU7B8/ua/g8I0hBK3D+VhcXaDkOKXKC9FPrmrWsACwOMcA8NSjwmEnmFz3PSIQcTHYwWRjIWZ/uVjjIYh/Fh3M53lsc3IyKRkHLMJjYqhgOUenZHOI/2pCaZB60
+YoIadD6PxWMlEcbuRGYqJa0vgHDq1+25lXqu+FgmImQ/fERkIQUkRlsnJlGQjVQFoUsN8JuliB7cWCR/3OgCutBsNxtlWp897eZQKffZD9cNM6ZF6GHlDA1q+tiGtnmZWtRo9BxsJxBrGmPom44L3ezhclfj+K6SbWkU0VXtkHYSIjcetzw5DxQh5lKPjWs+pPqyRCskUHJHiVF9t4Ee6Pv3Hr9G0WfZGzlvCY/zOlOPq+Y7obLN2+9VqaZje2r3
