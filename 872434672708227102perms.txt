@@ -429,6 +429,7 @@ Kalm4h,10490887
 Kami Desu,4
 Kanditt,4
 KaneKosmos,5
+KareKare,4
 KassandraDragon,4
 KawaiiPop,4
 Kayleanna,4
@@ -1369,4 +1370,4 @@ zlone,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-iInmt6ck9PxDiZwzsr6JAy5WIBWgWMnv4UV2Jo3s4zH14m8fOUnaO6e97tfUXgWnMLYYB/P7XelSFt8CQ76eLf9luMpAdQFeOU315J/DZL26pTsEa/IWixqbk5L5+EJf1tnsxEm+/T2mdFSpEv9hdJFx5s3/A4NnxqR6RsLo69gf7+/JsBm7IeP71GLdpVvQAsohMyOZgniyjKl5liD+5hmBwRWMPzLEkksrvkWpQfvIL8bm73S2tdHeVZPHbA1n
+TWXUQ6/Q8FqRBoNItzCHpXY1Klp9yq6cjlFZaU87/XHliGsa+pXDTiwAtmbDGeq6aCL70MAALnZuADCtWK2MgyY6AFhy2UBrCQn0zGkfZZJUBgpOdtQY3c76NZm0o/O6vh9Nc2+/G5ZkPUChrjxkSk7t4Dms5tyLsuoTrFrkMYNTHASgbs08VM3b2AxIdCVU9JLtegEkSYBddh63atdWDxKK57c8kji5B0vU7s+WzjMQ++nlrANx17b0vESfA4aP
