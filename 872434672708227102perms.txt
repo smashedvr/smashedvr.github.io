@@ -1212,6 +1212,7 @@ zlone,4
 ~StickyPrisms~,4
 ~Wishin,4
 ~Zimos~,4
+~darkness~,4
 ~sussy_kagura~,4
 ~ɢᴀʟᴀxʏᴅᴇᴍᴏɴ~,4
 ~∗Sky∗~,5
@@ -1371,4 +1372,4 @@ zlone,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-OS2jeLX0q1xgcwNiUvEI5SWUp1gDBpLonsKrUWZmwy/lZhmYECaW93hsm8Cqxjx0THp8h+Bk2d5Uz4lktXDHJy1YLfhFxLEumrvD7CpG5DRLW+uk6r0D8DpdqW4KwSe1Ze9gBY9oDFSnkDaWgcgwnSQihAxX3i3MIn8EeEUtjGvUWkGqHKDruM1RsOeP8XhtScya/AordE+seyJXPsyG5Vn40kR/gPyrmNgRvz7mpYS3QTLY/A/0DGRPTvBDSaUU
+h+pp8ts1JmUlCIyc6NN/d2byHk2caIBnwUKs51xNayZM7L32eWbBI6lvABokYK3VFVYgoGn4Ux8ebNp6YWpC4+xToukjanb3vIs1NV29Lcy/vfX1QBeg9cl1jCppA6Ng4qLYFPamIpU1o6uPcEgeLHH+cwBr3k+6aSzU8hmCEj7/Kib3wPKTN1HyH5VrOXrI2HyEipCFhUOnpr7YHMcNH4yf5WixeX5lFB4AAfBhm2gqei8K4DH5iWUtyc35usBF
