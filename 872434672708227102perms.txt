@@ -1160,6 +1160,7 @@ ssandstone,1073741828
 star-milk,4
 stinkykana,4
 sugerglider,8392711
+superfun,4
 sᴋʏʙᴇᴀʀ,4
 sᴛʀᴀɴᴅᴇᴅ,4
 tensa 40d4,4
@@ -1382,4 +1383,4 @@ zlone,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-CGAko+kha0SJKnuVx/9GZFYdnc6BeUG8vVN5vpVgeqBZtp2KV+VChWXL3roaFAsXBN5ekVmbvpV59yG0Nhi/2oXq+sCMKXz8O4xLBfNhUW2MvGK9yhorXZGgPVvq2EQnFGGiOIGP3FTDQWIMEqc8UXAKcWNDXpK85d6ha96oiHsMY0xAhq4mP2YpDxV3DWTLt9V8M0hjPhOkwWgd79O1+8cvNiWPwONIWct0a+5fXFylOqMCtEZesrZqDHz9IDai
+m5b9Yt/qlKrnzThSZ96jRwt4BIIwZ2isuXSRX0FOdwE+2WmJYcbF3zhSmsoI/NL1Q0cwFFqR7pxV4n2fu8injlFmw0mq2Ycr2F7FdpdAFEiS8GKiYij/5UqLO0W0A6/ZsY+9GEAaGtagU7DwNeR4alpArhSauvPPdAEDP/dODMszsKmE3Vk7azXklIOJrQq0igCr0y5K370qALy1ZJyHfV9VbfueX5N0MH5iuh3Pvtz28f78m/NvPoPHDCYD/OCS
