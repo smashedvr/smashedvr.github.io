@@ -301,7 +301,7 @@ Fidd1es,4
 FiggyTheFigTree,4
 Finguard,341976583
 Fire-Princess,4
-FireGuy,132
+FireGuy,4
 FizzyGlyphs,8197
 Flandren,12
 Foley,12
@@ -1386,4 +1386,4 @@ zlone,4
 ｚｅｌｌｉｘ,332
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-iDFznfKmvS+XdjMvh1Vow+APSxVwpUP+pYHBCvOjHyn7EcKLAjp45R4kJLWsvfJfuUnKSR05BvTDCTczULlsNpFz6mDff1fqH25tqVtH56WAn08LR5JGSCbHNe9QQzACpXRClIvXY3tXsZLx2N+d+/5ewQh+A3wsEw5+Tv9gyKqcjq92i5VntYUV5sK27ReS4kZlL4pRUQxznkMI0QEdG+cncnfj4CX73cLmKSdkxmWIzpJ7NLhbHXDiPxsVJey3
+RQbJIEIVQqCuOMoPfBgPjEGc1HSOKXEr6Ktn9jsO9ueRUQSdcTKpB8Jpwnpmx8gJcBkwu31LG8RI9nkOQnAphnhJg8JE7orR4rWZbS+7F86oci9oxo+VFVwQYRwSriqagI0zlliD9cSbNNv82WEB6aNoIm3e4ghHClGK7ultyfGewUy5B7vRHaTS4hK/2KQM8R1skPFqvgiUAoPhhAV5xwHnTwbKn6JGYefQxsLubFTI38eVEclm3Pznf/gqmzWD
