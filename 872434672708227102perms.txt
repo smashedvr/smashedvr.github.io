@@ -45,7 +45,7 @@ APL225,4
 Aaldrik,1028
 Abbz_,4
 AbusedCoyote,4
-Ace NanoSpear,15
+Ace NanoSpear,12
 Adorkable Fox,7
 AeirHead,4
 Affirmativeee,7
@@ -60,7 +60,7 @@ AliceRaver,4
 AllForNothin,4
 Alpha__Omega,4
 AlumaCake,4
-AnObviousTrap,393223
+AnObviousTrap,393220
 ApatheticGamer,4
 Arcadia972,4
 Areina,270533127
@@ -359,7 +359,7 @@ HidoraFox,4
 HighItsDave,4
 Hiiru,83460
 Hiro4564,4
-Hisoneandonlyyy,5
+Hisoneandonlyyy,4
 Holy002,4
 HolyBonezz,4
 HolyHexBunny,4
@@ -1221,7 +1221,7 @@ zlone,4
 ~Kyoko~,4
 ~LoveBunny~,4
 ~Monarch~,5
-~Nicky,2097157
+~Nicky,2097156
 ~SILK~,1028
 ~StickyPrisms~,4
 ~Wishin,4
@@ -1388,4 +1388,4 @@ zlone,4
 ｚｅｌｌｉｘ,332
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-TOusw7kWq9yMgmn/LeCyi02mEoCLtxlyuV9wric0y04UV71NRreisaVrK4vRkvJz+TIuaf56FlAtj1X4CW/dMbkmXkBnBOF3itUqmg1Bx91iKi+gz2fxAs2q9kqYQKfRR/v1VZtBBQmQeV6u8xaLO6cHOMPxYDWQzGYnY735iOxk1JvHqNHyHkldCwHrwCbMDUXYQoGquYpQ0K/bRyNqb/feNZYjGEBCqieWxD/d6oaA+AJHs17N8INZ1ewCf7le
+EmMPPRnz50d+awxwI2LLlid2X+1IYlZOOwhGhbjPFyepHslbKpr6AKkhEeP/+vMKNkq8A1KEifMR3iV5Y192Xg2K9HueWcqIyL0PoOqyJi2MH3HUXkWXmXviDSEwrI3tnhcC9usg2QbZKX5eGMF4TDiwBtFfvNuvsG2eG6tOjBq/A22e2B9pobhuwu/+tXbf0LQUQwB53BkGzylV6WwM4Ku7ZUNu9eJ0hZMIiOYCzVOSZBNMZ6U6yY5cj5uc1ylB
