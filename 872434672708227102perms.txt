@@ -842,7 +842,7 @@ SunnieCass,4
 SuperBlox,4
 SupremeAnubis,4
 SupremeCreamyXL,4
-Sweet Bean,8388612
+Sweet Bean,4
 SweetCitrusAcid,4
 Sykes-9,4
 SyncereMyth,4
@@ -1388,4 +1388,4 @@ zlone,4
 ｚｅｌｌｉｘ,332
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-QZw+BJtOfZNwaCLIB7csNGW3NFbOHJR/9ctkUFYo+wTXUNPuPf91sB0jZhvEt8zUiwemD/txZliwjajnMrPn8UhBZylnYjhu9+C/gM2yZuJBY6anC/05N4ZtdXmsPLKJY+WqDYZhSlNWQBP2uKm5U5sQ5ELG+MQ543Lq/RU7RR4Gj6Lq0xxJjwxCY7ua4pJvImwVmIvtTvdF0YWz94qIIg8wHf0UZZDtE2oEvZS9Jy15A+YSF7otTEXtH9qrfBYT
+H2QT9YFH5/bZv48O5kze1inT326keXr23JpUxyoXl/XEz1IU4Wu3NBUETZnB1+a8J9XcAWhcpIB+RVMX86aSXijGH/fii9hhzOX9a/X3S4oqThvOpiAZ8Z1lUgX2ROYly57aOveEkuinrhquBxoHJDBYS+jITqi8WwzlHbjh/yg/wwE720nnrHuAnMtG1okaqVFiRMgG3wRq8YPu4yoV+57Axh12DiXMSJ7BjeW0VZis3sf2gZitZRbF2v0/flfC
