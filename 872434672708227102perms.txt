@@ -827,7 +827,6 @@ Spoonkill,4
 Squakie,4
 SqueechyStar,4
 Squibblers,4
-Squishyfox,4
 Stacy'sMother,4
 StanceDex,4
 Stelft,4
@@ -1394,4 +1393,4 @@ zlone,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-l8yzxOJjX4DMYKWmSqFIkR/zjRn01O7uN9i+H4tsqO+hAW/uoWnawYA7o9pIe2CkKF5NBPPTiALfvKbzQUGbtfF/XjlEraJiipiYULHKO7O983WkZg0FezpYdRhKiOrHPgYTkkvm8n+o6fJy/Jado/ruxoKvn3m3M0JR/BB1ZswgTjDo9q0t/6zpg6D91yJaiMV7kDww9GRF38nJmAPOvKooZ/ognn74o/39C1myeWcbA+m+IpHNwW7DYCyAgFyu
+KiEXyWV0IAVk0cLab/GrfyMgI0/PQnpML+dcotKZOeFtz4NDoneJNYKVYZQt4SE6FfMmSqnJXMPC94MA6TEgGkFdKfpfPHtpNRO7BRQ+e23Nzj6FwF+K7kLnnpKEL/EBwcrqKrC5Dx0GcXVThSyEmuAGhFHXa14EM8l94hNXF57usj8JQmgzmfD4BAgdNwE2dQBhubY84cqpv9+H2JKUHYHK55egZMw5HA2ulgvEi3W+mTLH19Q+vovCZ0Z87DlS
