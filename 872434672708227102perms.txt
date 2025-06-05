@@ -696,7 +696,7 @@ QuinChimera,545263623
 R e d（ 赤）,4
 R3v0ツ,2097156
 R4D10 M1KU,4
-Rad ®,7
+Rad ®,4103
 RagingPeas,4
 Ragun,4
 Raiinzee,4
@@ -1399,4 +1399,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-C3xgVSmqu/QMrg0QV4BD8tIddisoQMWTzSLwPO46VJWTTiZ3C1yjQ4XMVtbDQ1Rqxys9nZbRVdaFehGhgTopRAIIADtZAkaixIrsvF4eBScJeR/tUImNM8ZtdnkcKPdy/sLR+VNdeXaiJvmajI02hoD3xlIjiVjxOq4quSc3aj9u7X+ft6sk9+TrlK5+Ft5549aSOPIzHEXebKrETgag0JoHPzbb4srrGdgSgxWrJinpqDQ3SVOhl46owMdm1qUB
+EUnsfH5XCJ5Q50uCMbCEqiBk6HxQ9s53ZfP5tBAS5fYHweFgIducidZkDMUS5dcE/DcaaymxfaXIpyuhsIxUFb3DCuMSyaoJlnTFqyuFO4a01TVgtHZ/u325WDiShuHkXy1TRTL57FjTDOSJLFw1+5VJ5U+Bdm8x0TfoUdQFqAGMbgXX6+Ie7gt9KTWujDg+enSdcLy8fpt6ppXtoXuYsqp0QtR9ObAw0s4S4LHpNyOqRpphm8q9frq3Ls7poXZ0
