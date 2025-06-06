@@ -444,7 +444,7 @@ Kid_Zodiac,1028
 Kidney̴,4
 Kido b083,4
 Kiffen,4
-Killer Goldfish,4
+Killer Goldfish,12
 Killersnow_wolf,4
 King Nex,4
 KingsTalon,4
@@ -1402,4 +1402,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-WJRVJHAiokQzSZ0YS4vA+s0HVw53s6Vui8STJFkqXk4RJKEGM76V9c+rRLiXr5O+zyetGFMjy2gOOj+wmg72GAXM14vbILO6OniGHvRcoa8Fklf5fPS2p7An8kQ3clnYPhAK87jHObU7HHn3yNEhf/MTDT7nHlsvqLnoIzakRIfv9oi1W/Dow3K77drMcu4ftjnga+N85IMtUjDtWOsNzs0m+yO8QqSsSN/seFTro8falG5/tsO3haZ2ajJe4S1w
+ZQbteXiEi1gApumvl7yfk1g78hiCmIekh3QNV4ACy5y9wnblsu9m+m9ynkDIz7gJ09n/FPpw6co5ToRMJ6WRYAPFYBowavllPyfaSldSFFMHfTnTC6G217lXTX3nUbQgfug8uU2olqkT6SXTvoUS8KOPmtB9A1fIMi6UgVrFnhnu6/Fv7a8y+nQCre5FuK8JrNcW9z7be+xS8AoKGDR6CvtcSBw4cyC8OmKY4QmIP9ynnCFkykbECHDeGpLn3Azd
