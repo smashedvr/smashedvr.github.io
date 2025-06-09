@@ -466,7 +466,7 @@ Kraze,4
 Krezz-,4
 Krimininell,4
 KrispyNugs,4
-Krryptk,5
+Krryptk,4
 Krysh,7
 Krysserion,4
 Kurooctavia_,4
@@ -1404,4 +1404,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-XRvUq5aObO4wh0kp4kB2TiDwsQbwupbpL1QhIW+PbYHNCPWRFTQW5Rsw+J3NjRR+aY2Dyu5EC7lBAnb6hO5zBfxeo2i0eq2r2l9YNFujkNVBzepDUzVqOwLL56cZMHtEofIB1UMmup+f6KVXpeDC7OtWB3E3wI9rnVvJfKr1aHcqQpOPy+z2+fdqBuJ5yjn/DS/w1xMRovUwxtdCwaRIVfoeBaKQhauuPiHJjaB2HvYZtCO46fe3Cwi6IqAao2V7
+Bqnom94F+NerQAlO5X2ZNiW88CTdNtwiTaIaR/CVGYnpoNxakUlV2RarYKGmqpsu2R6eqOKJ2H7eAG4yto3khblUiPkMSgv+uMBy0aOvTdj4sSiZALT5JYi6pmFodeTACba3QNVhFIrKdnUsEIquXN3/lL7UztcK/n2YzHX09AMrh7sgnMEM0kiMMBeEDz88MeMbLCpM4QpmNhDm1w34HD5c2+tBaQ7kJq/ngr6FnlYnlPOk9fh+Lg3YOI42ZNRy
