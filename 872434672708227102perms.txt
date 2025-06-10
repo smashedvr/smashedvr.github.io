@@ -1,4 +1,4 @@
-1749513600
+1749524400
 ''Mike'',4
 'Rittsu',4
 - Hugh -,4
@@ -187,7 +187,6 @@ CraftMeBacon,4
 Crasher28,4
 CrazyRacoon88,4
 Critical42069,1028
-CrunchPunch,4
 CrystalPinkman,4
 Csm_Chango,4
 CthulhuIsMyLord,4
@@ -1405,4 +1404,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-gMlU1VbWotwa5sOnpwj8aChCgfYcHUELnMPzTpTCYfDBfA4xlNyufjrw0XO5Nitb1sw7taH6TLSRykJuHQwsf2CXaHIzJQpVEDlR7AWjJWVCmiTZGZnsEuPc3gGdljGSEDLVd5FcgFqT4c833IRri3yJnJjSg8Mr4+fk0XcUMvUBfEGUc8ppsHTrVHTdd20Xl494hlPYn/mz1FLGdPpFsU/gNBNN7ukfjVQYLIx6H5RyxBS5HzdxMSwy/HKCZ5ua
+MInkDFU2So3yIasUsvJ3A7xxsRGStymhzc43SlCNGOapMEblCoX9P7ZK8BuTKb8IcsANl2qyzC++//LgXTFTBZbpAD10cg8P/6bnAkF2fKx9alBKrRjDqGS7XWlyizZ+W5rNfjB5FBUDz75aCxuialkNoxQkYoxv8688F0KUlm55b/lg+o9RAzqJVARRXBnKvxfXCzgR2K1YvXs60lfNINdSrKbdYd/2XEyM6A5w75UzoJTHlMKdJxJXgSCzJzII
