@@ -48,7 +48,7 @@ APL225,4
 Aaldrik,1028
 Abbz_,4
 AbusedCoyote,4
-Ace NanoSpear,140
+Ace NanoSpear,12
 Adorkable Fox,7
 AeirHead,4
 Affirmativeee,7
@@ -1415,4 +1415,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-k1hQtNzQOYG/i9Pg7t3aFZ/XBTnyUZnTfj2IisEGSAyzPQ0C6ROfL4mV/vw35nrJxMBPDYeMxGZNfpDiROAMuivb+Xk9wl84wBmxrS3MT+UYbFu/i1kaRqd0kdpOWc/yQv8rHS1tT516cCccxJKiYi724ERPlTPLC8ZJxCQpF8PZeo2v8okzx0IZ60HtGoS9hcLKjSZcWtm9Y9ChtjJxt8eGecqOhKTiIWXYuWMxOOiteYQocJ59aSp0cg9ACsG7
+a+F6G3LXDu2yblZMoOM7pf/63ek9S8+o0OyGFozdWGkn4F6x1QhO7Pyn3vHXmm4BmDaijvSjA/5iy0PbexvqcUquDXj/uWCxZnS6NBzodLGU8Xks/Nl0qbUu0TCN5epQyXZowuu1McGHyj58/PYBePRKBAqZV4yU+eCDYA0XzPdfp8G+9t1epYxxY/gvyYMoFqNJR95gfp4m5eWO1aIhvJRJkzblDcJReDJzVR3mgmQrD/Zt7eEDnXy9n7kvPNy+
