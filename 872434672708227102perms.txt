@@ -1013,7 +1013,7 @@ ZygoteTrance,4
 _AmethystRibbon,4
 _Arcturus_,4
 _Catw,132
-_Dottie_,4
+_Dottie_,132
 _Erika_G,15
 _Mr_coconut_,4
 _PANDA__,4
@@ -1421,4 +1421,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-OqFUyoLEnNf8yAigFm+hAqB8waYR2imeAmXTZ0scFmq78G9YeYtJER17hdpecK7kbPqleg2Vd3eSulJjnBl2UhG/Us8LzPW5Hmgq839jkaVtt5ZgNvuH5qCDbViiiYeCwNTzimfxzS5tkTfqWOJb80pGB6MZe7b8U7c73nRnu4lqMWoIFwr1tUojsWYR/qS05o5nHhjsn78SOMrkiLSjsZrnQoNXUW7uAkdGmtSS2BHlGpQ7pGxJLh+piDBZ/NKy
+iPfedsMSi1aFvQDKNBgXpRoyUAaxyz5mmW95XXV5QuTJw//fN5RH668m1mb/sTkfLbWAre4CASuk+qjC68LYTMsPaUF6s+slmqrqYfo5BsWwEL21vVHoZWgnFiKIBruxWFAVWlhy6ov4VbNsP5lArgxSDC4ZUOTaneUYV3o5b9BKNtmOge+zDNsEJuEddi4AGJlJuZY6cyfOfjHnAalp7HJJMzx4m8a4DG4ur6rPGWqvv5YQzDPBnFh14v1FY9ga
