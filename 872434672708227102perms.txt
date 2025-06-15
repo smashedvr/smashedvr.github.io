@@ -239,6 +239,7 @@ DessyDreamer,4
 DestroyerMon,4
 Devil_Dog_NL,4
 Dieon,4
+DigitalMonsters,4
 Dirty,4
 DjCrossFade1200,1028
 DoctorTzarcula,4
@@ -1425,4 +1426,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-i4KlOoKoSDXMnyS/hN7vsaQYB6vINoI2Ejd4LofF1nPbC4MdfHM7ivdZlf+Pl8PNRT3sB7NUCvlx6xDS2jusMm704lY5bg1k59ys33g+q16qVnIw5sSwRlpHChDfX4adDC+PKe9Ims8EYKf2JHUkwZ6lNvvp2uP0Xnq7hjnJUq92z45EhGHWp3NpFaq2e3GZfBEE9o8J9hHbzQRkVVwBzsqBSI/Vdp1qCkJSfxPX9r5Ku9zfFrtBTCwcchS7A5Yn
+Ti0WYlEBSBXZH0Gc/cEjoHrfFUG7P97248svYZ0EOJBoeRCELSQN5e5Ls9GMilc0P2DE+ORUoebEKDgKizdM+Olje8v+IqjL4dGbU9Pk+glRYTqWX8sn5XTCme4jw1sfOJ8sb12uT9/VNg42rAzJDFx/HWOUf1tQJGC9P01+3v564eCmttHPFjdeh59dDitd0IxyWOj937XMQr1x6kp0+dA0O4Wz3Hx/dVW2WYuflytOfg9Yu4CZGL6in3ZcSKii
