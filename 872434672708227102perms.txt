@@ -344,7 +344,7 @@ GodsDrill,4
 Goldspooky4733,4
 GommeR,4
 GooseMilk,4
-Gosu Goddess,65860
+Gosu Ningyō,65860
 Goth Bunny,4
 Gothic Clown,4
 GothicFreya,4
@@ -1426,4 +1426,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-QOduSvIO2RXkBCI9aed1NuwKZeDI5umuhC282o4hShVTZUamyB2Nv/EITBmn3yTx0xmPx2yiIqXzWJ57O8KiUmUXncvODRAokIfKtOvhJ4Ox36SH/bbA7ww8TSsyr+/IvkKDgsI3ZW1EtU7OJAN+88587L3dWn1X9cSqaECa6itX3/bbVLF+izTL7a/XCi82S0XM/yqmCFTTisHvOtqJZLFwncv7ITvyqUKzt/R9edx8JTSDYYrItrJ1D4inTHTd
+eg3AE+nvDlGPkVAEVxg5WfNhKmTAswGsI3YHhwMmnf5TtEuah5KmQz++6raKsTObxVtH2wao5WGsQT8XHcPrS5dxvknMXKc3aZZrLcrXEsPJQnpJqDPZ2Wx2bh6c3gqxBW6ZU/X1vNvgmjZ4woK8AKSg+xx6reepUCuGqG7rlbubjGJbfNjyS5HFBJCmOVzr3/G4bpfY+4izCDT1KnxTjg8aoFFYSFq6VVp/sLT8dt4gPgysTP6ZJvEzby6l2Hzh
