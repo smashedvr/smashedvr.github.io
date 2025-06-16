@@ -1020,7 +1020,7 @@ Zoro 75d4,4
 Zoеy,4
 ZygoteTrance,4
 _AmethystRibbon,4
-_Arcturus_,4
+_Arcturus_,132
 _Catw,132
 _Dottie_,4
 _Erika_G,15
@@ -1433,4 +1433,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-G6bHoQCymoE1Z8duJADkMFtKlM4dNoFc0d5mrEfjw233IunVNKHa7pcuU5UzUFnUczjRNGr8PD4tAzJ4DozLqnFZBkCxW/1yuDM47o7L3xcihKqebb0qMkbJuq2Tjb11H83iYz/SesRvdtHv12ZOOUv64aphcG4V5GrVqaQN9HGyT6xjpboiSRIY+jw4z49SbOy2N6fiUJhgorxq24BYXZqDHjABaTf00S+4M87O5BgIFHR46jTq4ArJmvdkCSgd
+brFOK+PDgTUdkKyLd5b+oaga+49/Xh/PV8mUb6TQXn0rgEjOhY341sUTtZ8iK6FEVav37QUgnXX4WoMYytzKk1XDS5J1NEJvUsiFijhY89O9oXZYHraC4Q2h7ytOKcjZFk27AnbA47lRNuGwTsSVPuwTop+Pvj74eABbmfa52J8ASIPDC1Q01wVMoxUeKl9u5T3MYLXsjznOqvtKkWVDY66gKgrp3QI12lUp3Wt8IfnnGFciFJE3rBjN6/dRmRq+
