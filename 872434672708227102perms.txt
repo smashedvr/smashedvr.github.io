@@ -763,6 +763,7 @@ Rouge Angel,7
 RoxanneSilvain,4
 RoxeyMecco,4
 RuKomori,4
+Rupyy,4
 Rush Sykes,4
 RxCz,4
 Ryit,4
@@ -997,7 +998,6 @@ YellowDeath,4
 YesImHuman,4
 Yokai_OS,4
 Yoko666,4
-Yorna,4
 Yoshiama,4
 YoshikuniIkki,4
 YourBestFri3nd,4
@@ -1434,4 +1434,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-Q1zRLA07pKX3ySIeWvXOFwPKYkyUijq9HXmzLMpCdc9tIOsGJbr4o1VBU617VNdc0FyLluHOmZFma4+PYsOArPMWUCJzXbStfYJduDcEh6S3wUpxNC5Ez+2B6y7VxX/QTZutH1xAklrgnP6iSFwzK6jNbDu3j6AwM84Omc6/Y5D555fWUM4mthWoB3NL9Z93EspVaozNTaFup12Tt478zh2ZSyFeaRVc8zGRZDTUJZjx1fPRH8erA/u2MIjfLGgH
+e3IlemcBsa/qFxGu1d3EkS8/ijgPTUguyePy5N4A7zwHmUavsacTtTJI3aLy6vy4JmJclNYFkB1vgh3IJejFDBOY1QI72ZOC+8+9ysukcthAD1637PS4xoDqgM6SsjBWocZ6K3+4Vh157nxHXlY3uzRlaFaCgTlaN3LbTME4ibIzV6+EClCQSXUONJXY50/KupSOZleWMWl16gn3j7P/sAnwhDOYd2MBwAKi5NLNUZ9YB9RBmgOn65u5112AC60l
