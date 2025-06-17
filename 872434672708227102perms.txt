@@ -760,7 +760,7 @@ Ronathen,12
 RoseIsThornie,4
 RoseyGee,4
 RoseyLuvsu,4
-Rouge Angel,7
+Rouge Angel,4
 RoxanneSilvain,4
 RoxeyMecco,4
 RuKomori,4
@@ -1435,4 +1435,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-TEiaU/NEhwqtMK72KH3U4czLrS7jlxKBJpy/Xp0Br9RHilB8MlUqUwrBfJUR2DR7Xfp1e8+qlNM+NzDC8cnf9c0YIXCRNX5eKXsMDUS3q05gU9kMqgQS/cV1odYmKioaVG/oDlUOAXn5o1tSdCv/Bc+USnrdG7NlrkCn8xujuQYIIA1o9RkdNe8wmjZMG90aIrUfmslYybpvN9Wpm0gZbExzk4Ly9M4m8DVG3EMthQGJCXJMG2qOyq8yRdm2AH1b
+IvEtZb93E45HTONxIynQCUAOWyZZuwnrUyOZjAbyPxFvr2L/mWMcBefjcmREFUX4eGoiRSfh18Cl1fmqPTFBHzxFIMqSH+tEfWT9alxwfecaxIinY1UNc29r2Ocs/tUiwP0Yl24IepHrsO/1bxTo9R5jfTlDRKsfKUD+AfOM+QT4WM34jLe3m4iTARUW2qD9lPGdOI0C8bBsPy0Tc9sZSduJkQulvCLtoB6hb8x/rMgRth5+mAalYeWrrr57bdWB
