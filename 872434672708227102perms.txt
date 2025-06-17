@@ -317,7 +317,6 @@ Fire-Princess,4
 FireGuy,4
 FizzyGlyphs,8197
 Flandren,12
-Flaretdw,4
 Foley,12
 Fordzilla,4
 FornSphin,4
@@ -1434,4 +1433,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-FOvyRF4mCsRUmsKev8v6g/Nb/BHeGtadNw1naI+4B/OE026tUBTy5mzeHFA3pxRdpMW6pxj8egkz0KG9oXubvCJhUqoXYbBHBuGw0wGjGWR3i5SHGj16zqhfsrfHKrxQPD+NG46B0V7n6f9flQD5QavM/BRyxPNJv7Rvm1wPZ4JhA8hGOTCtC6uDCJ+wro2wT4d7+r1Emd+oshZHOIZ6ME2Se0yNK/Mmevo7FTogHnWH7zeWttooiUHa/C/9vJRv
+XVBQ7MP6rgnu+8alPY6y6Co8YN8cBUBWRMDycAMsXiIXdNdpZ0yOdHNktvGguNY1E/UAFapnA8EOrTbRP6K+E3z2RlfqK8+YUy5oQkd0JCBaEmWD57kZD04M5FrSEKnsjqLdXnxfoRMsq5nzaNJ1QMHEPEB4FLzkq2DMTcydlcflXnbt08Gg8qrl/1T5gljjKNe/mkbxcwTa6QlGVqsm1ZBASGBrWlezDWmIaH+J72Oa06UWDH+h3cDvJgnRwfiG
