@@ -857,7 +857,7 @@ Spoonkill,4
 Squakie,4
 SqueechyStar,4
 Squibblers,4
-Stacy'sMother,132
+Stacy'sMother,4
 StanceDex,4
 Stelft,4
 Stoltt1,1075855364
@@ -1434,4 +1434,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-HV7kMLiKAjeC/SDpMYLTF2Z+cujMi+B5keulKPAUVzTLZWZux1IDT0/XJXhm4HKXOnPvan7Pez8U969YWSxILsfU2PnzAAi69u08Cvmg+Y4QhE6PmF9rspmdwtZeQ2WOF4XVq20oC1GUU8reIQlvYwM+rnn9JpBsGRFxHO5aAapFVwANNnL7I1ESfoc4DIR7zJZZDWlOZ5Xd9CWrjz8elkwVSx7wwLFANH0L5rwLoduhWfX7SCmUSsVO1xmuFY8L
+CjVQTQsP1BWUY+NfTnvVA/npUtha8B5ACOFSq2U6MD0MY52QXmHlC8UFTlrFiaxbjWKpyhe/Xtj1VlfRUYygVnwt6BcuXpBI82wvuw9SoQDhCHZgwYQeWmm0vnlINSd3lXLhkVKB9gjCKQHBPX5rugBf0zaVA83bnrfbS9bCG/yMu7PLH6jabHV/Dk5tsH8rm2T+PpeUUxjSGy9XfFNWjafLGni9NLh86uZ/5USX62JgboQKZvYsD8tgt+BB90h2
