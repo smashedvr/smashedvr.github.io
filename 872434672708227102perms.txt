@@ -866,7 +866,7 @@ Stoltt1,1075855364
 StormiNight,4
 Stormislost,4
 Strange Brew,4202500
-StrawHatStream,4
+StrawHatStream,7
 Streq,5
 Strunger,4
 Struxnet,4
@@ -1438,4 +1438,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-REVXzhsNN2jU/WL9GaAIJMdfEGuprW0sqUsRnmuQNfX51jWYY7u295etL0AZfUf3o6CShunO16KZKaDpPhcUgfKcya7t9vc4jmOlBY4g3qKlDL67TvsjOJckN1W16hfDjcrGvaMOD5UOizi1OruGfthl370/6dbUdutFG2kQqe2axqq7US9++DX9wnAy7anYgsG7QGsk7N9DypkhpJY6Z3dUR6yXGcLaP8ZA4x7XcDLxMNjE96pH7zzzz2Wno8tj
+O1qVoYvzCyenTSWGkFirf+ptzyNEuOiz72wBa4mW5jmyoCk/u/t/FuJdyZALY5Rx/d+bubWDvSgzK0tok4IAXt3rqjyC4eqXsl/il7f+yt/H+b4Vmai9/E2ZIx1FfUCF6ETuigxHlVXT5cKWZPMVBDyAADDe4YBHgKrm0nmR/rTJiyuqZeiE0dt9hdp4DMe4OjBCmUvBrbpDPXlZZoDKi/w87HXmbrzBboXFAxskZLuoMB9IsuNShQbmYEL/QhtN
