@@ -53,7 +53,7 @@ AbusedCoyote,4
 Ace NanoSpear,12
 Adorkable Fox,7
 AeirHead,4
-Affirmativeee,7
+Affirmativeee,4
 AgentTexas™,4
 AiriKitsune,4
 Airin爱,4
@@ -1440,4 +1440,4 @@ zoemies,4
 ｢KΘNEKΘ｣,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-Bu4CzBsJgZbvmAW/hYVn5pXOcA37hfAzSVJKskjCpRgqCzmZomumxl/8GB1G3TNRAM4Pp3/smWUcnA3dv0xhdvk5ps36mWkIKPgNsaVrr4y0yi2sEzXyzVI5ntmK26l4JqHKYWBu7cn0SHHCBfAP5GvXIGis5eCflDPHfZPtPkHOkR8dm5kEDTVl0+cRoDji8wKHMMwcN8C9wmnumyCcXrdszOXvtXgozClaKAjd7qD2odeXCbAZsxMcg6sr8aBS
+eOiRyQaiAvF1qd2/U4cYx+X9kCTAU0MncQJK00rEIZ0f0k0cSglEomvkQ6ZngcF03lM+BE2AJud7pVJa7g/sSZZz98ZQOQkkU3GX+c/qhA5THgm6MfxEk8xaHzSS+6HypPV0KwM3qDU/qkYwLZDFkeoJZTVcxODYG/D8SRxZ2XyBb/aJfcamS8F1JJ0IstZzHSHbOqcaEXYBqC2NqjXxYNqZdSxbr4zXUW68qsYOP2q3g0w7+3xIVubLHvLVSUnD
