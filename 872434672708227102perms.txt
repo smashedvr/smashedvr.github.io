@@ -858,7 +858,7 @@ Speedwagon 1284,4
 SpiritRage,7
 SpookyBat,4
 SpookySummoner,4
-Spooky_Boo_,1
+Spooky_Boo_,5
 Spoonkill,4
 Squakie,4
 SqueechyStar,4
@@ -1445,4 +1445,4 @@ zoemies,4
 ｢KΘNEKΘ｣,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-jT4bfLYOt7gmKHTBiP9fmq9llFmVfDPkK7zAXj8g3mxH/7QczQd2ElIaRxbo151jKqOXlvXqOtZNhyyciH9C9Sz9DyAgnmb/87S4E8jndoE+GHa7GuTXvb1Lk8P490d481BNT858CYfI+Lnk4X/cHswUcEc31Ohtgf40EVKg/MCg79LJuJyEVOlVV1alNnfhIrRU+DSwSuFDNpR3TgTJ+uqDfdO1oO7bUlQb6PuLsXeECCV8lxWOBGcDIJsFrr0I
+COX+C8OzpWzlaIqlej3a/RjS6CEhjnKMFlyKyKIo7qtZ/qe8lpSzTb8QWRk9e2PRqUG8axlN+ItiO+TQl7MJt+vvvrjEaDiGdYB9S2XFHB3WmlS26lQtediNhPeWS5NCulhI8CpsnNj8blBp5cM6tFHEkZcx4Kt4s/Ui9RWUvFmhCbI5HqnpN7ydyEZ00V1ulKyyZIBvbAZxsiZ2BqjlYKlazbGTId5UxrU5+Tc8MftGpTX0ULwI4BxytTh+2B3M
