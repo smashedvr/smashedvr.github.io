@@ -319,7 +319,7 @@ Finguard,341976583
 Fire-Princess,4
 FireGuy,4
 FizzyGlyphs,8197
-Flandren,12
+Flandren,4
 Foley,12
 Fordzilla,4
 FornSphin,4
@@ -1447,4 +1447,4 @@ zoemies,4
 ｢KΘNEKΘ｣,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-S+hrldeRm4matDdOSUBh0/cewU64+GrkEHzRLca59NUnYARz4YoAIe5zeKzMDqH/c2FRJo3DiB+56EGesNwYT5rLhgOZ2lQvWksirXgI5hIf65XAjb27A8+QW5U4WKua5rdQ8bkNUMJe2xn4Ml66hHKWtGfgR5xAFSRqK1ieoBJSwBUBhIqDEmDw90rs+4NlpGOypfxnIAWHnaBar1/rJYCjKYpPwVYS1hHlHrv0+QCMeCX+hEYPF1j/Z5NtpvVT
+nwQKG6f9TE8w5KWPldeT0vBjjTx7GyJmnH1vOx7cjGo7hpRoZm5gDSrHM4VDQjfL8AqVYOmlKSBDw0qW0YZiJVuQaXuH+FEac0ng+yk95kTUnR+VmIzHtPG8oc+y4LgIp05pf/4iT+Ot5txKTzoP6f5d1KSC9nPQPdq9JKlmK7rgi/bKNoT7tGROqOj+smqjPxbAuKeaStyOEN8l/8WxQqiBX+MB49puKVQ1qnRJo8c3n87I3ohIDCbn6fmEy/hS
