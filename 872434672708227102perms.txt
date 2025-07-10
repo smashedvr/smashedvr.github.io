@@ -785,7 +785,6 @@ RoxanneSilvain,4
 RoxeyMecco,4
 RuKomori,4
 Rupyy,4
-Rush Sykes,4
 RxCz,4
 Ryit,4
 Rèapeř,4
@@ -865,6 +864,7 @@ SoftshellKrab,4
 Solo NoMo,131076
 Sommy,519
 Sonyatta,4
+SoreyTheShepard,4
 Sound of Death,4
 SpaceChicken1,8197
 Sparkilly,4
@@ -1476,4 +1476,4 @@ zoemies,4
 ｢KΘNEKΘ｣,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-DLAoMkudIeAjdZyApu4nvIQvQWwhxamTq89+c1pLclSS2Lyb6b72vSD5HxsGkdrOjkUayPRH26ce1Gig2+56X/dWUIEb4C8hd9tZmrShU0sZavNVJru1j5m2W8GPFHbUsRcYZDkCXaawqtZvvlb8IyCusSKeDsRSQQfcs0yUVouWrgpTdgFLrvSOM3XFwF0myYMCqvJOFzEnMx4ChMTg6sypB2vBpDcS1r349wc4dn3V1arwV7Afj1RHpaE5THnb
+gd8f/Ok55ETN4KdbiCXA0hbdhUcAt5beJjiSiAiWd/8YiQ5nMdetC1bkfEgkeRRCH/OBvSdDzblzBk7i3g5lHN/+6N70yiABXFDzfTEjCQDOGt28PNnr+SM/AbQhDDxHnYGgkkyaEIjroAglMeEnAp6C5BFkmw9ld+aIUs5ccSrcllk4UJe+ISavllclOhnc3JPC4G0ps93qgH8WMEGPKFz/M4mdQp/+T3PYLdypIHgIMvF3d/gIiuVR7xumlFJc
