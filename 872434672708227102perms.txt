@@ -330,7 +330,7 @@ Fire-Princess,4
 FireGuy,4
 FizzyGlyphs,4194309
 Flandren,4
-Foley,13
+Foley,12
 Fordzilla,4
 FornSphin,4
 FreakCJ,4
@@ -1478,4 +1478,4 @@ zoemies,4
 ｢KΘNEKΘ｣,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-LlRL3IXcvF8dgR4JdK1eTUfsFvEuBi+phri/hVwrZpA909HaKt5/t2UkZFsfwGRVxyx+PC2UO2QKu8/rQM8BmX9MRY0qfSGcvmn30KKB8krzvOe5jUfmKEsQs1FvhPhmyfSarwtsGyFz3n3ihgKKHnemZrHWswDJLcpM3pMIGJi3rAR6rXkQZkInL/3fYjYvWbcwlvLv5sjGT7AM7iYURrmwHwEXXlbh1rEJeKl7pV3bTxltSGM3QXIysutrUEjg
+Co4sU7b3Uyie+76vvRvN+NzFaXETD3PdKqHNekv9WwaA/p6PL+gpm7a5D5TzVtLiqKZVsFXwfuRsUW3Bx/TEHP8bSvPdBB+A3l4HXGAJctjmkZGl21duG6IudwV0G9/oM/QCKIuOtxF+gyPIK3jF8iBq/yixsgCATztvnoEz2gvYoyeAOVT8mcn98Sl9KrzkVSYIOBcZNoatF0iX4x7/sfNHQbspTbsJrGwtQyVRRZi62zj5Wlo2vQSEhJBnNyfX
