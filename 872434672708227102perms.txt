@@ -70,7 +70,7 @@ AlumaCake,4
 AnObviousTrap,393220
 Angelo -ᆺ-,4
 Animalcrazy,131079
-ApatheticGamer,7
+ApatheticGamer,4
 Aqueou_s,4
 Arcadia972,4
 Areina,270533127
@@ -1490,4 +1490,4 @@ zoemies,4
 ｢KΘNEKΘ｣,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-Y43FE82cI9J9wX0pFtyOuBxhZbIiiscgiyHak6tFhXZssW7fCoImh9H/+AW9sZA2h9rghsvWpZG2TSLMQCTNtMk3tnwB8GQVlP+R3huIq2Kw+pz4ufEa9Oz6WKecPg3IbXMH2TyNgJjGFj8YPYwfX9NG2pE/KVY48FMfw9p1me60w9Worq+pSKA7O0VB1Y3G846h6lC4IS3PNkfppSYjPL1KBJAF9VqkJbCe3pVWNR0S43w4Bm1FlwEuUta8MSZr
+WnY7e3+zkeY4nUVY3yQ8DJaQYZdDmMFksZvJT5Lzm9t1tD0WrWvvga8h1Pfo/UVSp3UBfWMEmAVSrgz9D29oscrEgH+Z384Py5amQobjrZVrbiueZkV9zw8SpfM2r3pvdwQrc+yyrx5XR7nJ0ywipZzOxiu71IUf8+LsQ+4yo9S4lkJTIsFUeOo+E/NURWGkbLwtKxNn9BAu0KqX23ifroZnRzJMH3gDreQGnvZ5rlFWGmMNhWBHfeIyt2TD0guJ
