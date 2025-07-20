@@ -26,7 +26,7 @@
 -chompo-,4
 -samush-,4
 -vivi-,4
--̷S̷h̷a̷g̷g̷y̷-,7
+-̷S̷h̷a̷g̷g̷y̷-,4
 -₮ƴ-,4
 -ｖａｎｉｔｙ-,4
 00Mew,4
@@ -51,7 +51,7 @@ Aaldrik,1028
 Abbz_,4
 AbusedCoyote,4
 Ace NanoSpear,12
-Adorkable Fox,7
+Adorkable Fox,4
 AeirHead,4
 Affirmativeee,4
 AgentTexas™,4
@@ -308,7 +308,7 @@ Eveuette,4
 Evi-,4
 EvilGotMilk,4
 Evilor,4
-Ex_s,142692359
+Ex_s,142688263
 ExoBlazeGamer,4
 Exocoma,4
 Eye Patch,4
@@ -998,7 +998,7 @@ VindiKitty,4
 Vinツ,4
 VirariTV,4
 Virlas,10490375
-Virre 1,7
+Virre 1,4
 Virtual_Jeffy,12
 VividColt,4
 Vɪʟᴇ,4
@@ -1496,4 +1496,4 @@ zoemies,4
 ｢KΘNEKΘ｣,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-dI4Qtwmu55WJSKiQJVj2PvVThNmTZ590kQU0fHr8sYKyJSldFbrrhWhV8uXcHyRPFSks4mUiRzz5WdbgZq/fZjTdiUnFCUpfAzDpWtcgWa96s4dQVoxirrWRRLHtem+dasW0eX/4mc0pFIJ6753u9mDh80SWNKmpGyHg+o+rq/cnG421+fhYuJuSYkSrjidII1lBMLyMe4vUmvMNL3JsiE9mD/6mUonoNhc4NcDXkAgZWeMKsXp9ozhq8pqrpBZ/
+ZQ3A17GQ1zKUDtIk0iu8ff5zb/BDhdpX3HW5rnpBhrnn/SAKRnrlaxV66t0+3Qx4tmk9gpidyaJEPrt3jsIDwLtnZJaEjuRSsINKGv1Sq1ZSe6b8pxHUFj6mYMJbNBCCHnJBK1V0aM9936e7bBnYM/Y2ZUoBLcQSGmvwnxO80dwmI2YioXWGqo7NBRzYg/OPUP13/jUV5y/U/DPPYO0o9cX15ov9NLdsFStlZ8fTYhF5XmkLCT5O+2T6zfE1Jl2P
