@@ -1003,7 +1003,7 @@ Virtual_Jeffy,12
 VividColt,4
 Vɪʟᴇ,4
 V̷a̷v̷y̷,4
-VΑLAC,545264647
+VΑLAC,545264644
 Vαɾυ,4
 Vισʅα Lαყɳҽ,4
 W1st3r1a_M00n,4
@@ -1375,7 +1375,7 @@ zoemies,4
 ୨୧ Fable,4
 ୨୧˖˙ dia ˙˖୨୧,4
 ୨୧ᴡʜɪsᴋᴇʏ୨୧,4
-ఌᴍᴏᴍᴇɴᴛᴏ ᴍᴏʀɪఌ,7
+ఌᴍᴏᴍᴇɴᴛᴏ ᴍᴏʀɪఌ,4
 ༒ -Zex- ༒,4
 ༒ Icarus ༒,4
 ༒ MadCuzBad ༒,4
@@ -1489,11 +1489,11 @@ zoemies,4
 ＳＴＩＴＣＨＥＳ,4
 ＺｅｎＡｒｃ,4
 ［ ko ］,4
-＾＾Shama,8388615
+＾＾Shama,8388612
 ｐｅａｃｈｙ,16777220
 ｚｅｌｌｉｘ,324
 ～ღ信号機のオコちゃんღ～,4
 ｢KΘNEKΘ｣,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-Al6M+5EAcZ10Y/U3o2PFdB2nh9vQzk+iHKPWODsAjisZ+tZwB1xIUknPS7iTS3w+YFgK51q3QJ0oGGI02KcHWdagVNzYWWyQU5hbz/PzbHK69l/JY5qWEpdLmNQg6qxVa6lgbnwKEfGuiSvCuYdmEdMHNMWbCv5IWEWkmYonLfp0vDWsdHK+O8X1DEBA9gnRadjmarXwgqG18q+IhMCBed/S1cu0kTVNUUAZvYUXSClryJAr6K9+ypZXonw6c7Iy
+W4FOPwn4jU3eh7biH4HR0bLgxAbTyrtXOMxbAzQhhOLyO789aUoeOi1xEtK7eYdn77rqh+09GRcL+SjBs+0D0RoNwnXXU9KhuoDdvBirf1tmtKcfXE/cYkc63XkmsaXud+JXvIu/GZWu7uvrcvMAEchUsJPL2BHFWE3NEV+ifJD3/opv05GyTuzSoE4HvOBvG+MpKVKtsrVUzkMfBKRQhMOkZUfHJqmujI3u1r8KYSBz4J650gb5UrLGCHzYvqb0
