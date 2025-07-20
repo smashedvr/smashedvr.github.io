@@ -223,7 +223,7 @@ CσϝϝҽҽWιƚƈԋTιҽʅ,4
 D0rkfi3h,4
 DAKOTA PUPPY,12
 DJ DiFlux,1028
-DJ ShynSync,1031
+DJ ShynSync,1028
 DJ ZAX,1028
 DJ lil pawz,1028
 DOOM LEGENDZ,4
@@ -722,7 +722,7 @@ Piecrustyumyum,4
 PigeonsHaveLegs,12
 Pikoreto,1028
 PinkG03 fff9,4
-Pixlstik,7
+Pixlstik,4
 Plague of Death,4
 Planit,7
 PlasmaLeProto,4
@@ -997,7 +997,7 @@ Vincee,4
 VindiKitty,4
 Vinツ,4
 VirariTV,4
-Virlas,10486279
+Virlas,10486276
 Virre 1,4
 Virtual_Jeffy,12
 VividColt,4
@@ -1469,7 +1469,7 @@ zoemies,4
 【 ΛPI 】,4
 【Z】【e】【r】【o】,4
 【~smσky~】,4
-〖ᴿᵞ〗,7
+〖ᴿᵞ〗,4
 ニッキチッSmiley,4
 ファントム-PHĄŅȚØM,4
 メ H A R R Y メ,4
@@ -1496,4 +1496,4 @@ zoemies,4
 ｢KΘNEKΘ｣,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-SgmEWVxjLMmBCrsxTFZS59VRdOIqBptjmpS3uYTblskiiK6E7xpB/e7rwuSJJvVOQGreSq6uR2gEiyg7d3+zElMR7gjqn3gEDZQu+aOE41mHZ/Gggs+VIVTIa1VZ+3swkduBmp1uhhC5X4ZyhUwv11XUlfHq38aegOtr2f0KYx7YA5hCksBGgAWP3nRn03sqrABmzaKbyWqhVQz5gtUJ4CKq1MM9njhFH2orOYixxVnF55xPLw8YU7iJCsOPUcPt
+Al6M+5EAcZ10Y/U3o2PFdB2nh9vQzk+iHKPWODsAjisZ+tZwB1xIUknPS7iTS3w+YFgK51q3QJ0oGGI02KcHWdagVNzYWWyQU5hbz/PzbHK69l/JY5qWEpdLmNQg6qxVa6lgbnwKEfGuiSvCuYdmEdMHNMWbCv5IWEWkmYonLfp0vDWsdHK+O8X1DEBA9gnRadjmarXwgqG18q+IhMCBed/S1cu0kTVNUUAZvYUXSClryJAr6K9+ypZXonw6c7Iy
