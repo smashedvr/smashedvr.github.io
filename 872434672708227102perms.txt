@@ -1,4 +1,4 @@
-1753671600
+1753682400
 ''Mike'',4
 'Rittsu',4
 - Hugh -,4
@@ -1051,7 +1051,6 @@ YuiDelta,4
 Yuki Nemuri,4
 YukioHaru,4
 Yumiko420,4
-Yuri_Anderson,4
 Yuzubear,4
 Z E A L O U S,4
 ZERO·EXE,82436
@@ -1503,4 +1502,4 @@ zoemies,4
 ｢KΘNEKΘ｣,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-PyusCAODcIcf67OFBGnguTT7nTFkLclOnsqsLk5bKHH3Hh72K4A0+oyNoKsOi5q5L6qfp6zJVU70JdocQXlmXJd6ro8fCb76iHYJniMgGSvfawT81ma3KqtqiZIFv5VwG0cEd5/UbYQFJMes4uYyKapVpT/NqLcv/S2I+k1K5OR9QKED4F0sCWIs42zptcYpW5lNd2dbGy/gn22IGZs2A4YJbwOt8M2Y3AYYsLVfFhNnaIbewIawBn8U42Cc2TMW
+f0CLUt61X8Wc76ziFInMHomHK3dU+euoqxB+Busi9BvmsNDDwMdFVMCnKCXMgviFBm4eCDukiY4M7L1XjafzNyc1exBLrCv1WGu/+GyHxs4kasaalIMZ0cUHq5gFPjrB0Un1GSNKwukSaMC72OexpkHY9nRnwkSa821YrSefgRuIx5ZC/N9VJK/a4W0Ehr6jsbHMyIoFkooqCPhfG/vm3DlHRY0SiI6aiEKY1DeofpIrq4JhLzHA8Dzg2bi4FwCT
