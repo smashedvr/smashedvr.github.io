@@ -90,7 +90,7 @@ Ast0lfo,4
 Astraos,4
 AstroKaen,4
 AussieRobbo,4
-Austin_Nova,132
+Austin_Nova,4
 Auwura_Borealis,4
 Avanine,4
 Avisend,4
@@ -1514,4 +1514,4 @@ zoemies,4
 ｢KΘNEKΘ｣,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-BBJA/O3A1zsThDdrndbDSMZdTncHf4gL3bf/bSMWpuR7txz1+J1GgnseZ2ULgU/td1Pzd5WJRzUxtn1anwBThC5nx0QqJZ1txMb+G2oxvSG7vvWodnDAbfNrMsZTe9ugswVGQj0gX1fLu19raRlBwmXzfzuaqjQlq7naSYauZc7ZXauS5OYRySKDAKiJ4j6WLpi3y25f2WuURm/JmMFjCcvSosXfbG/4013KEoa2KW/NXZDwROUhb6rxmRNR51DD
+K3w+4RbTxLxzP04NHDjE57x5821YVEIWNcYnSFUkeSuu850H1MjdnqteFdaESp6jHiLFGeN+RyldQbMFt3jO1ljRPqyfOrS+EMEZa8VEZmiwZFUw0IgceZwallMTR7BY31S1Gj95q3gPqoUx8FbvNDnMhbD3BLwRNn+WR5Vy3bDcNOEpFwtrgvUDq7TbJyH3FL2DadppAFmsl33teOvUazbzQ7LmQbSnrhPhByS9y9K2h3mKo4WzEVH0ELueHa4K
