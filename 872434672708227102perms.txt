@@ -1275,7 +1275,7 @@ tri3,4
 trixო,4
 trocks6,4
 urstonedhimbo,4
-vaиta,140
+vaиta,12
 velan,1028
 vw̴h̴i̴tef̴an̴g,4
 waifuwithaknifu,4
@@ -1522,4 +1522,4 @@ zoemies,4
 ｢KΘNEKΘ｣,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-gtdnuBGTm6BElMU9hHtnWxjZPfg3gJzIX4FIGIO9KTZ3QiVrAg0RZl9F/AZQBC2OxoDl1AtKKvapQJnJU77+YkoV5AatRzYGnRH3PWDaX+AGUaHwlN3DmUTiyyis0BKTTH7u+rUVdiec7T3r2lErsBa5wLLpow40Yt8FCpGT8W16UHihyzuAvbZzJ6lPnbZ4QodwEbpguCu4HrnidxfpL7OJCAhwTR/333vjDAEcxPVcqEkVdJW99PYJ4kbli3Lk
+W3+8XJbEt/9Rdr9Bv678CwoX+YY5VH4mpZvbSaOm/sLegMiKo7a5JYW+hcDEA5KdFflFl1buhhGxo2EFI+7CO+k8tW5Zz4xVu6ydJYkmnLInpU3uzLXvzuaMBG97JOXjP1ykjNTS7eFO+nE6qzZmkh+6+TfHQDDOUCd+CiUdoEVWDLqXoFWqZykx5BjWYql2Cba0KCNDpdAl0YYoOXIjHeR2qw+NXVb9Hu2haJ35R0AedeRUhs6fhFm18Eqy8OZo
