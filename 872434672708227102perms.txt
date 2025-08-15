@@ -1007,7 +1007,7 @@ VaIefor,4
 Valcora,4
 Vati,4
 VerNoct,4
-Verøsika,580
+Verøsika,16777796
 Viekone,4
 Villihenu,4
 Vilo Insane,4
@@ -1522,4 +1522,4 @@ zoemies,4
 ｢KΘNEKΘ｣,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-XrvEWqAJX4hraJSdSv91u0meTBE/vxv9o9IexqH0uAR6FditS/Qr6wjK7LT8Eebem6k5uLRDiOwglArKHiTYJCtsCle3JkEk8d86b0d5WNsXCzUd+fZ7ud/3TayDREQBRg+orYbL41QcjRsYO4zs7I+NM3aPm1u8XkvOeRtKAPMSmp4/Sy6q7Eq7pnwnERREhf7LduHxCYeKMBNPGlQ2ICMXOnijHwdLaswCWFyK2fYbw64rPS+KV3XQGqEVZGUj
+FEE4PblGzGxhrhW3+Qg2dJ5zuzVtdhSfj8vhDhO2HUwCTC/xUQtyXkrgNXNJy/Gh2j64CdWZXl5DbVcTnkBq85BBPOWKCTmlP1TZhzyoQ3Sc12KdYd9hchbreYMx2PoLIlllXkdkIkrCAvba18fTf9+LS15vshfdFKgivazzkK/pw+lDslxpempT95zAtkBSv2w7lPUsyx+rGH8k3iDDIxh1MdlvS8fZG/qGmJoCrVabvuxYRqZuzIYoNoP2AmEr
