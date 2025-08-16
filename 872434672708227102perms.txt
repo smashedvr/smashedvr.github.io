@@ -198,7 +198,7 @@ Code Exist,4
 CodenameMonarch,4
 Coldcancer,519
 CompletelyVoid,4
-Comsic_Killer,132
+Comsic_Killer,4
 Comunix,4
 ConPat,4
 Condensed Malk,4
@@ -1520,4 +1520,4 @@ zoemies,4
 ｢KΘNEKΘ｣,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-lf4+VgJHm/ggJl3rnLiXjje9JqdPjhX2zQXMAJayycG+NLrcBpGaekGw5EMK8hTyjxTrRzjEOWRyPxgQ0Ka9nqlxig3VlzJH8iejmM6T7PM9+KObzNXzsU2mAkT5//J+jjhLKL8+MxwUCZ50xc8dVVMV9ESkDCq3nDHhzd68n9bKMwrtAU4u2ktRCARyZrghbZYvs4VvYqSEcJjnFG3uQbDFmwq34/YRRQVtvBYZBX4+Z4q0N6GFcap/GWc4uKi+
+CVkBr8HRL4YkV1/oxeB6F4q+DaghM7pg/mTkoksqiFxxPXBwczUHTFDfHJaxDL/WWPG4BMW1xkWpcZJhyQS16dwgP1GUOqIb8taZS2K3+DbZyvYkeiMl86Oz5dFG7hW2W+J5wIyvZWCzhKkkfzdZFwmTB/kCNQMUiAWuuittPC5kXGxDlQyrWtTGz5nthF2gnVGEWRoWtt7WVSOL3wmvgBgAgJOQOtWakysFWzvDOzG0tPN0EV3IxRo7rQumAzfX
