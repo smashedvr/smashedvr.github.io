@@ -109,7 +109,7 @@ BatCathedral,4
 Bazlowww,4
 Bear Chan,4
 Beeᵀᴹ,1028
-BegForMercy,132
+BegForMercy,4
 Bellathenardo,4
 Bena༚°,4
 Benjabot,4
@@ -1520,4 +1520,4 @@ zoemies,4
 ｢KΘNEKΘ｣,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-J0CVMKgOeZqOtvvzjsUNBkfpAD9nMIZvNQT1npBBnfwcGr1ny1X8wwc/aUOPufym+gkbBtIuJpzINOU1xSb4aOiRy0eY7kaKNGfz61EkXPcRy7SMH4XD8YLytbNQE9LkAx1d3wc/2C7sXYetyjLIDDZHthTlgFddChLklOa19/u2uQJcIresqchSi5SbYDocxGjzN7OgbM1vb4ZEGp4TFDSWfoXRftzMp9uymG2rzN/+iyeZo3JGs6t/zzuOMjK7
+f4yAtt7EF0EPqHCDsPtu+KFnJfOHXi/5ISlpQZ+MyIapLTXkxIlOmM6x2JEVIO1asgU2DS1mweLu2ma+Fe3sApE0TIcgrkBOjAHk5d6RI8F6dD6wMqBMTQ1inBiqNHFGx3W2ombCowAbKoompV4edyCG8DR9FlTvNnk1Fqk7zSlu/7ge6rD/Z/QidOSRKs1h2BxCJyvaKLPFX+UfCYkZCJe9Tt2X1ifmyqHJEly4OUbtysSX+99cys7Qiy+Kk83x
