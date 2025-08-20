@@ -806,7 +806,6 @@ RocketVR,1028
 RogueTrooper15,4
 Ronathen,12
 RoseIsThornie,4
-RoseyGee,4
 RoseyLuvsu,4
 RoxanneSilvain,4
 RoxeyMecco,4
@@ -1526,4 +1525,4 @@ zoemies,4
 ｢KΘNEKΘ｣,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-jbb4TyFjEMxvOKV/0yOCJXKCSeMeug8qO/I74QYrXH/vbG7sb5JSXZViJokTAHgMkNOpYm5g6cu6OWXdn95cODwd4HupbT6KUVeffNmsgTONlEe6ShDz0Ojfu9DvxPs25GUwCJ+lCk98tJk0Y8/cXJ8OSjB/ZG32sh2f+0JHe64lI/q0hrh1r/hTdxyVmGD4ygmuO0VsTbYuqRe0E9DKOUFd5QcZDrcJBTUwlU/Jegjz0kr5Qf/WjAlziwzdKKP3
+E/XFxG+sxIf6hN2/m5xZpnNzKsC6sOtbrahxVQgG9cV6V/RIBHlIiQJ1Rpz+RPysG0M/LPBawjbM4VtDKhPUalUrDBd8XmouYuGmAXgWg8R/mXuvdJ8hZ5WaB3jxsnzrNgrxGT5jqvUqpbUh1mtN9Tvvu7WwJlAfc4hZMyg252e54ia65gPrdaZPI1W5TPUYqUe2+mEhMRpne0LskmAmMIEmk5TwIiRfiqAO/4GDQri9qhmVo3WIOHMZPqnMDtKt
