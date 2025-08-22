@@ -1428,7 +1428,6 @@ zoemies,4
 ༒քֆʏƈɦօȶɨƈ༒,4
 ༒ᴋɪʟʟᴇʀsᴀᴠᴀɢᴇ༒,4
 ༒亗Quillcamz亗༒,4
-༒ＲＥＳＯＬＶＥ༒,8860468743
 ༺ MeOwFeeD ༻,4
 ༺ sᴛᴀᴄᴋs ༻,4
 ༺ASMODEUS ༻,4
@@ -1441,6 +1440,7 @@ zoemies,4
 ༺『марионетка』༻,1028
 ༻ＶＥＬＩＳＩＴＹ ༺,4
 ࿇Frostbane࿇,4
+࿇R E S O L V E࿇,8860468743
 ࿇₩ł₵₭łĐ₣ł₳࿇,4
 ࿈퓨MISERY퓨࿈,4
 ࿏ᴛʜᴇᴄᴏᴘʏɴɪɴᴊᴀ࿏,4
@@ -1530,4 +1530,4 @@ zoemies,4
 ｢KΘNEKΘ｣,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-PayiO3h9MpTXZSsy/eyvS3L5gS9gRMWFCnhFgpCoN1hEulTKIafx92VZ+2G6tUdRxgaDGAXmQsCVTwqOUe5xkxWOdp22F8gatJA7VnYhz/Tm/em3JMmdCCrm43CE1eStnPh25Z2mjHVZaYDLrr3ydFemkkLZu7wbWxcP5YqeW+0XEtF4fSXlcNjKzDHeFLANbfQhg3ImPduRBMguChv/+97bW+TCqzxhO0QJBCEeXrU2SXbQKJeO3Lc0/lQi83Bg
+Zoi2cqDl+OUEdYKYfuhZ2/ZhBWLS3mA8UJ6p4Wjtyn7uq/uJ0yCRc80htjniNndt5RZDB+A91rqRRMHJj1rcPrPjZicTyEyw7BOsHxF4HRfTvLtdXWNduKZ8pcte/v+tBKc3u7m1NU6eyIyii5nIGC0cu4Xs0mmBi4HoK6BUhUPtqf+s9gg1lLZ7gUwIOVgMJtm+JPZDWj2MuF8hcaVzdQ2URiGXxUgX9jB/xhteT9WaHNKUEH16KeGm6EZo5oHK
