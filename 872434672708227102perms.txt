@@ -924,7 +924,7 @@ StanceDex,4
 Stoltt1,1075855364
 StormiNight,4
 Strange Brew,4
-StrawHatStream,132
+StrawHatStream,4
 Streq,8197
 Strunger,4
 Struxnet,4
@@ -1536,4 +1536,4 @@ zoemies,4
 ｢KΘNEKΘ｣,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-Oh7znw729Z4XQx7b6E5mMOLlGsPstBDrE3/nDMOi/HQ2D2lSIEFZ/ZOs6uGifwGcVH5CntxJZyfm4605HExWN2TxZVtuS7zWvoptBAlgHHPAvLCjIrtncauDT4gb/dat3rcz4K+toldUmwC0cfDQKZb9Ld/rT/7P7i2nhBdO/o/qfu4MAsIztEMaKcPZq48CD6GPuY3pRP408qYISv3UbRnrV5g33JEB5UhocIRD89IJwlKA3f/HR+pt1mhpVy7B
+fRuqlsN2RyprMdIjElvnJou/c2EwWXI9AEIVAu9f2fQwVDWbb3zJYuGaNTJxRribFVZ8oqySTBgFrv/Z1CzZExHL9slEo5Tj6zactqMNCKtb8/anlt3RvDluaHJ70wEBvNwXjQV1PfQjwNvFVx3awOcqqAYWofRI4EMpKLsCr7On8zXnqincHs9zqoGvpLkVMVGUNtd1jzZN6qquUWatgGiHA0JdflWBHOZ3gRCvMiqqiD7D1QML/eaAbrMWl9Kq
