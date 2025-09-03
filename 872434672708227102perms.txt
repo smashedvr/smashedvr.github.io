@@ -263,7 +263,6 @@ DestroyerMon,4
 Devil_Dog_NL,4
 Diablothereaper,4
 Dieon,4
-Digiorno-,4
 DigitalMonsters,4
 Diosnz,4
 Dirty,4
@@ -1548,4 +1547,4 @@ zoemies,4
 ｢KΘNEKΘ｣,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-DpSL8JkqPp6DrgVZuDzgonIpr+Y5R5XfrhzW/CHzCSSfm9ln1coiXlQ9Ow7+RUe7iT2mYs1mRuZx8DMtUyIpWiAzojXyjOv31bb95WwxMuLRxYegzFrVqnl7dK/YFJR8klPPHLydGGMlbwDWvUK4x0sYkLHWu8ew4mqoDJIwK47ucVyQTiNYINERuWxQewYCVFPC9NP2KTlWnvKu1VUStWjLJKg/1lG3RGXrBF1TUJk5IWWjdGFmGjXWDTrisecC
+aDcwwb76YmnW5Z1YLBVQA5zjKHJ18fBudPzryug3vDAygjgwu88gi3fN410WT02vd72XT++SKvbVr+Mm5NmfqO+Dbgzn0ELfkJwtD0VbThtkWIbi0ohZV8kspOusuYt9GDbx/TQmpdxmwYZJ5/izNWBfdx4NH3CWAp7oWaupZwOGztCK9JCk2YovrQEy0r9MXQyP3lddiS6INNbCTr/4EheN4Ea8eA6FjhPoxnO2sikMo9NFU7au3EiAwbU2pA8d
