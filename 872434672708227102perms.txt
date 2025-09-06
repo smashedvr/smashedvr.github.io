@@ -103,7 +103,6 @@ B00B00Ch1cken,4
 BAbrenna,4
 BBTwitch,4
 BaconAndEggz,4
-BakedNate,4
 Bakuram,4
 Balkisteir,4
 BambiSmokes,4
@@ -1466,7 +1465,6 @@ zoemies,4
 ࿇Frostbane࿇,4
 ࿇R E S O L V E࿇,8860468743
 ࿇₩ł₵₭łĐ₣ł₳࿇,4
-࿈퓨MISERY퓨࿈,4
 ࿏ᴛʜᴇᴄᴏᴘʏɴɪɴᴊᴀ࿏,4
 ღ Christmas ღ,4
 ღ Julia ღ,4
@@ -1554,4 +1552,4 @@ zoemies,4
 ｢KΘNEKΘ｣,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-OtV7Kj2LaZGCpnl7JuvyMrT0QHxkguC6GqzrDbnVUfhS+BwSC4iO+KlBq4S3bEnP8k+o9+g6u/xGRihttZRWVni+pLDoXy/cu7QIFWPuKYu4kHiBYo3W7S7d8VSqAeBOXvayyO0o7DH+GWi7hu7Qq3FuxCyIw+j0GflVpb8REGJsnsY8UzEJ85Z8jROasrln/ZHbdSVCAzuGLSXqnocnSaUzbV8WrYPc9mHV3DdTC8HednAFv5/ckIkiG7PXwETD
+Pxx6BBdDe0qW3+/9hMX4ll891PxZz2N/awjMTWBZ3jJ0ERG723tJ9q8LTHmnzGjOFQ0nNhvi90FznuqxICH6tTQzqCBcX6fSDGnaSONxK2PIjd3azRL387Y5ReMTwL9EDuWTchbgTCHl2mNZS3QmCoPEpct/DaSRQILBDRGH5zaiR+1Fta/ilJi7WFdJAVLIeSEcFDxmEOeOxsYMy2P3MOd6tTbfsHPzXCYhZKIbOhgju9p8uKy0YbYju5iIFsQU
