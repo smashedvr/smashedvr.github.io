@@ -941,7 +941,7 @@ Sunlit_Desert,12
 SunnieExe,4
 Sunshineᵀᴹ,4
 SuperBlox,4
-SupremeAnubis,4
+SupremeAnubis,7
 SupremeCreamyXL,4
 Sweet Bean,4
 SweetCitrusAcid,4
@@ -1552,4 +1552,4 @@ zoemies,4
 ｢KΘNEKΘ｣,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-HIjtHmAvn0g9zSZhHYq/xg2UWaQDaK8UofF9ssxGDVJiWslDTlt5u5JMKrjGsOKxsKfXhaApiRmgY7hqZuMHJj8VrBPUXOf1GlrYK4kSe6OE5eeNKQ1kyc3fTsS6JvCGLpYmHZyRzsS602D1XC/CYnIt7BN6zKyvPihnlvRu59yTG+dvj+6qJJqBc1L35PUIFHf5wUnPj4ZhOn2ci6Iyzoqmhu/5j6XASk0BcGmoIqnTczf5PVZ/FWaP5hSFPPIG
+OzQf6iVNIBiof4EC+YGeFo73cYE53tmJnHBlIDBxcH2oxfATfwNFJAM8IoU/DPTrcZY+Yyk9awraqCnR6hHN3zhkqSl0HEEA9JS9xaWc4OWJqYSCHqhFhezwDiQBCWlz1u0nAtUbMSqeqRV5zsN+tSVjI9LG9mbvcFMzWYdCZ1ej7CUOdL6lQB7CI+tG8tnNGoKhaYrRznlq4K1/PTG1CrjA3mlHZL562iE3GG/w4Hder7wMQ9c5O0qioKs7dDFV
