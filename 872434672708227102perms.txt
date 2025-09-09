@@ -871,6 +871,7 @@ ShesAverage,4
 ShesFatal,4
 ShionBlanc,68
 ShizuMurasame,4
+ShockGreenKing,4
 Shots?,2097668
 Shoutiel,4
 Shouting_star_1,4
@@ -1555,4 +1556,4 @@ zoemies,4
 ｢KΘNEKΘ｣,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-gx2NLoCcfTb+ciKjT+xjmZkSBB79KcvugvDv2pq9i22kmQOIo/UItm0/m4c5/MHI3Umb2HYQ1chBs2ues8spS0DZb2em3l/o2IZfx9N5gJWrudtxjUZccUvTKqRL4/74CmZedz3Rw7wfXOr3tE0dw9l+joI0kE9I34ewWCIL2SllflgGTu4X5i30D2eMRbyoNh9qJZhP/aFo8gxvB4AySFWRTFPlC+/NmAgUaRyYws229OryID/yEocCykEA2gDI
+VkC3g9/zPXPY8KdKHoV3BfNsPty5CTA/9jynQ49UkgN86rVfYqzt67PDLXH+UTNZXrd43lJLLxiL9MD5aLqiZpRh+aTUhCG6q0c+5m9vofr2gMLbPHiEjTz9SjkVHrItnQ9nD82b0S28uezmA0F/kvlw5r/iq9grMTXQbISWgKmF1K7BIOK200ydgVhGYzB+kY2DVdqLozN4tUtFYKfSbfae4HNDz3BCayoFrPDkDTGHTc0WcWfKGjY6lKEaFbAp
