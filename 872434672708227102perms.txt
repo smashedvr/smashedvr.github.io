@@ -54,7 +54,7 @@ Aaldrik,1028
 Abbz_,4
 AbusedCoyote,4
 Ace NanoSpear,12
-Adorkable Fox,7
+Adorkable Fox,4
 AeirHead,4
 Affirmativeee,4
 AgentTexas™,4
@@ -1558,4 +1558,4 @@ zoemies,4
 ｢KΘNEKΘ｣,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-C8ZC6GN6YuZ4GziWjomY0PQFTPZyyLajUSR0Pc+80Qltp7Ie+KqeGgWfiDb1C7wnXJJA3pcMd6d8CaEkQ900lFBI0kzj4Ur1aiQV1cJvHqoCHOQ2LR1/SjXNvdRHGk3osoOdc8WxQ2DRQftXxFQXM8cN5LhmtRmqLPSIlRhqruiF0xoXeBY1ntD+8TYMh1v92OSDgLsHaD3GXG6Qa+k+302QWTLI3PvRyq3CCcA1CZ+pZaCkecR7djpqS+vFog5r
+j23A1cN8mp6YFwoHdzk0iiBBcvstywncIEgmgy2pr/ZjdHkmq1fOPTdff60CxP2KcajbiOHccLm7aQtQjzKHdHbTWv1NQflE2kdNZevtnXwml6gD8uwq6LJTFDJdpMFljqnDH4Bxb3hWnMg/Lk4If9NuKXd58t/XCKy0b/+7mXYeDezGwQnH3xS+eaSa2BqNb9tFBCl4Bz6EOPhwm5TyYbbTkVPA210V0g3VcXxYN6mnfJK4WlRuxN/hr/uMevLD
