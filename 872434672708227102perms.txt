@@ -882,7 +882,7 @@ ShesAverage,4
 ShesFatal,4
 ShionBlanc,68
 ShizuMurasame,4
-ShockGreenKing,4
+ShockGreenKing,7
 Shots?,2097668
 Shoutiel,4
 Shreddies,4
@@ -1576,4 +1576,4 @@ zoemies,4
 ｢KΘNEKΘ｣,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-HTAhaz6LgHjD8J9xUDOlRKH8PVGNjW6gzfdOQBsZ2sxEQJgQ2lyKEm5snf51xi5B1AgEelobmJbjxf/aELExOtIWVUCnKafLJ7s4PrytgSRKL5jzSS1L55W5bVFoaJhc2W5XBLyV/TAmTb4plq3Cfk4uwyX9FftIFxpD9AzlFASL8KYBrTj/Xf5SakCuC3emhqjzHXz8H27aEsCY5yi/g6JBMJ8/1Xh5kA5rQVsC8L9YNH+YkzGkd44gFm9PIs18
+mU5SaVVcwZCPQrwg/rOoGwy1YwzxEze70J7+OSr72J2fAquDhTmxNbs6GD7bCmyRMa2j4owS9rTv6z8jadiSX3iyiSA2zA5qlt0nsBm7SQtF8SdmWw9VJ+kTZZFRLeN9NaBK9uJbBmpi7RCtoPBFFjU+ToZX9lfbtpH4r2KcZG4Z9QEerwdxN1frsceGHFsOl39c9oCXaIUe2sb6wG1Xu5sSh9D+8QNv5mpE3eOTn2JLcHhhjg5KgXWv/rKix8Ny
