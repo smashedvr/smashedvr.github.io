@@ -271,6 +271,7 @@ Desan2000,4
 DessyDreamer,4
 DestroyerMon,4
 Devil_Dog_NL,4
+Devoury,4
 Diablothereaper,4
 Dieon,4
 DigitalMonsters,4
@@ -1584,4 +1585,4 @@ zoemies,4
 ｢KΘNEKΘ｣,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-mZGWdYjpF8NulzauZ4m7kFF/EV2CGMsM/GiF0cSm3XUJN3zC9FFs1QXircHiD1qQ/HGt4ddy4WQMQfXw4vxZM7IK/s7WU7uvXGyfogQdkyiwOFtF+LwttayJ9kpHB2doIepsYfsPp3zWYHs/HmouX+PmxD/TqK9fovaon92RO9ALdFhYl1AgmMzra+x7B1P1EVnoegGeVMFtUxWdSlN3w9ioNbxDjh3wJYMMyuiCiylL7SF7gde5eLnIApz1AFp4
+SSIkIHiGK304WbZlfNLAFLp8t3JRSRzsoUtYO4qD9cKC17IBXDnMl5g5Ev32V9bG8GEU5CaTQMGAhJ0rE1uqmZUpvwEHwTzfngsp0UdqGlOh9POku8YFrco0D+VzX30QHXCROy9QF+H2TeN5RG8S+b4OSTrAWRxzJlKq2EpU+2+mPkhtmYZY950LySSigY1HGEFgE5NyMsXU/STrchcHS4wCPC3Q9JuQAzOlbGeeKlYsqLXvyPAyUmZcro2L6Cs0
