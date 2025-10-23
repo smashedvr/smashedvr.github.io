@@ -508,7 +508,7 @@ Kiffen,4
 Killer Goldfish,12
 Killersnow_wolf,4
 King Nex,4
-KingsTalon,4
+KingsTalon,132
 KinkiNeko,4
 Kitsune~senpai,4
 KittenBae,4202501
@@ -1584,4 +1584,4 @@ zoemies,4
 ｢KΘNEKΘ｣,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-HFpmIgq6gGYLeSfOamLqDpXnUUme/JmEMDAWxhFTMRQHAePIdg2xIRp7yMU8ZHOdtTiwRHquAbcAboTgt5cMCPHJHp7EuddPdO60beO1njs3dSekbsyxx5XXSWq2MfgN9QNMrBCRLRcNd9GSjltyGkeihubiXSGd31NA7NEvInTUAC11Nylv3aeUMbUYpZ4mHkCeGVns1vuyEHDFcg+iLvhX6OBSqeAK8fcHNLIZyE2n5iV+ihd2EKykdc9LY6Bc
+L9srw6I6oR8GWhqqMU8Fs9/veCscfhL2b9v/WdUHnPIJY2FIlm4QpjTHvHz3NWRX4DAf5L8PPex0DOMDoO9QU189+b/eQj19innP/jMvRuUWHQyCtFBsdabk8F3ANYD0tAmea5wxsWXquWsSAmcR8JC24OZt15dN8kk/Hp3A15SFWQs/VQnMQdnaWxpk3kRwVlkaJkctMtVEN5oAhtX4moZAog/hTo2nQdq1jigYFxbYFhT1+xafQkZ124lBvkPl
