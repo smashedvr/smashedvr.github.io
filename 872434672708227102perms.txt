@@ -1346,7 +1346,7 @@ whuwut,4
 willow~bean,4
 wolfgirlsart,4
 wyrm-sidekick,4
-xKanashii,132
+xKanashii,4
 xNyanMaru,4194309
 xXBloody_MaryXx,260
 xXPandamoniumXx,4
@@ -1593,4 +1593,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-Xe/+BEEK2GutVaKF6vFxapYbJpqgvapXNIqVLYulMe2utYxIGD+kunB03R075p+ysM7bWvA4BSFcDlbGXnokRsbbEDWswJR0/bdPvYUnc10l870HFncWA+4EbTZQg4gDdLhCzZG9vmEu9Raym4IArDp+hQ1uMoJqJbJ62xWdFBmmTCeHMqhNzwgHRbI8fqAFqBfnhXU9pENK5lMcuisOYk9rNsbXEySpa+u15ance0e4EBGTH4/hppEARQ3HapU+
+i9tuAIYANeKYP8yPbSJttU/0R/mCyCJ7Ik6gkp9RR7+HMXmEpQ1tHnuq4O0Bx2gh+SOuZ7xVpByO6s5jz847aN67FMv/EsisyN1QpouSrNFqoMmVlpinH2Ogk5UDgsK/taongwTq3fq8Ut6fEWx7Qd9fOIhmHSlxgQ0ru5tYvEC2+yUsBO9hNa+edTLhQF/XY09AxOvkLSwh6KgNkbwzO+tK41mZ2RpSGSW35Q+KAeIKtOIEEfQvByCMQwvQnwN3
