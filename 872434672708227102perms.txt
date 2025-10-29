@@ -349,7 +349,6 @@ Fidd1es,4
 Finguard,279057927
 Fire-Princess,4
 FireGuy,4
-FizzyGlyphs,4
 Foley,12
 Fordzilla,4
 FornSphin,4
@@ -1590,4 +1589,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-i8XwWFRtu1vVuWjG+a3YbDF7+xdLB3PIAtQVzGqxtkU0JVgAPUnl0GGc+hgO5zvXs+YAzQeXLxIWlO3+cy0QlMK8Wi5t7doF3gEbxSp8XFmHsTgZFcNEMMk/aZ1EWTFFPrn7pbdmwuhm+UXO94mT5ERKh8nM0W3tkoSZrTD625fAfSjGo4axQm7oICapZ9GAzVI8Us+6ArN8r8oCvaKels+enuZx79t4nNVn/CRIvolbxuEKa3qjPAGsxZ8mZl1F
+irImIsCq8jt7OJ38XvgswwTUo4GnF3Cq52x80B7wRCjY9oCPz4dCaj67kbMKDZeAsLmxNX7k3IONwOd9f/QBOKUSVjhEOlB/WTszAam/LJKuYbPEK10/ah7Vk6PaKR0BGuYnRMAMrQYp9xtGGd4M6jVyiNKuzeTRxD521C7ZelouX8/7p9s//e2J8XlWb7IWxv67bjOr9kF30fIcS7FvdWA1j6p2xxRLZQCqwveLIa+foqI3MK56CsK7CyGD9NdE
