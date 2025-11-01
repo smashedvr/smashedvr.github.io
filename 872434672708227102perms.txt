@@ -1381,7 +1381,7 @@ zoemies,4
 ~Monarch~,4
 ~Nicky,2097156
 ~SILK~,1028
-~Sammie~,5
+~Sammie~,8197
 ~StickyPrisms~,4
 ~S̶t̶a̶t̶i̶c̶~,4
 ~Uuna~,4
@@ -1588,4 +1588,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-YANHNSt5ViUXIVv728Dm2QmXFSkQjS/aqzYFGZtTDwXH9YzxHQTUkk++zs9GGMTT6ZVtD6FLF0al6Td6Xk7yg7rJZmVnd5pHCPeBVA8Q+kvtNel4iVZ76fbobopX/X4b+9tlfj4EoJLeLcf13jiwxsrbfT1FizkACYH29xpH+dgIuJXxqPaJFer2225tVlK1GeMIJiaLgwzqrNekx3Oha7AOMGvBWtbssQzCNsLVWpMGariE9iFia+GP2O3S8bjj
+ZSTtqWV85pyXRv7Ars/FhzT/Qe0CgQjG195QyRDKuLLVM6lPb9wcvplvtJZZIwUpTNa1Bz7asc+vk31RXawABuLeKAL+aieNrzXzJ8PXZ6M0OTomsI8g3LoGfpdgGizTAFaGL6SA9/W2zI+cwmQm3NQ3cmffxO50fmRtJVg/T2DgvZb+v4GOE9+VzThXXJfHuRvaJemEJMSpMUOYR6yIYfNZdL7lLsImu8IeNM/jp0PnGhfkssuUZncF4wmGT1Ey
