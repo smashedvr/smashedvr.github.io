@@ -894,6 +894,7 @@ Shazik,2228743
 ShesAverage,4
 ShesFatal,4
 ShionBlanc,68
+Shiro 1337,4
 ShizuMurasame,4
 ShockGreenKing,15
 Shots?,2097668
@@ -1595,4 +1596,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-cb9rsiXEnLfOk2NbpRvNGsp/UdVgDulPY1xQvDEXwjrRZ+jLuaplHn1cJ3dHWKiWQUimcRMuYeGJ5XrO1qypjdY3Kh45maZWmOLLeEz5mkJY3+EeHnukku65oiA45YI/szG7etYGP7ZNs0D9kwjj2l1pZMs+13eqfc4OeeeagdCZzFwHWJiL0HNY/X/xj9IgzfNHzHtBz/R+1vUUzWRZ1Z+0T+ry1fyknve6W4nWZcKEk/SoXW9wB7e/DMKp8pLH
+Sh7nVCU134w+/ADx4Tcw3zd29GyaIQWhhIJuOgsnT205Yt54VN44pVcqRpfOnKHtkHK8hCsJAvvS5G3nbrdQKJTItDUjp2t2k/t60geDgwi18i3HYg66pVSUaF5+O7vkzj3WMQ7QWSSuHaEtin49WfSImEmra6AMeFW+OUVxkPPz/oMbdw3ks+VN7fBkexnSjYfL3FACXUd+tyHK11rePcuTR2eRnlhehgwrMqu37NGP7uVxvTeEkguGXEysZz72
