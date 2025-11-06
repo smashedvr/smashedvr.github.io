@@ -364,6 +364,7 @@ Frozen_Cherry,4
 Fubumaki,4
 FuggleFox,4
 FumikoEcho,4
+FuxxinMINT,4
 Fīru,4
 G I R,4
 G0TTERDAMMERUNG,4
@@ -1601,4 +1602,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-l5iFNL3hEEl3Q7bFvioKuxOVa1I9Pa8tHsDg/nsy+4DXfYcLzz7NvSX7iCyqKABkCjX+poBKtWqcDZ+c8QE+0vXzARX+2J1uAOL/+5fKFPq8EWlUtdaD9nqwJbxpUnad6n6jtqKz2jk6ajiC57MhsqUHHNoX0J83yMz3MSyp1tmCqbQciU14FmfRYGzlB8xWCeNpYahLnYaTAtZZgWim+e4FdBCE5Jkhm2VMItdMTweZkkF+HS7OfMgo4rs8NKLE
+BylQ3ssiVWth7B0o3LQc8Csni/tJ5QVs+Ib+lrLoLoPL4ycsQxP3BALWDZOoqW9ywNQeNK7R9y0olGQNr4JACWtHujAWn7FjsgAfyDMwRANr6Vg4yGdwnZTgub8nE895wGCxtMjIrGhzqHJDh1JUMRUx05u9TT7hPnxWb8eTrciZe6ipFkCs44qxOy2iZa2paq/LBZEa85jwFHSIaRDk1JsJIeOIDjVPeikZIOKqiknNowJ3a4OT3rjaMo6UNgXX
