@@ -112,7 +112,6 @@ Bananorat,270534151
 Bankomat,9223372034673180223
 BaoziTylerM,4
 BaphyHelsing,4
-BatCathedral,4
 Bazlowww,4
 Bear Chan,4
 Beeᵀᴹ,1028
@@ -1604,4 +1603,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-l9FyAZlUq/JXgOj4wwv9b45BeTdbANrPvNnlhobPlBKWih58vra8OCwMS3Rl6MBDCuipWiZElM4RDIfvpTD5ni8cedi1ARjNyeRCY2qJcwAMBK5OmW9dVrsxXsAi6g+Sk/XEZ1oEMJ0zbCaBd4AuyWKKiq2PSyk+F621CzrwDSoNCjSllAjuxGY9ASJVvWIJYkbWPsPp1wg6H7QpDfzlaaix19dI59ku+6WnRj7YUXfUaCDaIz/FdEwnQTO1ZV1y
+MJoG+uv78ex8jGokZ7R/odFU1jtf6mNfISvRi39MdLAkyQz/pN93eCRIpNC7tjKnZnvea9Iuqon4ORZWv7DdPVMrnT/a95Ga+H+XGPis1t2tVK7q4yPbf15a+D8foOVe+Em7XlkeprJ2P4LroMbNhE9u21KVKPzSZ3UWri7Xct8XNRVHHHrKDu7PATowazVQabPUqMpcR+254SXx6wZnZ6sSXoJtCgFHZ+EpYVR67wr9Q3jkiVVCMtFm+VuGym2v
