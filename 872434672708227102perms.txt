@@ -208,7 +208,7 @@ CodenameMonarch,4
 Coexisting,4
 Coldcancer,519
 CompletelyVoid,4
-CompuGeniusCode,7
+CompuGeniusCode,1073741831
 Comunix,4
 ConPat,4
 Condensed Malk,4
@@ -1604,4 +1604,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-nmp2uFkX53C33pKkghSD334UJK8HjnBTJKlXhyB+ZUc1evZ3mIYHUEqh8h9oJKJkjlBfSyi5SlApK8PccJqtrINAKbZDsAzbt1SK27/JDyefcUg5A+hDLfaEOkj3BSjQUr0Q6QpYKFa0U8c0TGUwdRZ7ywD7qdFP60B54Xwgk8sDsrGUueHKmnutoIXwYJKppsGkb5mcz8onvB4TmUFB2Cz6ehGnKLnHOWtMTLJN6oHijOIqY3AoNhtFKfo4pAJO
+dLZPBUh1qlBDUl1aH1p9Qi14UOxciHU+zO3CFMcx5ywRmygTMc+huxEwFrhliDdWysnhQk67aqz1rU/xuh09t4u3632gds5ZYLaC6q4ULParCV9KIJO+nGZtNVEWF3F6lWy6NlyQva/NZ0E+iVD+KCUKo9tIOzd6PSyEPEqOblT9ZfZ3Ys6uSG6S0CxmLrMzMva5eIBEUijLT8U2oNGC5BzNnbGvF6GZrdrzeBpEs+8abU2hD6iYkTZO4eZ8u0/0
