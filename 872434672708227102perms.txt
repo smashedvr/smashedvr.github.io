@@ -1364,7 +1364,7 @@ wolfgirlsart,4
 wyrm-sidekick,4
 xKanashii,4
 xNyanMaru,4194309
-xSup3r,4
+xSup3r,12
 xXBloody_MaryXx,260
 xXPandamoniumXx,4
 xenoreaperzz,4
@@ -1606,4 +1606,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-m0ErC4KBX+zr/UHNQpvRRzxXhLYffH6ZPJZa8YzukUgpOFfhTcFyh3Y9UVtUKqGmgcmCQktIKyu8AL7l6gEh2pcuuoR6O5INI7p2zU6W4u/3v7o4m/WlZLbplFM8R8mN5nbop2b3O/ksWEAfN30shzR0QVmUhs5sTC3njwDxTz7uhZ34mx5YFH44GrKg+vobHWwnziJq5ZKONw7wkiEDOCapVdUVZiufEfCGctmpTMFWiXTzu6zVEYGWcZPdJTFf
+gZFidPe065h/U0gUmhvmtrD0z46Bc/GFo+pyAKgEniBparPLvDedTDwZCSMSMX6La4lZI2KjYe1xH4HvY+GdJVrDU0szGMrvoorwA5V/Qa5ZS37XTBcFDPQyy4W96hyjWyIQYv503qBLxXhUcWraPyn1zLzwWKu/QLdiC/GkzVMX8zufu9PAqOpVkXIcC0bmaD4Q7KDksvsgbEuxk5LtCH9K5dIirfH+N1IboWjebPg+Q2+3jvLi98eVE8O3Qxur
