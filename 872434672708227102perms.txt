@@ -1131,7 +1131,7 @@ Zmeister9000,4
 Zoommair,1028
 Zoro 75d4,4
 Zoеy,1028
-ZygoteTrance,132
+ZygoteTrance,4
 _AmethystRibbon,4
 _Arcturus_,4
 _BonBun_,4
@@ -1603,4 +1603,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-WknF0tGmL+VkEvC56CjiOkrt+rj9a/jyR00vpRyiByJj5xOlAAph21diap52uVg/J9VmZ0gSsl/XYI+bDkuIgWxlwD/uV4N8jJIIW8vZOVdanumv0kgNHYWbJ1tkY2wvoGXpcICBU2cUP2w4saWzFftgx9yoHa2Ot9pgz4cwwwh+xkSDkON9dpDLQf6uxDWNqTvUqNy+TjWII66kDU7fltAP2B2gHNS7koBjcEUuwwovC1zNalmX2JgIZ9DztxTp
+SsDvUHOOmHUab1dwiiccf9QbQdBLCtXbLpvhGeIAMQNRLHmXYO1mOIPgl0BDKzkvrxYjM52tz+z3a419i8K0r89pg/djiU+ZaVlBM8sWrb9SI5InhxsP0wGxKxBSljdzxN+0E7yVx4OPcNanjIFVtjRY59OAMo+0BX7Y9eTsiudLVvqj8ckIhz8eHXvOmN5W7CNiX/33ZBnxo6koxRlzClCF71ZMu/3DYb31bN//eGTc/wAgcyQce+wrBRblSHn1
