@@ -1087,7 +1087,7 @@ Wehtt,4
 Welonas,81988
 WhaleNugget,4
 WhiteheadB,4
-Wild Wanderer,132
+Wild Wanderer,4
 Wild_Wolf_Welfy,4
 Wildhalfling,4
 WinterDacc,4
@@ -1607,4 +1607,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-TocfjgGP1g3oYmdMlPsoG+/olA9bDIWOaJo8pHej/LCmPn848vFVbHTpI2h+W4SPvbmqaW9baG4Th4mJF8Q6Bf73G6vblqnH6aajcGlMHRFwetnLaVfMZLeo7hDCrKJ3/bi9WpMOpQT0RvMzhxwHh1UFUory/bHkwWG8x1ajgpbOVNJ6TDXEUXdyerjITWuV+JWJBCgwc6Qlx+00MN+7aoUsDQK3RG2xxkVnxJBJna0Z02UikF1NA0ErMlS6e73Q
+SSrN1Y+M3brSkZROTEOhqpl/A0PBVVT53i+VY39dufv+7bVc8vQY38UhWhIS1PcEk0+mG5lnlJef0L5WwdZ+9RF5rfHj435JyJWX4pVrsGPmaPcmkOoiMZpvjg51ZbKuBqtU/u1Z7lVpps6sQA/a6RAYag/pHKLqwX+GCUuUqgMrDc6gQL9FaBlBdzc19GtfXQFCFcMzn3ZhBpGe6L+GBIi8q0/Zf+LMkcHYZKVIaFVFEUujSCm4EgMkEFTSt5Lk
