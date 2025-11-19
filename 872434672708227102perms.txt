@@ -1128,7 +1128,7 @@ Zane_x3,4
 Zenjiguru,1028
 Zepheon,4
 Zer0Playz,4
-ZerixTheFerret,388
+ZerixTheFerret,132
 Zmeister9000,4
 Zoommair,1028
 Zoro 75d4,4
@@ -1605,4 +1605,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-G8DhVBSgmvEOGC+P2KtgnVVBSEmch4VHt98oxIno6FLaVe6cMdADaD5kgHAPa7LXO4YBstKrzzMmRBelLpa8yvy/WbR+b73wWLfr3SAAi0lCP0y8tGqvlJFrAfZFgMEyIzd1f7qdAUEQjCnLbz+hxMKkEXSqxYySwsodUPkIy4Nz2Y8/6nkxEBbmW8rV0osSrjgs4HpsTy+QVqKh4GCyb5m+cYLR7QVxO/nJExQM2gz0JXmKUO1/6/B4/5UaeVvq
+ZoEYK9NGcF/72Y6w1qkiIK2FnH8TjVFulJceczJr4Jcusk7N1Fg3rXTyL+RlfXEgi5R/+CGMw9wrZpgNOWsNGFWUHyZCocCeyvA5c3p7hITIvaeAJUab9BUefYXufAo50+HBzUumQ687+yJFWULUlhTWpdhrSoKv/R/rZHDt172q3r+OszZ6iPevMWYy7m6G8DyO1E7Cbszmy8JZWLGX+ZQ4RVyuB3ewap2dNR+GqJ6PyFrINDpVlTFvKQU5pYXz
