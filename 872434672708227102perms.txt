@@ -359,7 +359,7 @@ FresForceKMS,4
 Frogg3r,4
 FrostSickel,8197
 Frosted_Phyre,4
-Frozen_Cherry,132
+Frozen_Cherry,4
 Fubumaki,4
 FuggleFox,4
 FumikoEcho,4
@@ -1617,4 +1617,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-APCy5UdWbFyJcDVOp/Ir7NE7m3n8/tLDStanf+mUWR8b+tCgMJff4nC+jZH53mLIEf/VpZkkXNDYGyXPPlXQuS0jK01yS9uEwcpeMrRbJOTSvetO2srfS/dT4ZWqjP7L+y0UMFpDovn1G4BW/OS32iTrpa5lxeAsEFfmQj5KoHVIKmbLy0sT0PRaO0sUCWP6ghJMoEolkkllaCaNgagd+57mDSM9F19nFdvtgcwfhobQ1TvZu8qKgh5PTiMGtEmQ
+TN5fwr+ayvl8oKaJetqvEPLNTokOy2/L73auvzE1rxoqNBx8Vra3nC6/YbrOqkvZYSCLrIJhNKH74MixVu6+aFjVPW+d2ka1y2ndm5/HBSk013FwFuo0E5mpbRbTLMz6AENCIg62DNw6INL/0fvEoeTwlrYcSTPUuL9E4p/8vKPXKWnKWkraZGIRGIK6VwgQQ62iDb67LUaxGNRNGmfWHM4toJARIPLUOwZwgs+yL1IF2qpjPJpwvU2SwLZS12cQ
