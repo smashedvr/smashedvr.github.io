@@ -156,7 +156,7 @@ Breaad․cos,4
 British Failure,4
 Bruvva,4
 BubbleBeeLucy,4
-BuffaloBornTV,132
+BuffaloBornTV,4
 Bullraid,4
 Bumble Clart,4
 Bunný,4
@@ -1617,4 +1617,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-RfGMBH/5Zd5cRyVkcgKH+9lHAAxKogMYfohEnow7EE8qdJiUed+dbhCf4ExrFInvEIb2UZsI+e7R91GEqDneoN0WWN/URO5eCTC7Ezodq2s4HGCLHm3Qg1a2pCFOSKAuf+yIUWJctV5MDcB8ylyS2TlyWGW8XYg9SSbH/QwniYyNYlsnPKyWRLBgS7qtV1gV7ZFuPwlMhWyPlM0XArTZJ8zBvNdQBAdGNyS8FvQdrlIHarlohjpg8jdlgu7St1rD
+X/cOmIBsSq7qXgyuBnGYod9EdtfeOncwFAHIreT2IVWbBBGqtTYnuUtnDiFJkUrPQ3+MlJHJCJ46KVa7aK/1fFCdH60oBdj284ZEgGJE8BugLY1Y/Eo1iAtiTLS5/F8rPyQMHeS4qyx0bmldFOv49aPY+nbjyOEDzZJstc1lhqCu7tSmssrXHuDRxZ1aYapWn/MPNsecEquqATsDBTNNjRoJjAeL+nyEZ5LaDgHGO05IwdbivSouL8JpeQowyGdg
