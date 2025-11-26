@@ -381,7 +381,7 @@ Gihren,4
 Gillysaur,4
 Glitch_helix,4
 Gob1inKing,4
-GodsDrill,132
+GodsDrill,4
 GommeR,2097671
 GooseMilk,4
 Gosu Ningyō,65860
@@ -1616,4 +1616,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-TqHEegLU2DUVt5PD48OxEvsSygbBpaftDwlS6D80sVkzyiuTKwgPMt3M8pibMXUCtQhha8BeVTc0WzPJcxabea2kW1EuQDBbVhMv7QhBs5IxDxuhqirr0hsvfy/sLAybk0p/qVyu/HQdzhSAfKtoInYc2pe+EIev/drBRCcq777hz6uT45rWhuiOnWFnF1dWO3wm57w9welOMUW/bO0jjOEXSUNfZm6JWR9qF/kMj8uPMi/hMx/+QaOeLOoxR24c
+LwG6vVQUzP46CBtUW5G/V2K7TlKKFerTgqumnQCszjUfbvsh5sr9ISE5po4466c2RNc5kukxlM85bOm9+3enZ9rPyNqAosyhUGLZnwjAXoUL4lLqmJha8stiTaf/MLdTqiKj3qFiTgspL/JEsL8l2FhhKOI+54qy/ET5sZ1haq2cbfUFqYU2h4jMCK2WqVqMWHEj9t/ExALr1sw43n3tXhu2pOD0alCUcn2MQ7OdIcpSOIiJhJX5qjUOwtD+s+n4
