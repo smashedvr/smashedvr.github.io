@@ -179,7 +179,6 @@ Cachibo,4
 CactusBear,4
 Calico_Cass,4
 Callsign_aster,4
-Caltosy,4
 Cammycarr,4
 Cantina_Cat,1352680975
 Cashination,4
@@ -1618,4 +1617,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-iigokQUQOf9ef/lpbLZhU1qwLGxkc3gLar0w1UAuLT2P9JgzfymgBrnbkPB5OJQSQOqDeL+yMrVdiEdCAdpLfPjRz2cB8ssBeHEg3plKf/Xex5ShxmK0hN5fxEBiwouBIzPe2B25DwMfMNwvjH09RXtnDO/WjybBsHlL1/Rsu10Kn8LRv6JKQmSicl++hMf9gOZh+OYMEzIkoMt+/nuNDoIiC+6mi5R4GIEIIVLzmVczyvdFNSvyohwqpnpj47rT
+N0Ah/1Ugd4lxqee4QfAirIyOUHwL2/tUhATZZx1HUJ+NBU/FYKqwlv4b0iS97mol+M2n0aKUc60iR7blk23yIjIb+nBXO2qb9DAle+zEMSHBjxCS9Sh/hkAJqTIAItrG8s4E6vEF6/I7ahvH6kUDIdWuYVmGkRaGfeAQlijC6wrKisp0Pe8BxIvOcQKH7Q3dMECS1SUWg2k1mWioK6q9a0auwcGRTBPxAf1FOqQh0MqYneI8xRAJoUzF5x6bMuFN
