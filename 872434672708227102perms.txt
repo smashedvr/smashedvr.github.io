@@ -578,7 +578,7 @@ Little Aqua,8392711
 Little Saya,4
 LittleRaven2025,134217732
 Liyla,4
-Logically,4
+Logically,7
 Lorkhan-,4
 LostLuck,4
 LottaGamer,4
@@ -1618,4 +1618,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-ZVCIBNShgJf6JqUnrKz/lch1u1+f2TQZN55QFFASIjF384aAu0gP5WbxFmkOjmkSMl03yEn6Wnhddj7QtWeogJAcglZB5JR1IjFYcsNO4S89M7s2iRlnECKuodJsn4tE2BICYzK1rxVPwo+/L0LsH184PZW66Tk/X4ltvslnoUKqyt3qQOeu0BQ5auUmgv4dK0z74mnO3Cw2neddfqh7w0JcarPoDKkae6SRIXKEJ3XdaRcr1vBeifDsfY5d8/vq
+ND7kFUa97aNDSxWhja4Vzw6HOjDpA+cD814Yf/ggjFJT8oyqFUahPk57RjyGHhjYygVL5O4Bb6JwR0+2iWSjWQ6U/YIMZVV/wMHiNWB/0gS3G1/IE2Gj9TuJIu1g8JKkVfavyE3A+anLDcl/UagwjWBd8bWs9CLpLXJ87BYsJt6/BHozHmQ5ay5FENA3yTR9vtjUjjupnN62SOcUf7a6If3uC1qt7xV97QzGZvBPsmrbWUfFBG9SONq6K9fqdSBU
