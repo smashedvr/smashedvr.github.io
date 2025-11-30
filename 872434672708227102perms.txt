@@ -821,7 +821,7 @@ RaptorDeity,270533127
 Rat_Arvinn,4
 Rave Demon,4
 RavenMakara,4
-Ravenඞ,5
+Ravenඞ,4
 Rave․,4
 RayLund,4
 RealmanPwns,4
@@ -1626,4 +1626,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-MgYyJIsOImOsSivptAmuLrmThjEAmv8q1Awigsy15anNzu4VfY31vF3rCpmiDrVGdrjl8T0soTOaUrWQMSEt12bAGKsfGBlNirDcgJ6FOi1gEEI5xu+gn2HrJYIkNdKrnwWkd86lYkJ+RFX7j/M/ZUBIFjtKdoGUGB9nmNALOFerJpTWyzRx+0a7f9HxpolPou9Rs8T12AS0+fqZxFsWybDTTXZh8BKRAuVHT3Q9UDx9yhH3i1lFBWN6bHtx4lvG
+NS45LfViYKnJZzoeBqs+nr5HekBl2xzMemtI4zMg8CYT/zpjUhYRPxFSvHsBMOwTbt25jpIBXwc1ytmBfkIUWlk88rZTcaREphnud8Um5EY+W9Gx6BJ+4S3Cnz0V3qSz4VDYvbCz2vk+nx+SdsBHQqyYwq+qsrNMKzCyrxEOI1gxsfqjbBIG7LjW9xcZFYMVuyosiez4hxvpD1BSaQ/i57BeAtssPQkAi2fMmn0fcDnLd6lvC9hV/wqBOcQzuPPu
