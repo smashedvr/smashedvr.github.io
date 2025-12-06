@@ -1382,7 +1382,7 @@ wolfgirlsart,4
 wyrm-sidekick,4
 xKanashii,4
 xNayu,4194309
-xSc4r,4
+xSc4r,12
 xSup3r,4
 xXBloody_MaryXx,260
 xXPandamoniumXx,4
@@ -1628,4 +1628,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-P2gckd8LlWKIDBQlWWG2c4uv8TTMcDDF7FNG/9ek9hv6CmSnGdePDtuelODPKsQiGVC5VrCtMJWm2Gg0XKwlrtJCayRorG15s+PR5+bcwgtsgtQcDpHz1CJpOjkPbCp+7BLkuqDrqmHD2KijRFkENFqidb7H1bKeTAh5qQNe/+kPVsGPWfdLYxVs/QMjuW8x1edxWJYPQmO3yo4gDD45WcW6aHk1yzB7SpMrWJ+uttrr/gQ+TilVrzhvtIkL8qGG
+NXpy0Wa0rSPQgP3zkp+WZb5N3JpkMgxL+pNhgahLxVoCgDxcL5J0jSk7UxCdQOrEs7WYAAShfJ7KTdK4R1mOVCHYTQ+kwIPfBTapasYLf0fZ9aAvpKpjySgc9gf9wo/6m5UQRTTKjBHaw5fbB/Mn1738Cd3tVRE1tEWyxFOhYmpsVwcKGXmCO4+KFWP2eE1LKu/h5OP3iCZM/k2lDSMW5UnxXQILzBbWfUaAHdKF8HI9KDEnTqx6LSCWGqJgpO41
