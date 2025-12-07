@@ -123,7 +123,7 @@ Big Waggers,4
 BigPat,4
 BigTruth,4
 Binxy~,4
-Biology~,132
+Biology~,4
 Bippie,4
 BirbyBoi,4
 Bish Puppy,4
@@ -1630,4 +1630,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-GnYkDZT+gqVhzXH63+5YMmuhgSe/4U6Kqjvzkebx6zfg7CgnkiEeB+UfAQRLa52e5/3tPmRvzj9/vZkRINavwCiNGxDTNwYlS+P6nSzLY5f0T1U0/ovBqLyp8l8eGyj3TDwcSTnvmwRawpmWb6wYaCGCZRBKXOe6hgYx1It6KYy1JKj4XQAtP1FidJrtTGSS73fUrgnykI83ivaISkS2VepYI14R2XB4OBk+xxcOavh1J0aKc3nH6OwvwlIjV7cJ
+KbYYNowtU+WI1i3frZ/f3aM5gMeV/hS4Zo79Eom9yGJ5ODk77rgABnxYqaR/YClQ9HKJ2KnbcIYw6JnP9zmWq5W88x1mwLMTz/bkUji2CF64sjlhW/aKnSHzWoBf0YdHcjhRT0ztOf1OMzPHOg7CqE4cHad+l0ozClBjxCaEpWOT9KzY/CyTLGvahirkBKt05qfrJpOkZT0ZMMFxwYBn5UlctSUfKcbcR2lfVo8XJ+Y/9TD1ZSkKRBt4ZKb5Emht
