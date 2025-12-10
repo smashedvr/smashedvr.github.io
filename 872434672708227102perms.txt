@@ -387,6 +387,7 @@ Glitch_helix,4
 Gob1inKing,4
 GodsDrill,4
 GommeR,2097671
+Goon Sock,4
 GooseMilk,4
 Gosu Ningyō,65860
 Goth Bunny,4
@@ -594,7 +595,6 @@ Lunar112719 0cf5,4
 LustfulSpirt,4
 Luᴄky,4
 LyraTheDragon,4
-Lοkin,4
 Lҽxι Lҽɯ Dҽҽ,4
 LᴏɴᴇʟʏDᴇʌᴛн,4194309
 M0MG,4
@@ -1630,4 +1630,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-D+WYIhf3fYYnGo01uGL2SMfXTkym5bS60GwGY55RScAtJJh1ly+Z9I7bznhukFZVxkhPmU4odFEhAkQkf5oUwkqWFJbGONwIj/DwdhzMlcaoL+h9aOV9IVibAYoSf325aKb22ncnMd0rqpKnOlobN/twT/Q/0HtZYmmAtTIjOSxJLA+dZD9MIXb/GHSkMgZbBwTdC4OD2L+1ewq7WADLFSSfTKlS/g3V0FIVA0eyNqhEr1YmWDgCLgu6aERXzGTo
+g10JKzQIlZ+uwuJSedDNlN79gEZWAM8OPOYnycpKr1/vGB16PncJfb3uCSlvGhIomXIuJ9IegBg8pPaDbRoespIup//ajGGg9d39PRwyUpus25koopwW4TgeeCgM6wu0SU9UwaIzZsK0HvI87gi1UROTzW3WMsm6xHVPS4cdCZdOasA4u9lJi/diKKeLBKg+O6usGst6nkf4CG3YBblS/Ph16v7YweFnBUJYEiQHTtROKU+y5BzLuSrfw/Yo74Xz
