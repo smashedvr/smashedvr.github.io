@@ -398,7 +398,6 @@ GothiccNaomii,4
 GreenCrumpet,4
 GreyGoose20,4
 Greyoutt,4
-Griff0n,1073742340
 Grizznickel,4
 Guahattema,4
 GunfireFalls,4
@@ -1640,4 +1639,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-R5oze2yLY7kuRysOoKEgxxpEQyZGdl4yGI+ndkDbPdb5eUGoFXwnS4AzilK1SiZKh/93JxRWMzYVpdwCs2KVQVezdzd4fJSFi7KJ4F+VZ2kh6fKWsWY1XMVrbtoAKDNpwuX69l8M80Osi+aNQhwuaAmZc3Ga3U755bvVdiuoL3/F6YS4eYYrz+IgmX5VtXGtialS2m3erekwYK7pw+ieCzvrp05N4+aeTHSjs3valnHWYl1JKByB7MPmgIhehs/y
+CHNcvfRevW1U/WF252LOKEo7OotUnEcl6O7U2fMd7eGVTSbFBVeNorpvuLTMC9uDK0R9ZnP+3aKo4I5IEyiaQK28BdPFGoFeFel0p3qiV8ojsK87K9AhbgzzRRzndUW+OM9au2cdJCwXNpkyngPN6upZmSbaNQKWtuRMk/PWcFlJ+XWXPvEzLp0MbLrJLC+p7WZUK3m6Y5UbeqvfqXzrFBlySVIenyqNPONNTP3fbn0Q75QNF7Ja17aSPK309Bc0
