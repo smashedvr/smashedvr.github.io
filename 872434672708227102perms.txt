@@ -1389,7 +1389,7 @@ xKanashii,4
 xMattix,4
 xNayu,4194309
 xSc4r,13
-xSup3r,4
+xSup3r,12
 xXBloody_MaryXx,260
 xXPandamoniumXx,4
 xenoreaperzz,4
@@ -1638,4 +1638,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-k5d2Rf66+AUbgeoDo1ws6PPemiwg+hVeyb0nOP8oZOmYw25i1++6bSHAgypJJB9C4+qmrHZXOJDavTkbV4HdHmiTAhlVbLnMXz1ZsUOcJDQZ+RR78vpIWHFbmNhD6ZG37SOH5pYWY3Ay2MyH3cMtvYuLVZ0tyi41xsj6YDXDp4WAr3OlFAuN1Ob4jIT7h0/E+ju98r5X1ZOSrQFRwWwFMp4sW41Ae4ZPfNjzDRGRmr/1xbyVfdRgd6uFkPL7MMqT
+Bq1jPwcG23VWsifmey0VgmbOoVA26otMtwWV+t9u8nDAlpKgNsbP+4gg+SEHpPknniPqTxNu9jdbD1CCm4QfZAvum/jWVk7kxKflHYMUdsTj9vNzy1+NvHlfl3eA3hjtM2pmxdf+1+w4psfSfbio+4ABrm4G03Qh513IsCesT0tcQn7xLcTgs2qv45pnGI+r68V/ZkaSpHnxy8eITFsHWHfVFa6Lel6B9cCPa61yPZnZB3Dc8iGfWeKx4uETifTY
