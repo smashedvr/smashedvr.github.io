@@ -1147,7 +1147,7 @@ ZERO·EXE,82436
 ZZealous,4
 Zadbag,4
 Zaddypoo,4
-Zane_x3,132
+Zane_x3,4
 Zenjiguru,1028
 Zepheon,4
 Zer0Playz,4
@@ -1645,4 +1645,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-jShN5bf9AnZ6qhL7QIIeqhfgEtI0X8+FxbOk3fE21fSNfuTWQa1/YBGrTH7V0eiU3DeqFloem9jghlMi1rRKaVhpFVXDvLQedXIvujFHnKjM3x/ScIDRL0+/jMpzIRZ2cdFrcPvPR1LiaAe8MGWnQ/HjNygAR0/YyqF0tqbv4WVIP1HJafVlfMFeUJLlzZv9iuTg+xAl5SkckUrNSaa5ubcqdpmWvh0NjPVIGnCdg5mlgI5CDBfGfKDdycqsDabg
+EhIJjKucr032wJTAJUppEMZZQy97iCVitdrCLMW9vLE8dlNOTTYsUBsxYPjqDQVbUWLS+n0rZ7XoFnVPhNZgmq05+KbffKUARlSijySk+uOPrMEw2Pvl8oFLDNMoTyfxC2xPrNy+B4rRJOq/s/oXQHD4E5dIaibJVP49zBfqHN1WJ3oqwTkjVA6p4hAXSEY2ubDzayjfSEFUlMzYHSdVE0S0riGp3wjNd6URsffWwb9UftyNzKXyBDKCq5VfmmTb
