@@ -470,7 +470,7 @@ JellyBean84,4
 Jemmie,4
 Jeshka,4
 Jesscatty1,8388615
-JhuneBug,132
+JhuneBug,4
 Jimbalina,4
 JinxTheHyena,4
 Johanna․,337641999
@@ -1645,4 +1645,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-WyAG4EeK2evWB08ifIWRlDiAgsEtYkNUfnwq784oo+ZWxc7V0p/022ii72DLZwwakRWK2GIMNp8/832iCwN+RnoY8U37Gi2kYb+93lpDtG6g+/Y6cVR4aeFPWO19X932RofU6lMxD/cSX8rtNKm6BxatgexosAUu0IT/TRrZWw05lKjaGEHtFUNH2mYOFBX/OICqb18n+00olmsla2d7XTkgUu/uqR+6na81+iWlFstpLXHot3zx9e6q/p0tEiUI
+DqhVHF19978FfGzUWB0cZigjUONou6hvN0l/sVhiOMnRHa2q5JGHZXynaGXdZT7tz2dW+zdVfejpeaL3HQIVyfwpAOoUXYEpcNw1fugmv6P1/euoNVAVKvR6Hez3NCBVb0UU/msJs4ahWh4/e9zs/arIoFJJ1wlgfWqZ3J8m4RGBRWCy+4khozY4QAppezthYD03Q8nbW1RWPEjpgXJwThYREuGclJXH/7vyA80RARCeITBapxSX3J1suqyjQfNA
