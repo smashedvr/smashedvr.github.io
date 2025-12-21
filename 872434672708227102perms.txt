@@ -979,7 +979,7 @@ SpeedDemons702,4
 Speedwagon 1284,4
 Spinx44,4
 SpiritRage,4
-SpookyBat,4
+SpookyBat,132
 SpookySummoner,4
 Spooky_Boo_,4
 Spoonkill,4
@@ -1659,4 +1659,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-IHeV1mzKk2Byn7LgtnPhYohja2NJXs9hogDRVlQ45CGX77xF1SZ7TJUNcnAT9xgx4T7nhCyBEQspQybrajNwp23wEdHhQ/UxLfcDOQPg7hdOC30zQ188gVRxytKKaJA97KEwIfuCo3jtZvIQ/k5Biz6Y2L/wQP8STcZ4D5tA4IHPUG4r1NK4QKZuA02V0NJnmUEV1u+RdhoNpTkWAD1HTB8MZ6vJM4YHNPQ9+im4sIlhX9lGjo3VHMk6ouYVLgv5
+hMoFLmenikpC58jVnecEOzxFmAPuJ6THVNjtpIL1IrYwQUavAix8Q7R/tOL6ZKhZ20/i+sAt9whUCdNdxsSs8IA7f2uv1oogfkY8FCbGwmMo2u+q05SA6t7Gp15+p107eYI+GUVHoJrWP5YWTQ/h2LLalC7HoBL/wFOkA7vDoh00R/5FhQR6a6bNjOPQgt8mpAyQ9yYeXCxFr6XhScfAd+zaVjnROi6qQUeAfrxJI6e7EJMKeEiBHwjn6K5SoqM4
