@@ -527,6 +527,7 @@ Killersnow_wolf,4
 King Nex,4
 KingAce2k,4
 KingDragon1995,4
+King_Darko,4
 KingsTalon,4
 KinkiNeko,4
 Kirkman09,4
@@ -922,7 +923,6 @@ Sh1fty,4
 ShadowWolves,4103
 ShadyJackalope,4
 Shark345,4
-Shark_Bait_,4
 ShashTash,4
 Shazik,2228743
 ShesAverage,4
@@ -1661,4 +1661,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-mRcj0yUi9/3rMyCXBwGAb6dFKLIvNapaybWxl1eFVSaSWKzeJW31Q+gwgVW5gT7XO6IE53317IzZlfBHwxB7qkPuxvxllgmKgF2A5rjJWDCFiQq2zOAxEWipohZpQ0v3EX43QPwA1+go4B/liaOTeyTMm19+tPO6ooaIZpbKHOwLArT2lvSd8jmZKnh0a3bMODj/dZlkf0uQJ+QEETYDMqwsXpWJRU+SJ62ugYAwwKlnWs7ldK8S09bOC5PRdAxK
+R6xZER3IYealYYBBfOBTIV4ydSA1JVPnNiJ3wW3xdxcSllwTZ3kihFb76gU/0/SADIAD25ubG9sMKuTweM052/7HjaOGzpGQJGj4dAd5jy/N0ubna56szR1Kon+pg/xwUL0X91DoxhBPt7PFU2V1l95HxjJvtSC76KCmbGJXM/7uyixOpZbq2jmKMSLzplJucXLYVeo5eutaUZibZxR1VFY5RsroXpMs8wnQ5clglOXVq9QooaEWBgvbs/yit4lU
