@@ -973,7 +973,7 @@ SoftshellKrab,4
 Sonyatta,4
 Sound of Death,4
 SpaceChicken1,4194309
-SpaceCricket01,4
+SpaceCricket,4
 Sparkilly,4
 SpawnDaJoker,4
 SpeedDemons702,4
@@ -1661,4 +1661,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-k+DCapM8ByvoimSsN8ML20wtc4NY+RNKdu4jxXsT71sVnbLrGxJa+f3AZvI2+TWBAIYFBB0AHMYqUT1ei/Q1mek3fZIZtiURp/DLSSUD+H3KnqcJUk+A0QrNLJTp8W2isja0q2ck+moYw6UX5mfSSJUCUHZqJmbcnuILBXIDAThVya/Ju+7nyqNhw4Z/k84Uabbhn7mB+243jQly1xgnh+ye8CnD4fCgwSbxMql5c7WdEfIii7wd198BmThbHnmv
+GzcAAfJFuYywpYgRzzeW+Aqzp7XpMxXJU3U4izApBMvqOMUWufu0Ej41RfFzFlc8k9YaPqNpQrZGkjgECs9wcaqMjSXjPq8PoV/kv8cmTPGHoETcEUaJ8vaiGkJ3LcGktpXgRtLhMVtXC6Bqy/p1U+/6L56lTWbUEbVXwyNuU8KNyA+cABsLdxUvf1lKqVtugUDdkLViUe8xwj11rKjzmQJxYVozLkgM24rwGl+xi5vS77S5VdVqEpgKucPdrVVc
