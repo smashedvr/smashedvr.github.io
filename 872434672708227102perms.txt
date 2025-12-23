@@ -1405,7 +1405,7 @@ xIAmReflex,4
 xKanashii,4
 xMattix,4
 xNayu,4194309
-xSc4r,13
+xSc4r,5
 xSup3r,12
 xXBloody_MaryXx,260
 xXPandamoniumXx,4
@@ -1661,4 +1661,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-HxRTLYbzl3HYj6R/mzcDIJvh3Gy8vpyiDAwUqAmvWHA22zIRezaRLGL9kqMPT0OvzMBrVH/1yEGlN3lZyjbftwSJx2/BmPtjOmvHgQwGOpuhrqV85QEKgoh/2OUswetj2YHA95k9mGbkvteQTSZr2FJAxdLEj0MS2y19nzf/ZzcRhqfuOgGxwWE7omWQPlgc2lK7uB4yGci0UXf2rhhbTZSiHj338vpWfgbZdj9lCQ4ajwJouBTCt2woJQhXPGad
+aDztwFiHBe0b8Vm1VkjU9xXDGmdcmwHuxU+TKNKEuM9tKMK+qSUEJM1tFLWrbVMwDvNN3rggqorlkXsG7cM91TN3TisNHB5dqflf9AdOD/pmSMfTP0ObbuKwr1j2qas+NOPaVnUpwT/z7xoiOg294sSFh+CzOxxGTqPY+JK4TiwoN9Y9MUqBK3vHUrq9I5KHrDahn71IqFJ8CSu6kpfNIhan+grC9gRJWlrZqBUOqtuNfbxaf5R0iCyjAWUXSISq
