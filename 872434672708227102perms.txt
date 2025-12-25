@@ -19,7 +19,7 @@
 -Mrs․Ðonut-,4
 -Neon-4,4
 -Pathos-,4
--Ryker,4
+-Ryker,5
 -SPYRIT-,4
 -Slaine-,4
 -Solensis-,4
@@ -1661,4 +1661,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-QMPPY/SsxF+WZOcHMmnVXvpopjEkdlOMBRal1JOR8Cs0tlV5DP5PjhX/BZMGmdkFig1lmlkSDK9yNfmabJ6gBYnY7myxx/7NCSD8WSioF1XEkXpdYLjb4MHRvxfKIMOw0FwbqveNbt08HyxoSGxd+nRy8/y0gG169H/bfT9zwyfyGW7XCAcpVNu6QhvMPmIsEfFkuNi6RArGWU85C5+jQIGV8PQkgtXs7HBKk+6Va0XrCnnyUF9JGxUYdKbYncNe
+DO9lbeK5+h8Ki2wntoROjtAuXbJCa2y2fWjn0NrSol2Gbyeyofb58xYDHVefO5ZET7Gco6ltNezbBYCCQqsCOC+VWynG0UpMjEuMUiA6jRlQe/OdirgXdOyNEsa9I41mAgxNVXryXGPCXjKI86zom+Bs6ozGEJA0vuZYVJhOBvtGpK3mIKMwtXyIBk02PTpAAj3CdnTnTVN5mrGzJJ8Yazim766nGNgatArPV5RXTtw/FcyDSGEJDPB6rVeQ4jWx
