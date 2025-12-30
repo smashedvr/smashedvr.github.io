@@ -100,7 +100,7 @@ Austin_Nova,4
 Auwura_Borealis,4
 Avanine,4
 Avisend,4
-Awamori,4
+Awamori,5
 AyVee9,4
 Aztrax,4
 AѕтrαlHєxx,4
@@ -1676,4 +1676,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-HOOpT7Jp5YMGuZ5uC3ksGuNJCxu0Fg8FSHLRX4gIugiD+uTVZQ2eb0SUNBQRhVy+YpeLtcgyZL+mWpX7ahPmOk4+Et1Bt3gkN6jr6PXZAEtDvLmSLHBMrHke7kv8PKhdArRegHyWfZ4k6VA2BeZrllBHtlBm4jVhkUgjt6XAzAuItT0gM9q9zvF0i0PsBSB83P7t7DzsnJwukyoJ12/3MfZJAmvwgE+Br2rb4MtgkZ1Nf8+ps3R4m0NjgkKbuNRP
+b7EfmAXzF9uTa/o/MLvtsurCS0wH9eEyExH05/i4xB2sCfSZvza/7nKpKB+TpjmAJz0iHHxupTud9YOemDyl9Bp+lfj83oDJWsGnA/68/kVu2T5yjePizACwbW4Dowsv1LA+f9s4qPdkTWieL86XJcoBkUTXFfvxsv8VTGzli+0kh7vtZgwgaL6avsT8RiE74UOGThjHonB4kyOMVn9eSv9rGq0aWRaMCR9lHWbrsAIZH9aa5WVhmNYhCkN7FalI
