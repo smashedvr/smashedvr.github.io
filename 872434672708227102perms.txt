@@ -530,7 +530,7 @@ KhaosSisters,4
 Kid_Zodiac,1028
 Kidney̴,4
 Kiffen,4
-Killer Goldfish,140
+Killer Goldfish,12
 Killersnow_wolf,4
 King Nex,4
 KingAce2k,4
@@ -1682,4 +1682,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-LEti2065cUOgB9IrKJ+Yd729G0Z5qwrMeS3rrYw2F6tinpw/OCcLyaaJs+skwVQLL5iXa5vkpoZzfkXULwgIyxfbzqOmc3wywyIg08zkAEcX1rQW1NnVENHioyI2PnbtHOGFHJD1Kr5AoKrxd+ecHGbVHYPUJhCgS0yQesfYlTD02dN9SJ3qQek4S8FiRG0UaTOZ1pK9a3Qib/eJ5DWiE8aQbdZ7y66oLSuS7PQ+jLYceTdflq7WlhuejIyM0gKf
+hQ/7xOEaAL2KII4hwy21EA6iQp8JebkrFwAgbxPv6fWznKj21H8sKsLbPbqYJMb8CmmB8sABnRxuHuyAZmWaJYqtmxJS9q/ZskHkLQSeURvR57IWMSDb+42U8tIDNe7zbOuEd/4flZhVWWeq0pSQtDa50J9z/q41xlrBbfwmAXX0FBbE2c1MYP8Tf/7CXFl7dbno/6bJpyXEbsDocGKSfZoRYuKyvklfXePeTOuYrW7svk9frqzLjulfY+aZPFsX
