@@ -1014,7 +1014,6 @@ StrawHatStream,270533127
 Streq,8197
 Strikerdxl,4
 Strunger,4
-Struxnet,4
 StxrmySkies,4
 Sub-Zero_Jo,4
 Sudo_User1,4
@@ -1688,4 +1687,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-EtaqisVUoiZt3560tA/hxkiPzJyrlabmsbufSzawCEUTr5bPzmVJ7Ga2plcHP2JOLzWbSijzhJLoRW4+32k+aNPNLKv1JCl36mJ5KcwkY0vxW8pEP1egv+LPI72bjhP//QgTTeoue0pLEV5G6tmOw8fT9Ke/wcs4jcQVIRFC5jMPY9+4tz7/9XTaJnedSb0H0nAaiF0pc4F+aQ+EKaPiUHvbrtyaZ2tQg4hN33KARDUyrUaoJdJhdU1Ec5uTp8h6
+jg3dk1EfS3ZR7+/8kFk03pZYgxP3HMi1VKZoqk4AGTn+BENFXtRRz68FcojP0K11gNm/qcN2qbZq0FDCD3z0varEbC3c60RNyb6mfw8f/PDYFj93tqCapFzZzNXF0csWKVL+lmJdXgLQzhOZle6oP1upe0zqsdEx1ytzA7p68Yd9z+FIEPJv3EBEzZliWUY0g0sfA8Lu0A6nSfdMBVE3sY5ByhzCEvLZcyoIVi4Fn7SUdruhuwlx3ZOK9PIzAUtN
