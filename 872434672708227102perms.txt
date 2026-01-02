@@ -1271,7 +1271,7 @@ flashhy,5
 fluffybunnyze,4
 frenchlilac,4
 funsizeftw,4
-gametiepe,36
+gametiepe,4
 gatorcrd,4
 gravygriller,1028
 greenie24,4
@@ -1688,4 +1688,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-jITLS2JmSQqSZYYL1K/JL0Uvxn1ER3D1+JX6iVgUAtD1U3U3zzS7/U5Nozxkgkq8xVrzURic4dLLXxwFcMrrApzvhKt+aWL9WRgQBjpLvARgNWoxqNfCqYu+dbommveh1wEalaEK8hO52L1BYQQfjbM6MwHmVeHHV2Pg4q/gIMrmjVOzqyxvAN+Ni4BFhXy4V8RE+Q43XKq76gGoIApQ4JU1SvJPd1z2nuUW9tHAeSRI5O3CxL1liBDO54+sRqn7
+gz0rAoeoqP64dUATYfjagKO2kKX9/ZmbfkbYjP29uOmHxUYRbDyyF2aVpiXNHa8U39EIA32N+x7OC44uCt6xuoAAfQOnT4EypowwwTsZZWGqMYhsm8krGsHup0Atb3kSk4i51i/NCfApTWdMteSoFvSjCf8xoJtYy6tQnlrr4Aw8k9GMjCvCJ49dnnTNtz8y5LDdS4G5eTALhA4aGNmsY0P/lecrap8ik8ivXyqkbC2YakDH94siCq/FYF+byLv4
