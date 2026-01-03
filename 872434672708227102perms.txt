@@ -243,6 +243,7 @@ D0rkfi3h,4
 DAKOTA PUPPY,12
 DJ BΣΛПIΣ,4
 DJ DiFlux,1028
+DJ GLITCH,7
 DJ ShynSync,1028
 DJ ZAX,1028
 DJ lil pawz,1028
@@ -1668,7 +1669,6 @@ zoemies,4
 Ꝅyle ☺,4
 （Jay）,4
 Ａrtt,4
-Ａｒｔ３ｍｉｓ,7
 ＢＵＮＧＬＥ,4
 Ｂｏｎｎｙ,4
 ＣｒｅａｔｕｒｅＳｔｅｗ,4
@@ -1688,4 +1688,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-mbt4TIr9mRTAfu20SzvvLNdj6CWOs9qtVw9fJtci5kZ/+FM1psEx5Sd9+GfhoSrIqpntzIKAYzc2e4HM913oXyRHMRBKv7E2iSC9sB6hhy4sVkQgTd0Qn+7EPoPk92ECpuxWO62gyvNFDcjKNjEOtjqzpHh1TrC4HyuKEnXuG1N6Dq+ABiHo5+7qq+c+kPWxFDgHpOnNa+mWhCPRIbii2OCDbowOF1Ic2IHB1XpfL866YO9vw6bUdxgWin2ZtzDh
+EgGY9Erm1BvzUJzqDvuTZ+/gDzNhV9S2c1CZm3SP2Cs8JETbF0GzJNj3vnmKqkxAmlqM7E1hgbA+LOQMYL+n5vFhKJl6xob9d7L1zWFkQpPt5jQ51jdfm5IhO7mEckYeGL3YTlxjHzcv0lAeG+ijerbLZug+RQ9EqMui3p5rpZyi4tfQ4nkvgnPZ/y2WMYnsi3rqJ+kNxc71AqQPEhICbo4moUIbjLO+SQ2aiaIPxwzNUGV//yY6wAMZ6ERnfgKF
