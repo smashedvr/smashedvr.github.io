@@ -55,7 +55,7 @@ AYAYA ǃ,4
 Aaldrik,1028
 Abbz_,4
 AbusedCoyote,4
-Ace NanoSpear,12
+Ace NanoSpear,15
 Adorkable Fox,4
 AeirHead,4
 Affirmativeee,4
@@ -1019,7 +1019,7 @@ Sudo_User1,4
 Sunlit_Desert,12
 Sunshineᵀᴹ,4
 SuperBlox,4
-SupremeAnubis,4
+SupremeAnubis,7
 SupremeCreamyXL,4
 SurelySuffering,4
 Sweet Bean,4
@@ -1687,4 +1687,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-ba+3K1U85diP22fVpibd0ruBBEV12zQc1TDNYT3gk8MCZzO+fBhItqgWbnXTD5GRF+fPGetB7Uu71M9fD7fLoEWFCrrKBKlDXZyK1cabUMkszPmBLxFsyfBUBC4kx88RLmcOmD4fIHAEkB0NQptbvnHycJUhY7wQnGUCzCYwQ+26HQSdCLsrQjC7mkxc7ZGIgOWzh9ijotIn/0waTedctTtQfEpML2kpxhsbd9GXmjVD/LSYKYSa4F22+osi1XXR
+bTMlG6w9xKU472WiSXyEqWYhGzoaJ06xwG5dHqWzhykKzUdtNVaCnOq4YCIR7e8iRK67bXeiwwMrIlaxkD9FpiwJpCx6sMdnB+ADWnT72uH0p7IUCi4Wese12WVBgB/TxJpGyoxiBccqLyqlOaxyy53iTchbpBzJZU84xltwQyvYFCXA/yf5rQYbF/+/Tg67l00D41DYWj9EBgPhwdMq0lFnot5FuOINIfnJWrES4vNmQN5nb8xoScpjt6PKtn+o
