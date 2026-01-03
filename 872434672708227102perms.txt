@@ -1395,7 +1395,7 @@ ssandstone,1073741828
 star-milk,4
 stinkykana,4
 submiŧ,4
-sugerglider,8396805
+sugerglider,8197
 thatgirlkiki,4
 the_duck_king,4
 thou_romeo,4
@@ -1687,4 +1687,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-GIsMoiVQBoVRHfUQVkMq9Zf0ykpJPtYu/0h8sfcABZ2zcF4Xoe63iTEDQrwPZObR40IWXb7W+gcbp8eFkiuLvVqiJ1oao98h+cQaFjunxkO8l5x9IzgtO8PH1n8OWVXTYKEVau93Lr9MRT+3I0b7mLNb1z5DH/QoSkarLNjMYHD6yPPqCMuq8YF2eQKYXTL8pojx3OqV15kw5JQql5SX3DxJgO6Cwowfx8zMfR8AccJ+Ewz+JQCRkoTF36ycSspc
+Gu2BRVxMUZi9As367REp06PT7KCbf2DwVP4zRXmJx9Cpg2LKqFZvn1tLQpb0V1FRocPZhCN9ALyHKo3A0TfNUIMAo/xezx0By2w1GAMQ7icy82Cf/PX1uOsFzgULzXh1ZWPWJIyYPWOOVZzJhzKhz7GU00FWzswfP0LF4zIcxmgOviLynlMnvAvLvBTwbqm+QJY/vv45+ow4Wi7e12ETTykkwWNILqeaXtte76nf7hNBN+kexlCBnR88o3ZmeyH/
