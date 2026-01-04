@@ -1615,7 +1615,7 @@ zoemies,4
 ᴊanᴅi,4
 ᴋ ᴇ ᴠ ɪ ᴎ,4
 ᴋ_ᴇ_ɴ,4
-ᴋʏᴜツ,4
+ᴋʏᴜツ,1028
 ᴋᴀʀɪɴᴀ ღ,8388615
 ᴏᴅᴅʙᴀʟʟ,4
 ᴘ ᴇ ᴀ ᴄ ʜ ʏ,4
@@ -1688,4 +1688,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-LFvlG6eitOw6wbBmm48G5RcsKUhpylR/tnbZq8900zxcrylRUNVn2v9pn0ezhlUldXHN54SnKlARa/BFiLeCpWI0/8uobJX9wbJLdXzpFiggPWLQKC3b8HMEiSEgMmt606LdCed6JwoFNqeGxJdd0LAU71Xl6xCymqJo4fEAgm3WrGnM+iMAnH3UuDNSSAH4OJV4qPSGHBrdEggm6p9zOwkMntrOrHt+i9wIuuYCksN0DyHXj4hkDUvIQ7Vjt8Wt
+bKRL0NQwRcE9B+Rdj6ctHGr1gmy6z02ufU9HUHSfFhMNdd1MxmYWFro2bwgqETJdcRXlzNL4r3gQ4f79tNscIRNZlJEmC0XWwHtznmsQcLL+jl0gwnwMQ8r2je855Kc81mUYxi5+5F9tgRQiFapnInWIyS+lfwde4Ht62prxlQdwlR/H0qZ8xgXC5VWONVRhmH1W0Y0RRgnSDK9dIy62m84VGMJUgFpNtcy3iexUBQ+UO0SjAH46tjhxpxzVffde
