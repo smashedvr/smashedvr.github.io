@@ -307,7 +307,7 @@ Drunkwoods,4
 Dr․ Foster,4
 Dr․Cranberry,4
 Dukeslice,270533127
-Dɑnte,15
+Dɑnte,7
 DΣMӨП DΛDDY,7
 DΣMӨПΛƧЦПΛ,4
 EKKO_VRC,4
@@ -1689,4 +1689,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-RAOkRrGPMtpssruMQB0vRVKaMth4rrcIGygZqA+XvPL/R8RsZ6jdp3GCSsKjJNgWBi3qJB1cYFPP1N8LBqJuqfN/bSgp7/HFsCg2ReKSHW9QYIf90kCBVnFMDa1UjArW5mgYpTmXZlYuBQDz/mLbCk4rDOZzQvtPLiRSzN4hapc+zB+Zq3P9oXv1v6scdGKcnGLM9SN4iStuEnEO0ltFa+nfHj1SIqfEE4C7BLuPt1X84Ze2ujYgy7y7I0Jt+x2+
+IS5W3P3UP1X2LvXuB7HQ6dcsJ3Uu2Nh3oUnkGxtDBQmMihkj9n8LdI96NWxJxgwwzy7Ifzb7Kis0nZFIb2X6Uwe3yslhpTtk9F9ezQnXr/NFMY2uIxrreafV56Ptv++zkow4eBK1AQQfzwGzGMNK/rG6cv/pCBFHfkxtM3f/JM/nzQyZQasa5DEZ4jHefM7GkEyiY28FCwRegN1NDnXxUtrvfH8vIAxsO7k0A4TfqZz8Kvys1EuU8kDWHfI8tb8p
