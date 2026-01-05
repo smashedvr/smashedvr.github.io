@@ -407,7 +407,7 @@ GooseMilk,4
 Gosu Ningyō,65860
 Goth Bunny,4
 Gothic Clown,7
-GothicFreya,4
+GothicFreya,132
 GothiccNaomii,4
 GreenCrumpet,4
 GreyGoose20,4
@@ -1689,4 +1689,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-UVPRhcJUfwafI6VQ1xHq1zBH0Zcx770pXuJ44T1J6onsZd23cdLPPe4ryr3Ajn+keu4jYqXe9MQMvOY3IRVlzguxEOY1x/hhJ5cTxWpOgfKevwepO/5u/g6AAt6+R5w3R0amKvF+gnph6rK07IU6tdAEo05EGTMddtzpjnCUDp2sKL2WWVpwSz21L1O5PG+4qDWwRIQFVB3TrC6EsQaOmAnWuk031RwSKlixb8EOVrPhHEy2CSun8MuopqTmd5ox
+M4j6V2ImIapYnm49WmR8c2dJM5lgzT30apdFl7bBRQRL9WfzDW0cyjg3+6AZ/SyaZc0OL0i9izQl5EHEclAkJP8YQw4x+HBmh3pgiNL/H8+VDXBuHgo/A5ynelHeWCo2ohwa8PR7++9UbfokNDOBY2pQd8R7jL6m9roGu+C/vWKOncvXn4DnbqALhf151W4hiDDbRxfhh5T6omO6rWQCl4DkT3b7cp1AzUgXLxWMcXTE99DvoBci9ocH2dbq+BLe
