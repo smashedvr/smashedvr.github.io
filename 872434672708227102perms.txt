@@ -1352,7 +1352,7 @@ noaisarat,4
 noglitch,4
 nothin_,4
 nyaria,4
-nøjī,4
+nøjī,1028
 oornli,4
 originalitydied,4
 ouijawine,4
@@ -1692,4 +1692,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-jhTbndaZGXH8I7O9xpSj5rQawrbiEigVmW3AgFVUozxMrO3cNPixwkITmVzCCUe2IKS3lPA1DlxaRpi/uoabG0jCMdPI8WPsbRGQtlkKRvREbthMWLnntCLg6DbhLSZXCYcvNi8CPtL2WwhMrOmOuPqM8SAASPaU7qbKHw855rR/tQx0hqCEFiFcrYf+vIzvJjEDWnOtTlNkrHFCn2kVotDGif/K1z5rLeidcx+CIs428fNZqBRSmv7lxeRN0e3O
+c+ZpSkHsnZ41yJuBYuYWGGGXtWiEf6vbNNuKUKW8b7ia4h0/uK5ftfFr+PJA+A8JvNGteo9BXhP5vVhzhkJHZIQNFO+tIHQxrJBJIxDFWqNJEB8szyH8lvkp5opiZTIMo0j+Bu61Jz9kEBKQ7IQovgOIgSQ+Qdls7qXef/qO5WHNrRvOeLBr2p8m/dNHoCSkIDWRwKe/0kYo2aapirUfCl+1fXUmHWhLt4cYUjMri6nHvRBoqUQRETcNumF+UBSJ
