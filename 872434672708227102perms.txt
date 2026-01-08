@@ -385,7 +385,7 @@ G I R,4
 G0TTERDAMMERUNG,4
 GBG 'Sawcy',4
 GKDeacon,4
-GaarasTeddyBear,132
+GaarasTeddyBear,4
 GalexyExo,4
 Gallina,4
 GanzSimpel,4
@@ -1693,4 +1693,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-A6vDf/XS35NFNFixjK5Dpxl54tnvBW+ydmTfESVzAtaH5s7kd31AUCCcKpjeC+vhJDDneSYL65HZGRmlj1G//xLSvxNWr9qIcS+iao5kCD/lkxueleh3ncYqfaq/KD6e6HBGeBIeVAAMCc7dxXUE8JpGZMQX3nmCz60jyYBtpUHzQ+rCrBI2/vCz5SQxC1G9lsV7IfbGep8q+8OFm6pmDS2Bs2DmsbTlbd2Bwc3sxQZH/NwIlJopGbLKLbI9Eub5
+DoEfwGuv1mCgRk7vdi9r5rK4ZRJ4DsgTFhyx203FMALFAFAIV2y1ZIk7FOxHB7IVSpH3eMlN9D/IWiDS5qP8rU8Hbbnvsv/swItqw9Px1U6KcBneJ20Y53EoUTNyU2kyuHu+xswG8/3o17Hce5AxnRFhzWwzTz+bbDJQPGoB1/WMKdcwLih+CRWNRgRqJpMChMx6ylWHiasX+K4QgcDKcZmDfdouQ62v4d3K0RfyKSsmuRIHkGFxJWA37ZbvDCbZ
