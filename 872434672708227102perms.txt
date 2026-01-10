@@ -953,7 +953,7 @@ Shiren,4
 Shiro 1337,4
 Shivamoon,5
 ShizuMurasame,4
-ShockGreenKing,12
+ShockGreenKing,15
 Shots?,2097668
 Shoutiel,4
 Shreddies,4
@@ -1698,4 +1698,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-MZEQDJ752mXT9R/tTOnNKdaDoHioOaicacc4yunZvbxDBc2VJvL7OeUMCVbMar3tyCL/vGwWgezu4EqJymMqehNAT7YxSJIpkhMuqsRoVHCFFrt2xQdkzmc1CGC/vH3BAfKfnYiddZPh1e4bZPun6/NERF7OxvKHn3qLzcN79FUQiFrJt4Ao9XyvkQFbcs/QBiM773JGPePmGZa7pnqLgM4xEOvLWFf2JvC9AkE+h0N8OK41Rd8sDumoLRdovCFO
+DO5VzG+tybC/MgE6VWuFuiUM6f74NKbIpLfspHjCPeQgA2a2JF4G1vvviPTFeYzck3QtO2PsfsTDvRpMO1nFruet1DUfKSEc6CsicnBhlCqP/XJfYf6Bqv9DtdGFpb0zFrVJLQnkg2JnTIjFD7222mEqfaJ5IJQ54MqWgJuMYKJ5g0PLwTC7PH3Fj03+bAfhNmLGb03zgWrxPTVxFvKHH6hUvUhDzdnyvOFJvn1WRhDtLo6vo7OyQweozOjFlkXD
