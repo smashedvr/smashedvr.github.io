@@ -812,7 +812,7 @@ Pikoreto,1028
 PinkG03 fff9,4
 Pixlstik,4
 Plague of Death,4
-Planit,7
+Planit,4
 PlasmaLeProto,4
 Platoza,1029
 Plixy,4
@@ -1702,4 +1702,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-KSkEAh7XeXKjTbiRUeem48IaawOOrBAu4X31r4Qfi66ytrKe6k9lnwYKIvhWiT+3+u8CRRRpqBNGLyMpnpEXBibbKM3aLfZf8WrHFb1Fo7kq6jDGGld83uoRr2pFUhmUTLwCrLb3rFBCO2b7GKrtaeJKMo6uJ7O2NIn5HYoIlrbTFYj73pCkDnIz84U+5NtWuN9RsM7bqwc2+J7rM+zEhfCxyaTECB5/ezYcki8ifIXLreInXMw+K3MY4uWq1xQe
+Qx284/RzfMI3vDDU/f40Kt1AWWLeodmdulLTY2RrPYT2+KKMrQ3IkOFf4NUfgKkuemZwLEZ9IxgvZLhdtzlGj3zCePBfScRSytg4p/MwdzyYek3RB3vuQVUpMtKH+8oGV5SesbuoR97YxfdY949HVHArRINmFfNQCIV4paAUZxbMmdjQ643HKnfmWwjQlNT63GdNNOYeaSNlqpNMaPs0+NeCelTYoewEBKM6H/uTx3Sm65olnwxe5rAFQpCZkVG4
