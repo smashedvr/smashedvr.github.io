@@ -1010,7 +1010,6 @@ SpiritRage,4
 Splinterx,4
 SpookyBat,4
 SpookySummoner,4
-Spooky_Boo_,4
 Spoonkill,4
 SpurdoXD,4
 Squakie,4
@@ -1710,4 +1709,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-fh8QA1GkDDS/eWO2Tnt78XFI/MLCWYoX4akfW+1bIUeUygsWf0mM/lYGBxa5bVhNoSotbaf3rz5i9CL+bXtmzdoL0uAxAYSnbQm5qlZBaH/nVstS5IKv/DmWgNr4fU9tDaeTyY+0bGvDMUHEJRnwMht//p1DoXckWELJGXSlGtOEv14MszaBr1Dwdxt1Lr8nhtX/xntdoWaz6fHGnyVkvWQ6ykoe+rX+TlvwB1CUDaP/WG+SwSmw6aNolU3WRM7o
+e0NwFoi8N5V8V6N7B/4BLZgKlYv0DghGmD0ZSAxTtdL7vdt8D7t+5xZtHp433SM5G1IiUBT+aH1cttvA+U/dJMhEvC/Vuf878Hw6DRGYSnsHBUOqAsUV7AzIS98mYCad27I9uWy5818igzj+MtsJRXcuSJxzAbMPGNOXky/FPr6nRM2tVV8/5VSDgxzhLYIuPb0h7W9NAC6XgD11U9skHha2ePhWgTknjl4bvqWvZ2RD+Pu0oT/pEvG7X5PsMzyC
