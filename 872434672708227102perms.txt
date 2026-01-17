@@ -313,7 +313,7 @@ Dɑnte,15
 DΣMӨП DΛDDY,7
 DΣMӨПΛƧЦПΛ,4
 EKKO_VRC,4
-EREKOSES,132
+EREKOSES,4
 Ed1bleBear,4
 Edel_,4
 EdmondxKerr,4
@@ -1706,4 +1706,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-XbX8oNQ0P2NOE2NoKc0D34Uy2Xv9nQGsNATa78xZziCwtFyJ6ETg90TVbzVFjnmhY3tseSxlbg9Zj7U4HeKjFu4ZrELXlXSabNxCaHOFSEDyYEQAzrqsMpV1ethGhWbXLZqUnmtSkNOj9YGnisfUAY/RLgtdhnG2/8lYUEzlnwxObUQTVfQVVq6I53AZpYv44qPSLVd+K2s58MpP4hJMQit2pkfUOf8gU41AqUppqRQcRyGbFE4KwMiS7WAHcNBy
+h2XNeQoDpeLfUkKu5M1HksoIWpomj7wzq3fccYiew31ocPi0mp5hkkkRolCwSQqU7jorAer8r9UfoJVimf5KPsXb8/Dpf19cmOf3i/f1wTcdlwSAznwkcIcMfb3bheVRJuJBIsP/axLnPqmA55ldTFLgWa5ggUt9Qk5PMajAkcj6HkJz467syCBO7MMnE6eLCiYuYIjJhVALhVUERs0m92upp9OuqCfwgcXxlgc7UTp70M4dlwRoa9YgPdBW1A9E
