@@ -377,7 +377,6 @@ FreakCJ,4
 Free_ACEE,4
 FresForceKMS,4
 Fresh_,4
-Frogg3r,4
 FrostSickel,4194309
 Fubumaki,4
 FuggleFox,4
@@ -526,6 +525,7 @@ Kami Desu,4
 Kanditt,4
 KaneKosmos,7
 KareKare,4
+Kassclaw,4
 KawaiiPop,4
 Kayleanna,4
 Kelpìe,68
@@ -1709,4 +1709,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-IptwOz9F0/j8Kfc06ADoW9firZBPgmvDM7ifFJaS5PcnUP/lKkma/HYwHdpWS3DNWgSC+5W9zAbuYCJUZmBYlaE7mm/3o6dqZCQp83iz7m8GZYemdI9PDI7bPZXSrk8FQaJP4Uf+rCjrgISUsrU7YUEM0UuidIqrPNIeYZ9BeM6ad/TVrXBQ7Iav5rCzCHoy+3whaxwWvUTJSXRnaDip3jYwcxwovoWR5leh4JUOZ4sOWcoTh1TMrjIY6H1JYktx
+Lli+OqzsUBdLRL7iAwjY7vXsIkp2dTBGQnU7FSGr4ZkUVUadmA8vZXq8i6ZioxaMiXF5+aD95X7vdrsCLjSPw1yWiCRssmEOQLmSmxrCFO1ID6/EdKsbzDw7wTOb8W6alHEXa0ND5tbP19+LoQ0xfkf0dHRyrCdzjLUtVEu8Yk5iTP1gZfNo0RKttTt9ahxJZjlvWqoRyZToPFq3a77PMhCqFuy45f8h2eB3j8nNXNVhZTKA6MT36mpW3fS+g54K
