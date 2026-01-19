@@ -1152,7 +1152,6 @@ Welonas,81988
 WhaleNugget,4
 Whiskeycam,4
 WhiteheadB,4
-Wild Wanderer,4
 Wild_Wolf_Welfy,4
 Wildhalfling,4
 WinterDacc,4
@@ -1709,4 +1708,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-EYffkSHWaQPInwx0dU5EWIJ7BdR+MFh2wPdKKBWw861bwdgsqlON8Sm+tcFUPi5e+0Kic/awXmLWcDZUxDJaE1oWDAbxSvpeN55K760cJnmYyvyrNyZparc/VgPU9XZC275B2ZRixYSI+lwPdILwY4AgLyU4mB2t3Cec0eGQ5nYzjjzUvTleU23UFgLRISqn0oLwgmBGoz+jQwWXYu+QUFud8Cy9IInDy88i1iawJLj56Z8V0ySI54fxFgPmeALR
+HozXAMY/UGlyIdJD6JPEVSw1yC96BWZ2iGSfPIWeI1j8F8pDC2P/wySTk7Uk58fCkVtO6FaS21c4AzFx7idNKxkadN/QY/pgLhWT6kSEHtplUHUV9KvXmCBVc7MZKkPTGAj7CsjJqC+QpRlxGrV8ooTCA4Ky8vmxaNtw947iIlj5sqOoxy/xj+63vamIWiGIEUfZ0Vph0tlHPOKdTFYCV/1cP3t+rnZhLBMwrkXOFqcARvpfZeOg2rdrmfzaU2Fk
