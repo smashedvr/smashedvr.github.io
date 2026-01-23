@@ -390,7 +390,7 @@ GBG 'Sawcy',4
 GKDeacon,4
 GaarasTeddyBear,4
 GalexyExo,4
-Gallina,4
+Gallina,132
 GanzSimpel,4
 Garthog,4
 Geeknificent,4
@@ -1713,4 +1713,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-DhG7m+0EqVDfbMOvLswrCPVJoMylVFyDbW/j7mwrMs7Zw+f3KMaJjV20y8g2wUKzGuzVAWhlfG5vizG2jRSaQXK3Hfchcv2pTha7K74gD1bpF2k1CRkaws97BrzwajpQ1u3qj/fmSih2/3pKll+vPXBHEpd7Yh0QHhaHb6/SrkT8+X55xxLzDf/iXMp/BvKSfbOKiygRQZirYPR/JPgIRTvaxjHzsNuMzNgqAgG0IlI1dnbceuZfPKexKbgAlilq
+UunYaEbrtdTJSFUJkI0kyvvRB6qG85kWYdghvOlwq/H+C0nQQ4bWtMviw/PidxqF5OE2tfcyTdYNBjRR25emrkOeoAPaR37sou1uW82nRcjjH6Sxby7oZq95kfFBO17o68WHQsUg/Vv3QymPm1ZuqmGLbb0PCjhSx9gpstzAJD8B1tO/PrG4hbeEvdk0F0GQPmtEGTHxluIhZOAE1hO66LIzsLeSpKNnax8dP2ZnV3dBb3HwLbfj+WzgbNUH5fsj
