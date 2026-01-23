@@ -1200,7 +1200,7 @@ Zoommair,1028
 Zoеy,1028
 ZygoteTrance,4
 _AmethystRibbon,4
-_Arcturus_,5
+_Arcturus_,4
 _BonBun_,4
 _Catw,4
 _Dottie_,4
@@ -1711,4 +1711,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-n83Qei5fF1NZ0wrOLEd8vAV+nRkYGI72C72NYhZESCW+28o+Kiv4TB+kkGd6JqHHOcp2ogddbcEttDke9HirKt7loiYVdU9Ze5fXsJNjo6lQhkmD1Hp/hZ/MzUKNixpYwcO+8lG03o8L1FjX2o2JI0D3DLXKJNp4rGlXruFrYPV6vjzy6xGW8D4EgmCKoAniRtd/vwD16fEQV5EeXAcgQ84pE2bfmnCFFjsj/ziKWiBZ80/sEIUPX0HjpdvEPw8H
+jiWpkVTpahihQOmfXfbjTiG9CbDwrI7oUAiVuTq0Gwvduj57rjN5yIEgtumJesoIOUVfsPeDFSj6HKpwaKhNVeiOVvSXqyWWnRJI34XM/99SctRZFdaVf62XIJ+r+ti1YlhJSkC4TgWZcTLi1ghGxk3VHxN2FgjcbPH8NMPcFAApFtolKBRtB3/aqD89kpp3YsISH+iBo2J7kkpje5t5QMmgundzTsx3Xs7a86vSp0bGYJSpewt6LLQoA7uuPvgW
