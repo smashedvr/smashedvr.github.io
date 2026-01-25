@@ -1415,7 +1415,7 @@ stinkykana,4
 submiŧ,4
 sugerglider,8197
 tem10,4
-thatgirlkiki,132
+thatgirlkiki,4
 the_duck_king,4
 thou_romeo,4
 thouxan,4
@@ -1714,4 +1714,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-Xi2QlIx8arEtGC4VjEXPEI31Q7CeoWSNAVE+cm7g67iJKQ69fWOwoO3ZP/k1vmx4HyKpM4hTHnF8L2JJedUt0yTz57HgZzKAmpQD9IkYEI4aPiRWwgFJGISjAoQbv4e+WRR40d68vvj2eOhHPGxNRBK/y6ehmdapvk+ugO4/DbxR1kk4A2U4HWRSTMO+HYCy0hARdd48tD85+LO+TWz94+/U/EdtTrKjPuY9fyr1GQ8lvkwvKexuB2alpdn0my1o
+BKzFlllqt8+crrOh7pT9YH2YfW0a2mN2/HFiQOCXYapv3eWj6wO4dpVDGlAm1EIUe2e1ECmcWfPS9LBgPxIF4/U0fp3IsymBm93a3RSWOLWqkN4nW9OwXqmIL2oBa8VxfWNBCS/Ex4xyXkV16yV7uK0a7z4FpUk9BIhBZ2APGKYpxMuHWfwTU2qB9MpLrWxxBAf5G3G5OJUi3pVDhzPDABb/FqrNpgwuEK+pdus/U9Xtr+WYF4Ebe2JDUq3NG79B
