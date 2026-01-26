@@ -1478,7 +1478,7 @@ zoemies,4
 ~GECKO~,4
 ~Gigzi~Wigzi~,4
 ~Kiska~,270549511
-~LoveBunny~,132
+~LoveBunny~,4
 ~Monarch~,4
 ~Nicky,2097156
 ~SILK~,1028
@@ -1712,4 +1712,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-Hfya0ZCZOZstrmRKgekvQEXWaF3h6TseWJO1MjsVMYQ0VmAryWJCV9Og5h4ttfEySr06J+4MdCOA+0umEQPe4QOsKjjwY4gPvx5NMaunfRyAbDgi5NKUkKyt3ohmURefyDVKA0FPyIdtwPfSdtWghQue58PyGdiX353QAAomzX6sMuuLwp1k8FVAsEIcL6mQdogoiGnZIKncnVZq+Uf9w5RO8cPEb109rH2TNF8zw12d/VPDrO+3TFvkxvnf92c0
+oCiiFHSl8puVOIXNfiM+Hv/MdY+NZwiQ76MVgqPgxBCOoPdQMKcFgeigb9TqPphlYIisGgqMObCvIoCvOJBl+EDcw664/wmY1iia+K3Y5eRyVzIep+bVlhR9gHUWsbN6HfQ54LBotm8h5W0GLKtx1z//UX7ZqAq17IGndk5A/C+6+qdOz/vtnnpJIQizRXuQVbJ+mYtYEC3nfFG2xGgSxPR7UWnshHFtT11byT47+TnPxons6ipACG2IKdE8R/AH
