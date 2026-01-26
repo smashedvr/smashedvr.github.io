@@ -256,7 +256,7 @@ Daddy Kim,4
 DaddyKane,4
 Dam Shin,4
 Daniel S,4
-DannyLasagna,1156
+DannyLasagna,1028
 DaringOG,4
 DarkFangz,4
 DarkOne,4
@@ -1003,7 +1003,7 @@ SpawnDaJoker,4
 SpeedDemons702,4
 Speedwagon 1284,4
 Spinx44,4
-SpiritRage,4
+SpiritRage,132
 Splinterx,4
 SpookyBat,4
 SpookySummoner,4
@@ -1499,7 +1499,7 @@ zoemies,4
 ¤Blizzy¤,4
 ¥AceYᵗWacey¥,4
 ¥Beru¥,4
-°ʚStrawberryɞ°,4
+°ʚStrawberryɞ°,132
 Ánry,4
 Çøūñtērfeìt ୨୧,4
 Ðavysh,4
@@ -1712,4 +1712,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-Grv0vz0nRGO9/CYa/mp2lnhubEn/4m6scZmHYb8FV26v31xbz3TU0z9EUAIiNl/vQXVCekRtNRQos0Dikr9HjQYqJEBF1imWdvtNPKqo1wMqyS/+Z80iL+RpbXr2ixRujAgcMlpcKWkT1ZGpgczv2llcsDaMy3CG1Rg0pLwYj3vzq5LzC8V2zYjYIqHkdxmecd1olluIAmd5Ctl0ItOKT9Zk9SCUPU/va1G3SfS9PvZtemMISVUmq8b5dg90smTi
+jmKWKuOkKIZuV+YEWA4H2z/YzcRc9DhKCjBItWOjnsOkVpj+L6ttkSuqD3k5rVs2mtrV1Tih2pnbddBUgkciAFZwmWDX6zxOe7KYNR6kGWr6E1p64Rdn6BhKseGleHCe1fCVEO5H971Fu0bUvGufSj7D8M3PJZ9cQyPifCvFOoBAcLXjIiQqGxtO2vTSg2TC9JG+1a1liRy4MeZrCwIeRd9ICEqviBY6UA2oJg7LOyG3tA4GaZwyq1whWLyIIWWB
