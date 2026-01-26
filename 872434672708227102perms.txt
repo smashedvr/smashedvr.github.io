@@ -1,4 +1,4 @@
-1769374800
+1769385600
 ''Mike'',4
 'Rittsu',4
 - Hugh -,4
@@ -56,7 +56,7 @@ AYAYA ǃ,4
 Aaldrik,1028
 Abbz_,4
 AbusedCoyote,4
-Ace NanoSpear,15
+Ace NanoSpear,12
 Adorkable Fox,4
 AeirHead,4
 Affirmativeee,4
@@ -1658,7 +1658,7 @@ zoemies,4
 ễroṩ,4
 ․-DEXI-․,4
 ․Esͥթrͣeͫsso,4
-․Gucci․,5
+․Gucci․,4
 ․Ice․,12
 ․Iv-,4
 ․Skittles․,10550801935
@@ -1714,4 +1714,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-bnJqYIH2rckr57Jb9WEfblfqHlohGhM3DvG1ibKk+ztNxMHVE/8cyDSeJV83Qvz5IbiDJnK4BrLtu1fqS7LPOQjxQdpFneDfFJ8l6TUkfIAv+fd1eabp7HfhAS6WaDadSolNWedHuuDSYygfFwIFZxes4FtBBrTHRgiuMae90laSNXo9SQdYX1Hi0JXqfjy4GJecKl+YKuDOtEKO57Y8BUclJxJYrugVL9+8wG4fKlkpPa2fqvewU4hBPcpgFH9o
+HN77HDdmHAU5VH6qapjwA0aK3ffrByobJXLbaamTebHtHAexJZh4WAhhcFC68clNWR8kDcZi4ZG+IYRHKGj83zSPEy8FxjmxjR7u3G2qBZlk3NNHyupHBZ4Jf7CHhlpxObuoHOr1E2bM7j808yrLDiPYa7TIHVFNhAmrm6wor/opZZtZg+ir1gKkfByvZs4Z6/jFV5hH0ZV8qaY7mjGuBkpykDMIyHvdlcqiwbOovfMYbovDh0d+KGMIs+Xg2ABR
