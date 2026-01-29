@@ -820,7 +820,7 @@ PlasmaLeProto,4
 Platoza,1029
 Plixy,4
 PokyCoder704,4
-Polynality,536870919
+Polynality,7
 Poolio818,4
 Pork in a box,4
 Ppolfo,7
@@ -1717,4 +1717,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-Q6ZR0TCadFcVKsQzoSJ4M1Sg70WsesQSzFB4xg8GjAsAcTPYjfjRImOQZJueLxakw9WAuCQ/vfEigi49/dGP0Zn8h61LL/x2QRc2wFviVx5AIx+5/XkSCo+4gxo8piWVB4m7ZIRr4VcRsVZiioRBUDhYvSOtRShx0JizJbSxVspDP9S+GnarNrZwa6SQvYNPJ65Rjby0TJxiGXp0auVGSP7oAHkBBmuLJ8BwunRncFf6gJSLC1LtwGdf+v3YY6wF
+N8TbbR7Fuwj/jBkU6k8prGiuLHvYPj6bG6k1V46jwPw5FpsTLPo0+NZvf8yKeNS83Ju9ENEjc/9U6+BhWxMblSP27lD2P5LjBZecj3pCncRF2D0pStVOOWCGml7jcxELsmka1xkK6w/Vo4NLpV+q39OeQUQWTBFKeCEMJZ97Bgk9KuvO5BfptT4yVd6Gizxoip0SgBLiZTOANgSLEPzPBov88BB/MAqVMhED7+H88+Geb1QmTs18jKHHIfq7jyig
