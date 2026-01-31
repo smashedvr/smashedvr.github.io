@@ -604,7 +604,6 @@ Lil_KG,1028
 Lilliah,4
 Lilliankey,4
 LillyVRC,4
-LiptonTBaggins,4
 Little Aqua,545263623
 Little Saya,4
 LittleRaven2025,134217732
@@ -1719,4 +1718,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-KX+xc6VyMqdSL1sxvqrtEGTAgpLS3ZEXR/aq4KtIGX+ZrmlVKMu9UNlOZSwH6GlA7tOjP7roBZArnFMYXpO0Kx+pKALRDV1PWkqtQLS4dRuh4P1ohNyhuPj/c7yIOR+q9uVovOsGsxVTcwhZg3xMT8l0mTx2IMDLnUa4nuHu1IkTfAKeuEwRtxseqQYgvSaCsBRJ4AaXlEqx8FzAqdghyaZfFDGnFHk7qgtSeGMsL+hiEYdhj5fdIJT+Bh0xE4No
+c0CwGO+IUGlbQFu/THSroAKa/vxiCAp8XkVgUzHEN7Q2dC5w6wtISxTxG/Wqh5jtyH3xsCwO9fF0ZxAUNgNvUsZ9UtDpt9QCIylbnVImZU+hI1D3LE3fgkDYe+B7eHScRJ6Vu1DnlKPsYwfxZxtVv0DNBepMwTXfGOd6NHPgEo2+M1lbd/MT22iIRfbmqOJRUnTNvmMUHuIPGxhVvGUftA2vNzal6GptfduGtYB5xR9Mlm2xyCYyc9MpnpxGRxcf
