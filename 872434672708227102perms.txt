@@ -799,7 +799,6 @@ PandaJuice,4
 PandaRiley,4
 Pandaxsaurus,4
 PapiHector,4
-PartyDawg,4
 Pascal05,4
 Peakyblinder485,4
 Pheonixcatlover,4
@@ -1718,4 +1717,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-c0CwGO+IUGlbQFu/THSroAKa/vxiCAp8XkVgUzHEN7Q2dC5w6wtISxTxG/Wqh5jtyH3xsCwO9fF0ZxAUNgNvUsZ9UtDpt9QCIylbnVImZU+hI1D3LE3fgkDYe+B7eHScRJ6Vu1DnlKPsYwfxZxtVv0DNBepMwTXfGOd6NHPgEo2+M1lbd/MT22iIRfbmqOJRUnTNvmMUHuIPGxhVvGUftA2vNzal6GptfduGtYB5xR9Mlm2xyCYyc9MpnpxGRxcf
+UTmdYM8fhKw7nJxyMCj6hDkPJoYJZxlKJlOBFmxb3KCYt8zWYwJe4dnUnQcHVqUv6ZGNUQCmyFP4hFM0JOw2jXCYjP68+wFKD1nxWEWheS1PZCNd/eYSE1DXSiXStyma0dHCShwb0KM3s8CNdC6WMV4Cu5OVgXCuiu8y4lRVKiQCXlXwd/rWE4J6AVCFccvjtpfOHdsmgRDwsFRHmCFp1sp15UOytISdvZqUc7oejVUL+K61xH6bm8wHej9nmtxQ
