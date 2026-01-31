@@ -362,7 +362,7 @@ Fenic,10550867471
 Fenix__,4
 Fenn542,4
 Fidd1es,4
-Finguard,69264741391
+Finguard,68719477775
 Fire-Princess,4
 FireGuy,4
 FishingTheWorld,4
@@ -492,7 +492,7 @@ Jar1n,4
 JellyBean84,4
 Jemmie,4
 Jeshka,4
-Jesscatty1,8392711
+Jesscatty1,8388615
 Jeykou,1028
 JhuneBug,7
 Jimbalina,4
@@ -516,14 +516,14 @@ Jɑke,4
 J͎a͎m͎e͎s͎,4
 K a t e,4
 KITTY - LOVER,4
-Kai2X,10506247
+Kai2X,10502151
 Kaidonut69,4
-KailenLunaire,8392711
+KailenLunaire,8388615
 KaittyKatt,4
 Kai©,4
 Kakizaki,7
 Kalitapaws,4
-Kalm4h,547361799
+Kalm4h,538969095
 Kami Desu,4
 Kanditt,4
 KaneKosmos,7
@@ -754,7 +754,7 @@ Ninetailedwaifu,4
 NinjaTRTL,4
 Niyako,4
 No one special,7
-NoWayDude96,8392711
+NoWayDude96,8388615
 Noobstrikker,4
 Noobzoard,4
 NootThePenguin,4
@@ -999,7 +999,7 @@ Sofia_the_firs,4
 SoftshellKrab,4
 Sonyatta,4
 Sound of Death,4
-SpaceChicken1,4202501
+SpaceChicken1,4194309
 SpaceCricket,4
 Sparkilly,4
 SpawnDaJoker,4
@@ -1052,7 +1052,7 @@ Tech_Max1,4
 Teknickel,4
 Telian,4
 Tend0r,4
-TenshiK,8392711
+TenshiK,8388615
 ThatSparrow,4
 The CannaKing,4
 The Hole,4
@@ -1717,4 +1717,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-YuAHBwlEAv3hoa9K2hHvNei78BNRBBn/McirAlQEQqkHFBQELJ0WXffjsqFGw82elHuGfeQglhncerZBYVPffigmmwidVShFa5rHVYsMG7ki3Q3bYW1UsWY4/vPWTrcxnKsFElf6AdlRdI8aAZ9gZf/9RIWQ/KAtwMSQ7IpaTOjKeI14pcNivv4fEt9f04ZnGasMN5eib1Yb2jWosc1FrKblpMzIM23zZbdAgBXLTLAVwpTOEjAmV7/dC2gfuskl
+nnudjYmqIeNigq15CxtCqRASekjaMNld0jW9jk92vDSCfJ7lA6/bEa22l2vIGzIuZ2sIIJ0cSJBYhLO6n7+FwbPCxGe2Ba/Pa9728+5WXmRD1C0cIAm+uzX4kN9B5KjP0OLdaUMYBT8Y+tEGvlpXSo/7SmNHLyxjzwRlR+UdsQcgnY1nYMUIA83YCC/ZnjKyT/p5WVN5hIMGQC22TkCs81Vx8z73/kno09TG8TgBvtTm5LeU3wFnc7WsRXXOSQSb
