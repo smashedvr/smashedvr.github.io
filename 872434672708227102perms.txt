@@ -259,7 +259,7 @@ DannyLasagna,1028
 DaringOG,4
 DarkFangz,4
 DarkOne,4
-DarkPyroKing,7
+DarkPyroKing,8388615
 DarkSoulless,4
 DarkUnicycle,4
 DarkYanV_Dragon,4
@@ -1718,4 +1718,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-FidcnSHfBzCooUh+Ahv30BMjJJYcmrhBWltYbwGfXGvfjhDJbwqZDwKQytnHvetw5GSaf2KhQmkOhaehIN5qMG8vIF3SAgypPmbI9NkJk7NtV76Y1ZWyQw/I6OULEQr+q87kFpNKnIzawUPIthwJn9NMq8aPu2kku5eauApmFafy22X/jTuTymPa5UUZQRLW/PI1NuslWbOLHrIo1finq94JmEicJPHQ35LSk+rtXqwvy4UmYa0YxNcVbBu6nIrV
+ZJ7hAwl+fz3HPfjiPnQ0JLvUFhxhpMxqJ+QLW121FII2UQl01muALXElm1M3Ae8hrdC24j89gez3iD8Y9FZlP191dQFECriLXeXYfmnm4jyx5IOAdTQtM1t6AjfNb1TmTzohiMCDNcaLKOnZ/OfVzH7HTNCjNj3nFcF0AoXfnIYd/0IWImMcwoa19dYp+VakN79LBtGNy4ayalLIVbV+A4svGFoO6kQZl12JeVtQUKL6votor3Zlhn8PYPhA13bo
