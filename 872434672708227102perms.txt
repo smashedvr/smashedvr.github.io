@@ -1494,7 +1494,7 @@ zoemies,4
 ~SILK~,1028
 ~Sammie~,4
 ~StickyPrisms~,4
-~S̶t̶a̶t̶i̶c̶~,135
+~S̶t̶a̶t̶i̶c̶~,7
 ~Uuna~,4
 ~Wishin,4
 ~Zimos~,4
@@ -1727,4 +1727,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-JMywHSCkN+nNTiWgVUwRdKg40YnfZ0fqpr/OE9QJ9v7A1tEw/MRKj+TPEW52209ZNds8zC0aNPnWoqp6Hm2W3ZQDogEgpEJSqhjPNiltJuihBQAuKIxWUUHfA7CTf+DNBS28Q9I0gPT7UgoS4ucrzLavUZfF4YQSMXPd8NTSgw6vaJlp56JnhG4Mu+E2gUE4/3WuorqtaBm+j1bU2r+LnZ4cXRX6sFvXW8BDa7XMcxzWLYlO2uZPFtw1InRp6+pl
+DnSE72EWYyzH4mizEyhoXfJADbj+lgrBtax7V1qU19Hs0k6nnQUM6tL4JsYDCGK8cK6eEkiuvhGbuqVpzpFBW/Aw4PCchX5SBa5040x433NDaMepXsmTbcVrl1Ydf8I7UGnFXapraSJM+3kDaJWqaLIqb7makceGr7Hb9xZXozdYtNbndcoW37UG2lILDB1FE/vRzAm5RXwmiXl2C488S8dKN85KftOIxls87BHYTiXvGxIvYff4E2KQtgP59I9T
