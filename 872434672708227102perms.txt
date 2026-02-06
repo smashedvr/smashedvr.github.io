@@ -950,7 +950,7 @@ ShadowWolves,8388615
 ShadyJackalope,4
 Shark345,4
 ShashTash,4
-Shazik,131076
+Shazik,4
 ShesAverage,4
 ShesFatal,4
 ShiftyVices,4
@@ -1725,4 +1725,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-mFUctQ7L4hNyoutXqjURg2dLmBiyInVCd0FflJGpKmYeFB3e5Y15cGLRyGgBC+qQy8/H2fPSCEyXSE4JjHuw0B671F3ehc88gUhHisUBlBn3n+VBlsHc2UFeZuE3f8UqkhIzTH6XO5jqNxWIA5Ycv++uBMnH1zZd3iVmDCLJPa1XTwpw7uQqG82TcaHFqoFNF+8Cx/NgkhPVH+qkl+yd29B26b7HwUXrHbIlMocU7LhgXuMj7s8QDEV0y60zL8wE
+ZONDV8+LMfvjbgzPQLTojZDdhPwDj1+p2WZm56TjpDTsvBOWxQ6LoBd6ywsfhSNyP6Tupg8uK9UPHE8eoVGtsjhLx/Bqwou2uiJ09xWc/4juLySdCDP3qegDbf5ObAeba88EZPqm+/ARAy5qTkaVxcBlhHr6/Psf5O3bYwGqpz9oxM+y6gdnJOy5JxJLIz/JWePhempOM0ci+/b4ztgRDRnTAre7NrVo8QI1QW0m/yOAsRRhCzzfxCkH5hNwb8yR
