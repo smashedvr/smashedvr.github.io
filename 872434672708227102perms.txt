@@ -6,6 +6,7 @@
 - St Nick -,4
 - Super -,4
 --Blair--,4
+-Amara,4
 -AstroLex-,4
 -Batty-,4
 -Crow-,4
@@ -24,7 +25,6 @@
 -Slaine-,4
 -Solensis-,4
 -SparkyKNE-,12
--Trinity,4
 -_-Hydra-_-,4
 -_-Nëø-_-,4
 -aLIEz-,4
@@ -1218,7 +1218,7 @@ _Mr_coconut_,4
 _MιƈƙҽყJαყ_,4
 _PANDA__,4
 _Reski_,4
-_Rico_,8197
+_Rico_,5
 _Rizky_,4
 _Sushiii,4
 __Peach__,4
@@ -1727,4 +1727,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-EQhT5N9+Fv1m4RB1KjPLyj7LsKGjPojZ6QfHcFcqyxwQA8/XeOPMJfbLZSSSF1azzILkyvfOTHvW1jVghPImg0sZt/mwk6jzt7VNCZz9zuNTdQPDbth30yvLAJVcIcBiOV2lL9f+PUDTNa1TKful8zHFWFsbM8yrjUe5tQA6LTZiP7zPVGfSXiM7FuumZnQDYkq/ydbDDGhKi7hpOWBsYNaLeLmfQ/AKa5q0k+5t9c3lPMTaG61Elk3T66ZR3Ubf
+hd2EScNQs6IT3j3YDX9UydssJFLeQX72AaK6+L/snJopYf4juLHn/FngwiRoWJJ/sMDdmo49qmU9kKlQKCsPdH+kodRyDVuIsvMIZ4iYYt42tR8Hs9hWLriGw3TBbYJHLSyEq0Fjw57Yn00VFdCYzVxnwccNzJkbxywwx9CqoxNAQx/3rDmiuk9VTK7cEb2HviEHESSISjcZUuSOzh2Tc2OGBBGQ633VNgr5gnZ10RKobBJTe4f+F97EwCBKutfH
