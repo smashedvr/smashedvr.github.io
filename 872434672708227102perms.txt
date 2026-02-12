@@ -853,6 +853,7 @@ RaptorDeity,270533127
 Rat_Arvinn,4
 Rave Demon,4
 RavenMakara,4
+RavenRoxy,8388615
 Ravenඞ,4
 Rave․,4
 RayLund,4
@@ -870,7 +871,6 @@ RepairedPlayer,4
 RequiemV7,4
 Rett_,4
 Revanith,7
-RexH,8388615
 Rexton Armos,4
 ReyClub,5
 RezPicolasCage,4
@@ -1728,4 +1728,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-MkXAX8o1iUeOQZMwpB7CSo/g3XrELTclyigl9OAZOPAkoJY7KvFG9GARSBsGXSAgURy6O2sPiJ/Vqt10K+HeM0r4FkshA2dvItIrtYyNG1p1LwKlvO529WuENo3TGAun02Xf4LFu+xcQb+gaMrZssELGEx7Crm1u49PhAsQK0M2hmh/NqpIF2Cbu0aLIAdLQdoc2So/fsqF9IKTWOL8Gq4AsjckQ3/NjZGBzgItbkZnNlJdrH6/6fUzd82rJpDMo
+B077t/gkReTy79Zlj0p8SDZOH7djA0G4qXAiHhujYUJZVzgAyVmUGroMD8S/mAeD4uXQ+N5l2V9Xt3vqNmYrtvzb7KCZe/+hjl8443dGV1Q0000tE+wLPOf8S3mhk1EF4ZkBM7MxjyFwFT2dFx18JL6/0Hdk6VPrq/4EG6+BQOfYHfCMwg2s/0S62Avakhg61yuQYDBe2U8ty4vC6RF7+zMuFkTMic5pN3O0j/jZ9VA1yiBiGbtJ36beXGR2cjcY
