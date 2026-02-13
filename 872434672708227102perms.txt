@@ -101,7 +101,7 @@ Astraos,4
 AstroKaen,4
 AussieRobbo,4
 Austin_Nova,4
-Auwura_Borealis,4
+Auwura_Borealis,132
 Avanine,4
 Avisend,4
 Awamori,4
@@ -1731,4 +1731,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-gJhpuHQn7GL19dUDQASDra/Dj8h28zcHiQwI9xriWgdoxwkwXMgPUJdRbSWdXUyKsZ2P8k9vjzpIYNrPOs6501EXl56UCWzsbnT7MBXZPL4wTKvDXo1SwhnUuZKcUp52lTF9d2m3ABFNvHO6+JjSRQ84iWGgs7MPH53C6tkDufES94uLK1yPzbXG0RZSsgZOm3da5/e5pQEpHrbm77+KUzm9uosj5ieE2gTQbvEjMbOCe7XaQ3YsbQqevCTDweBe
+T+CI3VDeysRCD+xu3mHA/2bHVbVfAVZwYsc1KV9C7bqEoHy7NahJ1MYcYoW0imVP8DoKaXUQdSJvDt58/+ClgQCv0tVDVLhZejvNY62sxrDbOtcedZzXdrWE4ghwnD8JrqkzgDLGtfklfrVgrK0CJkoru2sVe1YQ1+U5FZLDvM2EHSd8QVJA1I8y5HuwvM3ewe88eXhUGaMHpMFp+4H5chzCNSRRVPLrjpUiMlVhUt/HJFcIalt0TB7V7oqU8uL1
