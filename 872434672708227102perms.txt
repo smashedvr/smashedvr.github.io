@@ -105,6 +105,7 @@ Auwura_Borealis,4
 Avanine,4
 Avisend,4
 Awamori,4
+AwokenToken,4
 AyVee9,4
 Aztrax,4
 AѕтrαlHєxx,4
@@ -1709,7 +1710,6 @@ zoemies,4
 ・ＭＹＳＴＩＣ・,4
 乂Затмение乂,12
 乃ㄩ尺几乇- 爪丨ㄥҜ,4
-亞AKALINE亞,4
 抱抱 HugMeGua,4
 月 Luna 月,4
 紫は私の好きな色です。,4
@@ -1735,4 +1735,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-lHcFvRC938Lui6UEyX6S0cOtAxp+C7aDPOQ12ireyby7ky33OQ4YSJ8aMOFK/zfqdfAXiTUFNclGbs0CpRKxFEH87PxzfPtaATNbcj93REIzw+aq2vPGS4O6vuBxNBxAj6tJ9Nx5aed745Dsgk0jpQmjdiaNllxOVQoHQXEwtC7v6l9Hk3Kftlno3o1ttUnpQKjhuYzxLp1yGUhsy6audXtArVlJ6l+tNCvrzP+MiRJTZWkzvDGe0BtlOd3lMAXK
+lHkna/VCvNVoIl5+D0weiAnSx0BBzMisBMIQ0nxK7PniXDQz/3QSVpUzIFjALfYDs5JyV2mY4iCvjWKWm8+GvlZsjxPPTU7TTHEkjhKaCfYf8iL+lK2OgCpZK5BaqbKpd/uIrkPWJzZHLidcGbvpy3LdhINTL4KxonbjRm0LSOPI5rh3hVrgMg0bUhrlJeMth2n7cz1bshi5jJLEKFb55zrP54ts+cVVZXlOQmTFw7lKQ1fv7TLgaRZsLWys3enO
