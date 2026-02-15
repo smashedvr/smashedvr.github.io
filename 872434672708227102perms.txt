@@ -1016,7 +1016,7 @@ Spinx44,4
 SpiritRage,4
 Splinterx,4
 SpookyBat,4
-SpookyRedPanda_,12
+SpookyRedPanda_,4
 SpookySummoner,4
 Spoonkill,4
 SpurdoXD,4
@@ -1738,4 +1738,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-YBziuUICakPgZHMAgNvWn/EMeoHR56SR+H8pWUd3nVVDsBnfrfTpI96L6t2vIZMd96ruJO+RlxeXM8j2m2QQx5TNJKuwDi8kKbs40LRnLRZTO+nF34gEVFw7snw4Q2CaPJpc1QqhlaSrLDL6fMvyNPhlwn0LOWot4KqKxV5DZRcsCEfRy0BPLeJhOesbgJdkyiCa6Y8BZix+eCo03lfUUnWcRe53QJnFQtWR6O2nRRqkWapfpNdtMppc7W4CCQBO
+VuPAlY13ffBezbX0ldFrwK5EBYD9JHxk3wN20oRcrFVTOlmOwgZ1H78Psg6PjKR6c89yVGp1lUHvK/jP8GhsgMoHXCgErGoqaKQ7AX4VpI2XJtveLq19d501q2lajdDamNSZyfoRpLhwEZw0ju7uu0Q/u2X/UepXdnDlJyJ4zF6mQWGhzh129T1D4VM7eUp9zZ8MA1hW5LIORaWYHnU+7VSIxqARdksBNElUQDBq3kZMJiPNK9P3syFuzxO+UWCo
