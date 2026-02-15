@@ -1008,7 +1008,7 @@ Sound of Death,4
 SpaceChicken1,67108869
 SpaceCricket,4
 Sparkilly,4
-SpawnDaJoker,4
+SpawnDaJoker,132
 SpeedDemons702,4
 Speedwagon 1284,4
 Spinx44,4
@@ -1738,4 +1738,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-HxbjOoXgZ3ZtF5EzJ3yopuLqU06TbaBxId4pyk8Q4BrJOFsjKxh06QC5QumoTqZLKY5zNSxY/HXnvyO8qseXFETn521i4ZI1S8IRmITgtOBSvA1mSUCc9x5Klmoyj76BOVQMGWvrrS+Gsdco84MNZ1O/GDuUVTBsHmxkr/T6m7owlHUQkvKGnaFcTlnNI0XnrDkZyzyW7XYRt2Sk+nYTQm1m6G9WjTwxbQZqyT2rG8FrWQ0E8cmUV1+ai0e9YZHv
+EZFaEiajjIhBsKxzU4YcyxAZPrhdV2ppLu+6AD1m1LOgRfpNuiL/OLT4A1sFKwPz6HeKR60Z5Mbn5rkLsndeVsgpxdX0F1Z9EpBqUC/WJVsbtx1XPsdgV5A9NNOR3acdPJMHFqLCDt7gsqJTE607rtv4uS9680wzA7uju8wPTKWwyinnWlzcnN2gVDiK7yrm762hAhBnr86IIiNxpfS6QIo7A/JjpN8Ys+1twOqvp4kYMmsHXI4T4rzLBOauYH3F
