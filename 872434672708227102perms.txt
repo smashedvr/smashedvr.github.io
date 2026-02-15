@@ -1728,11 +1728,11 @@ zoemies,4
 ＳＴＩＴＣＨＥＳ,4
 ＺｅｎＡｒｃ,4
 ［ ko ］,4
-＾＾Shama,8388615
+＾＾Shama,7
 ｎａｓｔｔｉ２１,4
 ｐｅａｃｈｙ,16777220
 ｚｅｌｌｉｘ,324
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-nfCxl4IHhmlKQYcXVyBEqVMg8zwHEUW/Kxw288tcNpmOaHhk5X3Pqq5RsR9vcckiSLJEil4JSm8K7eZbPXgEmeXr8j+4In8Iq/OrXomkSztcLolEry2KWJ7fR0Zp2cIqXyzOkR+Cgxq/ISYXlat4bZHykTLD+20LaVRI5XkbC7dyMYjB0Myh0MCzQHm2nF6qWFnqJO0W7m8uCUXkmiOC2pSPmjijX0iB0S1g32s7OHK55Z8w+QhBGDTGBAWT75zX
+LqW6XZTgCXcnoDKzDnNTeRsdjAXg+NPfxs3tCKnkkRTzrizvSj3eLBSe8EjxU/KAcq9noRbWXRcEQvo64/yH4e3t+YJ0lqLBTCg2ep3XP+LZH5g3nurQK1vh3vgbuJTd8WCpIxjMqcot8yl5zCpWOT5PvNI9Jnxy/DgmG0kWIhvLOHire7Fs9voT0IvRLPLmU6O13z3IJCldoZXMEcEdNXxKlPiUTMeiOjF8WM4yugBk+OuZ5VU7udguxvSybdar
