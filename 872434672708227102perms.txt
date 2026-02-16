@@ -710,7 +710,7 @@ MoosieeMoose,4
 Mori Me Senpai,4
 Motor_Head,7
 MrBlackTail,4
-MrDrRandy,132
+MrDrRandy,4
 MrFlashBubbles,4
 MrLucifer,4
 MrMittenz,4
@@ -1739,4 +1739,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-c6d/9dj2qL2T81gleJPBc6DtDdlbpAege4IDQY0dTkql1VXIujxRDEYkjStacH1ZHa7hRs6xJRu3pRHPzGkgqkjKiVSREtItZlKYGP0eZbvhBP4FSyQrPGsGL/xcthwJtCRsIOWF4p+7krhewdleGCjgQe/jbVU99A9c1scvxGlg6ZaKqdSL8YW8EQVbxxe0lF7Duxk3zumvMtlVTnFNFOsJPl8ZSOm2GjOsNatxfSA/o7u+pB390SKLt8SnrpPP
+W8cow+qgHaIR3+qyxFsSI7KTrfjHBovCdHDxNI39eUS6j/K1/I3fQMZYuPEAgSbnO+c+7MOUMF4ucM0OrOwJwhvmovF8pPzK97FFh5HDy+he+DymwB8W4y9bGLvN3dR67ZJDlbi7EHoT66RvNCCXUGWzz7DrjaiyWVXCWQg2MnGLIXq+cWp38r7j2KNzCpGpm5zEWGyXRNUxRRwYyh6n99ogrU8AC+ZGIIDZGJ5RdjGuj7/SI/+jflj9VfluRGWy
