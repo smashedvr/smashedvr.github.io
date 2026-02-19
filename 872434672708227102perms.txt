@@ -417,7 +417,7 @@ Goth Bunny,4
 Gothic Clown,4
 GothicFreya,4
 GothiccNaomii,4
-GreenCrumpet,132
+GreenCrumpet,4
 GreyGoose20,4
 Greyoutt,4
 Griff0n,4
@@ -1738,4 +1738,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-mGIhTHhY3og8Tw6+A8ZLHxQo1bkIe/cM5gAA3oOwnTdQfKdJQUt7r12wg7uU2Gyis1+XYXo3a242lBVSzx3VcyLX715ltECF3qidMjdmGL6BNMYJlTdJXXQayzYcJzBn1lX/m/a5xxFO+AvfDcKkg5Bx8Vy4oeaHE21S56nNhxzQHsM/RTCpLscfZG+pxzS8PxL+4+nWVqoDWMVjG7ilghOcemAax/9IIke6d5YMUnAIKOYMQH31cHyg8jk6NgbN
+mkXD2zmhE4qS+HJnpyE21TRACNODaWgprEBmqjEh3LsvUTsWXjn/DYboZ6ibjw5otoC8SqBjifPQqDtuIfnnuyk27qMec/kPoE7Eb1ZTeS2Y9FxHXwbRjXWJ/wTOZdi8kA81mPNjdS/XMN44X5PmZ5CZjLyMFWgNhpudr1n0NwmzL/r+oHDqWv/Yycq8DNh9GD6xqEJ/+CVVrn0Hmn6GzTkbHVlYt3VWla4iOOCk+0hy9XHJO61whuBqT78YzB3c
