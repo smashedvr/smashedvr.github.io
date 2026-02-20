@@ -1031,7 +1031,7 @@ Sting_UwU,4
 Stoltt1,1075855364
 StormiNight,4
 Strange Brew,4
-StrawHatStream,4
+StrawHatStream,7
 Streq,4194309
 Strikerdxl,4
 Strunger,4
@@ -1739,4 +1739,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-JRyTTQxbhwk+SgCe+c6wKg3KMjVeGm2k6WL2lVbw9q4x/lyu5+HMH0ULVjf6IVbWccZzIyCDy8HAhVumsc6JtTbmZuGaiASHLVnNacX0r1Gl+MH955Ggh+X2gPh54MiR6ieIIWy5wnA3bMUDMyRktpyLzKtFPGbiAbtcIA0UYiWdS3BrQSHUfQl40qamvFE5DlCxRKpzGyxEZ7r2ozv7+7XID11j8Hn4y4eAyZbHLKkdBQpFjOAKwt123dtuXVcn
+gjxoK2B5x6n8rOYgrocE8PYFoxfFoDF9EhzWQNeYMe0YSCqT0gmBej6LzSrEvdfZazM6UDyZL+tGbQnpPO6PrdFjv5BVvA/mKZR3q0KgUOAhk33o6eU6KrKlSUSaUeMIRGg58JZUEItL95ic1kBK7JD7goM61hE73lgUkzhX04EAIlmWEX50817YagOddP0mRRD6T1eGH0Tbs8qFUuNsXGzvokHxKjkFd1CiHAp7RXHObwnu4asXCTTGzWLQXi71
