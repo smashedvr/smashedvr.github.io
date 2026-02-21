@@ -927,7 +927,6 @@ Sariell,4
 Sarri,1028
 SaskiButterfly,4
 SassySawC,4
-Satan Senpai,4
 Sativatrax,4
 SaturatedSalt,4
 Saucey-,4
@@ -1469,6 +1468,7 @@ xKanashii,4
 xMattix,4
 xNayu,4194309
 xSc4r,4
+xSulfurWolfx,4
 xSup3r,12
 xXBloody_MaryXx,260
 xXPandamoniumXx,4
@@ -1743,4 +1743,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-WUSLxL6hbOe1t804Hyyc0ax1atSdnUoC4bwWKs4DIGTbs6Z43f5gw+MZ1qyzMbvHeYPP83JM0E5rvnvrRDSDm6WD+eM5v71Tsi5qSj4bt0YsfqNPMOAsgGuJWsjdiLXMq/T4DF148T+HkUp6/FtK9OGNjA6fPEXPBSPLQTUyaG//xSgoWaU0lqS4dorPW0mF8iVFLyGWtH0QlE3fzAN0DeE5yLUiX0pzggMtIt5Y8if5BO/kv3NhZKY0I8EQcwJ2
+VJKyJY49NnmbZ6dOXGf9Ct5GuLSp1TH3Kq8n7DqjR0SREW1Ok78U3pUfko7HwTpC0FcsQPpkJP7bOef14AUYqFfYE+t78aorjkly4SFtaOefQ/FbZkkuGaAk77NPPrjj4e0Qdxms4XILBDhIDBgNaBYIsSigseMvYMTmKe8RujHqXxTwHUsOaEzIqxe3BGSDT7vKw7408jhlzLfI1e3VK6bundFTm09bHiEmJWnbH5eHn668eJNFUBy04c5WsquJ
