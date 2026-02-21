@@ -286,7 +286,6 @@ DessyDreamer,4
 DestroyerMon,8388615
 Devan_Louis20,4
 Devil_Dog_NL,4
-Devoury,4
 Dieon,4
 Digiorno-,4
 DigitalMonsters,4
@@ -1743,4 +1742,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-eYyTKyHZ8zGw9qOm9gllddNtYJzfVUNYcIcyvaoc83mXvp/0EYtnHtbHDsNPP+J+HHtPE4hoI8rcvIruHK3XCZ+n+A4uMagLJCbA2s1SWOzU+PGpRcg1XuBCUo8wnjbzTQXp13zIC7VOVBkMsUwcLG/bg1PjzYHueouadUb0MIPNKQr+sSVH8x2UGA0OGfCNv/uRxMOpnk1fW8de1W1NmmdQ1BsK+IEMJwzj+OEMyUpHVHJL5pT6i2m01FSmz+lC
+FrGq++VAMWXAp2S0eIoCF+o1PamnyDY+gMOn8vkYfadPl3/PlOO+RMZudBxzSRlTeDdRDv1d+Hh8CFlbf7DlmGOA3RWULh2Lj2lmUXRlCNkqpHfOwAeKZi+R9y/HyzuM1k+cVTPHGEp1zVf+UBf1yIenb8j8+AWCVUDsHRqnp748sFeq8vxkQs70P1ohiy3AY03qSDlsXCk/i7jdUMZ95/vBsT1sUKxBhubONyih94tfTDctsykW1S6CtI0EGIkh
