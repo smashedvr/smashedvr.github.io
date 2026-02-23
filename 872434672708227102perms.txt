@@ -217,6 +217,7 @@ CoffeeWitchTiel,4
 Coke_Live,4
 Coldcancer,519
 CompletelyVoid,4
+CompuGeniusCode,3
 Comunix,4
 ConPat,4
 Condensed Malk,4
@@ -1747,4 +1748,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-KhRYCFLEOMfY1wCGIiZ9sWWaGu/VHXVj9PGEs77drudIcyAzZ/X8VVVjQLzqdq59SzskJilq0pMcgGsNWp8dn6XrcLa7gJcdRsiy630uZrkrdei+prcyZiHY93gLeVomwNHblLNe9zkUgMisc5wFe87GO9s4JfiCKfLadnWIfKzwd3V2ycTU9qzvABlOxoj94CO/xMYRqC51h8Dtw49y8wg07SNLjwK173tDkAk8wRKEQy5hYNyhJqLIU4TQxHAD
+gMAN5dU2KTr+mzpuQ0eCXehg7S5WQpbc1fZwNXR+jjAZ/Godg1vbfY2fZ/YZXCuRRdi5RXBfRMPANl4FxigTldo40K7/mPR129pj9+AiG3AG8OvgmAcPXgxaQamTD0JVWPBuA8lICnz679Vfbx3WkUc5/UEyPJq9EDZWUrHWs9ISTe2vFBSRi4tmiA58hk5wIEAtgM032u9HTP3ygpfb33DjYd8d4hw4hDsdGI5bWLySH7Ip7Qr05T5ROXpdRH56
