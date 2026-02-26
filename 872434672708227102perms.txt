@@ -949,7 +949,7 @@ SerenitySouls,4
 Serjío,4
 Setsy,4
 Sh1fty,4
-ShadowWolves,8388615
+ShadowWolves,4
 ShadyJackalope,4
 Shark345,4
 ShashTash,4
@@ -1750,4 +1750,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-g8Xy7xGl9e7/r1Pu5XGXsGurRWLFkIFVPH9jhGFpNf77lAcWnlnYJFGEpBL4JeV5D3ULtpE+mvbufDiu3xsjBsHOK4jEyNGSCrhN4zDdPqVkqPOkApae7T2Q8qxOgmW3r1JeRlq3QvQpXD//QQwXlH2iTX6JDUyE8lssAp21Y7P7via2vHc24mQHJQXZhn4f0G0IVt8ACgvFH5eNHKVkB1am+9Ux+J2KQ3nnSON4xeTQ0jPcbtah6wJMVtO+ZCLh
+Fb1gqc5PkJ2cNvUPDPeAgHgOqe78ZbGYW/KYPI/FoG/EXKSFckkWdd4HhbvXvqFo/fjT3a7UiyBbampPMBDQ3BXfsJwB2i0wM+/Odfc8McPtqTjBNR6KMw1bJT+Ff4R348tIIPtTbYRxJmoXlsG6qYpnKQYS4SSEABCSzNxRXdvncsieBIULNvpcQKhSjxYRXM9XCkBX1yA8Y/WoA/geHPNlQ4xKKYyHF/+Z24eJyt95nqtrQQFPUjiFi8HtiHpu
