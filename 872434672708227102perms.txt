@@ -1502,7 +1502,6 @@ zoemies,4
 ~ g a b s ~,4
 ~Alstroemeria~,4
 ~Audacity~,1028
-~B L U U~,4
 ~Blood,4
 ~C0NV1CTION~,4
 ~DOLLIGUTZZ~,4
@@ -1646,7 +1645,7 @@ zoemies,4
 ༻ＶＥＬＩＳＩＴＹ ༺,4
 ༼ Soulcalibur ༽,4
 ࿇MURD3R࿇,4
-࿇R E S O L V E࿇,8860468743
+࿇R E S O L V E࿇,8860468871
 ࿇Ranadriel࿇,4
 ࿇₩ł₵₭łĐ₣ł₳࿇,4
 ࿏ᴛʜᴇᴄᴏᴘʏɴɪɴᴊᴀ࿏,4
@@ -1733,6 +1732,7 @@ zoemies,4
 Ꝅyle ☺,4
 （Jay）,4
 Ａrtt,4
+ＢＬＵＵ,4
 ＢＵＮＧＬＥ,4
 Ｂｏｎｎｙ,4
 ＣｒｅａｔｕｒｅＳｔｅｗ,4
@@ -1751,4 +1751,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-fNWVtJdejYLnD7poN6BM8jbbRdZqV59+zbl3kgORlYI5ZqSu6IN2J0BUBy1DFE7utByUrBmhZO29KLjgr3xyP2NA+Ta00zHCqQXrb8E8ozziGfkB6Iv2D8gi3nXhv+QAkhRYJDF7RPfQJIk8WV7MRtgQwradv9SnoUR4KSIJi8Xcb4n+pf8MU8CpilA96vHd87lCE2xE2bcP01Sz5+NgNFANnwRkhtgru6JyUnffKolfQOGzReHJ3y3V869Rlyn2
+J/7dCXAL2OU/uMamhIZdoYdGmIcJwAQyQ+6SSo3734+UDvsq0jUvxuyDb1dnewigGRJSnxUztmUCcUb0cjELx6KEAGGelqHpR4W+OpVVX/zsPeBftn+whJL9nV7aeQZi3M3tAVfeUtRAxdgn9P4zYyn0r1q3wXvUStZOXTDua5LY/VNG7OuxlL72hUeuD38V9yh/0J/0PlAy1chCdrHWJG8fV5YDfEE3DT3vqAnrUbcE3s2JzFduj8bb6CJXA2uf
