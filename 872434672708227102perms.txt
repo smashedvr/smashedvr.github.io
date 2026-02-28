@@ -297,7 +297,6 @@ DigitalMonsters,4
 Diosnz,4
 Dirty,4
 DoctorTzarcula,4
-Dok_Morgan,4
 Domino4529,4
 DonJon,4
 Donovun,4
@@ -1755,4 +1754,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-Fre5ekc8BnaPbTmxCOX7X+CtEUsh+m5Tcf9eDkT/n0Jr1PfgC8947H+Xs9pfbQPrwTcnhiC90yGN+G0nA3MglxjC/dYJ3CwaZqNvbsuBP2E21ZStxmSUhrSw6jqNE2ON18YB4CxnpUAhkEhw39ARcFYwCQREjHtvR+0q29KjYGDqFeKOXwJgx2Icct0fj3HzIYxHBT/z94raqjRQP8FZn5zwxciuA1jiyCArA1Dv1WAwoAQSafRg526rilLr7PJn
+XDANig0tcLVjHvp2WAwwaFeb9kxI+uEmGzHoSf25yU72Z5C52P2C8y3yvpoRgbV/1dfg7sku/gMkzbQOjjiCtCAQHpGUCmz9d2k7dE3J6uKtC/uOIU5MmXEqE8XEHLTrDta/uHO+gia3AXS+VCdWypTAmYY5ypqwPPpmt1JG5I5BGwvOhN3b7glMZb/YBC01SDqjX/nhPEg2Ba2QXJHVg8QW3kXOeq94TIZV1jj0URo9xt+tegvmsqzLzLQ4L+fJ
