@@ -61,7 +61,7 @@ Aaldrik,1028
 Abbz_,4
 AbusedCoyote,4
 Abýss,7
-Ace NanoSpear,15
+Ace NanoSpear,47
 Adorkable Fox,4
 Affirmativeee,4
 AgentTexas™,4
@@ -1754,4 +1754,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-nsE39hoOGPgJNB4A0U7u1zjfMN4jkoJZFrad/tvO0i09P+lrJg7IrG8WocVEzHWiGz8XMM7jCsJmoeK5aIwQIvnA7/4508ZP2N3SFYE8/3o+EJr6Ia/Q3RuGbEiAb6eybms45K+zsIGqvV2ZgP1gNk03ep9NY+W5hixMewTVpLZIDapl0RybpScTb0CKqg6o9ntaENY22S6JcBiuOdsSIGB8q+YNq3Ua5tI2/IOKlLZhw5nLW8uIZC7dzfQlW8QM
+VX656bHtW9BpP4mDoxySfn/BEEW/rhrD4OTVYZ3827lDqfT3ocv61wv/Ncnn2dk2AKFxx00hr404mTlVsxQqpFt4u8CN1f072ZLN0nQo6NwV7HUq2YYDhKScsDK/APFFbl3rw/exkwkv+/p8UON+2bmR6Wlm8fNJTQyExaeU3G7yDmMcfyHaFi5szoL7nuwN26WGiBKmZL1DUjyiUlaOFLzYWrifLAPYo1VrYIKkQmgoClysvupCkEdFAAyI9xZ1
