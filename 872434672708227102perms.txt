@@ -384,7 +384,6 @@ FresForceKMS,4
 Fresh_,4
 FrostSickel,4194309
 Fubumaki,4
-FuggleFox,4
 FumikoEcho,4
 FuxxinMINT,4
 Fynlanis,4
@@ -1748,4 +1747,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-bkkQwYMQAsAkudlGEDPlaYT2xwsP9Xc0V2MFbQh3TaYBQ55Nthyn4ctX29IT/W6bCnuN4PAeQhcZe8ZWsIOGcvfTyxvNwKvMAeUbcz4CDNtElHKUTck2Hj2/PwZkgcyumTvMrX1pLMJsisTiIqd19xRzCNyvVzL/aLYbkhDBnaQgxnhJ0PK2jdfQEJT5USAVhsCLWq2wDE1uAhFH6qn4FCEw98A6CQJYcXtBEzV+A5BdusbwTlojQOwAdqBds3FS
+ORPFIuAIZjRIBRrCavCGgf8WBDFYzNZZ44FTGv9ICUTDo0wD9WN8VlOqXWeWmn+Kli/6jzbIXbpVcJGSXXAND+XUI5KngcHvNK64mtiX09l+975Pa1a8e1CVsaPUxnyfuSdRbwqkWy8gy/eaf+ecyz1mNZ3BCPhpkaIEZMS3276LqeBbTE+thPmoVr5d3yF8LZnDUHfZg9/FufXhp7jve1ysJ1BC8S69Qr4VZVDUp6TNaxl0i5P+FF3pTeHFhW9m
