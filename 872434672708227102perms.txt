@@ -1047,7 +1047,7 @@ Sudo_User1,4
 Sunlit_Desert,12
 Sunshineᵀᴹ,4
 SuperBlox,4
-SupremeAnubis,7
+SupremeAnubis,4103
 SupremeCreamyXL,4
 SurelySuffering,4
 Sweet Bean,8388615
@@ -1754,4 +1754,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-fvvgrKvN60IytrqLAmX43D8qot9I/QLO/uPATIvQExpcAJ+ELoblfDFcG0AiXW4ZvvZsw4n56IMPvxcUmpWmLIBBBABl9txnC7MocBthZbW3DYzQEwI6bwJYEPi+Pz2MpDYcniI0rzOAkf3cNXtqdJmC/rzOAjtrJcMiX9RgcYo3iig+PcTpkYQAM3xxa/1s7pAUfEXDkNF/PZ65NIwun7allAohJbe/WJAhSAv04xxAc9JB8dhVBVKqjlHKLmAf
+FyuAykm3FDrd5YUmBVoERjDX1AZOzGFa8RrqjGLIrHoysLyuyqdjziZ4KfDAaKoiuoHJZEjTM8T3+dbBxIFC/Hu54ZJAJmvoGmP8lHjF62xtktiROW6BFAxrcCMsmHACmriWcivhItY7LKwK9xteakTbF/AYP8fYKV0pDCKJvsFCCNujpMWqBgw254YmDyd3+MGYf7t124roEgEySEkLEwdpMhOS4ERaDI0o9PnBuPCKVjnMjMh+Yn5nbwcjngVa
