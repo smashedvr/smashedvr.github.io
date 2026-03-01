@@ -1227,7 +1227,7 @@ _Arcturus_,4
 _Catw,4
 _DUCKK,1028
 _Dottie_,4
-_Erika_G,1073745935
+_Erika_G,1073741839
 _Lain?,4
 _Mamas,4
 _Mr_coconut_,4
@@ -1754,4 +1754,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-N65nK/TW456RgWKR2K/aRj8N55xlxeFI90Qh1GuqtwyxDOgRGej+Hxk7+o++KJEiC0DarkhJdhxwSvj9xn6z9lwe1jsl7MX0zJzNsIEcuV+bpty75g4EpyIDrQ0BK5sc4spPRVowDkaFSNEFzyyeUaVeLtEDltGR1yQlDNTCi8EWnDqlMyh1cLdbjVkDW/tjS0CvxX1ka1aT+ByTXnk4jbqpKAdltvn4Lon3hm3b2ustzerA30nJL5uDSyuUU3L4
+A8n7fbdoMQm/KUU2N8/aYatl66cQzwsYiNM1lFi+OGUbQLc5dE8dVpUBX0+wmgf3bgEGJWSjE4l2lVG/LFajwt7L9K9GL2fohpY8GcLLBYRjq1vtACy+NNpkqRoaQBokLoUssQ3WJK/61CS9n8hX3IxnBCw3RkyczpPf0Q6jH0BuoTKzCVqwzziMo8EkBxt1QS0P5VSwRhdFTG6oy3Ql2xuU76e0dohgJU+owpeJwSo7Vl3hbnOl2SZdylrMLkH4
