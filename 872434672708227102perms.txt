@@ -1173,7 +1173,7 @@ WeatherMoth,4
 WeedyBo09,4
 Wehtt,4
 Welonas,81988
-WhaleNugget,5
+WhaleNugget,4
 Whiskeycam,4
 WhiteheadB,4
 Wild_Wolf_Welfy,4
@@ -1754,4 +1754,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-WDWnckpzOWbzXJJ+26V7Vm84DDu4O2b0I94hpthibBO29SMGgNlH2Bd8n3fYRjCMHMQbOeezCjkdPOJgUHKxb4CK9/gMvPdQC51rOFH8gSLUAM0uTCMgKtMX4e8kp43fpD0y6Kwm8Q+X8cLSAy/48ZbzQ9JbAQtmBhWzeh8Cr1O6z6A2vEW2CB5PPg2I4XK+nXdhoEVrxJL1KaG+u8Elqjlqv3ohK4chzi57/oQGetF+RwylzrFvO0jKhkN1Fqyw
+oG/kJl7H4TGRr48pio9idHpbY7bZg6MaGqhsmahpAwsjZtmIuDw4U1ua1hOSpAFcpwbpJgzbWDWtatgaUAbl0oa9osIPECbZHrZB5P1pVNyuFzf1Nz1LgGeKayPuCCfVJa4xUetWFi3BVzBReZmVnifcyDd1JChB0c2Z6CFZOdr1qh4W3Rgkb3EbWvAIfZFHcX8WV54ue0mW9lGxVejgF7ZBCcVxrdJ8ExUbphx2By46r895N6whOTivQCnvLyxw
