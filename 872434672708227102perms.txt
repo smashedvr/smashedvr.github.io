@@ -1,4 +1,4 @@
-1772571600
+1772582400
 ''Mike'',4
 'Rittsu',4
 - Hugh -,4
@@ -845,7 +845,7 @@ Quals,4
 QuarkEgg,4
 QueenAce2K,4
 QueenOfBottom,67108869
-QueenSaphiris,13
+QueenSaphiris,12
 R e d（ 赤）,4
 R3v0ツ,4
 R4D10 M1KU,4
@@ -1745,4 +1745,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-UoyR8vy/yZF40LM13VUGWKKe9P83erh37tzXy1hXHHUH+wl4zJubq0NsG45FCEdSqmGDXlQx9ChAIT6TAgddV288+X3qmjdM9ax3rq0l4CAM37zbwkobQ8cH2u9xCoHfa35oq7wTJZAGGmj5DSv/WOXAo5ji9CUDV/6h7wfHnszYtR7an/u6CVc68A6tR9tNuryNz/SiBbSvruvvNYLAQYlvdrIphj9GemEovrJXlQhnEQb43J9zUlqd68a8uzFE
+ZMnCLX4saL31UsWZD5e5GvvOjiAr/5UytLxTM4CwbLDzJnxmXBK0zsSIZsPsk4+mnNvA0pMHjNiyXe4FCgDG9/BJcIG5wNNY+eSVZNiAfmzRVLQx+TkL8qTg27ayQm8f/nIFnTXB8ms62sqXXFBkgFBGQgiHCW3NiDN++nksaE+rPV7t2VcArPnZrZcZQGX5hxgScY90WwZcGQBHb2BaGsUEcMOyzpnHygZgaWX47+7juPkVefTgbIH/f2HAwsNl
