@@ -399,7 +399,7 @@ GalexyExo,4
 Gallina,4
 GanzSimpel,4
 Garthog,4
-Geeknificent,132
+Geeknificent,4
 Gelato_,1236337159
 Generics,4
 Genesis,1076888391
@@ -1752,4 +1752,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-LlhWy5+dQPpWvLHsQ2QnRpUwkAI66BmCPla+F1LLA3ubz/Q6sYFDeWmZvRmrJySOXu7puFYk1imMPstAK+KPFRdKQbwGufS3hDmtKS82J64adGX1stjCPzRQCLNEOGOVYT3qNtd7bmtsYrdgnfBQ8YHLi6BrFBZLiC/FG+CMEPffp8L/t8eb6Opv3yHQWBbQdaiXXg79LQF+GUsXAggm/8sof+okZOKjeO0BAXfwRj+JvMgX2vq+aiSw5gKkRPFM
+QZM1IgDbR0wITsp42iv7aNDywHQe6S6D0lNfCmuSAh9OpbTgF2zky3RupM0fSqpraWxnptEvV/b39MDOthRk35HN/mLizDt1wOMB+4QRG8cSUtH1AtgowQbD5TA6MHGcLtT0YQTif75MNsHKRFOIUToXgufCs4Ns6cu4YJKF0aRv89CN/NSOAkcU8Jp9I7RJiSpVvWYSHuwIF7x8vpwPjPWl6F00PnrKqJEBFxcTdsQ7p7bzvHPmgSmJBTrsx3gT
