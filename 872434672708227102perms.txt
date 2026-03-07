@@ -1475,7 +1475,7 @@ xSc4r,4
 xSulfurWolfx,4
 xSup3r,12
 xXBloody_MaryXx,260
-xXLucianXx,2097157
+xXLucianXx,2097156
 xXPandamoniumXx,4
 xenoreaperzz,4
 xlukez,1610612743
@@ -1750,4 +1750,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-d+AsAUfyV9lubSpuBVOU5i9OCxQLSnQpnUTXcVHludzJM0nePq1xLykp0pFdLc2YJKh8wJHs97zltoQIWx1k9X0YrD3gj1aaBrqlYN1kEbGCCqpjA6klVCSrfnjP/wWDbA58SSKj35RIEO153V41ejbjk/Z7ToksQl+y3yZIBWrEJL4HkkiVWxv7OPsK38ORa7fxe+VdlwQmuPKwY1DSnVTxntM6LAg3QoLNlexacnZEdjH4G59pGb6iIhtOq4qO
+a6okUxhTGILnEEtfX7VxyKXILC4Qr7ReUMHOM5up2/G4czh97f8/0JsT4k0AvhTHJEGOZdlkTl4tY2iOHBY46fz1XvLcmAPgLA9R6hVC4FEpjbHtPNu7pqW4J3I1WpT/W9rNroqJ2Cl0mZPzr4uGXd2WhI0m2ojqEyxV/w4jjCwImcH//XlUUqZbJxakyrYXc60Xve09blWLgkejzTIrXL6yVL91BxvUle4wyTeVZ2IJdEVOWePs3y/pz3MZd2LA
