@@ -600,7 +600,6 @@ LeonardoVLucky,270534151
 LethalBacon13,4
 LethalyToxic202,4
 Levidel,4
-LewdAndConfused,4
 Lewdda,4
 Lexi_Hart,4
 Lightshy,4
@@ -1045,7 +1044,7 @@ SuperBlox,4
 SupremeAnubis,4103
 SupremeCreamyXL,4
 SurelySuffering,4
-Sweet Bean,8388615
+Sweet Bean,7
 SweetCitrusAcid,4
 SweetieSkele,4
 Swish420,4
@@ -1728,6 +1727,7 @@ zoemies,4
 紫は私の好きな色です。,4
 藥ŦĤËVÏÅĞŘÅ贩子,4
 Ꝅyle ☺,4
+﮴lover,4
 （Jay）,4
 Ａrtt,4
 ＢＬＵＵ,4
@@ -1749,4 +1749,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-FtcBTX6Rnt457H0/slldJHxLmSprY5wu+q8rrXJ89l/bO28TgyWSOuTfqm/P7krqMIO6oURtNiv+K6j0qGy36IOwlDadXItAGDSt9TdNbiJHeR4+qOu07AxhkoLvAz2JpS06aoZtLCjq+fwall2ZqjiHtY1zd+5zAfoXtVqyqeIFlzsBcuY+9cST/GYGvD4jAo2RtILBH1GaBTT327uIo8ICxoqL/lB+ADGJPoIdLZl5GL9TtAt1ZM0SIsiSPtL4
+ABQtyW745KHTv2Si3qOdZSl/xydvlWojvEaImfKDLTLy/d5rDK4jX1KM6tlCNxgNWXannMf0as06dSuDrd08iYUSGj7vzwUeg+0tkTfgchYbloQw+uapOnF4779kEbTH/riJPUcBwZRT9AevThgaM1M+EC5orPOawiiefGr7XoyOZGCnSKjlhSuR3WqGjSEkiZ9sBGStvZaDqtFAT7CR1CLNK/PUwKd2FF0LUlDnaQVRpPT8I0q4G+Qx+wdSCvLj
