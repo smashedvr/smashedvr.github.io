@@ -1044,7 +1044,7 @@ SuperBlox,4
 SupremeAnubis,4103
 SupremeCreamyXL,4
 SurelySuffering,4
-Sweet Bean,7
+Sweet Bean,4
 SweetCitrusAcid,4
 SweetieSkele,4
 Swish420,4
@@ -1749,4 +1749,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-ABQtyW745KHTv2Si3qOdZSl/xydvlWojvEaImfKDLTLy/d5rDK4jX1KM6tlCNxgNWXannMf0as06dSuDrd08iYUSGj7vzwUeg+0tkTfgchYbloQw+uapOnF4779kEbTH/riJPUcBwZRT9AevThgaM1M+EC5orPOawiiefGr7XoyOZGCnSKjlhSuR3WqGjSEkiZ9sBGStvZaDqtFAT7CR1CLNK/PUwKd2FF0LUlDnaQVRpPT8I0q4G+Qx+wdSCvLj
+jzQ7Ys8x/Qi7M0YZ/cAB1c1i372b9BR0K10Jc8VT+YVvRp1B1j4jUl7q5+MUYPOctrR/yjikXJC+G1akuvlMfS5khdjrumJ05cldv96g0/zepiy5cB0VGcE710Erkw2T3iQNvWyg1IOiAHrLiJxSXC21gbdtdnyOWQllJ+iAqLetNFpBThSnI64baaDJ3uCyHAFq6o/xSaBdYJiPg4MdjeCncicOP1vw2DJLf89DLyEfAzDUR65j5gQRKdjZLJtt
