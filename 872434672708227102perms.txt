@@ -1047,7 +1047,6 @@ Sweet Bean,4
 SweetCitrusAcid,4
 SweetieSkele,4
 Swish420,4
-Sykes-9,262148
 Syntheal,1073741828
 Syntyriel,65540
 Sythwave,4
@@ -1439,6 +1438,7 @@ ssandstone,1073741828
 stinkykana,4
 submiŧ,4
 sugerglider,8197
+sykes_is_dead,262148
 tacomango43,4
 tem10,4
 thatgirlkiki,4
@@ -1750,4 +1750,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-P8hLgFYkhYNQIyRctp9kWyB4fE/PA1roO/Ln2R7w5vRV9iAs0M8Gy4o/gNjOfOjIkkJ4ypa5hrccp8x5Ej8bj5nip4DKNmCtLCjVp1288uGeUEFHdIlrPD6UFtFewN0dnFEKtFlyLzVIBvLfR8ciyGSQiW7kZAPc1xvZ/18i7olCXCisJn9kOac60XdoD57Yd74l9ZkpaFrlKy1gNVTU0rEvDYqPxHY3R6zq2Fg2I8i90MwIr1I5DkXt0uWWcc2G
+JtxQmHxekkkIF38F6tdDcoJhRKblAo8DAPOMoS9IVlgPVPyFbVQX8z/XfNNJeWSIEhrw1v2pj5wlOE6hX7+hdgtXsF1BtMFAR+nXDsxwBNGhDsMSYDw4uvHHWyIO8nNjI7O2KubpB3+IJ2upoXDbV+mexP/qJBT9+OJfd7pXhcPWgyBiD4qiDL01f0+SbzL3EIAx4HzYYbyPx2/XrTgLDxKsJngtEyHTLdn5RplWeJlNbI5frDo9gfYir4i7j5XS
