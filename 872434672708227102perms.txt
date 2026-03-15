@@ -10,7 +10,6 @@
 -Batty-,4
 -Crow-,4
 -Epsi-,270615047
--FlowVR-,4
 -K-a-r-m-a-,4
 -Luluu-,4
 -MALWAR3-,1028
@@ -1206,7 +1205,6 @@ ZZealous,4
 Zadbag,4
 Zaddypoo,4
 Zane_x3,4
-Zatos Potatoes,4
 Zenjiguru,1028
 Zepheon,4
 Zer0Playz,4
@@ -1755,4 +1753,4 @@ zoemies,4
 ～ღ信号機のオコちゃんღ～,4
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-caVZsQaOnJhHkeh2G8BrTy3moDekpxo4ekSH75kaaoWbr5LJjvutZKIEaLU0jouaF92EDxskD13d7GEyYGsgdTTL97CxfgcsE+jjlyWX090TrnEx3uo+5M+j3mgDUqvTcb7W9+35aIQLDe7dX79JZ00fFG4OP+scGnzPJUVAbuOPD9zG8R9AU3ycJw2rWzdRMANGMeVGa0LmTQCE8Qg8uLW+9Ex/GAAttakvvXtE2D4Lo9+KGXi+u5IGveC6h+zU
+OXstr+uDEmr4uS4JG3WpQ5AgShBNcMyfwPuguP4wLEpSOOLTYB8J18dILwEwhJJyGH1D2yNeG+xAUw5t7kFtMVMPjvC2l41y+s1cngBCBlhkw+wQC4U09vgXc4+lXYUCLyM5gk99FATQqBeheAE2WQ9j0CYAgKbM2RhGYmDv9Q8hPGrxpyoKGvW5uhY69jufrPmmKyFR+IR4cUxlm+9vDTuGMUAhPEcv9yYIsI2sRSDqJyuyeSoi8i2RtZMJiHyL
