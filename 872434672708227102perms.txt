@@ -1216,7 +1216,7 @@ ZombiesDragon,4
 Zoommair,1028
 Zoеy,1028
 ZygoteTrance,4
-_AmethystRibbon,4
+_AmethystRibbon,132
 _Arcturus_,4
 _Catw,4
 _DUCKK,1028
@@ -1754,4 +1754,4 @@ zoemies,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-gEA3+bLmmL9t/vZBf5kRWmSUSgnfzDZVPZkzHQ7W5HgJ1Ppf3KBj66qvtwi0eXIzw7jglkxwcsMl4s0EwW3/N7CXUXoLi1H39P2vjCCR0XueKgGsppWcURRIfwPTDwNejyTDs1NwU67cpvVlpWGtW8DI0jjdIVMMG+Jqxp9xbq+W5H3lKo0BlQe8vbQQjO04tr5OJdTlDyj1s2I+M4nA4ufCQByNBHHAymdfZ1wwC0bDMTz9QmjWxt2gSEY9k3Fw
+MP/sR0lyml7z09tH/6RvQboPnlyRfeM83h21IRPaK0nAc1bwBQvxlnVmR2e4rJpK0jbWNs5RmjZEAE0ScYc6mUeDCw+qiNR/UUDJB+J8DJFqIL+jmG+JXoG8CtQnTwrqIwUf19n/K6ymb0jBQPZ9oEqDl6EPqFq6DydG2roSBp8cPRCXxPDQPpbV1ex9lfeAFIbuyeuld4Ceq2bX0U83mglbW/LN+HivXXM3+TtGCIZ4M6cjMVPxfQkaOZSVF8xH
