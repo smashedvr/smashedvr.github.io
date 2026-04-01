@@ -849,7 +849,7 @@ Quadio,4
 Quals,4
 QuarkEgg,4
 QueenAce2K,4
-QueenOfBottom,67108869
+QueenOfBottom,34359738373
 QueenSaphiris,12
 R e d（ 赤）,4
 R3v0ツ,4
@@ -1766,4 +1766,4 @@ zoemies,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-K7Ax4iPJg3nv5y/iR/e50JvCKgRMud4vFHz4SBcKAXlPcerLPEf9yxRGwbAy7MS0WH6PcCncdBoZA6C7Q66ZSsOhmKIfCbmba1SkkEGzp2N+pwxKg8vfpuFSbtqPgzOIPqM17y9tTGwXk43oIjv4blX0Bkh42HkV3pDIhi0FfCWIBOeiIIw+emvgbk4rxCPWTPHdg1+Hh0t6l8WrsP4RLwU3i5i1k4SwHSh9RR5EImUNz4LjeDxJ3GGqymC77JRi
+l92qdAtrpzVwwabQQgS80lqHI85oS60FRUmWiccZKrpEGIu2VGzOAkxVkLZvq7AWwwWEDqbRi+tEs+6winqCXGiwx3n3KUhpVx4lN5SUHa3JWhRM+wOsjQyxg73tYno6gFdFG86o+s+dkay+66r8WZtrthNUPxdAGUmhM4yT7TArwfRYRYvj7XM53OVeS5LGDNJQIkgsuGaNT9s5JW2lABqw1dy4R6OpDj3ee+7Pvc6/Yv3AZy1UJObl8fptPyIJ
