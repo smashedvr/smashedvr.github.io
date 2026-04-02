@@ -826,7 +826,7 @@ Pixlstik,4
 Plague of Death,4
 Planit,8388615
 PlasmaLeProto,4
-Platoza,9221
+Platoza,1029
 Plixy,4
 PoisonVSnow,4
 PoizonIvy01,4
@@ -1765,4 +1765,4 @@ zoemies,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-bPEUjLMwK+Jt7v1g/pcqsdlFT5CbZ1kUQBF+1USloQplmALtv8b9mKbmlW81N4o0ezmU3EhGmunmjSiEeopetjG3tMUr9Wyt9Z5GK1zPvNLoVlFNf2gn0+iPy/w/Xc7b5EsVLV+JMgubqB/XtCqzKFppjvxV2bWytSJv70cJ8S68MpkVNTaKNTbdfYaav8/hZy2BbUGdXLy936HEF0lRecTdceyNo+Tu14yGocHUjWXQ93Z1lzPSOe8oLfUF6mLQ
+VF5wuUcuV3dK7JACO0m97El84UyDiL84WhuFNGzYATBcfWjruUjPFOFw2cLf6fXH+R+V1l22BJSyTlys+APd+7cMYlgEExRkqLdylDQIdsL48DteNQri+3WYUBoUscc1DLNs+MaeVzSeFvCQot3H1OKJc0ApWddug3d/BC7a1p428FlCTF/qIt0Fh5pWxYwf8fX6j3TxRDxntJTMo6VGJYyKJDH4hKkRvXsIi0TEJfPzaFV03M7UnHQ+13wVX1yM
