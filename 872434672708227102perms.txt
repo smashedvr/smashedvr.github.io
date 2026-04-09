@@ -1020,7 +1020,7 @@ Sofia_the_firs,4
 SoftshellKrab,132
 Sound of Death,4
 SpaceChicken1,67108869
-SpaceCricket,4
+SpaceCricket,132
 SpawnDaJoker,4
 SpeedDemons702,4
 Speedwagon 1284,4
@@ -1774,4 +1774,4 @@ zoemies,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-ime+rdD8hyiG5Nsl6SKKVpqkC85XH5VCp5IgYrw6AmcrxNIBkzoLVJbL/Qu9uwDL6YBi/sh9QkKbA7mDAporJueH+aadurI710L1KTGJZYupm+8G7omsZ9smXKRzZIhSya1+PAkot53haZqew9mpcOueRmPOS6ZKip/27oj4Fx/VqZPbJz2AQI+i4xq683lNQD1WHIQhyg3VvSy5D9hEJPl8HzDKSahLFqvUuKABuiS9YmKBBMbMqZOqnytJ1t4Z
+oHz+rlOXaOaF1G9KzVQTjAXcFPpIT37wGjcGdlc3oVcipbWL/nd3MzCZTW48ltvY3uFX37ucSjnGnsA8hJPydFwtesKWD03mKm27gdKN8PEyofpTghf8VLVsf1dn247OTAhEaevHaeBdlTbZhKdtJk5XgUiwwW6cg7+/rgSjmL8g34KX9ydgE1sBSxGoALUm2IX6XzzV7rhQfG3FIIBO5J2nwudfys2FK/HP7ED3GHCZixqV34JJG/5iklhWQQvO
