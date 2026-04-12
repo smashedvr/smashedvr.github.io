@@ -986,7 +986,6 @@ SicParvisMagna,16777228
 SickNaunders,4
 SilentHaste,4
 SilentSunna,4
-SilentTalker,4
 SillyFrogLily,4
 SilverBorne,4
 SimpleGamerPOL,4
@@ -1781,4 +1780,4 @@ zoemies,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-mTmZazu3MZc+fT+sSC8rtrf0wtvoCOswc4i5L8v09URD+K+zR+aGBrUEGmwzWsBYd7daDJgHQc66Udhq9N1bLpEUJWogTjRJ+kR1yuHiCQ0m5wjVj2ItQ71v4WLp9SvUdeOvgXr+Ws8KIDtavAjayfVgOHGnuxMTptsfgvqAxfPUEqE9km+m3X0ep9aK1MG5C1iLx4P14b4WvOZ40fyP7xUTzrXPmrU8V7g9KMps791xtMDpWffxXVld3TPFs+xw
+YQiSQa7z/xMHjV1xgirx3CUzrgj23M3X8d6gQh4c6gUUoeU7YzBKso9W/mSJ3CtIzIhOlaL7tZ3TNUBQWMjqBsxGE6Snh4BuLe1J/egxTZ3cXqWg5Nnv94Qzh9sb7rmZxTRXL/QC4g1HvX6J/DkBlJWFpCtBsdExOeDPbV0EKt+ltiJsl3OsCrrmQ0RWz1pDyZy962MYb0Gbo9ZOvuPV19oX681efSrc4AD4bBWcu+xZfNSg20H3b3o0lFTVJWaW
