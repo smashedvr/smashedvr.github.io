@@ -371,7 +371,7 @@ Fire-Princess,4
 FireGuy,4
 FishingTheWorld,4
 Fitzyyy,4
-FizzyGlyphs,7
+FizzyGlyphs,4
 Fleky,5
 Foley,4
 Fordzilla,4
@@ -1782,4 +1782,4 @@ zoemies,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-Rs/wldMuQh0ZvCcEkaUW+Z1SkfsBCJDL6hFBHPBO5oWR6Qj6qvxkoKA66cjVGnydAvKXhwzNLLKQoT9JGusO6C/GiajEemRL6vx2uzS4bIy/M8Yu/RYmGa/8SdnJf1NnfJZyqX7YLOQa2rxUkWED3bcbB7uCYeckf6+sbBlgr1hDaCjUoRjJ2bY/mIR3KRk2YftmKuJBcG0tzQvaI0u12AiykzgEtGJ45cFN1EqjR+TKucFOI88pih1FJL349T9a
+E26hkHHS+PeDITnZIJCjiSzXgt+nzyz30XeBcR/lLM3VM1uZwESQI2QeGLjUFEyTkIaS8QQjKe5nOy3BpSoub6Dk6jpongAXJ/GfdzCg/Yn2I4/QS01Rl/JKxlD577FBUkgOSOcwcBnP06T7BHSq58dOAAUvj8yXe2hb4+vO3xEjnNqI0sU/7U4lpp2fGR6FSV7iykM5i+juEbyGcyluCDkIhi/XDF2TJ8Ug4722Bd3Aag/w2yLQ6TBnZ34+2hh8
