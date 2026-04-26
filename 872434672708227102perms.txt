@@ -291,7 +291,6 @@ DestroyerMon,8388615
 Devan_Louis20,4
 Devil_Dog_NL,4
 Dieon,4
-Digiorno-,4
 DigitalMonsters,4
 Diosnz,4
 Dirty,4
@@ -1783,4 +1782,4 @@ zoemies,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-kzX+GGj8cp/xPDHgSDYlXcU1eNwkcKUTpR9quoqigDU6W4kb+hJUtZcrVyXv6VnyOkStmFZ6bhEb9txyMB766ngFnvHyoCe7tda/NCnVlsYahtUGfLeC44teuPtOIv2DZYb9aL1fTpgpcXI8+S7GRZyH5C5x327YnzaogE+blqE6e5vKmRdQYDIJyA69kHt/6RKBG6QSHx13rmRhH2XuCk5X4S1aN57BK7dts0wQRwHN9j43y8VZBUylas1tNFCt
+J2eMmFbDk6qykkcxftLX8slH3w2zbS6AR0bPM1Ttl8wjndtHsjLevQKh9CvdznPzqXlmBtErDEZ+NGTAl9ZW3GymzPB/9KPHQ5BXCbfoXHlv39meDC/k1B3Jv1rKAELQoWQI4a2VtAzNTZmeKan7rCv6cFqy7wvQYaW5zBKOM5HUEZRxKwbKlJktk5tWWfpF3+9YGSkUjFrvpej9jEuCMxXfJ5og0EDDR4naxG45Mk4DT3QDqEejclCaSZUA/VTd
