@@ -1496,7 +1496,6 @@ xMinijinxx,4
 xNayu,4194309
 xSc4r,4
 xSulfurWolfx,4
-xSup3r,12
 xXBloody_MaryXx,260
 xXLucianXx,7
 xXPandamoniumXx,4
@@ -1781,4 +1780,4 @@ zoemies,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-N7vUN27tN6jsza8q4HkRV8DoN0ruKswp2rDNuj0Yw/KWjL6A+nTbjdcrg5mtGoSZbk7rQWv220h8lTL94N32Bkl3+l0oqgc0Xbh4hLcZZYsCFgjdPrb6Hm6Ad7+Tf7tM5Ugtnpnp6IvUFGd7Q1tyt0sxDAWQGh+/GJk19+c+ZIIa5LrWg2ihKi3Vl0SVB/J5eVVYMNxOOu69RidtNHzp8Eu+wkCOZ0ni93K3PVvRtZeVpdnqqHo/krq2YtGqZu3N
+XLeXLIAOFmODe7dwe6AuZuDKH0ExhZ2/8Zqi7tnqsab5ibcdUZ4p8GILW+G2XDJAiKtv8EipVtvbTsN5dWYCQ9WWMgoPjF9A7tQiqqiRhcLYvU9/8Qjb23A74IJLlpTP/2Ib2czC+6ST5CXzyJCNdYckafp/uM7k/sSrOAh8e10W8yRHO7HXXIuA+MSgSK2cDp6AIa4NjKKHCVyP2+vh/EyT6ur6qce37dJxVmEfAnwzwVyHU5XlyvnbFPVWiqay
