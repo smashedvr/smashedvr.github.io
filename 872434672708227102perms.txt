@@ -19,7 +19,7 @@
 -Marshmellow-,4
 -Mrs․Ðonut-,4
 -Neon-4,4
--Ryker,5
+-Ryker,4
 -SPYRIT-,4
 -Slaine-,4
 -Solensis-,4
@@ -1783,4 +1783,4 @@ zoemies,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-YfMhsID3Yxj6QD5+pw9rGB9LBOaVYLW0SZAi+vnty9cpRVOnfyNp9tV52HPwZDT4VIIsCijXg//eRf0os7L5M9isOO2G9PxdKpx74roqAiiNlD3u43fiGuUNk5s3Q8E4qCPCPMDo/W6gKdNwcc40NuAOR4Cbbtat8GhSvfQqSqxXaVJnvmZfQEdGi23VDLrJJFqT+0K17DYYFc3QEfPnaj39VF0i3m2I/97pT7I88u1CfAnwjHN2ZihFYTGy3ye5
+YtwYm5VxviwEUunfXUKKzH2jaYfpqCcjtkURmQFc9LWml32HNqC1saunAeC+saMoxYPYgu0NMrWPVgllbh5TxE05fZqJB38qZgEwCJQW9EnO1fM+hJMdWwtpinAFtAIHew7gtG0Di9C3r9m3XUCzSBUbfR2pDJYedCj1O5oEnwaf7HIjFoPWSAibQsTOn1LcfamggQD8NplV5dFDBMF1N8v99zp2ZMWBTdFuOhhh5mVsCbdVSyi7H5cYu1/inwvt
