@@ -1529,7 +1529,7 @@ zoemies,4
 ~Monarch~,4
 ~Nicky,2097156
 ~SILK~,1028
-~Sammie~,8197
+~Sammie~,5
 ~StickyPrisms~,4
 ~S̶t̶a̶t̶i̶c̶~,4
 ~Uuna~,4
@@ -1777,4 +1777,4 @@ zoemies,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-Oa/PylwsYIYlNcS7b+TaGINRIKbiLskiYgEkGHpPXXfTT/dWpd9yJ1LZPA9iMdEX5MVwTD1KOqZ7lb50tkKwYF/0TVluYASadRnEPU86ZONgVfXMm7GOeWarMJww5DyCf2Kl0R147FIKNPaRCzkFFQXmmollKBDASTLyeTgZa8OMGeGhXOwpDNG93IdsttrOrNsMmv6K7PXD3XY761wC61rSLIb+p7uRkmWof7MiKk/7vIfrtRSdMNYa4yrV0X3Q
+F9ECbEhhG3dNCOJXGqesHHPRIElVGIyjnNCzPoUfMMrgN1HD3oTw4cMAEpgxRFKCnVDdyHpjzDqMX+VC5ilh1/FVi5Vxl5OAuiZOMJ/lPgA2azF7pdgWomumHMj7RPy47gWfMfiv3EGbC/9xcssgbiALKVxiVFih2juRVUvDf12RvwFjfL7jfFvO7xiRlIQCCW/IeVddaWBivkhBOHnssw6hxMCXXYVmery7h1WjdlwTkuury9dDcUTkr5shigk8
