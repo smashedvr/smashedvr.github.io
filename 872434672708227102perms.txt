@@ -1112,7 +1112,7 @@ Treen Bean,4
 Trill Gold,4
 TrippStixx,4
 Tristan Asher,4
-TrophyScars,7
+TrophyScars,8388615
 TrueDivineGod,4
 TrulyBroken,4
 TsipaTsu,4
@@ -1777,4 +1777,4 @@ zoemies,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-mhdSSKlH7jKlX3KbLF4YIVdkvjx0rPNSw+U1ojEneUtvYUIJifGReoUQZR9+eGQ0+zkLyZVfPImfmC3UdaPLLnCK7PHDK9TFy74XyfD60j8ciIoFjLyRWNNaOjVJLVZArUD3DkqOZM4R0ddS5vUT1apYcCU99Ev9BqcQq4s7WL7uA7mU2a7vbRaKQ+chdsXa/hUuMR1Lv841tzJ3iCBpLgX1S+vESx5mhcFgTbN7fhNKyH1gTNjhyEX98CPI++/i
+X1xP7USMVcWsYGPSLMgb+XLbFe0x4qG5WNrJf0ixmuG42h5a50gbuQVmorTobeceRH0xCCaEfPtBTv6EJJrEp79nLXHNdE250qrTBXvEWvj/M8t7Fch+wpQDSl6lb8RZfcAP5fyLJFWx2VnicRlhz7D1eeWsG1WaihUhKyDhwGb4Is53sPbLGyOjvKiFIzsGKou2u17YrbiinfsKec3ayFb73iMeZJN52AK6yF8fjY7kfZKPi/4G9hUO7YIhLaqS
