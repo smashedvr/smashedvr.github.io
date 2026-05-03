@@ -1063,7 +1063,7 @@ SuperBlox,4
 SupremeAnubis,4
 SupremeCreamyXL,5
 SurelySuffering,4
-Sweet Bean,7
+Sweet Bean,4
 SweetCitrusAcid,4
 SweetieSkele,4
 SwishTheKobold,4
@@ -1788,4 +1788,4 @@ zoemies,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-JsAXDyZn9dt0ccSQjpqHTbr7oI+RYDH4uIOoxaEFRJ8siAJ/i6rbmKzqAsJ7c6BUJpE8QDnwGl3yVKi+4eFuPfQTO1p7CzJHnDNbnSZVTyRMmHFOJ4HtJScq1OpNt/4x2Iimu4GzS25UXA14/7ycv9i/yRHDdf9rkmzkXNBvLBdR9SC4gB9WF8CcRQNJoac+q98KajFH6tksgbcVgj3Om7NykNQ7gp8KYiSl3RDfFnhXiD47SCyzIGLjweVdntPc
+AHWe6M4BYyRcvif7ZOhUcItD6imNmKTDIfuknU1WjiKj0J8/FoDuyYlUTvsaDwndQa2DbDA8257GsBFXdIut1uFDkyoS4d7jLHrlGGUzL5yP6uPoPIgpoqsHNK8vxK1a41X9lQ9lNBjZJ/PcQ8WiG9Cgwg3QeLc7uHyMIFXEBaWGK9Aq1SblbikMFJfq+vZnNWOD/u7GYN3+zZmawy0PPfbi2dN0OJrm64EdGnwSuvGYr754f2MKbu0ivMo1ypgu
