@@ -287,6 +287,7 @@ Desan2000,4
 DestroyerMon,8388615
 Devan_Louis20,4
 Devil_Dog_NL,4
+Devilsangel,4
 Dieon,4
 DigitalMonsters,4
 Diosnz,4
@@ -1790,4 +1791,4 @@ zoemies,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-RjHbg93AtqE+iz56S7EDSVzl5aBHY0sL/mK6I7E5Vsfz3b3E/jDJxydWXN5zej/IKBcskZ7v7w3vXM9LyGe+L2B7w7fH3eDT1Xxe2gzNQxP79UjqT+/r2uTi9EMl9v7HZlxcHKmEej1sFBdr4ipuXsMa8b6MCAL3CGGRK+VXgQZ6dyq1OsgdrCCRspcpJYVa8trbBXJhXoN3rQzDXKCmcq1UuYoFvrkuYxpd+YVJuHaw2G2ncaXRNwSYai2Vxkmc
+GI7J/Uf5aX3T7ncfJVDj1bHZGJ6sNLt7b7yvu4pWlg6lQ0wX2bFgdcYrRdg/K8Op1eulh5YpLqpfZLPY7Nlv9XGqGa4YMq1lzmjftxWU+OiMaZa+3i0IU2ZFChI47w6aEBqTEbLKV957YKK3j2LJvsysyLLlMJZcAVZDHYZEvairhVGtt9mxwXBKmt9pb2RJzIIleGgwn3kNF4x9pwuL2Qx01U/WyB8ADBXVwg1KEI5x1jsyNlVI5xGWM0DNbUZ4
