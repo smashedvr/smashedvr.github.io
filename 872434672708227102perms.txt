@@ -880,7 +880,7 @@ RammyG,4
 RandomOni,4
 RandomZombie,4
 RandomlyFuzzy,135175
-RaptorDeity,550026347015
+RaptorDeity,2748781167111
 Rat_Arvinn,4
 Rave Demon,4
 RavenMakara,4
@@ -1793,4 +1793,4 @@ zoemies,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-WOzL06mbzDeKb5NIAUz+ghHo1dc0gO+9G1DyRyWZaaV7LTwDKPLo9H0LbtaSKifh8CNU6MUk4te7krwloWfLCMEmLtbRnHa/ZwGfA+r1Mgc0YbwifOD3R0Y/L2X2oOloFUMQzBdQQ4RG/K1Cf/dSsjH3gR1DrcQkawGF/RGLQsoq0jk+OwvrQ9NgOPr04RDb+U3879OI/a8wzD2wdbOESmiygWMUbGknUisQVQEw8xVN4lYxWh0/cWS3jhW5ScHO
+CmSIaHs4ChoviCkwrcoenz7rrutkGOqSMBdD7PBQ6E9u9m9RLcSZ3KIihOB7vWYYecC/HCBccbq75B5hoFu9A0RK1hiNxFWLC+R6GWK0exsAUFtbTmLa53GHkHNfR6Pm39RLjk7TkRfFB5RpN2IvC/O2zF/aZMw17MlJmgEdfHgivNKrqpLbx4o4UxklJDydoipAghNeYXmn051iVh2dYm6eKoAJuQ6eahpSCa4Euz1b0KohBW8SWvZp1qNQhJsu
