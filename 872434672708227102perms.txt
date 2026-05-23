@@ -227,7 +227,7 @@ Condensed Malk,4
 Condoms®,4
 Consona,4
 Cormy,1028
-CosmicElite,7
+CosmicElite,4
 CosmicSilkKitty,4
 Coziibuttercup,4
 CplSkully,4
@@ -1812,4 +1812,4 @@ zoemies,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-MqPn/sotZccnpWoHfQhInEeAGlVp90ONK9l+FIfZn5n9bYB5UKsYJA3tRg2bHqKGHRSrYoGHhIR4oNypomY/193zr1gkd7fIYtCTod/fSrumyBOVeBwDPVvdGoUNxYpTFIX+nCvRs3r9LVRtk46RHVPbMdNKDtHrhW4CeYhVESG2Cn7C3HmdFLiz8qI1LC3z1r9MnF+YQbWQEUjDkS1H1tWjMEdaf0PfN4jQpXegp+OsIqs3SHW99RYgdEo/anO2
+cIsS91U7AOwDpkezitsf6GSgK26AadOWn2f2ewpd7QhwjLgsnSanPN1WVYiHNNefy9laZzYlXM90Gkoq+w7fOd4GVMcp0VUgEIYDWbvN2nege+YEkGONWEff0m6bqTC6es2/uZIDhdqHKdOLe0tHOUJXRBZYK8S8quXcUZYdZ823kvVa8WNB7ASgFiP7ZFCoLdn2WNaV0POwo/FPhezFmPo21m/kDyBTmMKfFVmv7lh5PlwkKNJKDE8M8uzNuOyE
