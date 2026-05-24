@@ -293,6 +293,7 @@ DestroyerMon,8388615
 Devan_Louis20,4
 Devil_Dog_NL,4
 Devilsangel,4
+Devoury,4
 Dieon,4
 DigitalMonsters,4
 Diosnz,4
@@ -948,7 +949,7 @@ SC_BLITZKRIEGER,4
 SMis,4
 SSTICKSS,4
 SXIGHTZ,4
-SaKuu__,4
+SaKuu__,132
 Sabo,4
 Sadge Phil,4
 SaintJames,2749049602567
@@ -1025,7 +1026,7 @@ Skyese,4
 Skyla-Style8854,4
 SkylightVT,4
 SkylineVrc,4
-Sl33pyWølf,132
+Sl33pyWølf,4
 SlackerDK,34359738373
 Sleazey,4
 Sleepy Lady,4
@@ -1815,4 +1816,4 @@ zoemies,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-En+oEsouZB6O9WF9GH0KHyMny3SWBHdVx0Yo5dPE5mcVONi+6yGRM+yOnohc716NdeuFMOMZUYfOpENX/D9rzTe6V/00s6w4fTSzKNjNzXUuDTK3uozOgKpca/cH0c878n81+gmUXSVwYpVwUTkiJtOeHuiim3t7LX4leG96WOEajhYACri0BL6eTe6UNTkMQZFxSgSTBy2bdnVcdgn9kECjuAIWDTztrRVzgMBEynWDKLdU4d+BmB7Yk9Rfv138
+bfNc/4Em2V/HzUinDXwPXwTzZ7FjroreomwYUFdM7qcLXDC8iwM/KN2wEJs4pBX9Jx4CkXpjMZwB5+JVdMt/bF/Rr3NdFafg6/378y3b8PPog3FspTOfk9cjj1B6mUrScc6IEWndQyQiwIoZClOLMZWFMHBIr26Bw2k8g1weClxszbaBMzY3LRUEG4oUt1fpiuPApFShwNmEqgcswnVLcK6UBYSshzdxT3ENMmSnQNUp9ixPCIe7jkt+6g+7aZi0
