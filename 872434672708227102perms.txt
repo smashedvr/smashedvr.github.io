@@ -636,7 +636,7 @@ Little Aqua,536870919
 Little Bang,4
 Little Saya,4
 Logically,4
-Lorkhan-,5
+Lorkhan-,4
 LostLuck,4
 LottaGamer,4
 LouLingod,4
@@ -1817,4 +1817,4 @@ zoemies,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-ZHmkxdUr2CPIhf9wrGHT8hSOc1q7i60qDkH3ucS9tPN0Pzz2vO6Bnd/qmWs/e32yrWhxzRHq351P5jwLGjkDnkECTQ8+gSwU8j2ttSYz2PB7Ly3nZFw0btFuMGR7i2uJyKzI0ZDksVGYuHefUv2dqfBanxnza2bDKqS7OUt+y1J4c6VuBLRcYfNgtwEbiZwBKRVeAbKBU0LYpKcAn7d2XRkFzEFOHI+wzy3OFvMmEw9UilaqykZS5aPRD/83FzrI
+P00IA9M1oP02e8qd9Kpxurz8loB68mg12V00IGfV/fB574yW1HeCr86pQjhuSATZ/fhkNuKfZqHM4qRn1aWs1AtAGowNOhh+0aLDsiEOkRwzznynNJCAtmn34+IpdiT5eFTEQKniv9iFb0oEsKyUk5+hWMZOjwyApF8ncnrtECEESXhlIABIVDHVQf9Hxve54VeK6CqwYxYq1hFabjhasr6jcLHJBMp1QVFLzi0LHvTzsg4QsIFIriyERT9xrtAM
