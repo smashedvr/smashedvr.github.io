@@ -334,7 +334,7 @@ Eldritch horror,5
 Elfz,4
 Elisekristine,4
 Elkkukissa,4
-EllyBot_Mk1,4
+EllyBot,4
 Elyren,7
 EmersedTheFox,4
 Emily Reese,4
@@ -1085,7 +1085,7 @@ SurelySuffering,4
 Sweet Bean,4
 SweetCitrusAcid,4
 SweetieSkele,4
-SwishTheKobold,4
+SwishTheDrunk,4
 Syntheal,1073741828
 Syntyriel,65540
 Sythwave,4
@@ -1817,4 +1817,4 @@ zoemies,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-eWLCNuDj8gUUD5SZF+dSbUhz0kGRwCW1dedRFqtWvrcaoicdZMWsJ0Poxh+QzbcOKX2/VhlW8amZscsydL9NnCUHcDknN9vYkl+UaVlwPBWabuUQbS+CgEf8h+HAgnpV9+eNTQnzVYGZ1l8oSsgiSpvO41luvhOMPoRFYYqn1R6uhA6wbMGYHH3fpT8lc425Lqbn6f16gn6GTsVU5saFX0EIMp7okwXbtbPsJ2dAWWTgdARKRs3mFdx0kK4cLwbg
+S7E7Cqfy/XflqFmvSl7rFZEz4rZpJ/mIil1WVG+RrceeQu5d24UpElPIiFJZWrsH4j+P1iITVO2UNGe3SLgoF6AP+WdHC4UbR93JPyBwz9No1RniAta14oRlBTwnb7Rxi96eIKt8E+RDZCYLtWMhQh7vwCvOrTvTeaz/at0v+DYeCQMSSWo8TrleogvG4CkeZeDq2wMtNHir1ggqxnN/SiQbTEV7xUk77JgD6tLoeVqnCvVP1nCA/Yj3eW2I/DIX
