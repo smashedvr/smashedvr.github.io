@@ -422,7 +422,7 @@ GoldenCage,4
 GommeR,2097671
 GoodOlAbyss,4
 GooseMilk,4
-Gosu Ningyō,65988
+Gosu Ningyō,65860
 Goth Bunny,4
 Gothic Clown,4
 GothicFreya,4
@@ -1816,4 +1816,4 @@ zoemies,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-eueiMvKYvw2o9kHhkNKXq3YuGf6ftJ/y5uAe03tuVg4X6XlBXJCexhhmh7MItshzdYFd9twdIEpVSXAJdyPEeVBGCnhVS+1xof8Eu4qqFSH1jVLuNdM68fO5pdg5CFpN2rWFMi6F2HEYF4vBfvMgi/ZHxwsIIbeKxzt3suKpixUivqIqpq0G6LLuU9aYUm/BMxC7n/Daxwacv3cJQRo3bCxy2iLqe+cVn4DCfMtGBgQdhyqDra3CDGkwTXHMQVDi
+VAMH5tRDvb1NHaSFCVKACUXvLc3iGyXisMHX76tKQ89h9AQbnaSua5BLg+s6bRWgjnzTEbi4xLJd75i1zfqnGCc/B9YsZI0XjuDvt/5JsYRbPl7Ew8Qwdn/uhoH/86s4+cSy3/dywAJnToNarQYqKTe5f3HF61QwWMk+lUUXoBPInjzpylkT8+bdukOCpO71PqEEHOgUmO4H9xJKv9PgCIv3WbYPJTm24yxJDnNMOeVNVtRtEQO+WfYDABEBeINI
