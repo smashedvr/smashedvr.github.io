@@ -329,7 +329,7 @@ EdmondxKerr,4
 Eebu,4
 Elcontrador,4
 Eldritch horror,5
-Elfz,132
+Elfz,4
 Elisekristine,4
 Elkkukissa,4
 EllyBot,4
@@ -1816,4 +1816,4 @@ zoemies,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-fe8+s1qVN/NSdTL+ACfz/csNdHkyLxYDmQUzFt91IvgVMfaXKp2Izio3hXAinmPzIO50VYLOgHK8ZZhAcMrRHlXYcWu2aiEga3srIKoOeGFyMjZelfT/Fczz0MF+fJajXbjPtAXSO5Wx3yiL92l1h9UXaDOl0envBPv3a4W37OmpwUy3U1sFapYfsr2C5lZIiWbaqKurig6yUI0I5V2rqtSS91KtZBHjDWuUd96nf6aXhEliNpMo73JuuszwS6Ht
+l2HOxTIwQ+eJA3ShnCq16tTXOLTtO9hbHjN7B29DJnaZY85spfEz4BrgP1Em6IARp8/tEWWzDBeJNRUsOkr/sha6Si0WnOSOWjwPyCsX1AIz+AcsE/VCFGHS4vjumVf3fD2/LydOTGLRskDAYk5jwSIVOLmJiprsv+YPk4uP659bWPK5EvHZPgkKwWi+RWO7q9eKJvaqXA54DC1ZCC1wIDQevSEq8P+ktEZthb4EqE6qQq+kpDzXsPzJomWAaPuP
