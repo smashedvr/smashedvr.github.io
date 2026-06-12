@@ -425,7 +425,6 @@ GoldenCage,4
 GommeR,2097671
 GoodOlAbyss,4
 GooseMilk,4
-Gosu Ningyō,65860
 Goth Bunny,4
 Gothic Clown,4
 GothicFreya,4
@@ -1708,6 +1707,7 @@ zoemies,4
 ༒亗Quillcamz亗༒,4
 ༺ MeOwFeeD ༻,4
 ༺ASMODEUS ༻,4
+༺D₳RK༒₳NGEL༻,65860
 ༺Stσɳҽɾ ყσƙαι༻,4
 ༺Zephyith༻,4
 ༺֍ ᴋʏᴏ ֎༻,12
@@ -1822,4 +1822,4 @@ zoemies,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-nzpHYptg3tHhoHi7wJ3CxCIawfdKMtmtuHzRbumk4Y672f1CcUSVoKUmsmPbThaWWbvTWl4fRuYt0MSouVFKbszafq+5u2aRDzJKIfSNEHJO/DbiHRMO9ECK0ZJ3CTpOIDpKzqRXAjpVGONCXYWFz3tST66Bl3XUKCcMLE1w7XTlMd43ffGl0Tp4NeVNonHfLCiyAeSDaHQqDa1CCfkdwTA0XTTnt4UlCqAyCyEHsP7AM8l9osUEIH3Pb40qd/i4
+CZex2RzUm54CgbP9C0l43FbK+1qoHccuhCCk8ignA2lPXjYDwjjoQ9hDCUis6QGe0cNBucaNUUQAXE886+4bav3h3XeiYf1Bg34KLGQdKikB5FEuXsS1XXOxhw0HWKc5G+4MK95vTGiSQyM3NXW4vIFDY1qX9vTERTdSiDaSZBLF2e/LwolKPPxLTG+2fd8o9atdECRQw3T3uDbKv5l7EQC7XfeHPcRvFwl8ktJT2BlwyrDi5RHBIWQJFoPtIdvE
