@@ -1272,7 +1272,7 @@ _Arcturus_,4
 _Blindbat_,4
 _Catw,4
 _DUCKK,1028
-_Dottie_,4
+_Dottie_,132
 _Erika_G,8388611
 _Grave_,4
 _Lain?,4
@@ -1822,4 +1822,4 @@ zoemies,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-QoXq+FAzwjfKBy+AHLVK3UwgEk856Vhwbd6UBsMPpjRb13E+/qjF8KIrguolnI7jJvkukpgcqBpJfmfSeCGIr/f8SUuT3ZzyKaMZTZ5tJXpn1M1ZeUrMK551nNXniPLcKDlM9vhlmCndSStQAIpoCzOxfH4COQWBV7gqN097e3A6kKQBCPoHA6atbxdnjPn7v4J3hlbWoOXoVIFztz/ETmwi+fikXvLkXf9olpRlaqUxF135+3Ww9BMogVmpajsR
+j4IXa8ouUerBUbpTynDhjnLjhNpypyvul0pQiTfelHdPOQCa5c6v15GEvwGh3kw3qo/tx9spiCC7HtX7bHpyw3QlLAIdcN0aEAX374SqmnHZ5PRDldwkYOCi8riA4zv0vIWKZrSg7x2zT6viGbdWibsZn6MBwk91UiRqL79FGhYs1ZoSO1VslOWywrwqwQxYTjWZhmt4p/IOgC05amTl2QR9tkB5y/kAmirgOxweHWurPgrHtvWkGc8Hugj4RzKb
