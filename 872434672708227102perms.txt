@@ -1060,7 +1060,7 @@ SpurdoXD,4
 Squakie,4
 SqueechyStar,4
 Squibblers,4
-Stacy'sMother,132
+Stacy'sMother,4
 Stain9,4
 StanceDex,4
 Stariielle,4
@@ -1821,4 +1821,4 @@ zoemies,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-iGKJRmsvfZ2UP9txRzDBr5usVIhE4sg3IPRvZdNHCL/etoOiRKeWj9KH/IwfvMYddHYiI/EIK/fKffOa05akixlpQOG6eTZGW1rNphtRm8gUuA3Mxiz2XtdBfC3qE4SocSgZH6b4rO5lxnLiyXXHwD3gmrHnXhIwTcSMSeNpOh9Svb6/2W3LYdUQ/S157jtEPBTlSl42HoGs0sU7uB8xBOtiBWHXeorQFPqWbDX1aExBIjtvsrD0QtVe9wZGaqr6
+gOdByspPIHMQIi+FXDYK7DjZaGogyZKvtbUjJqsA2Vb0FfEVyIo6MHtD7csa1pCYyhXfkDzp5TlCaU6E30/Oyh7MJzr/HTREINPvzoLvszZJ2/orb9K6vRGfYDKbe5KgkxRuqLmPDP8b4hFN7xZCuwQ9PCGZCzKtYaEwGNvBgoTwyJsxMSz2vgcyhCf2YbXVDxqOX7LT80pXZqHWFrXYoqcKU6vaZmz6UPUg+RBDWXmGluEqtIq2QZNpTlaegJDO
