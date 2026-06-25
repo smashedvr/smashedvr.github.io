@@ -102,7 +102,6 @@ AshenFeather,7
 Aspidites,4
 Ast0lfo,4
 Astraos,4
-Atmicbomb,4
 Atrainevochamp,4
 AussieRobbo,7
 Austin_Nova,4
@@ -1047,6 +1046,7 @@ SmurfMan,4
 Smᵾđǥɏɏ,4
 Snack-tacular,4
 Snizzy95,4
+Snuff puppy,4
 SoftshellKrab,4
 Sophvy,4
 Sound of Death,4
@@ -1834,4 +1834,4 @@ zoemies,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-gf2GOJ9ZgBPeEMWPlnQEFvStZMnk88RDFx4pdI2KAyXMypC5n5CH/AqM5cnTP21g6MwR1YLQcWs1v7n4UkB0tu59grzMt8OJlA+r8TffVLr1apa67Wf8Cz/zp4zb5UwDolRaiSlLL/XuLl2f8KXQ71NTD+sMLe4rGTgL5dN3iyTEx93yyA977JzLjwHiM9PlVFfq3O1UuYN6zy64CVzeRqApJ19Ahz5j3QtBw2awBp3wsKpJQMmK/felk4k9MdTr
+Zb+AZw0ydOV/7n8FAbOIhbGU9gwWxVTtqETE+J683M7JslYRWcea9vdFT/vPdvDyxWFENAGORg9zHSWvIS9tw/9A7C1er6/b4d7Qzg8J1hknOW1OyP/WgSmQbn8wsNpZ5ZmTLeI7h4yRUp7264GqDdqEj0RwETKllT0fikdVuOwz6tuXjIIqslyH46I2ugYzV21oJ6w1j0J2ezdRBPw9c3oGSVTQriY+YfL1lYsBgmA42NzIaxlQx5HPi3LoyDN2
