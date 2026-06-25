@@ -1055,6 +1055,7 @@ SpaceCricket,4
 SpawnDaJoker,4
 SpeedDemons702,4
 Speedwagon 1284,4
+Spin Crusader,4
 SpiritRage,4
 Spliffindor420,4
 Splinterx,4
@@ -1834,4 +1835,4 @@ zoemies,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-nv+p56g5z/oCzMYCRLnr9SilZZwuaQ/fABEabxA0lIwCgC22e4pGk8R/dmsf84qkFDPNqKprWFgB4tkeVPuw/rorsRVGrVQ7Q2roHA4vVl6xznzGi6embbB4GUnsDAjAktfJGoEMtReI8mAe85Xnh+n461prnGMGj4DyoOnzPptWlCONfKYPyJIjus2lU5X8XymSQwk/rbzRNVYL7Q9HMJRsRf/B1GCZnlG2PbiH31z6kufBucazpnbBLzoYxPhj
+YhqaGR190r8kw1mLy8usk3LxqFjV9iDUfNIETRonkB/RN++vGyg573W7iaF/ubB08UcLestn8R53vwU5Qa4asNIpc2ZZZfYg/C9GRaV+meMnWbhThHvJ2q1uToq4LHSW7fpiUKRwZtwFVrqCivXiCeaG5ihg0Wu0SQiq5Zt5v6NvYdHCxwXsCWvhcj+wkXh9J6HdZw652a5+st7y2pydHn/kjwmkqL2NmL2PaAhuka2c1U1pikK9vGl6vUmy0HRy
