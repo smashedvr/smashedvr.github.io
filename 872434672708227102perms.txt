@@ -1542,7 +1542,7 @@ xIAmReflex,134218756
 xKanashii,4
 xMattix,4
 xMinijinxx,4
-xNayu,5
+xNayu,67108869
 xSulfurWolfx,4
 xXBloody_MaryXx,260
 xXLucianXx,4
@@ -1840,4 +1840,4 @@ zoemies,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-h+ZB/odna41o6TrcRK8vkg2wf4eN8GJ2UtqDrSAegwHvbNEa0zS7FXwSh3yV5iLrhkbw0KtPRB+XAOIirVtz/RSi6i/uiNWEAjYDBIeNWsoLp6cdrzu/GfETJMFiGaDChkvJhF/w4kRtM+IR5M/Aj1SEtUUiY0bozaumDUDI8Ck6kkVQpHbde8QgWYNduApstv+Y7YA4IxYN17VlVAnAZWlxzb4NzYxBVvhmnL2KuvofuGQJsplCSWdlnbBLsFTQ
+XYzI0Dshb+wmTgh4T7YHWRr5vDvIUX0cy2imQ3l6GGk2gCAVxYN1lcAOVJLFyz6ByeKejaYLm/4W+NX/2RqY6bAckxCiiaq20wUSQQ4ObC7lREBynsHN43CoM97RmtyG9CWmf7khAiFdhOdqym0kYGbQNxNhBxWl7z6vAztGz5KV/PgRL/QzSPzJIsSeYj/p/c7WJp+cCM8Jsnt7UFHgX5laTHPz9o2ljulBT6Tonst4DdrR8Z1tlHAXC9z99hVC
