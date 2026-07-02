@@ -1584,7 +1584,7 @@ zoemies,4
 ~NATII~,4
 ~Nicky,2097156
 ~SILK~,1028
-~Sammie~,5
+~Sammie~,4
 ~StickyPrisms~,4
 ~S̶t̶a̶t̶i̶c̶~,4
 ~Undead-Dolly~,4
@@ -1841,4 +1841,4 @@ zoemies,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-iXjJWeOs/iM2YYx48CrgMQ5+OqkgzvJPnte93TZn/fwQ6rxGX49z4bL8h9G5UYG0OlAp3kk1BeBGVBMQbw58vZUN+Bwmd0Ew6FpjAmhr354VYZkjYMq/MzIrdgo6CGbfP/c3XBswFvCdad3KM81zrbaU6a5cvtGVkcevqlitKgm7M24sC0L6BEQeSCadiUjshWftv7uWPFPv7nfWRqe4ui10FB7swVAVZsZCIkupQGIdx8guUkZwY1wisbwo3Daf
+hxQKh2rGNA0g+3i7fwZiSEtz5lwNPLhWlSZ6neuXP23oZf+LD85wG7dMych3gly94bokehPQKOkKZiNt9cyR22ZuprQsn+MI0D00lpSR2cwDPpSK2a23bbCP0+oGwu4v9uUuQVIpOKhdjTLKkRKlojuEHXUqWLI1ifJDTkI7cvIzDKkcQQcPlj7+pDp+/aFaXxQqYz5jq8nlX73geyaBiDO1octidklmAHhyXbJ0q5M2+7xvnvUW8GgXjtjzNART
