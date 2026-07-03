@@ -1095,7 +1095,7 @@ SupremeCreamyXL,5
 SurelySuffering,4
 Sweet Bean,4
 SweetCitrusAcid,4
-SweetestLungs,4
+SweetestLungs,5
 SweetieSkele,4
 SwishTheDrunk,4
 Syntheal,1073741828
@@ -1841,4 +1841,4 @@ zoemies,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-DGJj6SzJHH+MA06fN6K4RqCC4lIj83TlLzqGSnWSB8tk8LxThQlLjSQRIJj+owslFPNrHTDDh4a8t6ArORkZWhg39nC3NLYtNcADT4vH3zkQGgFV7Dayf3XmBWOUQLn80HLqrGO4G1DxbI/hBpeK4fFjcG3ijZxGcZniLmhiH6huy3d46c4EVxp1Kjp8hmj0elMS+DCwOwUSE9nJzlDl7fyt81h4HkjZv09VLNbD/P2Naqh/V7PTI50TPlZ+qyfF
+hW9zXusX7Rvg7y5wWwb4z6+yksXUapdV+ZRY0JN1gRCtLUn+hySQTjETRVF86fqR+9cOLDQ1WQb6JiS21yHOJR0eX+j5KdNoEH4InipWFJ999T5uPUTSY29Zm3zrn8rH7ao0T7SwM33cmhz0ELqj//R6oHVoAlI5oxRspPrUM528wbMzddw+hMWhoPRrnxvR8u+US4XvVd4I39Ifp4REeclCIPB5TlJPy5MTRlqSJryUSzfUDijrxStBEzEFTaic
