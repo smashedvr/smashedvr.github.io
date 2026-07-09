@@ -1224,7 +1224,7 @@ WeatherMoth,4
 WeedyBo09,4
 Wehtt,4
 Welonas,81988
-WhaleNugget,132
+WhaleNugget,4
 Whiskeycam,4
 WhiteheadB,4
 Wild_Wolf_Welfy,4
@@ -1843,4 +1843,4 @@ zoemies,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-mZIUnlqXJUmSMItiVkPDQGuZ476QeNpfPCry5MSYed8rKwvmTDMThm0BiLca/OTm8kdXFvq04T1rv1sK1xYPhSqvD+7UdzP2NQ0HK+vIy0DWczg6M/sI4jvALShGl0BFEwTnhSxU9XfzUijnrQ8AvQ/cl2Iwh4BRGMVNg7ut5n/0YKEEdQf5/oN/pSsSep3tmU9PztmzP18iVk7/QKKNACtdRyT1+36Gy4vlfOw5zbO6iBivMriAasup1pmW2E1s
+J3rgNgln9rkFQo6ay9nDk+8r/9Om3eOrdaytV2sHOqElc8crLDnU9oNIpZuXepBBbbTm3XG36dK4Y7i4RBLk5Hni/CZR0RQpZsxpt9CDzhrDtSzgM4RqqpNMlslcHjcbN2qRq+//8/VeKdGkaasWV0rdgF8fMKqYIs9KhkA9PzqUWF9nG7af6aKPDOCF402Mv0jbIbuWOmJPiEzrZNpgbTzK/muInXTFhnIDZImJJfnWAXdinB+C1Ju+OmGsuQsI
