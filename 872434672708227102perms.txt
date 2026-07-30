@@ -996,7 +996,7 @@ Shazik,2748781167111
 ShesAverage,4
 ShesFatal,4
 ShiftyVices,4
-ShionBlanc,196
+ShionBlanc,68
 Shiren,4
 Shiro 1337,4
 Shivamoon,4
@@ -1843,4 +1843,4 @@ zoemies,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-mShMdbJjRq/v559zFFnLQP68hxuncSLQKxqa6ekB+M852PnF5AIi1GT9rT4lds4BzzGeCeMq1iEXfvpZNqAjJT2l3/xjNc93Pak+89c9DBo4fUEsyBzuAcvT8LnTV4+Eqw9oacOp5JtQP90UXXNSo5EPGNWX1RZFx3lE4KTz1VMYhPR4DEQzaif76bDYDVd5u0Xr8P/vSft3mq4UuLVK7GYiqxcG3C87ee5Kl7bkdH9JJ40WUetFVatJ6qazRQTa
+PDfrzQaHg24G21hjGIrYnM6rlpeCTdgQXou2uY3Nc1XKxN3t228rwZHwkIfizmkggFHFrlrDgUDmMX/vc0Kb5mMrYwn5KzNH4NnCNi+JxBU9Wn9x8ml9nxUGTsmH4gY1xB0x9hqvNTWuzpYYkrpgNkCMcQcKgZmlnk8YVAEiRNAOUEtSgqXJChsISQNROI2GfopoyWt1502Fa/5JCLGFlEqgaoImSkBep1DdPrwkeSJ7KbXyjyzyD+zX3QIgXScq
