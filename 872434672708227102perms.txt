@@ -1827,7 +1827,7 @@ zoemies,4
 ＢＵＮＧＬＥ,4
 Ｃｈａｉｎｅｄ༒Ｓｏｕｌｓ,4
 ＣｒｅａｔｕｒｅＳｔｅｗ,4
-Ｇalaxy,7
+Ｇalaxy,4
 Ｈｏｎｅｙｙ,16843012
 Ｐｕｐｐｅｔ,4
 ＲＯＷＤＹ ＲＯＤ,68
@@ -1844,4 +1844,4 @@ zoemies,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-C0uSl7QM3j8gq6Wf+8rCWB5JU1awFOpWBMV+XwgqdqOXX6UeTRBrzhpyKuisgfKtZ7WtIJa1BsS4Qwkfa/pJAj+pBtvDMvBSOZdd/OO2nG7IIdhmwsKzChSawfv/BcqCQHE3on1DUAgz7eHV19HQrgbInIEZF9sC0GFi9GXh0zhp+xHfhUdJS4Kv9GNmxHy5iZB+OLCLG3Z3r3pVeG/E6JUskXsYawCHSOBtNFpt70z9ff1uv+OUcIvnbg8/h978
+Pw1f9ayP+BNIcihcPaRSeWgfEfwn+ZMV5MdaQHp8D0B7WxqfW8E+PfVzp1MpRtBuqRaxeQr7ZCZvKy6FfgmUEGqDlOff1nHkr3L9TWOkKsan5TLQqsg7+fjkhJnlBhQrSH/Ub5kCPUu+0f0gIdMk3czrlSZ9iFifaVACqyvjL/2FRxO93uwld5dVFiND8+sN/KztwCF2b9etBrm0yPFYeVGLMzw0j2hirhJ++aYi00yJOXAW++LahSLMqkGVDVQj
