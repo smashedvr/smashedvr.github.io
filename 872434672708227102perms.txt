@@ -188,7 +188,7 @@ Cachibo,4
 CactusBear,4
 Calaamity,4
 Calico_Cass,4
-Calîgo,5
+Calîgo,4
 Cammycarr,4
 Cantina_Cat,2200107762695
 Cashination,4
@@ -1846,4 +1846,4 @@ zoemies,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-ltLSw8mn0sw+WCEyxkab42vt8339MTfNmbIwWFjLrISqEYppif5M3CiTPkaPCJIkk6Bih4NNpBtQOgajVAODaLX7sRLXZifyL3oVMm9c/4Qqk0LhFL0NmjD3CdkFnNQXtGT2fywrDl1gac9ce72c+RwtR9L0YIYGuhbANXhtYw7UNLG6jpC2Lrn9Mr74qJhbV5gWargOFNy2n3tPV5gBo2mpFz0ddmZzsCEbaNCqfHcoynNspRJ9wMa3PBkPqn0s
+Yva3s9nZvzUy5CkoME2EqF2+EbTqVXot70nzEUgcu61rCmOaAAAR0P8xHJFTovNqfoCeeuKJpDVCIr+iW58MlUkDoQrXL8ev8fVPg5PXk51IcJu1QjxeeMV/PjrW0nD7OWFZUTWMOMWQr20QdRLrAYZPzgtRa/arfljyEgad8bQByznOTUpCZ2Vs57SS8aeBom7bAaUWxxyewyZWK8pNLmXXUMcbHwJzQpKSz2a/MqZfS/xzXHwlVS4V4kLc6XAU
