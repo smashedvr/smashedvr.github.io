@@ -292,6 +292,7 @@ DestroyerMon,4
 Devan_Louis21,4
 Devil_Dog_NL,4
 Devilsangel,4
+Devoury,4
 Dieon,4
 DigitalMonsters,4
 Diosnz,4
@@ -1723,7 +1724,6 @@ zoemies,4
 ༒мяѕR̶ᴇคρe̸R̶༒,4
 ༒нerѕнeyĸιѕѕeѕ༒,4
 ༒քֆʏƈɦօȶɨƈ༒,4
-༒๑นēēຖ༒,4
 ༒ᴋɪʟʟᴇʀsᴀᴠᴀɢᴇ༒,4
 ༒亗Quillcamz亗༒,4
 ༺ MeOwFeeD ༻,4
@@ -1846,4 +1846,4 @@ zoemies,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-NkaSFLHeqw9svxnIYq5ARaQx825iN5NKQwUY3Kj7wjlxycv3Xwvf6ZVnC80S4SaQreir7sXyoQ+BHPQr6IZr4XIVpDQ6o+LeTM4f5JQw2XLIwznqPNDD16U+mlUOkYVBPl0NlkqhSEpql0hDGyHv9RDS+12pSwk3S/TCz59cyWARgwEeq3ofvjHjvZSBA8dxNtr//a7jtqgzgugvV2LgJurw93aT/6QExeOe40aI2Pg8Y8EDj9ltIMBWes/YHi1k
+NRPIiZkLWEUVSXIaBus8WB9tK3gmK3HRD0kmJJ3wfjDitICTJEZwHNxUgwK/B/xvNDFXIpALH20Y3m5wtDZf3j1S0baImImcbGn++wXZcNsOf4hWQYdZzVSxslt+mKo/n0c48V5CtApdBkRaRyk1hQcX64krB4Abg0sqX7hnb67sGyf0Mz3v9HLKpC1Feo80auFZ9p+76/WdIXXJ5bPDzRIT7CvyRNmTrd5hriKUvhi+YMw5R2DiI1TXhJBQGRvW
