@@ -1079,7 +1079,7 @@ Stellar Bunny,4
 Sting_UwU,4
 Stoltt1,1075855364
 Strange Brew,4
-StrawHatStream,4
+StrawHatStream,7
 Streq,4194309
 Strikerdxl,4
 Strunger,4
@@ -1847,4 +1847,4 @@ zoemies,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-B4RVVv87elvXtJZtfU6MUImKEx5tgMyepgqS71D+zZw74BSSEHSFQh//MeuqybSnQcx/O9LuPYV3/s1dZdnuQjMgGLftuQlCMBv2ma1aWCQBFohANVEB0qxmuxN33GsB3guhTHKH+1cpaJKijrWNeHigpBKRYjQARPlLakqI/+4w8i3DiTNLb2kk67gXNDqFifddtJcqwK1Uyr7PtxesR1ZnYafbwZe2TbankqTm9sfN6e/KMMkgApFDWZf0mz0m
+HE3JqvbAb6PltCdRWqH8nJXuqU6V/3gBvpUbZp4K7dYkKmNLjrdSqx3l61BlWmIjVLI13QZYFQJ51HrA24V03xH27Hcrcn89eZRNN+cbKczjH+AZE2w09onlXwV+7Oljc3R2iJZRNEdvqLDF8bhgFiCuuogTixKXaW4iAHKGASKUO1YsOinvTR/Kt2gpLocJ425YMWw3RZIDX4pTzP34cTdaD+ErAO58TzdM2bL8aX+SxL7Doj++KQ5PcDyUhBZ9
