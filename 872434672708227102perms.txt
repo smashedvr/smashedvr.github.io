@@ -235,7 +235,7 @@ CraftMeBacon,4
 Crasher28,4
 Creampiesu,4
 CrossFade1200,1028
-Cryhhostjack79,4
+Cryhhostjack79,132
 CryoHeartVrc,5
 CryptidZo,4
 CrystalPinkman,4
@@ -1848,4 +1848,4 @@ zlone,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-LYQYXYij+sNwzuQb/8u7Hj+5VbK2eUmWAYksDOO77vBHjmsyVZloHhKA4+9h22pVyRQRQZsqz6bU2HHIFHiJ8UDK+UgodRF+8Hhn/Xyh4LaXmgnvp/1AJPd1qUFQg2DtHSDo+SxHh/kLNUQQKD05FqT6Lf9fHQChqYPlRI4nF2rkzi8eS3N4cC3otdSp6t4l7IbGIVWs7ALELS0AZlHUaa6j0bVEA/elqEKohX2NmrCgc/w3sLA2Z4Ul4jWcOEJ0
+dwVISproWzH/uLUlHDudQbCARFF1exCvswZjnarMfUhvV9R2Ot18nPayc4cI0qS5jB6y58srf2Jw4zy8VwXwmIHsPvmF4ABn2nadgc9wAYYOJTXrFLunFgo+mIURq64Ym3IZFQE/A527JnwnGCNt80R8p6vHrksh8PiacSTI2dveaUIvgOewGbjQjvpnLh/jrNNN+1Fa/LT0eA3n0B0ZcDbqkw1GfilStEBN6W4po/HXQrjyb9R8Ovv20gZP3gVu
