@@ -978,7 +978,7 @@ Sayphonic,4
 Scarizard,132
 Scarlet Waifu,4
 Schebs,4
-Scizzurs,5
+Scizzurs,4
 ScoopDeWoo,4
 ScottWolf,4
 SeaTee,4
@@ -1847,4 +1847,4 @@ zlone,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-QTFbsEdlDY43Th5x9OlGUrc3jDtZ6LkIT8wGUMMBD4kDMrKRL7eiZCGv48kzRdYvUXigWzu31m8gWxo8Y1MPadV/HNoS1MwE9zre7t7wJFUgy3F7B0Vbi9esx/b69vIeC19yCek8JphlWoyTNPg39hIowAlSfnf8uJg44M0Ok96bvEdK/pgbw1oWlW09Aq6MEHW6bgTYMBokT63gv6JpRvGJg1aTSlSZrqzewfju2Ki2gtFBMcOjSeKZIAxMXpxV
+PQ3pjJw3rfH5GIhKNJCmdLhMJGBsC2Zjhi+zxl0vAtDHblUVRWJWUHU8bK8FS1UnrEv6C5ScJmliM/YhxymGsCtdw4vdfWRi9q2ARVG0ltFhQ16pXafXIuQxlAAltyokH7sDhJlYT8mfbEXnn0kf903kyx1WJZjArQtb1Yq/7s7T+TKTzlKHiCuB+7Dm9U3RslgdHN3MgoRfi822rABQ6LcAw17vRuXfnkG8yNK8aM9KLmqwpInReXg6c/iKklu8
