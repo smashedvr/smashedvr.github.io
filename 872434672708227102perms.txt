@@ -1058,6 +1058,7 @@ Sophvy,4
 Sound of Death,4
 SpaceChicken1,67108869
 SpaceCricket,4
+SparkinStripes,4
 SpawnDaJoker,4
 SpeedDemons702,4
 Speedwagon 1284,4
@@ -1852,4 +1853,4 @@ zlone,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-V6hbCCt/PcjThZuYH6eAf/cvA98dRVzGIeq8BuZUs0osZkeTv1sjj93MqX5pUKDshfpZUzXdExOkhbAnMtaR35tXZnSbkL2vYmvGrBvYvsiPT8WQURl8BwOPRM6Wfk9jMs3FNqTA71lx/JUPS+XMiwGNmx5SoCLGYd2qOv5LHLAxaErvfVoxPK9yh66h4/xPpz8f/nWlXbSOkL54U4MsUYpyyJ23sKngKvOdbNo9Z0B2W5eEEIjQGOv1Z/LQGmX/
+EksxNlXqhVcrr420zW1AInVxBWdhKy1m7OMPq+4bhfrRzrVYTW0S468kWtF/3ZW7MTUvVSvbrCgBtUaKcuhXLUD6iSbXVRY/nSMNqdwOnWe1sA39Xxfr4nx3yw6yTo64C2oAmmTtfenrhNlcb3cN3dXSirXhUg/oDVcbQaeVbTbsp94h2Yj8/ZIY6Ra8mgdB/qf9GL/MP4fGmTeQWxqULtiEZ4guGowh4OMn6Ti1CHHSXzp+rZZ8i3ffG33KnFzI
