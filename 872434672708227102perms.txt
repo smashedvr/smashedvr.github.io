@@ -982,7 +982,7 @@ SaturatedSalt,4
 Saucey-,4
 SavageBeauty,5
 Sayphonic,4
-Scarizard,132
+Scarizard,4
 Scarlet Waifu,4
 Schebs,4
 Scizzurs,4
@@ -1855,4 +1855,4 @@ zlone,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-dKTj/6OiAJ7vqw9zOmBMLBOcMNKRU17NINLVM35Ai6HvQvMjRjN3Ymd+IISZl9sf1Yf7O1BKuddtJz3EaWrfjinJ9AON3DOsNXfyLstzlh4Jt33HRUjZSMgP7zBzw6xcTZVgk9F4WBru+x1gwNPIa5ZX5cK/jmGATsF0y/Cv/Lb/uU6WbbvcFEXkXEFBY8aPizT68+6qJtI+8tRU8AltpcLb7eXo9I2C6Lnu+86t45DaY8JC4OW9QK6XSZ18JAT/
+Bpq7UmoiEla8GvFm0jgSFSNcW3J/lb6IreaZ4UODkfYRTugdLeiJ8dYxCeQswYzdLgYUEg8s1MWldKiZays2VZO2w0sLjDYRKVxkzcp8gldaKmk2SJ3mC5C5rIGyCy3S6QpW5doh5CH8+4LPf6MDkcSgUfJWuhgGUg51okE/IO5gK8SHHreKBQ8crr2R/yHxMFh5J+CxpSD3nymvT5Zb4Fkw8dIcIWBoke86LbIVsEWq2Ug1t/jcArd8B8AhyChB
