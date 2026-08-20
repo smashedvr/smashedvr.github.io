@@ -1099,7 +1099,7 @@ Sudo_User1,4
 Sunlit_Desert,12
 Sunshineᵀᴹ,4
 SuperBlox,4
-SupremeAnubis,7
+SupremeAnubis,4
 SupremeCreamyXL,4
 SurelySuffering,4
 Sweet Bean,4
@@ -1855,4 +1855,4 @@ zlone,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-fmvTvIwCroqKpp8aj8l+97VREcJFaa5SzP6YldaCifNSqfeRdCPeNOddo3fyBL8FY7OSAP7fv4e5iN9GmjxvJoxje6h8GPQ9CN0JYC+IZ9idIAAnTEQWJ2EHZX7g9dNhdQQcD4xNdk18PObFqCug+65/qRMFZO+nl5USfF4y1tUEAHTXKk85f7kVUCFxfsMoVB5E/bJgbUGbJTAJb0kkT2uFpmCycp6qBoTBUcvkofdku5G/6t+b8Yz6YWwOR2Tf
+MSJpOXdCerm5QCMqNTpGdeoTAqk1CtjDsm5+oj7IY2k18b5PUZrqUp/Zk/6//TwcVt15CLgkGuC+LE6v/bbMVi//gvPGHHCXi4VbmluBXV86tZ58wE4WcaJ22Cn4WlTBTUvwjFrJc1S3165cPEqDp0MA0bNv2KaVCVsQPXcw+xnZXONZZn9BHglgr2n6BTdUFqQoGUrO24kKOdKm84trcUFax8pC4ZI3b8IR2fhAIeyosDjKrOODNF3PeDlS3ZkO
