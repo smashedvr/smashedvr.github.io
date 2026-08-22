@@ -1551,7 +1551,7 @@ wyrm-sidekick,4
 xKanashii,4
 xMattix,4
 xMinijinxx,4
-xNayu,67108869
+xNayu,67108997
 xXBloody_MaryXx,260
 xXLucianXx,4
 xXPandamoniumXx,4
@@ -1851,4 +1851,4 @@ zlone,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-H4DYxueumU1SRItLPdYMpTySdff0idGH+0Yi97kkDnQYQANNLK+JBmRbOmQwLYV2Y6r1p/gH3E1/fP4er29CMaQp6tl3s7rDFgZro+OgowQC/9n58AXn71I3+tqHNKpU3kR1DK2aDam+x0tzvWeMwM+IlzO4GXdyD0rHGaih8q1EAxBNFee1XHbV+I82qz+mGOVfJYnffyPU8ez0vqxmrfVO4lfxaWapEBOdGE+8pvB+5JStLJah/n01nWeb+8ZA
+LFdj3LbYPEHhlIvqKVim7AmaRFNqMEvCyURSwbcY0CThxZxN3pwmeGX/oOdMTVHkNLSw7nY7rBL4iu2fSFNq/sRatv8K4Z5CK4ilWD9KYu4DcjHKgVs/z3Fju7CwFI8+6NuZ0oxUZKIqLltcL27UuljXvCtJSUXA3urvymqKj1fUB3AU8fFVVl0XdCd5PXdj3h9DZak2MSvVOh+xN3sQHW9i5AFmamZ9trHKKCYOb2cXkaFSiBvCmsquo9PPuOi2
