@@ -569,6 +569,7 @@ Kami Desu,4
 Kanaee,4
 KaneKosmos,4
 KareKare,4
+KenjakuExplains,4
 Khamabee,4
 KhaosSisters,4103
 Kid_Zodiac,1028
@@ -1854,4 +1855,4 @@ zlone,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-jG+EkXZGoSWdIcs1+ID8XrIpXGvx5rUCokEhvyw8mVhvfFtunp25embbaW0ZeIpprxK6IKXunB79YUXmkb2QQT6lM2qarj+h+KTsRIWe49QnSU6P6emqxmRafUuo77DmxQKJyf+9hBuFkQ7nwkxGjTZ6tD5D7AkiD57UBWxTLQlOSGOL8oW3KK+xE/gohPNmBoZQIgWToLXDRJgDSB2Y1of+u6Kjsg1ghvPUImRTt8hLBloNV3Yc5kT3TzyQLx+1
+bqvm4f6AJVZvrRM00jxlT/JhkrPbS4B4weWOuxVpkQjdOa789yTXwXc7/N9EX1SdePVlTkkX3V6pz3FTgt+UuY2K/Iils734PTEHsUWzXSLPb9paIyCPmfeQAUBk6TVPQIOHE+nz5geM5aEAVxwKMG54C37AHdXWc2hqpNZXBlvcyWyKGOrJbFqWx7KwxcbBGbpMa6COdEyRBaN/bDk5314rEWJf7k/+3sn0AuV+HbHmCJo/geTN+ugmljiv4o/M
