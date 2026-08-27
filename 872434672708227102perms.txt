@@ -1818,7 +1818,7 @@ zlone,4
 『㒪NΞRO』,7
 【Z】【e】【r】【o】,4
 【~smσky~】,5
-〖ᴿᵞ〗,8388615
+〖ᴿᵞ〗,4
 ヅAetherヅ,4
 ニッキチッSmiley,4
 メRavennaメ,4
@@ -1854,4 +1854,4 @@ zlone,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-ep/cWmglg+b0A6hXU11XO/o70FgtI415HEjf9MhxJF9Jem5z7zfOUwFhFDw0E40RXKpg7SKYll/BvPiLmy/trzXx6ApaLwsYfDkPt0IsSobR09Aj4Yrd/YHiUfbX6Lk4IwTAkxsUJVGuo+pcWPzLTKdSXnbx/JB0ww2A5HBqWKrhCxTykxADkwvnWEdaWIOW9OdNl5FpTy/7a0WmI3OVZZGyCehHcd1z0lRnPy9xQN/gawYgMZiHAsG/qfGjywuv
+aALmHkJv+7cmqQcwsEmO5DD3hzdKZgn85Ut+skkpzPLT7b09EyQqMExdn4wa1Ws3PMYfuhsUkcKi/WHCw38TOy7gR5gjI7u2Mt5ffD04UgD4wGgwMb1QNbq1H35zzXBFo6INB46c1mDweTdoCNYrmVqDzCtUXQyc4gorM0Jsa/O5Ty8EjY03ROrNhp+lcdS3gQa23nnlx13EMHD3Gw5Fp9DbfVVkbsNIJMjQHFtPSss1o1GIOBaarc6YsIWK5lbj
