@@ -30,7 +30,7 @@
 -rentless-,4
 -samush-,5
 -vivi-,4
--̷S̷h̷a̷g̷g̷y̷-,8388615
+-̷S̷h̷a̷g̷g̷y̷-,7
 -ｖａｎｉｔｙ-,4
 00Mew,4
 0ldMellow,393220
@@ -1854,4 +1854,4 @@ zlone,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-md5R6t7TXwaoL0om+qrU00AgFnSTNflJs47WDfIj3ucMisg1/xZbpbGpIXtlfn3RQBu2IGfzTAfV3zAJ3NIXswgxKNz1xADeqB4OzrKE21yMcmO7Tmp4SuIEpKJAnn4tvEyffHVg8I4ikhGkaRRF3iq4BkaeN1gnH/aM3qRTw48iaGFhRiNAMP1ir+LOW0IETNdDXMIc7wBzbkAsIy9pp1+myz8YMBcbHB4SPU+kl4ZYvFKzCqLWY9PBma+gLryH
+AIl14lNLXW3ctGIxfolqnWRoZE8Q4ZHGvpY+UMx8XqnJ1k/2ckAeV7/9K7Gkex2O+lX7mu14yghBljz3+tJnIcA/lj0wNDwb1EcdCHs0LcRldAxNrZwI5aKTR9wuRgmO9tylC82LnvDmZCkrV/VxIsv8ERzkN34emgEQNTGN6NR3U8hnM5T2c+JnAweDg3FEmZyYtjdA2ZIo1bZpBU7qVOh+YkT69lmFmYgTbyskIeL87ELJo73FPo/MliW0Q5g7
