@@ -118,7 +118,6 @@ B00B00Ch1cken,4
 BAbrenna,4
 B_Red,4
 BabyCoon,4
-BaconAndEggz,4
 Bad_Karma_,4
 Bakaღ,4
 Bananorat,2748781168135
@@ -795,6 +794,7 @@ Niceducky,4
 NickTricc,4
 NickW_,4
 NicoleXLegacy,4
+NightStrike-,7
 NightmareCutie,2267742732295
 Nighty Senpai,4
 NikkiKinx,1028
@@ -877,7 +877,6 @@ PsychoVanny,4
 PsychøticDemøn,4
 Puka,4
 Pymme,4
-Pøøkie,7
 P͎a͎y͎p͎a͎l͎,1028
 Qexious,4
 Qgamerking,4
@@ -1854,4 +1853,4 @@ zlone,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-RIwaWZLsgLhKlQiH2iVIBDuKjXUf5wydbBah/lf7gcuMVsMuFBY9E6XxHFQgDArQEuw3tQ794XjBQCtVmYejdD5dC43vfrTIVSZ0Ieb2jCKWXDg+iMP486pN+Kp7diumwqcjjfio1b0w0JU0IFn4YTp0ooX7oQ92hSAAcvApB8dEPvldBizbUErAHQPJRDN4VacfOd93gNWuIDoayrDLM+VCJG7jVyd7mfOZUNfuDd7GlBPcP1jSYWS3Yc7JI3KA
+E1v8sA3X/830efzCbMRX6sNQ5OmvdJZhSrcV4zaKrEupubdzwxmHdvNebOIvlxELL0Y6LwcjCYXCYI6/fgNaWuZ9gtBKn/m6Y/Omr6IvGXWRh6L/UgslxVkpkE83sHpecdUOgfGeu4bZaq/Ipvs3USPIfJ/WtAkmoEhXRFfGp4EkosupEGL9Sw8pftrEmvnemk5h7t0PxkrCGyqW94b5wDBfeuEp8+n0VsNGBF21zj0LYOKhgWN+C4BoSHwbfOr+
