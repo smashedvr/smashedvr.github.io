@@ -1657,7 +1657,7 @@ zlone,4
 ˙˖˚ Autumn ˚˖˙,4
 ˚ ˙· ŻιŁŁα ˙· ˚,4
 ˞˞nyx,4
-ˡᵉˢʰᵃ,12
+ˡᵉˢʰᵃ,4
 ˢᵏʳᵉᵃ,4
 ͘Lucas,4
 ͘Pengu,4
@@ -1853,4 +1853,4 @@ zlone,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-JQ0rbSkxTANPCgg6PwuXXsOxViLwn9y64yJEmFcguYI+PaIXC9WJCbO7SxSXs5PopKL1Z/bQ3mYZ4Gxfn4xVBxRHYr+8HvoowY4gtmg1TNTtMQcqyYuBBruEFhZKJUNFEMyjH0t5zCgR8aZXNDFjNnlxvEu3FjRoXDJIcHZH6y/9VHJ7LGoyfTl/7zdl8hyJOf5zaoG7Wtx2RX1vB3YKZw3j9KsxrSF0pP3spF4RuNGSuPCrLRpjjvev52Wjqjq5
+KzwVs7YpG6n1zMkjJuUZ4DYlGozA7Bk+m6hsMLkiDDCJ62plpF3u3Ygc4fD39NhogWd/Y+0TwJRrbg3r7ENcypL0UQkYclI2PLoy5QJDtwXdckjiuenF0BQxooSk7Iu4Lj62Sh26sjgAGRdZvq6EmvSPyopr9zv07XOozEvGcJpPA+BKpyfdg7eSglzoJphrfreNg2PxlwhpB5X1E8oeqXAei9n3vUZFya2K1KSc77AuTjyl6vkgDWWxIHqvr09a
