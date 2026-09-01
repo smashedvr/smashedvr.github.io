@@ -1836,7 +1836,7 @@ zlone,4
 ＢＲＵＴＡＬ®,4
 ＢＵＮＧＬＥ,4
 Ｃｈａｉｎｅｄ༒Ｓｏｕｌｓ,4
-Ｇalaxy,132
+Ｇalaxy,4
 Ｈｏｎｅｙｙ,16843012
 Ｎｅｂ！,4
 ＲＯＷＤＹ ＲＯＤ,68
@@ -1853,4 +1853,4 @@ zlone,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-Y0+Wl7UGru2bZDz9yueaoBUdYQYMaAJ0iyZRKfSCRhOfo+U8jnE+BzLI81q5pjlzVe86GmVUDbKtPp8B2sWW3438zkrRa8/fHiXKvCzNgyLRU8nGvpYRIAmlGzjTHZvJPgzU0MFUhEThhLyrPDitQ9/2Q3HORcf4HA3yG0sbEdtG9xvPAkTTRgtr+vSvGKGfwuXuzhhwzyISUFIlzTnfGE9zxPZg6IDW5jZq67iUH1UC8hcTuZQJ4VNMMdr+QCow
+cuIl9xpXi5I6+iC0eTkqbHOdJ4jrmlYMkTtEd5v8cVxq6usImnl8qyc8tCIJZvc06rOFkrgsa0qAJpGy8MBnTqTUCqLgXfHsuKHCIrOmL3ORIVgofNObg67j+LSXeAYKHCzX0Mvr+1vM59icwl4Mcv8hYuFTnQgguXNFSlg5lSvWG67/Qjla+CLDGZnX24OaXvSYFtB9QcX1IQ+hXMh7bHsHoVcLfUZTGq6nceJsqGawJDvbWZO9MoyMr8FhZLXI
