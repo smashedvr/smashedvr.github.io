@@ -903,7 +903,6 @@ RandomOni,4
 RandomZombie,4
 RandomlyFuzzy,131076
 RaptorDeity,2748781167111
-Rat_Arvinn,4
 Rave Demon,4
 RavenMakara,4
 RavenRoxy,4
@@ -1854,4 +1853,4 @@ zlone,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-K06W/JQyj0EytGhVXIvLXKMkK+8fcqG9n5VbjmSNtpAxmtd8/LCxurgUoY6vIFXuMX9Lsgl3qGw2lp4K6D/8Lp37tkprn+Nkt/Uvay4/6cCy8Hxl47sw9WQ1klxeHq+PH7K+Sx/sMiT+hkpe43zzF7nXGDkP3ckpkIwQo91bZti/4HlglYC5UBBjJdr8wwBOg+Q1Txms3ER/+xIWgaILg02E1RHwBXi5FOZe6pJdxoz71Lf+6/opMwjLtUEOtaKE
+AkqTiEhLjM9yU62G07MCwQJhU3PcHtlUq0pF3ZqVDJyGPuy6XmbrUn9dPS9EJNzOvlcPIPxR5DMRn03t5+XDHNiWy4RYaSsMjsFu32ydb2vS5r0Hbyhy0wbXf4JCDSyTWR0UbuQn2Uuk/tQuw3sgUMBwUZNGjxi3FMY2zDkg2UEaLbVJ8w/babJhkmUk2bjsrNx9HizyBkBgWILCxmCagdQiRLQikAxZLb6TWBYMNL6QBAks5odMkPcLjfii5Mzu
