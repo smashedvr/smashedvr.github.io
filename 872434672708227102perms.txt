@@ -640,7 +640,7 @@ Lilliankey,4
 LillyVRC,4
 Line_of_Cain,4
 Little Aqua,536870919
-Little Bang,132
+Little Bang,4
 Little Gamie,4
 Little Saya,4
 Logically,4
@@ -1850,4 +1850,4 @@ zlone,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-iK8FPfm+DegwyTG4vI4QufjdSH63kiPhhlfjTesPheN0GB3WOeYmuNw/Njb/PaWSIrhPNQinzC0uz3KGiJ9NLzPiI7k8RsDxiuI7aAa6OdyRLw5N6cFUPPF//re/P1qxfB1vhgbTqUIGG9+Dyu9HZnIRMqyzheUXyyqplPcHM48Rr/+15JfC1RUn0x5Prf7ZnRhaavinE3dupAe3+o1qFJnw0q7+JXLx/9mVNkLfpTLQ+3a8U+gu5PElqIMXjtw4
+M4Q4M+E5IWv2er3LDkkPsj6tubusonGM9WpdEvETcmTmygCCvLVPIr8JgiU1wHEicwY6Xv+YDSlz4jMP7m1+Ga+9mI9QtltICe6VTxZtF9cx6czeuycesAfkrUBpwPU1e+pl8nYmzx370RxFqY4KvAn52K/wgL5hpeUeO/gAAsmmWTTYLN5/cOLGRdxzgxaf9vV6e3y1JQqg8OgM7yPhocmW3eBbQC116w8A3hyeODqc6tWB+HVASb5/PEdEqb2s
