@@ -917,6 +917,7 @@ Redlion12,4
 Redmist8900,67108869
 Redneckhill,4
 Reizer,4
+Relentless®,4
 RenRoh420,4
 RepairedPlayer,4
 RequiemV7,4
@@ -1830,7 +1831,6 @@ zlone,4
 ＋Mᴏᴏɴʟɪɢʜᴛ＋,4
 Ａrtt,4
 ＢＬＵＵ,4
-ＢＲＵＴＡＬ®,4
 ＢＵＮＧＬＥ,4
 Ｃｈａｉｎｅｄ༒Ｓｏｕｌｓ,4
 Ｇalaxy,4
@@ -1850,4 +1850,4 @@ zlone,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-XCBAxvndKos630508VVbCjPD3zHToEmimPdtzZLi7oBuzPGhbFCUZ0ik9odwl3sP4UBRzMTCQpIdbPVVUIiyhNDb+KCLE++luKPSgzX4d+X53T77NxAUMPCXm+IRj1NLxUQ6rvsWw7VEOVf6XOmSkZhGBtfjYkC0KWXKOaAJtUwnfK5HEXyav8BUHjf4Fq7BWdBVey4vyw5l43YR5Xgy2yOjYZ+PSeAibAvH8GUWBQgX/CjiFqZDzTnuNEr/zIeO
+M9du+m40FA8GlvyerjVxRcYPUUA39ZftaFWLyzVIY23Xu87/dk7N1PeL+MTVdxjtyhta/m7pyRiz8FB3sZh9APRmXXVYeUolzQfRmI6cd7MMxZUxl3yHLf+Vn/Sc4TnvFVEyb8PcInIOFClzDTQJCtHXc8wShTCrxc2oBKgDnA/vjxpcd3c43ZyQFm0sZTib0u3CpylOLo9M5AJ69CvfZAT6XPn/JQBj3S+JCJ5SJe9uF3PXzxkmwegfRxicRtbn
