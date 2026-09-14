@@ -925,6 +925,7 @@ RezPicolasCage,4
 Rezefy,4
 Reіmее,4
 Rice Pudding,4
+Riceღ,4
 RichPapi,4
 Riley Vinx,519
 RileyBean,4
@@ -1706,7 +1707,6 @@ zlone,4
 ༒Ghost-Bunny༒,4
 ༒ItsGio༒,4
 ༒KINGDJ ঔৣ,7
-༒LadyLoreAhh༒,4
 ༒LadyNagini༒,4
 ༒LunarDemon༒,4
 ༒Lυɴαrr༒,4
@@ -1753,7 +1753,6 @@ zlone,4
 ღImmisღ,68719476743
 ღNyanღ,4
 ღQUEENღVRღ,4
-ღRiceCatღ,4
 ღVexedShroomsღ,4
 ღ_Iron_ღ,4
 ღsᴍᴏʟ ᴘᴜᴘᴘʏღ,4
@@ -1778,6 +1777,7 @@ zlone,4
 ᴏᴠᴇʀᴅʀɪᴠᴇ,4
 ᴢ ᴇ ʀ ᴏ,4
 ᴥ freya ᴥ,4
+ᴸᵃᵈʸᴸᵒʳᵉᴬʰʰ,4
 ᴹᵁᵀᵀ,4
 ᵉᴸ ɓƖooɱ,4
 ễroṩ,4
@@ -1845,4 +1845,4 @@ zlone,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-kbhyMoEzK+O2vxUxcsPVzNB5u3gPFxeWxIOUPZzChLNfom2aylg+9+3/smM9OMBiAnkSjpMb5QpNibpNCgsZv8iG6I8WdtG/GwIWwZVLbTHtfntO3hSC29KxTiwPMB2j1GqM2dJmY0pV/kLAKSgwvT5ne6Uc1mCHHIuh3r7LdQQv2ajLFBK8O6sFOVNJi/liyTIvSIxjML/bLXY+9bIOnDMFDtxueatXSYAuhlzdVchvVvcUQ2zilcJJuZOdeS8V
+lnmOk8bz8/oHBqYahQrKy4sG573j5u5U2Z6j/D+QDiGIKYQHMyGkPM49GZaNZ+5U3I4b+EEQ/mljM8UYxICuaZGZ4QTakvV+t3AW/pUPYtLxvjDbh2aeXbl1U7hSSDfBDq/IacsLjelkojopfs/U/HoUEjmNOwoJNgwbftW9aw309lHUk7Yz/oDrsql1ltUU04lImUngcgGOrawGZeyWBfh6EeL+DqMIq/k/2FvcYilhkcf2KXbFXI3ik1ih/ouX
