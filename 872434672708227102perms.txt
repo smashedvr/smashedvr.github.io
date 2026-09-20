@@ -644,7 +644,7 @@ LouLingod,4
 LoveUniversal7,4
 LoveeBugg,260
 Lovins,4
-Low-χ,132
+Low-χ,4
 Lucid19th,4
 LuciferID,4
 Lucky-Guy,4
@@ -1846,4 +1846,4 @@ zlone,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-P2VxXqD4rAlELZJmvsrrzU6MF3/qvNJVNMK6Vujc2HmwUSAsmiCAwJIF24u/UtDq5E4XIAV2GZkng4zq9Y2hC6vLY7eJFLfqXVJ1FYJFzkiSAer1PzB298nN+DTipMxZWpotjYdPxPQ7fmIwZYdzkpdcdm1F7C0cXj4nwUMpeaA2jYIVAwAMusu5h+riVp0BX4h67XesntgOvZx9iowBv5u12wQJAj8Wfxmwdm4s/sTTYeGkge9gc0nOvihvE8L3
+QCHmBuVhhHikP39GjmJCaiPhe1cAyrDW+iqmoLYGZgSEPan1ixzE9eDPqO6yJx8N3DiLFtISxmTEAqnTndY5KWc0fqnnmSFqZSshfOYbuBDys3KM3mqkckAvyL7Pxt4M9jZGLG82nDcZ6IE9zgg9nBzSyCZ8UzklnNmepVqIMqSIDmH1tOUjHwWik2jAsgyUHGqdcF3Owi62MF4Uy1BZH2KpxSeKYZKf3H5ldGnXKk2zbDDLvTUqd7yxRoNhW8yJ
