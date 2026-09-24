@@ -532,7 +532,7 @@ Jones․,4
 Jorԁy,519
 Joshosh,4
 JsbJohn,4
-Juggernaut 413,5
+Juggernaut 413,4
 Jumala,4
 JuniorCollect,4
 Just Rave,4
@@ -1845,4 +1845,4 @@ zlone,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-W5HusJkFvx6OMCovBGN06Io2hVHqwRsEMW8FuIfZKg8KscK4+QU7DKqDc1gNQnIiaytdZOsfY5QesU9fqhsc3am4mK4KIiKcCcfxjQf7a6qNW3iA95SjcWV9CbWeFO6kclmoXQneup7MZC3ENT6zMS9eAJBMwomNvHUllrgKKxR6tIMH9vjZ9mwk7c8RGS0uWrtugAnYPdsehJQe1k42m2Ad4T6x1eX1cVSL/LwSpbZUdDczZX9n19ugSS+9ypMV
+Jhknabm1yR92NMs1AnGW4b2ekJgCuxlONfY1RzMzRsyNiog8diTvYm12FjBkhjLu1GYN5pqYKWTAht0kmZ3lTPHPbl8zGUZpDLSy7ZiXP/QcSCpFtLqQjUxBmuATwI7IeBfmU0K7YiVxLQ+hLdDtRSEezEq/Ih7YpWWHkt91PnWrQqkX6oaB/kFMjgGtLStduQUEUuYgZpyBzLdDBAFOMHdkr++RkzHukywizMnDxuPg6M/v/U75y+FvQlKi1e0K
