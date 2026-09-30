@@ -30,7 +30,7 @@
 -chompo-,4
 -rentless-,4
 -samush-,4
--sᴛʀᴀɴᴅᴇᴅ,4
+-sᴛʀᴀɴᴅᴇᴅ,132
 -vivi-,4
 -̷S̷h̷a̷g̷g̷y̷-,8388615
 -ｖａｎｉｔｙ-,4
@@ -1839,4 +1839,4 @@ zlone,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-BDNL5n2YC3OEY6nfJEi8j0ZKoJfP2FEXhlcJNJ1zvrrQbc/fR6KVG4Gy7UuecvNuX7rqjCJu+rrgf5ANsuOSNE7yp1C3W6Qnx+GLZAw+8ISrZ0zVQw1E8YzWAdXhySgoAvpPpvFU+9QcSqH6i7rMSKvxwXC0eofISmpnQDMi3+RQkqzAgSmpXrdt4H4oyUFtQVjGXaHC/sw0pfGYZno4fzkttfV2FqNe26kQkmi9tdNpeNNRn7bZccGnWXlV1195
+BpFUUe/sVZBL+czy/HbC0xpEEQ+Xjdu2ed0GOyz6gAhH2Xej5PYvXbGItrvzyR15/+10A0pm4BAR/D65UMEoloFhMTae8xqOCIRj5ZuxpOIKtRJIu+Z5KHfwHUjsGawMxBNRSEiD3a6EpFsVhf2W1pYfcZIu/Hg2Rg9AHJyqX0dVnhdYoqNZ4hF93Io7lsa6pb1J7IanDzJIJIvD82cWEi0vjVEIKF69SdjLW0jmKQa7y28OJWeXuCgwoXnNNi+I
