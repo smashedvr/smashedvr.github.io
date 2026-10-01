@@ -1751,7 +1751,6 @@ zlone,4
 ღкυησ,4
 ღ尺ㄖ乂丨乇ღ,4
 ᆺFullmetalᆺ,4
-ᴀ ɴ ɢ ᴇ ʟ ɪ ᴄ,4
 ᴀɪsᴀᴋᴀʙᴜɴɴʏ,4
 ᴀɴɢᴇʟɪᴄᴀ,4
 ᴀʏᴜ`,4
@@ -1759,7 +1758,7 @@ zlone,4
 ᴄᴏɴᴋ,131076
 ᴅʀᴀᴛᴇʀ,4103
 ᴅʀᴏᴡɴ,4
-ᴇᴀʀᴛʜʟʏᴅᴇᴄᴀʏ,4
+ᴇᴀʀᴛʜʟʏ_ᴠʀ,4
 ᴊanᴅi,4
 ᴋ ᴇ ᴠ ɪ ᴎ,4
 ᴋ_ᴇ_ɴ,4
@@ -1840,4 +1839,4 @@ zlone,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-nGsgwMVhtRE14mbrh+H+JhSJDk7yJv8MQDwFAv1eWyX3RYcUXXrK3z0ZG/GsryACXR5teyiSvhlLOIJ0iRNGL7aXbPbe2/A8HbuYSTkNHPNBjc5vF7a7nn2egrO0Hh4hKP75wFrWl80iIbgtVTAwy5A1G/n2luv8r8STi/AZOMqO6ja15Uqoyxq/jGWxzexrHnL6EuV/eErySX8T7j0Ur1rcVXEQh33L5uundMOMPAvAa9xXuIPD61JR3SYywrT8
+mHKyScWtm1khTeft0a1oNkO+ZvxfPqjlTMx42E0tOC97woZA92fW3nROlQwjcWSOBg3v01edLME6vTGIbCYSNgUWZP+jxYuKJ3PnHMvh+wL58KQzvTcSg+w2FA2gnCf+cDSUJSM0RdM+hk14iNB46DFhmEd7CWuSPHsa7Zekz5MF3MPbYhbMwKJUOTAEey+iXlK8jO7frfko5Lva6qUGQwpQO9viqZ3722wngfIF3RMlhsbgWQGFvUS6g9CtxqLp
