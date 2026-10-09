@@ -1046,7 +1046,7 @@ Snuff puppy,4
 SoftshellKrab,7
 Sophvy,4
 Sound of Death,4
-SpaceChicken1,4
+SpaceChicken1,67108869
 SpaceCricket,4
 SparkinStripes,4
 SpawnDaJoker,4
@@ -1841,4 +1841,4 @@ zlone,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-j+/9LQOnnoIhiFpMX9vzj0zYv+XgO3DPvhCBBsIa14B9w39X9btLShk4qZzCXxm1uGyt7Y2LcR6OmZ1OzmshpxDRr9n4+qWDszF2DRPkAAEPbrsE8gnYmof+3wBtnQCKqmvmQ5RfHn9OkLA//Qc/BHgW2oh9HH+tPofKKhBsTZCIxVEKLGNbwsQHYIlEIcTKCxYRCkAiVP9Z422DiUphNU+uHltfL+M/0MPpxdHgdLqSOpfIZvvC+yM6kB/fjiX7
+LsZsHrYpvQwlXI77unfflBGzbyJ0ck0OA6+8E8nVLSY+klO1yPiNF5yhKF8pf5KMJP/0hU/y2cWCimoUa+vJNp05hQKnw8kF44/gZX3G3v6GpDeRIwQEZ1llBl1pmFw9Wih11oi64YkuyeYfoaHhae91riJkC4mTyPLCZDxkkQyaNxcfkgQrM85SlWyzxyOiI0SG+XFnldCMGTOXawhEtEogOF1QotkDa2DFuTBqpag+KbJk7oLBcZ2MQjg3tzny
