@@ -1822,7 +1822,7 @@ zlone,4
 ＋Mᴏᴏɴʟɪɢʜᴛ＋,4
 Ａrtt,4
 ＢＬＵＵ,4
-ＢＵＮＧＬＥ,132
+ＢＵＮＧＬＥ,4
 Ｃｈａｉｎｅｄ༒Ｓｏｕｌｓ,4
 Ｇalaxy,4
 Ｈｏｎｅｙｙ,16843012
@@ -1843,4 +1843,4 @@ zlone,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-G74CA/9SwWivZl333CvBU1EoaP/R/jroDbPsdWz6jl1NWwdrhOh25lZtTJtwi3C2wTCMVfo+fLq3xGXTgG3QceMe0K0kiYT4velEyonuxiuEWoG1KuUhSI89vBXBLlkvYGHX9U3gk9255Ra3O2GNI+RbIvlJYwSDhHmAXDDZPcSRvyWU/NNsUpT6DMv/BO/tY+v0bXS6solQXQOHb5pgx4PaAhbsDUr987ZTaRmlEZltD5YDCSyL7jRTyDILUS1E
+bIeUY9ujZEeMYncUGj0q7FZ27LMljN9S0ZA3A+9Wejvvd/vdoG77MFVOOsbjMxGNVvtm/viSGTElQrKWSbr6i5gpYbHGywW8oxt2pi3hs0v6093HDthsMCk+dd0n4HDAPt85yaBmtUtbqbhTn9I3ecmkEimr3JDpsd4NQMWh7dlotIdwJBfcAtxxO48yJMqkgnDxhtW0f19xXLyn1WBlbTSLLEfl26SruFepoDaEpCyEbtLzYtKdplTqY13xn/Mu
