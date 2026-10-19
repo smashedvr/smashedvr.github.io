@@ -426,7 +426,6 @@ GothicFreya,4
 GothiccNaomii,4
 GreenCrumpet,4
 Greggb8533,4
-Gretel'sDadTobi,4
 GreyGoose20,4
 Greyoutt,4
 Grizznickel,4
@@ -633,6 +632,7 @@ Little Aqua,536870919
 Little Bang,4
 Little Gamie,4
 Little Saya,4
+Loaf Sugarizer,4
 Logically,4
 Lorkhan-,4
 LostLuck,4
@@ -1230,7 +1230,6 @@ Wrestler528,4
 XKuro_Bunny589,4
 Xayzel,4
 Xhiiu,68
-Xiephren,1028
 Xixis,83716
 Xyreth,4
 YamiGaAnta,4
@@ -1803,7 +1802,6 @@ zlone,4
 【~smσky~】,4
 〖ᴿᵞ〗,8388615
 ヅAetherヅ,4
-ナmopii,4
 ニッキチッSmiley,4
 メRavennaメ,4
 ・ʟᴜᴄɪᴅ_ᴀɴɢᴇʟx・,4
@@ -1841,4 +1839,4 @@ zlone,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-kMhB4ZdwQEHwT2OoOvJu4XTj3cshoSsAqDMkz3Mn7ZBTsWv26OGMPOKQz5fkosnMbULjwzPB43Nl2Xgql6HEHzTh/GgtnEDdYCzmXV4HJxdS2RX40f0Ad1uL4M13Tkylz36F10GlJJVr8Juc/eOc7yUpOr/8eZC8/+0J9okLYDg4wtjM9FaDMrtJ2IuTUCFUuGc86lPTiWhne631YGQS01KVf9vQ1lLsde/viY/9aFvzDnfbMzND4yfTlnd8OA4n
+LssGLr+c/BqmZM8GITggvviDlcPdzhht6DWdYAWlDUAacZ8x/sUb8FpFIH5+tVYRdrlLkOKrr5UZbjpkPkvPYEovK7tZwWgwMnv3P0T67zepy8J6O+i/IXUOuD9o2xsTGW3Hc5ZZFTA5SgeXf8ZaFhGUoDqUcez8LohLF3yfOnPJ1PHwMpgkJa/X+caBOk8qUf7Jj3melqgE9hvuqkWG+sia9Kj+Qz7pacRDpHlnWxhQlAbtn0bgO7nJWN06V22N
