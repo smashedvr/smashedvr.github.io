@@ -1092,6 +1092,7 @@ Sweet Bean,4
 SweetCitrusAcid,4
 SweetieSkele,4
 SwishTheDrunk,4
+SynHaptX Fire,1028
 Syntheal,1073741828
 Syntyriel,65540
 Syvryn,4
@@ -1839,4 +1840,4 @@ zlone,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-bsXiYwTDa+E0cdiwK7TQXkuea7N0X31s+8iFHjN7aoz41zGEpFyHQRVEyd4imsKDve75ztw0rxWnrz7JWkkfXlmerTcfeECWKh2zOQAIN4aqab6uMdd9/D2l4bLlM23B8WNHIpwO6LwDqbGHHC70JJJzZCSlpMSBr+2v1AJ6x2mnVDHqM/mB4hVbQagDe7PcRD30N4KNAWnUXkdQo8xvoop47kkCw6gXojdJpwlLTJL1On5rZ4VbHplCrE0noP6q
+AEd8q1+D+LLADPYej2NuIRb8STge/7CXpQ6jEsn5tVBj45RaiklzRzFSASwJKY7tvaria2XV/nfrfhP2JAloP8/FD5i9QY1X2xL9131uxxdloOu1cnMLCUQNPqZko6rhcSfzgeA+xY2udMcdYUrwmVy8QHjlF8dx4vW1wVPZPJibKBIDTO+8BTb+z4oUF6m37V9rpe5ZI1XSegaxJIcjRYS7/9aPPBK0cfclOkBNshq7gZAHroT2Ml7Ecf9mKTmM
