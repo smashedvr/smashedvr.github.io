@@ -565,7 +565,7 @@ Kiffen,4
 Killer Goldfish,12
 King Nex,4
 KingAce2k,4
-KingsTalon,132
+KingsTalon,4
 Kionney,4
 Kirkman09,4
 Kitsune~senpai,1073741828
@@ -1841,4 +1841,4 @@ zzorbit,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-f8dWdYujkvsjVJDDIADc/H2w2wHtfZRTdxRmJC0WnhL9W+utwb1it0qJRa7jN9zUBeCyWqF/47NhrvP5d9gPRsIwmwn332jMs2EfFjj45zXXLfNGankcnuWCuSQH1ntWEr4318cFdMhRIWZD7WNAtP30/DgCyhF3+Km9hUYo/OvWQJaClV+9AcK8r4Nm5aWnB3BIM6uL5bZscThHwAYDf5aZPQIrhyy+nafZmGVv9vorz/tF0un6uBbO042jg1NT
+ckkM99/CjROh4rOkyz43Pbax7LqUEQHTtXfnVUoui8JRFmG7FPE2gnbIyHTwdMMtbEp8y+2PWam2fgrRKV6EC/o6C9IsAG+MTA+3CWhTC7ba3W/1aPVO93BNz9veyb9a3WbA+t7t/zPBC32dKBZU2Gs1CW3CNGSTcGHTaTGP9+kyRVwdT6BTgCT4cw7Ma5tWnNJw2P4J3f61ZMVe4a7niR3pXM7aLPjfeG2ezh/5jLCacB0wOqcgd6/esE2hPsyV
