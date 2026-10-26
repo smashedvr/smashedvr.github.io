@@ -376,7 +376,7 @@ FireGuy,4
 FishingTheWorld,4
 FittyonFire,4
 Fitzyyy,4
-FizzyGlyphs,12
+FizzyGlyphs,4111
 Fleky,8197
 Foley,4
 Fordzilla,4
@@ -1839,4 +1839,4 @@ zzorbit,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-A6BvQ3bWIEmqPUGmlik3n+unOuJp4lw38MQXWcD9EXH3T21GvP2Z7PD/ROFYFUHfgGgFKJHybFlvCBJ79vSV/icyP5E+ubIicOqpeSMm6Zuegv5WMty+JqQfhdiW3L3T4/gQLmrEE2V0C+ESx+4ut66wu9CGSmVIXebdsyDS6eZnHchhiL1boF2CzwxJkVyUtCOqo2YWsL6s09zAOee/xTeBSndVPnE+xfGhaSUnV45rLHMEkfjrWgWe5haOcard
+dFjFdtNXKDrnD/6kp0zuLEjVUMWHAeNqnOIQmXjtayVlv/5tnDGeMrvdc0/2EtzqW+VIkeTWdNR4OOBmCLuGco9yvgUUIcoCUgLJksiuSxBrBo2iODq+JVvJ195JzEzGqv+3/SRPZ/bwtXJn9q1sV6k5Ze1mjJR4XFk4swi+WHkUdVa7yShbZNcWIyR2Mk3iMtCRYqarOmuGEQIXXtr/oGMNOIGsGHL8X2FOu+kpx4UUm1xvU+TOe34PdBCKuB8j
