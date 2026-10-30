@@ -880,7 +880,7 @@ QuarkEgg,4
 QueenAce2K,4
 QueenOfBottom,34359738373
 QueenSaphiris,12
-R e d（ 赤）,132
+R e d（ 赤）,4
 R4D10 M1KU,4
 Rad ®,4
 Raggie （ラッギー）,4
@@ -1859,4 +1859,4 @@ zzorbit,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-KXAQuPQIujKFqtvWJUM8NdSYou5rkNOG4jE8j9Mf/8sN2SJqqJ5wWhgssU+ddSvSBU5QcOuLffRWoQ6PQEpIB0rEYvZLTJ8+b2mYY2zTYU0A7nbrkWkQCWPwaK53KXqC3WEiLXzsiGNmIfH6EphboxbMeKp6E1TaVfLJAIWEnzuCUaIkGbhLXVojN6vagKIqEHppszFLb/Q+mtMJt6ffADylzxLBrERk9gWnNrtvWCjlATxxD4TDopI/034QK78r
+W+BZqONMEMG9BlrtC+2JpD09Of0xc6CdT4m6kmpNL/PZOzqj2apquxufUrqbRqbTczLi+/RUTxvLp0q1l1ZQRJpbN1/1BgIvzHbu9xIbzi0iRyGza3Qla/XsJ7pL/ICVAkphwaRyeDfZKNo+WmmQxNmMrhDBPD0lgPXKJGzr7cStV1jqqoFRMIU3q9A8HeKQZ2P23Gwc+/26CtOv1IJFosWbUEV5o8wZIC12bqPbd5Z0AfQh3/AFYZPGVF6MdBK/
