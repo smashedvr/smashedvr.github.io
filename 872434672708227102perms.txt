@@ -1849,7 +1849,6 @@ zzorbit,4
 Ｓｈｏｙa,4
 Ｘａｙａｈ,1028
 ＺｅｎＡｒｃ,4
-［ ko ］,4
 ＾＾Shama,4
 ｂᴜɴɴʏ,4
 ｃａｒｄｉｂｒｅｅｘｏ,4
@@ -1859,4 +1858,4 @@ zzorbit,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-HdoPEdKL0zaxutzTCJqnzgQ2maYeDe7fTyqZWhm7SV5lmHo3leDGjSwgsveQ8hygyEZ27/7dhVeqfGv0cHhNcPH0AmNkHd0bVjXMoM8HfbbCg/tL50mJaWOW2C44UfOiYVLAW14wL5xQ05OhAqZ3Xfa1mb/MsXipd0IcsmbBt4XOp2mJCE9B5bcYqNc/vIolvnGYhkcm2dj9SIhoREZb01rpDPOVX5WwwP5C+iaHDKXUR9ktiEgHtfjGpd+DN4J5
+J+9uAO7Ruvnq0W0EcRiGP7dNnmO//+uJ9omHqkU/+vRX+rNjWdjSPJUXo4/7I+jveAd13vPFEjLnnsBEANoNry9j+VrtViS2UQwtxWRaGqbFR6fV4O7LcaA/t6Dgtud30Bb3ItoKapsQ2Ceu0Kkgfidz3ThceaERHL5Nn+WC+/hXw3aIHBUgX5ylJeK0tBjcqrAjW99yZ1wzJE9Bl3BGVNtr8J9iITegGmmtpN37h9+ijZGKW3eRGCaXKdOcBCvp
