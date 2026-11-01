@@ -1113,7 +1113,7 @@ Tech_Max1,4
 Teknickel,4
 Telian,4
 Tend0r,4
-TenshiK,8388615
+TenshiK,7
 Tetzumy,4
 Thaas4501,4
 Thatguy925,4
@@ -1858,4 +1858,4 @@ zzorbit,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-I5AYPxrAeAza22236ks4XtDCBnt68JR3Tr8yiWoCUcqMdqFaqSr7Tpx9UcFMSkarlMcngNxLqWIeb8qQBtFya6u0xaWFdRmViFArsT12XjGa48aO4XKe6s7oeNpBpcsagWZwhKRyVA+dcNVZgR98nyyJuxwX6K+O3gPTki5QDDVCGV4pJyX+QL67/yts6/SJhWepW8m1kk+sDuFGh9spHTXWpOyWAFCK38MXoyecRbDVvJC2Ir0WBQq2vVg0Ssdh
+S882cf4g2FWYSdH3XsKBt5fitKxJk1QiS8KfwBYbizKkiC9Otrvrff/YqEWYSkcSCgM8+vpQJra7/cE+AnnJsjO7EXKU9aHrFTvwmavhVD9EoH1iqGBbOSUqYqnW/bRp+SrwE/pmLYOeuNfaoWmNyWkiZ4UFMw2DjeDneaYPEwKRCIS4J2t3awe4TtHw4mltQLgkJtOqaMHn3QZ5FHOghG+hrOGEvqSe19hPsJuafA1ZUhKJsaFO7OjD2pU9wIYx
