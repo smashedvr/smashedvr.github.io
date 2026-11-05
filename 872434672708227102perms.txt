@@ -49,7 +49,7 @@ ALLSTARGUNNER2,131076
 ALittleOddish,34359738373
 ASHESSSS_,4
 AYAYA ǃ,4
-Aaldrik,1156
+Aaldrik,1028
 AbStRaCtGhOsTE,4
 Abbz_,4
 AbusedCoyote,4
@@ -1857,4 +1857,4 @@ zzorbit,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-Ayj9NGOPhQLQIBKohhJDRXh4E8lfMxXDvw9v4ccoT0tVaSbk56cGfKbtbcxZly+iKJyXaUzNqGeAyjjy7AYxQBaC6YrFGpJsmBvGUwf2JjjBqFAiALaQDU9yase+si0XjyNX9FUbW28g/hJIPSF1N3IVYx6S7PAqFgrJdHlzToq9cLNzxlH7Vn7WcUx/uC1mr9RHVFI+6VjL9oQTWa1RaPjowdYCXWTl4pPPyRomfZyNKYxEfiUjKgxb0HZAjPQe
+gtOrUE8inObLLKuPCkBBa5he/sM+OzsxnndAVfViF59mLQuOddJqX4EHzJDDUgdIl0TqiXbRm2Ds+7gl+srLxdca3wZ1s6L5243cCqFEd3FC+JWdrc8/G4HU8QHrStCLoVO71j3rPq08xiuq/qJavXuR2rvnNLVnuU6fsDhQwlniWwoAl9dMlT9poszr/yZbCsVl//3urmrZ1ldRDF6b+a+Yd04V1V3CbyeRIqwc7rz4aa+9wDGawzJhGXMyjMCo
