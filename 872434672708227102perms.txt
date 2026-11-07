@@ -1077,7 +1077,7 @@ Stellar Bunny,4
 StigmaBlossom,4
 Stoltt1,1075855364
 Strange Brew,4
-StrawHatStream,7
+StrawHatStream,4
 Streq,4194309
 Strikerdxl,4
 Strong10k,4
@@ -1856,4 +1856,4 @@ zzorbit,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-HbK5C/u9RavzinMbD1GplHeU+lNxYNqfsP80zq5NmIcaip+nkTJKA5rxkyXPZ0S/uYE/VsP1ogMAwCQYWCYUaXbMS0ELgdI9zDWfnk25R0YLPSrSSKGcYUKjpYiXLYJLhepq2h1nqRDRgbD4/bDcFU9v5RGzYXvYvrdd52gtYCC8tlvk9BCRAdOm//VCC5bNdnubt7q6Bu+dxAAdscfc0J1lxbyti7PqoepJQ067gV6ai0LpraIQSq4kY+dw7c1r
+NLnUVMsT/wD4FZpbhqnKm0GW0ZT3jPfGJylHoPOciK+z+xktxkpU4LlJZO8m/yXlE+9OLQOturOgjtZV4NzJgG/fCuKyScVY0+m/KydmDdQKXZTASCZQqyWj8EUpfs7mDYUWcdTGD6WAOO1z94OBGTUgy7lCGUlRuz7Zs6g3Vk4rVLggluYEqYxTYUHQE3ZEGn4+sDjpbN9ANSgodZgoJBDbkIJL4xobIYlWGt+zNuOsUiWS+2EwmKESs1nprGhB
