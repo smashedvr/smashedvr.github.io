@@ -294,7 +294,7 @@ Dieon,4
 DigitalMonsters,4
 Diosnz,4
 Dirty,4
-DjYoshh,1156
+DjYoshh,1028
 DoctorTzarcula,4
 DonJon,4
 Donovun,4
@@ -1858,4 +1858,4 @@ zzorbit,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-VDr8Jp1MlsyCHf8tnSpa7j9jI5u6V9ihJq4AM3ce/Peax0VgTXrxkX/2LiIX+Z7gEBZdNEQifwHsc4joEwwQ1XvoMWdL6bYS7enFx7AWlhk8nKW1gjstJUzg1IIHxlMsUJgP932iN8JSSB2qzyS6lzFOja9w7/qxS5+FdRSlI3+N5Shik6+scYVHcywRUBu8pLV5itXLqwTBQQSQkpbo/qKj/CeWs/ByPfwh5oeggXZ7J9rP372EKPbVGoDd50j8
+QGlO+IZj6V1NiZhv+L8Il0Se/AXN+eo/OtpO0+m1IFPnRMxfAM5i84MlEfc40uyfGigNRk9e+Eb+0VPrC03ChLZRjRaDiP5UUtobSmlTJwX917Fgvvi1uNNedW9Wccy+Sk7Jc10U6GJrc6V6dkkN8YlI7AwgtKGn3JVILY+fkHRXHobxqJuNW6v+oiFCuJrgXGAE7C43zeEC3W3kYTqEV8TEw5RJIUtQb5ZEmKdPuzCeN8ktUJF7tN4F3yzA9rxG
