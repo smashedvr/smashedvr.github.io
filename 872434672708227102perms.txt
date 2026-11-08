@@ -377,7 +377,6 @@ FittyonFire,4
 Fitzyyy,4
 FizzyGlyphs,4111
 Fleky,8197
-Fluid Druid,4
 Foley,4
 Fordzilla,4
 FornSphin,4
@@ -606,7 +605,6 @@ Laue_Voluer,4
 Laughing_Mask,4
 Lazuii,4
 LeMurph,1028
-LePrestigieux,4
 LeWyy,4
 Le_Pocket,4
 Leevi-1405,4
@@ -1856,4 +1854,4 @@ zzorbit,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-PiqRTkuq7EThBkZvVWlC5Z0a5YdSoW6ZoVPXLOBCKaVvvLRl0ytnoVQZ0J1sA787tfsOnsjn5fnS1sn0WvYvCNphPWuRkevtPHsvnvun4seecHS8JuAw658qmH9W0wq6xqu57HC63SzcRT9O4u1DIAZ/4R9XtxE7nA8YYNId9g43NcLSElb7zfd33vAVSF0WdvXFTtAnEan/v+hGLkyJCYfkYXq0AhXqcqAjmDMR+ABHEGOPFIXuBZ2E4Pup6ybZ
+XgPDwc41RinIwfHvNlLFARHKMZZ5Mvk4h2Sim+9Yrc7nfQd69Nq4j9jh+9StNpN31gDGPD7OkG+My2XTARzN8pUPejgBVRow+CaWJY7SGdiRgsobTMWIQbsdRnBLr7FZhhLLoXkUqNkEXs9iMl156asuqzquNp6XYnboN/ulXigdyRxtN2RtYQTOYlLnbtJA7QsY9ovQoOHkyPlw2+5MYx5A+E4a7/S1gzrhGfodAqFd41sFT1IoNIJ1E6zl/VCg
