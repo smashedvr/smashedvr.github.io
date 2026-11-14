@@ -285,7 +285,7 @@ Deiity,4
 Deja96,4
 Depresso Spreso,4
 DerNanashi,4
-DestroyerMon,4
+DestroyerMon,8388615
 DevilPixie,4
 Devil_Dog_NL,4
 Devilsangel,4
@@ -1853,4 +1853,4 @@ zzorbit,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-IisiSCy/KwV/SwzpVdvLdzXJmJ3iFKoBf1AxETi5nYbfqiS144qk9eRrJU6FW2eVWPuzjFh+PdN6gB5Skm3yeEa8Eid8ehykA5jg7AVP6NUrwEs+14rF9aTiateVRc57aRDwKBxHQwN3E96Jp069wxr5VBn60Dpw9kpB5940vH1MvHuczBD92S6ME7O5ewNGQ20RHzf3lw7Sm6UpZb7wEhFIpVWvv+bbt6i+xWTVMsmKw5TSzEDceOkOOwkagI/r
+YQTQqujbF2GDBiAVut/hk27Err2mXLEPcsWckYqe7D0leLpyZ7j2sFWlQ2g74To5xqqIx2vl3cKKk1lBAifstqfVCkaRuS/REf+YyOEMngYh2Qvl29iPjkpYD0xIb0v4BatfhyxlPFJKGwcr9UMnoIxbYH7I6bB4Rf8Uic2osWzPMha1+rX0pxALmz6v7Ff1VvUGBWZ5yVejPMKrijoUEMZDq7Ruq51dC93CJ59WU+WWmoUayYrh2T46Ymtu7y1u
