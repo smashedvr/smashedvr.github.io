@@ -286,6 +286,7 @@ Deja96,4
 Depresso Spreso,4
 DerNanashi,4
 DestroyerMon,8388615
+Deveraeღ․,4
 DevilPixie,4
 Devil_Dog_NL,4
 Devilsangel,4
@@ -1353,7 +1354,6 @@ daveywavey2002,4
 dazano1,4
 de_kappatator,4
 deadmockingbird,4
-dev ღ,4
 dia୨୧,4
 dissyuri,4
 divan4ik,4
@@ -1852,4 +1852,4 @@ zzorbit,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-b4HB0doBfBFaGyKIpV99WLtaX0UXKGxaUiu+1z9KVxYdMu3zWuRCJEgtB+vobvTA9v0owDYRPtu0E4xh0LgCBxT1yRsf5CBw9wpi3HD+Oe10hmPi8v+ZNwqiu91fvEU4yUndeguZt1Y1AINApj5oQSg7ycBJG9ALDmUSdKmHgbvflrXqay3Y04gX6L/EDwGwSNoRUTyQ7jfNpbHzH+9AWTvmx3DJzp6/6bUhSCJXhv/sR++ejjTKYaDiu83fsVKM
+cxfeIrKkaHupqUTDc0xtDcz4UCNxLRMAo1yDY/ejf4uHyQYUIXujAKN65MR/E50+QcqXD+DD/7u3RvbeQQEb+CfV6FtQt3SPgvmZoxxSNjzJiVtmyveStH/gK+vFNDc90MZmvzr+4xFzLOkA28KbLXy17cdXGgYrJRfphVpLyxlnS4BGzdDIQHJGwTpPZXhvlpyuk6pTAoihrV4I9EupG9efPFoQOms8XjTBlEkADsjC2TBeYj53yENqHBpCyZSS
