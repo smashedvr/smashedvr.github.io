@@ -27,7 +27,7 @@
 -chompo-,4
 -rentless-,4
 -samush-,4
--sᴛʀᴀɴᴅᴇᴅ,4
+-sᴛʀᴀɴᴅɪᴛᴏ,4
 -vivi-,4
 -̷S̷h̷a̷g̷g̷y̷-,8388615
 00Mew,4
@@ -1849,4 +1849,4 @@ zzorbit,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-TfgI8R4tjZ/0/+l0hq3FQ1vfooLJWppZmVt1TzNwwfzxXcQC2wwAl2xH/4UpUxfTAtJxrpLq5mzATNAFaIftoNZSVE8msxbWmbmGnCcX6AGfb2Xu5L16xxdHjQhh+78J0LMwUbVfB1tJNcCERuGzD5/NHOuGB8vXxYMHBLMPC9sxQSh7Sp1woFwUz2RI+n6zWvs1uZqx/R0MRMaluTnn0UPT+/8UdhuNGUnGw+vv6T0HwWPFk91ZG7cOcBgCTDBu
+Pau/Qct0NqCj0ZLoOMZPXK7Siqro/zftMCS+lkSkh84aXEDnfw4iWU4Z+nlm17m9wPUYlpFaADEErEu2t9+KsxoCMWx88Uoh4dmYRgMOXmQBADRSU+mHRvdh2q40xFS9BF44UzYWvEnod9hV4g3jyA/RbJBCAGe32C7wBKfKnYZJQP5BeaF6gXo8p9EHmz/+dvwRA6bGg2Z2fq99zrehuypFsYRyEXisOULOU9I0MA9L98foFN2FGKQ9iv20xibu
