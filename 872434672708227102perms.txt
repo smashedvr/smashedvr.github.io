@@ -1051,7 +1051,7 @@ Speedwagon 1284,4
 Spin Crusader,1028
 SpiritRage,4
 Spliffindor420,4
-Splinterx,4
+Splinterx,132
 SpookyRedPanda_,4
 SpookySummoner,4
 Spoondaawtters,4
@@ -1852,4 +1852,4 @@ zlone,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-aOyqWrzATjdlcfhHaPiLykpON7DgZ8e0msJDjcC44Jp2YJhi5dfKQe+9XmB0ifj/ZrNrUvk66qQ7HcvHUI9T9+dSyF0sGyMs8LpQsWqiRU28ykCBhHcnZOOvx5pnWRNuF+Xf8FnVzhU+b6nfUpmhj0aYNjTVgjXBjmfQtAXPHmT1mcQUDFFZskccnG4LPWw4vT6nggWwFkETor9/ZpZxwt25pB1CA+FFD9rIuQBnELmgLDcQ/3Nu9miY3fsdqeE4
+m6Zpmqyw7sTAUAF6pUgW0p1iD2vohaqLHrKtRPW6bw/pXC9to5pcEDr9OyTMqCdiDPFQdRQF38V7Xs6gLNcwvAhVZbg3atly1N9ZfU8XhvFfzqOMiE3SLR4OkUZmzsJvIqCfYlLU+RvRxUkXdSe0uqgeDgRQ+pOOsv/nMAE0qk/pxfr9FxNV154DiIJAH/PzX6B1tfCzZ8rfnJ1nmLmRovLJfDzDPP4/HWC/KAVPvhq2JBV+bkYsqZ9mdTTWhPP6
