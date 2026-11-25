@@ -308,7 +308,7 @@ Draenn,4
 DragonNashor,4
 DragonsBrew,4
 Droted,4
-Drowwzy,7
+Drowwzy,4
 Drudley,4
 DrunkFriend,4
 Drunkwoods,4
@@ -1851,4 +1851,4 @@ zlone,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-bG35Hsjk6Uh4OpXaM+HFx0P/ePuDBdLmN2FbXOIlwNTFqR8Vd41bGQ0D8+886hR+hx3aZ6a7jD57g+GyQ5J2WOgzrNyJGTRM1oMrWHV9WXoVCiOf6JPp5D47JfJk99POAUAfJXviEywMYD4SVtFsUBEzBELInayrWh9Qc10TBgPV8zb4zcAlKY1LIQb/DbRIeYVGcfMgebLtQmeiyV4Z38MOEWw1qwNWj6sDaafBMqFxTZyoRWIiuP3lWnGWbUxn
+hE0jN2ND4rUAWH/qEfY44Tugpd0rwnuTzqtN+zFn7g1qUTqOvj8dTH4G6YOrPviq9+BoSZo5vjgLe0bUQnwDp1/ncV88y5jskW+qh8sCbQM+nB2RSKu+EZ2+qyEZ5CwANtJMC6+eirSG4N5vu/MUSOanZoLs+SJRGYKkfjMyPBMDOHT11ryibf/2kn3HQ52LiCHQ1MFbkScAV1R11T/QrckCSNYhFeukWYQ3EhW0rNhLicebWq2mRg/5A7Am2gUd
