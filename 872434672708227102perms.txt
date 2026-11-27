@@ -29,7 +29,7 @@
 -samush-,4
 -sᴛʀᴀɴᴅɪᴛᴏ,4
 -vivi-,4
--̷S̷h̷a̷g̷g̷y̷-,8388615
+-̷S̷h̷a̷g̷g̷y̷-,7
 00Mew,4
 0ldMellow,2490375
 0ne․,4
@@ -1853,4 +1853,4 @@ zlone,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-C1QOpoh8HuRwVXEImYqHYy5hHRpzrfc2p4McrFyKGo4C0PNEG7ccbsVz3sIX5Hh4m9RsteAUbG4FZ+QMzFvN9sRdNoqmLxD7bDm06Kgn776MW/TVTMr3FrLm7DalrCMu9zFPnb9nQUUCAnoS1dNH/kKXlLohVXXNxLQgBf6fZy/31x4xrmYVsvg2oUYVtJMIcgT9b9XrUTrE9wxLq3h5eajU2CAiRwENkM/jTeu+nKjlVTtLd8fqdTNcmqkpbUS4
+d5mPfOwq3+BH+HxMZsmngSyB0Sgqm7ZaE8zlmQ+wlKQxC6H+vu5abWqkGEiM1rBF1SoKk7uYFELbaLmTQAG/Yy13jpqGXbHGfOb8YUVJoxWDzLohkJ9MI2Ex47xO0zCGOrrMsYdHJe45kGdxAcqgh74PjOyAb9up0qhEgHC7VrqgS+FhXpQ2Pwyt9HbiJi4+9UI21MlIJo1CTogZwikDq+igX7PjRgqAafETEFjFT8ufb9EHJ1535fRzJ45kxLxk
