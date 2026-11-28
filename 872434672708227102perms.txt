@@ -416,6 +416,7 @@ GommeR,2097671
 GoodOlAbyss,4
 GooseMilk,4
 Goth Bunny,4
+GothGorl,4
 Gothic Clown,4
 GothicFreya,4
 GothiccNaomii,4
@@ -1853,4 +1854,4 @@ zlone,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-PK/BYgveq50boNHjuCfS4+8Z2R2DFiwcINJ3C2jp4NhEYeBXmuRLoD0aZIP2rkjaBcH8S1a+CMeAGG/FV3LMmOLFPA7AKKHTxNCgjViyfvRuPTL7H2WZgqWc9PooqNoMLu60MceSG/F7Pd3fQvyWJrM+rWLb+6PKKprbr3z+74Yl5RsSfqGAykgi/KvbGME2eLbb1vgfh4lM8d8AfdzQxCVHoSzzTzc7e7/H9Levu8acg2KzmcrX05IZGkC2DIfZ
+a3qh/KH9wPKKN5+uaD+JXZROA6ohZ39p3+kOwqcE1YTw1s2cz4dpiCdIxNGzlhAr1BS16KUoSP51tnaHhqnpbDCRb8PbJ77ynorE0iXHY/bYCDw0g4IGTeao7LMYgzhnPfzU1W5ZTw4g2twAUmeXumtH26fYwCzuIQNQxrxguDexM4dPV9ro7bc2zH/Tu+bfaKhaLCm9yH7oKkTYAM5Tnfhtt+fS1E0Spig8elilBG1kpwV1wgZSLUQK4KJZ2CrU
