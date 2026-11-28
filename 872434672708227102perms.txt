@@ -395,6 +395,7 @@ GBG 'Sawcy',4
 GaarasTeddyBear,4
 GalexyExo,4
 Gallina,4
+GamingTerry,4
 GanzSimpel,4
 Garthog,4
 Gato Mecánico,1073741828
@@ -661,7 +662,6 @@ Lyssepop,4
 Lístener,4
 L̷e̷o̷p̷a̷r̷d̷,4
 Lιʅ Mιɳx,68
-Lοkin,4
 LᴏɴᴇʟʏDᴇʌᴛн,67108869
 M0ISTG00CH,1028
 M0MG,4
@@ -1855,4 +1855,4 @@ zlone,4
 ｚｅｌｌｉｘ,324
 ﾘひ尺ﾉ んの刀ﾑズの,4
 SIGNATURE:
-ggORGlKBgd9JtSXi5uMtXUrInChuoTbFbVs2kOnw0tjKzHlQT1HR97OCQzIylJwGw0Syc8emsaMUnxqyZb5l0aiUyyhI42p6WN89OBoihDTBOvBMOswdNw9zkFRzomuolRQZ9FXLg5b3mF9C1gWJH3cfl6Bu6eirlMoZfiXGBjfhZmiusuK3ZPZxWX5EsLsCr6BsSPlF2gL050J0doNyofvbIvQwnvCLsbC1oV+x4YlwcY1MCF8rwnQgJh2Sad+t
+MVBW+xgid9Zz4z2J19dwh/+71+gvDIYIPxKa4wF2Q3NWg+phqekz/4EjdHeZlj4OnVqtRkiC+F1/4L9Dnujz6uRAhU1ijqp782nLVvEb555o3c+iJD3PCLuYc30JM5gzlvJOYY53Yvyg3+BCDVZdXBt6+oTFeV0woYmalqEByXuv5Z9NutwpewfL1MQT1ChvKzrh63ArkBOFJpMZ4E7SOJXGnBuNat3GC4oZ67VQXyTWAtCiXKoAUBuJ1akJ9PRs
